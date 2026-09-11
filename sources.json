@@ -1,0 +1,20 @@
+{
+  "_comment": "Edit this file, not collect.py. Anything left empty falls back to the built-in defaults.",
+  "youtube": [
+    "@AllsoppandAllsopp",
+    "@fam-properties",
+    "@DrivenProperties",
+    "@BetterhomesUAE"
+  ],
+  "subreddits": ["dubai", "UAE", "DubaiRealEstate", "expats"],
+  "rss": [
+    "https://masdarak.com/feed/",
+    "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en",
+    "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
+    "https://news.google.com/rss/search?q=%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9+%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A+%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%84%D8%A7%D9%83&hl=ar&gl=AE&ceid=AE:ar",
+    "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
+    "https://news.google.com/rss/search?q=%22Abu+Dhabi+real+estate%22&hl=en-AE&gl=AE&ceid=AE:en",
+    "https://news.google.com/rss/search?q=%22Saudi+real+estate%22+OR+%22Riyadh+property%22&hl=en&gl=US&ceid=US:en"
+  ],
+  "keywords": []
+}
