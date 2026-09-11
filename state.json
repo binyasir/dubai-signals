@@ -23,8 +23,8 @@
    "modified": null
   },
   "https://masdarak.com/feed/": {
-   "etag": "\"b8e81220e4654843b3be81db1497c176\"",
-   "modified": "Fri, 11 Sep 2026 15:47:23 GMT"
+   "etag": "\"1e8548f9308f2452bedd62dd8bba6f42\"",
+   "modified": "Fri, 11 Sep 2026 18:35:18 GMT"
   },
   "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en": {
    "etag": null,
@@ -239,6 +239,16 @@
   "yt:ARRSyhaUczo": "2026-09-11",
   "yt:FT8tzFscqTI": "2026-09-11",
   "rs:https://news.google.com/rss/articles/CBMid0FVX3lxTFBaWjdLcGU1VlZJM3FhZlpDUnppd2doLVFieURySkZPQnRsY0J2VjFKR1FiQW5hc01Tb1hfN0tENVp4RGpNaUFDbEFVWUJKcE1mYldYMlZvWkpNVzhZMTAwT1BqaDhJaXRYUXprUHZJMGFBc3VEcG1F?oc=5": "2026-09-11",
-  "yt:28Ag3IpM4ZU": "2026-09-11"
+  "yt:28Ag3IpM4ZU": "2026-09-11",
+  "rs:https://news.google.com/rss/articles/CBMitARBVV95cUxOV1BWUHVTblBUcjBtelNINUNucFJRWUFyTUN3RW8tQnZrNVpDdm5mRURNc21vejkxWmZDY3FNMGhOa1dqNEs3d3hicXp4WmZQS2VFYWRnc2RjbTlrc1ZnTjFLSmVvZWdLRjBUbFk3Z3oxRDlNOXpZSVJJM2g1TGlGU2pYQW1fMEhyWkVoNHN1TkdvcHM0Mzg1Z182Zml3QzYzcnFsbGZNQ0VXZmRZdGJXQzhKV09RcV85NXJqTEJhdGo0aHJnSFFVRWlDNExPZi1XRDQ3WE9ETEd5Xy1tNkRoUlJYRTVSMmd2V2g5T0pZTHB1dlRNWFNzZDFfVnA0d2hIckx6Mmd5cWpGWWo0RVp2RWxLN0xyeFlra3lPZzhrWmZFaWRZckJMMmNkV294NHBrVGU2ODU0NmUyZkdlXzV4dmxZVktKTm8wRUE2RlM0R0ZLS20xWXltQzhYLWNjdUhLeEhXTUh5SjhpUGV3b19iWHd1VUlvM25WLWV6MVAtREhiMGlOeklwcmhMZ1h3ZG9hd1N6TXRCWTZ1Z2s0MlZhS3JQTURicEdmTnFScDdGVjZoYkJPUFpyWmRJM3ZpQkluUmJ5RF9PQmdlcmJwVlZnT185dWt3RmRaSmpwbjIxWloxd0JQN2dCSmFxMUc2dndLYjQwNmFyNEVkd0RwN1QzWjdTSm9Fdy1zR1ZNTVo1OUs1MGhwYjRjNHFWemJMLXVvRXVFeDJoV1Z3ZWxCUWtIemhJYi0?oc=5": "2026-09-11",
+  "rs:https://masdarak.com/business-news/%d9%85%d8%a7%d8%ac%d8%af-%d8%a7%d9%84%d9%81%d8%b7%d9%8a%d9%85-%d8%aa%d8%ad%d9%82%d9%82-%d9%86%d9%85%d9%88%d8%a7%d9%8b-38-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7/": "2026-09-11",
+  "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d9%84%d9%86%d8%af%d9%86-%d8%ae%d9%84%d8%a7%d9%84-2026-%d8%aa/": "2026-09-11",
+  "rs:https://masdarak.com/new-projects/%d8%a3%d8%b2%d9%87%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b3%d9%83%d9%86%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a/": "2026-09-11",
+  "rs:https://news.google.com/rss/articles/CBMi4AFBVV95cUxONU9pRi1WcUpMS1NSbTV1TmVCbnNIZzVCNklHS1BxU1FyTGlodVhxamVjZ1BQSm1KYlo3TUI4amUzNEJ1ckpDOUZ0RElURjN1dGNCWFlNZjdPNGt1Z18waThCbjczM3Q3a1dkejRDRC1SRW5vV21xNGV6anRjUzRkb19zeTBMcFdXOUxiNkpnbElJTkdBNGlCcW9CLWlkSUxRXzR2Wm14b0EydVVpMjVQR1F2bF9yZ1FCcFFDZXBDZDF0VjV5WEJYZ0ZiRXh2Sm5qWk0tSEw0WFkwbTdSWllwQw?oc=5": "2026-09-11",
+  "rd:t3_1wdrlia": "2026-09-11",
+  "rd:t3_1wdom2l": "2026-09-11",
+  "rd:t3_1wdoc5p": "2026-09-11",
+  "rd:t3_1wdobt7": "2026-09-11",
+  "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9YdVJRQzgwSTdIaVFOWlZtcXBuUHN4NU0xZ2gzZEhYSm9PMkFCaDVzOHRrbFJUUG05RGNtdjl0TjhLdlZ0SDNJUTZFWnZ3VjdVYWtJUWlqNllvOHdBQXRPY09iTWhwNlVGRFE?oc=5": "2026-09-11"
  }
 }

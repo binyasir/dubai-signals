@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-11T16:02:27Z",
- "newThisRun": 22,
- "sourcesOk": 13,
- "sourcesTotal": 15,
+ "generatedAt": "2026-09-11T21:00:38Z",
+ "newThisRun": 10,
+ "sourcesOk": 8,
+ "sourcesTotal": 11,
  "counts": {
   "youtube": 21,
-  "reddit": 29,
-  "rss": 122
+  "reddit": 33,
+  "rss": 128
  },
  "sources": [
   {
@@ -24,7 +24,7 @@
   {
    "source": "YouTube betterhomes",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
@@ -36,14 +36,14 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 7,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 26,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -58,15 +58,9 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
-  },
-  {
-   "source": "\"\"Dubai Land Department\"\" - Google News",
-   "ok": true,
-   "items": 19,
+   "items": 7,
    "error": null
   },
   {
@@ -76,31 +70,148 @@
    "error": null
   },
   {
-   "source": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "ok": true,
-   "items": 13,
-   "error": null
-  },
-  {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
    "items": 17,
    "error": null
-  },
-  {
-   "source": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "ok": true,
-   "items": 25,
-   "error": null
-  },
-  {
-   "source": "\"\"Saudi real estate\" OR \"Riyadh property\"\" - Google News",
-   "ok": true,
-   "items": 7,
-   "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitARBVV95cUxOV1BWUHVTblBUcjBtelNINUNucFJRWUFyTUN3RW8tQnZrNVpDdm5mRURNc21vejkxWmZDY3FNMGhOa1dqNEs3d3hicXp4WmZQS2VFYWRnc2RjbTlrc1ZnTjFLSmVvZWdLRjBUbFk3Z3oxRDlNOXpZSVJJM2g1TGlGU2pYQW1fMEhyWkVoNHN1TkdvcHM0Mzg1Z182Zml3QzYzcnFsbGZNQ0VXZmRZdGJXQzhKV09RcV85NXJqTEJhdGo0aHJnSFFVRWlDNExPZi1XRDQ3WE9ETEd5Xy1tNkRoUlJYRTVSMmd2V2g5T0pZTHB1dlRNWFNzZDFfVnA0d2hIckx6Mmd5cWpGWWo0RVp2RWxLN0xyeFlra3lPZzhrWmZFaWRZckJMMmNkV294NHBrVGU2ODU0NmUyZkdlXzV4dmxZVktKTm8wRUE2RlM0R0ZLS20xWXltQzhYLWNjdUhLeEhXTUh5SjhpUGV3b19iWHd1VUlvM25WLWV6MVAtREhiMGlOeklwcmhMZ1h3ZG9hd1N6TXRCWTZ1Z2s0MlZhS3JQTURicEdmTnFScDdGVjZoYkJPUFpyWmRJM3ZpQkluUmJ5RF9PQmdlcmJwVlZnT185dWt3RmRaSmpwbjIxWloxd0JQN2dCSmFxMUc2dndLYjQwNmFyNEVkd0RwN1QzWjdTSm9Fdy1zR1ZNTVo1OUs1MGhwYjRjNHFWemJMLXVvRXVFeDJoV1Z3ZWxCUWtIemhJYi0?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "«أراضي دبي» تستعرض نموذجاً متقدماً لتنظيم السوق العقاري وتطويره رقمياً - الاتحاد للأخبار",
+   "text": " «أراضي دبي» تستعرض نموذجاً متقدماً لتنظيم السوق العقاري وتطويره رقمياً &nbsp;&nbsp; الاتحاد للأخبار ",
+   "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxOV1BWUHVTblBUcjBtelNINUNucFJRWUFyTUN3RW8tQnZrNVpDdm5mRURNc21vejkxWmZDY3FNMGhOa1dqNEs3d3hicXp4WmZQS2VFYWRnc2RjbTlrc1ZnTjFLSmVvZWdLRjBUbFk3Z3oxRDlNOXpZSVJJM2g1TGlGU2pYQW1fMEhyWkVoNHN1TkdvcHM0Mzg1Z182Zml3QzYzcnFsbGZNQ0VXZmRZdGJXQzhKV09RcV85NXJqTEJhdGo0aHJnSFFVRWlDNExPZi1XRDQ3WE9ETEd5Xy1tNkRoUlJYRTVSMmd2V2g5T0pZTHB1dlRNWFNzZDFfVnA0d2hIckx6Mmd5cWpGWWo0RVp2RWxLN0xyeFlra3lPZzhrWmZFaWRZckJMMmNkV294NHBrVGU2ODU0NmUyZkdlXzV4dmxZVktKTm8wRUE2RlM0R0ZLS20xWXltQzhYLWNjdUhLeEhXTUh5SjhpUGV3b19iWHd1VUlvM25WLWV6MVAtREhiMGlOeklwcmhMZ1h3ZG9hd1N6TXRCWTZ1Z2s0MlZhS3JQTURicEdmTnFScDdGVjZoYkJPUFpyWmRJM3ZpQkluUmJ5RF9PQmdlcmJwVlZnT185dWt3RmRaSmpwbjIxWloxd0JQN2dCSmFxMUc2dndLYjQwNmFyNEVkd0RwN1QzWjdTSm9Fdy1zR1ZNTVo1OUs1MGhwYjRjNHFWemJMLXVvRXVFeDJoV1Z3ZWxCUWtIemhJYi0?oc=5",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:38Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%85%d8%a7%d8%ac%d8%af-%d8%a7%d9%84%d9%81%d8%b7%d9%8a%d9%85-%d8%aa%d8%ad%d9%82%d9%82-%d9%86%d9%85%d9%88%d8%a7%d9%8b-38-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"ماجد الفطيم\" تحقق نمواً 38% في الإيرادات العقارية بمشاريع تتجاوز 27 مليار دولار في 2026",
+   "text": "سجل قطاع التطوير العقاري لدى ماجد الفطيم Majid Al Futtaim نمواً في الإيرادات بنسبة 38% على أساس سنوي خلال النصف&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%85%d8%a7%d8%ac%d8%af-%d8%a7%d9%84%d9%81%d8%b7%d9%8a%d9%85-%d8%aa%d8%ad%d9%82%d9%82-%d9%86%d9%85%d9%88%d8%a7%d9%8b-38-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:37Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d9%84%d9%86%d8%af%d9%86-%d8%ae%d9%84%d8%a7%d9%84-2026-%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أسعار العقارات الفاخرة في لندن خلال 2026 تتراجع 26% عن ذروة 2014",
+   "text": "تراجعت أسعار العقارات الفاخرة في وسط لندن Prime Central London بنسبة 2.5% خلال النصف الأول من 2026، لتصبح أقل بنحو&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d9%84%d9%86%d8%af%d9%86-%d8%ae%d9%84%d8%a7%d9%84-2026-%d8%aa/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:37Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a3%d8%b2%d9%87%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b3%d9%83%d9%86%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أزهى العقارية تكشف مشروعاً سكنياً جديداً في معرض عقارات عجمان 2026",
+   "text": "تعتزم شركة التطوير العقاري أزهى العقارية Azha Properties الكشف عن مشروع سكني جديد في منطقة عجمان إيست، بالقرب من شارع&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a3%d8%b2%d9%87%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b3%d9%83%d9%86%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:37Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4AFBVV95cUxONU9pRi1WcUpMS1NSbTV1TmVCbnNIZzVCNklHS1BxU1FyTGlodVhxamVjZ1BQSm1KYlo3TUI4amUzNEJ1ckpDOUZ0RElURjN1dGNCWFlNZjdPNGt1Z18waThCbjczM3Q3a1dkejRDRC1SRW5vV21xNGV6anRjUzRkb19zeTBMcFdXOUxiNkpnbElJTkdBNGlCcW9CLWlkSUxRXzR2Wm14b0EydVVpMjVQR1F2bF9yZ1FCcFFDZXBDZDF0VjV5WEJYZ0ZiRXh2Sm5qWk0tSEw0WFkwbTdSWllwQw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "UAE public holidays, Dubai property prices, $3,700 iPhone and airport upgrades – 10 stories you missed this week - Arabian Business",
+   "text": " UAE public holidays, Dubai property prices, $3,700 iPhone and airport upgrades – 10 stories you missed this week &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONU9pRi1WcUpMS1NSbTV1TmVCbnNIZzVCNklHS1BxU1FyTGlodVhxamVjZ1BQSm1KYlo3TUI4amUzNEJ1ckpDOUZ0RElURjN1dGNCWFlNZjdPNGt1Z18waThCbjczM3Q3a1dkejRDRC1SRW5vV21xNGV6anRjUzRkb19zeTBMcFdXOUxiNkpnbElJTkdBNGlCcW9CLWlkSUxRXzR2Wm14b0EydVVpMjVQR1F2bF9yZ1FCcFFDZXBDZDF0VjV5WEJYZ0ZiRXh2Sm5qWk0tSEw0WFkwbTdSWllwQw?oc=5",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:37Z"
+  },
+  {
+   "id": "rd:t3_1wdrlia",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Short-stay apartment rentals?",
+   "text": "   Does anyone have any recommendations for which platforms / websites I should use for the search please?    I’m spending 3-4 week blocks in dubai on and off. I previously stayed with friends but I’d prefer to find a spot for myself.    Thank you      &#32; submitted by &#32;   /u/plantainchild       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wdrlia/shortstay_apartment_rentals/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:02Z"
+  },
+  {
+   "id": "rd:t3_1wdom2l",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "PSA on VAT charged for Tolls - Car Rental",
+   "text": "   With the recent changes in Salik where they now charge VAT, if you are renting/leasing a vehicle, please have a look at your monthly Tolls invoice. I found out that they are charging VAT on top of the Salik VAT. They rightly refunded me the difference, but I believe a lot of us will let it slide.   Please have a look at your Salik invoices. There will be the usual surcharge charged by the company, but the VAT should not be collected on top of the Salik (6.3/4.2).     &#32; submitted by &#32;   /u/burksterdxb       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wdom2l/psa_on_vat_charged_for_tolls_car_rental/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:02Z"
+  },
+  {
+   "id": "rd:t3_1wdoc5p",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Security deposit",
+   "text": "   Hello everyone, I would like to get a advice that I moved out 2 weeks ago and till now I did not get my security deposit so is that normal in Dubai, landlord just delay to give me my money back so what the maximum should I wait and what next step to get my money back???     &#32; submitted by &#32;   /u/Wing_Glad       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wdoc5p/security_deposit/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:02Z"
+  },
+  {
+   "id": "rd:t3_1wdobt7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Security deposit",
+   "text": "   Hello everyone, I would like to get a advice that I moved out 2 weeks ago and till now I did not get my security deposit so is that normal in Dubai, landlord just delay to give me my money back so what the maximum should I wait and what next step to get my money back???     &#32; submitted by &#32;   /u/Wing_Glad       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wdobt7/security_deposit/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:02Z"
+  },
   {
    "id": "yt:vMk3ePEF0aw",
    "platform": "YouTube",
@@ -535,6 +646,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:55:41Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9YdVJRQzgwSTdIaVFOWlZtcXBuUHN4NU0xZ2gzZEhYSm9PMkFCaDVzOHRrbFJUUG05RGNtdjl0TjhLdlZ0SDNJUTZFWnZ3VjdVYWtJUWlqNllvOHdBQXRPY09iTWhwNlVGRFE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "تقرير: أسعار العقارات السكنية في دبي ترتفع بنسبة 9.8% خلال 2025 - ارقام",
+   "text": " تقرير: أسعار العقارات السكنية في دبي ترتفع بنسبة 9.8% خلال 2025 &nbsp;&nbsp; ارقام ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YdVJRQzgwSTdIaVFOWlZtcXBuUHN4NU0xZ2gzZEhYSm9PMkFCaDVzOHRrbFJUUG05RGNtdjl0TjhLdlZ0SDNJUTZFWnZ3VjdVYWtJUWlqNllvOHdBQXRPY09iTWhwNlVGRFE?oc=5",
+   "date": "2026-09-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-11T21:00:38Z"
   },
   {
    "id": "yt:K1lAmxaher4",
