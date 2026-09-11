@@ -1,26 +1,16 @@
 {
-  "_comment": "Edit this file, not collect.py. YouTube entries are raw UC channel ids — verified live, not handles, because handles break silently.",
+  "_comment": "Generic Dubai property collector. Deliberately contains no competitor list, no lead-market queries and no strategy: those live in the private console configuration, not in this public repo. YouTube entries are raw UC channel ids, verified live, because handles break silently.",
   "youtube": [
     "UC7zb6wyNrnf0k5LQ8TTd8Wg",
     "UC9SHhB8dKTIzeX2-vX-2ykQ",
     "UCVijFVJmnxkXc5BTMNbN7BQ",
     "UCnhGapWdzUfGYZS5iO0y7xQ"
   ],
-  "_youtube_names": [
-    "Allsopp & Allsopp",
-    "Driven Properties",
-    "betterhomes",
-    "betterhomes Abu Dhabi"
-  ],
   "subreddits": ["dubai", "DubaiRealEstate", "UAE", "expats"],
   "rss": [
     "https://masdarak.com/feed/",
-    "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en",
     "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
-    "https://news.google.com/rss/search?q=%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9+%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A+%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%84%D8%A7%D9%83&hl=ar&gl=AE&ceid=AE:ar",
-    "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
-    "https://news.google.com/rss/search?q=%22Abu+Dhabi+real+estate%22&hl=en-AE&gl=AE&ceid=AE:en",
-    "https://news.google.com/rss/search?q=%22Saudi+real+estate%22+OR+%22Riyadh+property%22&hl=en&gl=US&ceid=US:en"
+    "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar"
   ],
   "keywords": []
 }
