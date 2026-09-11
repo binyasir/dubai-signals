@@ -1,12 +1,18 @@
 {
-  "_comment": "Edit this file, not collect.py. Anything left empty falls back to the built-in defaults.",
+  "_comment": "Edit this file, not collect.py. YouTube entries are raw UC channel ids — verified live, not handles, because handles break silently.",
   "youtube": [
-    "@AllsoppandAllsopp",
-    "@fam-properties",
-    "@DrivenProperties",
-    "@BetterhomesUAE"
+    "UC7zb6wyNrnf0k5LQ8TTd8Wg",
+    "UC9SHhB8dKTIzeX2-vX-2ykQ",
+    "UCVijFVJmnxkXc5BTMNbN7BQ",
+    "UCnhGapWdzUfGYZS5iO0y7xQ"
   ],
-  "subreddits": ["dubai", "UAE", "DubaiRealEstate", "expats"],
+  "_youtube_names": [
+    "Allsopp & Allsopp",
+    "Driven Properties",
+    "betterhomes",
+    "betterhomes Abu Dhabi"
+  ],
+  "subreddits": ["dubai", "DubaiRealEstate", "UAE", "expats"],
   "rss": [
     "https://masdarak.com/feed/",
     "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en",
