@@ -1,1 +1,78 @@
+name: Collect social signals
 
+on:
+  schedule:
+    # Every 6 hours at :17 — off the hour, because thousands of jobs fire at :00
+    # and GitHub queues them. Times are UTC: 03:17 GST is 07:17 Dubai.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Two runs must never push at the same time.
+concurrency:
+  group: collect-social
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect
+        id: collect
+        run: python3 collect.py
+
+      - name: Validate output schema
+        run: python3 collect.py --validate
+
+      - name: Commit results
+        run: |
+          set -euo pipefail
+          git config user.name  "social-collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add social.json state.json
+          if git diff --staged --quiet; then
+            echo "nothing new to commit"
+            exit 0
+          fi
+          git commit -m "signals: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "push rejected, rebasing and retrying"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            sleep 5
+          done
+          echo "could not push after 3 attempts" >&2
+          exit 1
+
+      - name: Run summary
+        if: always()
+        run: |
+          if [ -f social.json ]; then
+            python3 - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d = json.load(open("social.json"))
+          print("### Social collection\n")
+          print(f"- generated: `{d['generatedAt']}`")
+          print(f"- new this run: **{d['newThisRun']}**")
+          print(f"- sources healthy: **{d.get('sourcesOk','?')} / {d.get('sourcesTotal','?')}**")
+          print(f"- retained: {d['counts']}\n")
+          bad = [s for s in d.get("sources", []) if not s.get("ok")]
+          if bad:
+              print("| source | error |\n|---|---|")
+              for s in bad:
+                  print(f"| {s['source']} | {s.get('error')} |")
+          PY
+          fi
