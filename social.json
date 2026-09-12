@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-12T10:52:06Z",
- "newThisRun": 6,
+ "generatedAt": "2026-09-12T15:35:16Z",
+ "newThisRun": 10,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 21,
-  "reddit": 36,
-  "rss": 134
+  "reddit": 39,
+  "rss": 141
  },
  "sources": [
   {
@@ -47,20 +47,20 @@
   },
   {
    "source": "r/UAE",
+   "ok": true,
+   "items": 2,
+   "error": null
+  },
+  {
+   "source": "r/expats",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
   },
   {
-   "source": "r/expats",
-   "ok": true,
-   "items": 1,
-   "error": null
-  },
-  {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
@@ -72,11 +72,131 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBoZTlNa0pMV01BOGxGT1Vab0otcDhtT3F6dEc1dEU2a1UtUV9DLUxFM0tva2tYTEh0OU42eHptR01uWFlvREM0cW10dFZZeE1PQ2RNZ2MtMGo5VC13WkM4RG1udDJxSTBYVXoyVlpzYkg0MG9vVy0tbkJ3ZG93N09rc1BEUTVYcFIxME5ESnJvQ1ljRFN2QmRSb23SAaIBQVVfeXFMT3pjSEZYTUhwZ1J4OUNzandYR19ySm1KR0MxbGVjQnozUnJIbXJPRHRsejE1Rk03OWg3WFBGaUs0Z3lfTjl3T3QzcDFDT0lVdDFnakRRM1cwVi0wa0ZuS1poRnJrd2NpRHZWNUhodFdhVU9EcXlCcm5ZbEZueDBLcVpmTFVGdUgzMHVoNjI0QnJmanNjeU9wZHRwdDNxXzhRZHdB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate transactions surpasses AED 10 billion in just 5 days, reveals govt data - theweek.in",
+   "text": " Dubai real estate transactions surpasses AED 10 billion in just 5 days, reveals govt data &nbsp;&nbsp; theweek.in ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBoZTlNa0pMV01BOGxGT1Vab0otcDhtT3F6dEc1dEU2a1UtUV9DLUxFM0tva2tYTEh0OU42eHptR01uWFlvREM0cW10dFZZeE1PQ2RNZ2MtMGo5VC13WkM4RG1udDJxSTBYVXoyVlpzYkg0MG9vVy0tbkJ3ZG93N09rc1BEUTVYcFIxME5ESnJvQ1ljRFN2QmRSb23SAaIBQVVfeXFMT3pjSEZYTUhwZ1J4OUNzandYR19ySm1KR0MxbGVjQnozUnJIbXJPRHRsejE1Rk03OWg3WFBGaUs0Z3lfTjl3T3QzcDFDT0lVdDFnakRRM1cwVi0wa0ZuS1poRnJrd2NpRHZWNUhodFdhVU9EcXlCcm5ZbEZueDBLcVpmTFVGdUgzMHVoNjI0QnJmanNjeU9wZHRwdDNxXzhRZHdB?oc=5",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:16Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ramFWSFVILU5SdnBjNE5LRnpRZ2hlbnZUeVp2RDRzTXJwWmFMNHlnbkl2UEtjWlRycHZ2SjVoY2tabms5T2dFZ19aLVB5dFN0M2xj?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "سوق عقارات دبي يسجل 10.6 مليارات درهم تعاملات في أسبوع - emirates24.net",
+   "text": " سوق عقارات دبي يسجل 10.6 مليارات درهم تعاملات في أسبوع &nbsp;&nbsp; emirates24.net ",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ramFWSFVILU5SdnBjNE5LRnpRZ2hlbnZUeVp2RDRzTXJwWmFMNHlnbkl2UEtjWlRycHZ2SjVoY2tabms5T2dFZ19aLVB5dFN0M2xj?oc=5",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:16Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d9%88%d9%86-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-8-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"بريستيج ون\" تخطط لإطلاق 8 مشاريع عقارية في دبي باستثمارات تتجاوز مليار دولار",
+   "text": "تخطط شركة بريستيج ون للتطوير العقاري Prestige One Developments لاستثمار ما بين 817 مليون دولار و1.09 مليار دولار، ما يعادل&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a8%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%ac-%d9%88%d9%86-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-8-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:15Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d9%88%d8%a8%d9%86%d9%87%d8%a7%d9%8a%d9%85-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-%d9%85%d9%86-%d9%84%d9%88%d8%b3-%d8%a3%d9%86%d8%ac%d9%84%d9%88/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"أوبنهايم\" العقارية تتوسع من لوس أنجلوس إلى دبي بعد شهرتها على \"نتفليكس\"",
+   "text": "تستعد مجموعة أوبنهايم جروب The Oppenheim Group، وهي شركة الوساطة العقارية التي تدور داخل مكاتبها ووسط فريقها أحداث برنامج سيلينغ&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d9%88%d8%a8%d9%86%d9%87%d8%a7%d9%8a%d9%85-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-%d9%85%d9%86-%d9%84%d9%88%d8%b3-%d8%a3%d9%86%d8%ac%d9%84%d9%88/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:15Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%af%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-11-2-%d9%85%d9%84%d9%8a%d8%a7%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "تداولات عقارات الشارقة تتجاوز 11.2 مليار دولار في 8 أشهر 2026",
+   "text": "تجاوزت قيمة التداولات العقارية في الشارقة 11.2 مليار دولار (41.1 مليار درهم) خلال الأشهر الثمانية الأولى من 2026، وفق حسابات&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d8%af%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-11-2-%d9%85%d9%84%d9%8a%d8%a7%d8%b1/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:15Z"
+  },
+  {
+   "id": "rd:t3_1weaaom",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Silicon Oasis",
+   "text": "   Hi all   My office is in Dubai Science Park and I’m considering to rent a studio in Dubai Silicon Oasis .   Parking is important as I drive   Type: Studio , Single Female, Budget 33-38k   I found some studios for 38k in Silicon, some in Silicon Gates 1.   Can you recommend if this building is good , also would dewa charges be high in Silicon, I heard someone saying Dewa charges are municipality fixed.   Where can I find more affordable options less than or equal to 35k in decent size like 400 sq ft   Any building you recommend and how are dewa and traffic  I heard gates 1 having a lot of tr",
+   "url": "https://www.reddit.com/r/UAE/comments/1weaaom/silicon_oasis/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:02Z"
+  },
+  {
+   "id": "rd:t3_1we877b",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Tenants/landlords, what documents are tenants allowed to ask for to verify property ownership in UAE?",
+   "text": "   Our apartment was recently sold and a real estate agent contacted us saying they have our existing security deposit cheque and want us to issue a new one under the new owner&#39;s name.   We asked them to provide the title deed and the owner&#39;s ID/passport so we can verify the new owner before handing over a new security cheque but he told us to come to their office and that they would let us look at the docs there. Looks liek they are not willing to send us copies.   Is this normal practice in the UAE? Are landlords/real estate agents generally allowed to refuse to share the title deed ",
+   "url": "https://www.reddit.com/r/UAE/comments/1we877b/tenantslandlords_what_documents_are_tenants/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:02Z"
+  },
+  {
+   "id": "rd:t3_1wedcqz",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Where can I buy a good hard pillow?",
+   "text": "                 Happy weekend everyone!   I&#39;m staying in a hotel apartment in Tecom but the pillows are too soft. I&#39;m taking ibuprofen daily for the past week because of having a sore neck.   Where would you recommend I can buy a good hard pillow?   Shukran!    https://preview.redd.it/xlkzu133i3ph1.png?width=485&amp;format=png&amp;auto=webp&amp;s=8d0297fd39a9b3652e81c37f3b4f3c40b1be6c35      &#32; submitted by &#32;   /u/mahbirchat       [link]   &#32;   [comments]      ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wedcqz/where_can_i_buy_a_good_hard_pillow/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:34:40Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b6%d8%b1%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-2026-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%af%d9%81%d8%b9/",
    "platform": "RSS",
@@ -1321,6 +1441,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:17Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0ZiMDBjc1daeTFBdHZMT2hMNThveFdoSzJDNEVMWWNSNHREcGQ1RVNPYlhwM1hBTDZNZVM3WHZycUMtX25JQkRPV2xKdnZmQ1RFUmI0UTB4N0hwZVNOOE52c253YlItb1p3T0pUSUE4X3plWmEzSGxxdThOZW0ydUtUQVFKc21LdDlpbEF4WHVoOXlKZXRxN25pT243ZnpQWTNiOUNWRUVJcnJGVDA2bDJjQmdVbmZnMktHTzFia3FMSjNoMkVGSGJ5Ykx6NTNCS1pDM9IB5wFBVV95cUxNSVNEeklaYTc0RkhpQWowOXRrdVEwTGgtME5KN3dNXzJnQ0dUQ3hfdzVSS1hsSWlEbTl3ckZTR3FRMnRBZ2lJcmF6b0RkbEdwXzkta2xIMXN5bHdWVUFqeXNWblJ5OGl1aFlhakdLRS1USXRpVGlpS3ozUUJEZnZZekhvelNMa2xPdndYLU1BeUhiWHUxU25jUU15VFZ4TGVhb3VHUmRVQVFES2Y3RGlCYzk0SXpQanFicTYyOU9lQ3dqVEhfUzFzaV9JdTlPbjQ4Z0JmYmcycE9keElOQko5WmEwZW5Jd1U?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market to find 'nice balance' as 2027 supply wave hits, says Emaar's Alabbar - Gulf News",
+   "text": " Dubai property market to find 'nice balance' as 2027 supply wave hits, says Emaar's Alabbar &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0ZiMDBjc1daeTFBdHZMT2hMNThveFdoSzJDNEVMWWNSNHREcGQ1RVNPYlhwM1hBTDZNZVM3WHZycUMtX25JQkRPV2xKdnZmQ1RFUmI0UTB4N0hwZVNOOE52c253YlItb1p3T0pUSUE4X3plWmEzSGxxdThOZW0ydUtUQVFKc21LdDlpbEF4WHVoOXlKZXRxN25pT243ZnpQWTNiOUNWRUVJcnJGVDA2bDJjQmdVbmZnMktHTzFia3FMSjNoMkVGSGJ5Ykx6NTNCS1pDM9IB5wFBVV95cUxNSVNEeklaYTc0RkhpQWowOXRrdVEwTGgtME5KN3dNXzJnQ0dUQ3hfdzVSS1hsSWlEbTl3ckZTR3FRMnRBZ2lJcmF6b0RkbEdwXzkta2xIMXN5bHdWVUFqeXNWblJ5OGl1aFlhakdLRS1USXRpVGlpS3ozUUJEZnZZekhvelNMa2xPdndYLU1BeUhiWHUxU25jUU15VFZ4TGVhb3VHUmRVQVFES2Y3RGlCYzk0SXpQanFicTYyOU9lQ3dqVEhfUzFzaV9JdTlPbjQ4Z0JmYmcycE9keElOQko5WmEwZW5Jd1U?oc=5",
+   "date": "2026-09-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:16Z"
   },
   {
    "id": "yt:rKVMJWkOBKY",
@@ -2866,6 +3001,21 @@
    "language": "en",
    "engagement": "63 views",
    "firstSeenAt": "2026-09-11T16:01:54Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDJRa0V6RFlqa0szSDlmTXJZdXJCMloyUjB2eFZ5QVNyTG1SMlAxUlhrblNQaHl4MmowNjNpeHNPckJZWDJXNXh1WmRHZnM2ajRTbG5RSHRaVFJIQ0xoSVhuMXdndUwwNFBqcDlLTzBLV21qY0l4NXUyZjkzZ0RndXYxaFd3V2JWN3RidWNpVmtuU3lfYVBNazkzdFNKb2xDeEhPQi1rNGtCZFlSc1laOHJrd29SdHc?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "How Satish Sanpal Sees the Dubai Property Buyer Changing - StreetInsider",
+   "text": " How Satish Sanpal Sees the Dubai Property Buyer Changing &nbsp;&nbsp; StreetInsider ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbDJRa0V6RFlqa0szSDlmTXJZdXJCMloyUjB2eFZ5QVNyTG1SMlAxUlhrblNQaHl4MmowNjNpeHNPckJZWDJXNXh1WmRHZnM2ajRTbG5RSHRaVFJIQ0xoSVhuMXdndUwwNFBqcDlLTzBLV21qY0l4NXUyZjkzZ0RndXYxaFd3V2JWN3RidWNpVmtuU3lfYVBNazkzdFNKb2xDeEhPQi1rNGtCZFlSc1laOHJrd29SdHc?oc=5",
+   "date": "2026-08-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T15:35:16Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMisAFBVV95cUxNemJ0SEZ4dzNvbE5odmdfNGhpNzc4TjBjSVEwRXNyQkZwNmtzbWVTYUlRaXVHUW8wMTZFNVJhTU9ZeXBSbjA4T3h3eUVESElfMDM1WlZ0cjQ5MXpRX3RzeWZwVWVpVkJ1WFlyS081bmZNbXZYQkZMSFVfeFh5WVNXTGFaRENpX0lra2JSMFlPZE5MOTBrQzhjZDNmLXBDdjBIZ2JmSHd3QUl2Tm5MeEl6bQ?oc=5",
