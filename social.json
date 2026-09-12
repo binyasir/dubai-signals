@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-11T21:00:38Z",
- "newThisRun": 10,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-12T04:40:08Z",
+ "newThisRun": 3,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 21,
-  "reddit": 33,
-  "rss": 128
+  "reddit": 34,
+  "rss": 130
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 11,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -53,15 +53,15 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 7,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0k4TkN1TlZZRHZibjlRRFI5ZWgwUEhkdkVqM0NGT0w2Nm1XdkpIdjY1VW83LXVIWlhPd25yWHV5MGxZTkZWNUtTLWdfUVdCUVVENVVFTDB5Tm1BWGsyTHdjUGUxX1REekpicEo5a3N4MDhoZlRqRm8yNW9aUzQ3SzBxNGJrQmdfTnhWOXcwbUZfMUhTdk56eWMxU1BFM2FCemF0ZkE4d2ptUUtoWE1kTkFHM0hTb1I1TlRxejN3TXhEOG4yM2R2akl5cDFRb2Joc2cyYXRZeVZDUQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate sector recorded $2.9bn of transactions last week, including $10m Jumeirah apartment - Arabian Business",
+   "text": " Dubai real estate sector recorded $2.9bn of transactions last week, including $10m Jumeirah apartment &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0k4TkN1TlZZRHZibjlRRFI5ZWgwUEhkdkVqM0NGT0w2Nm1XdkpIdjY1VW83LXVIWlhPd25yWHV5MGxZTkZWNUtTLWdfUVdCUVVENVVFTDB5Tm1BWGsyTHdjUGUxX1REekpicEo5a3N4MDhoZlRqRm8yNW9aUzQ3SzBxNGJrQmdfTnhWOXcwbUZfMUhTdk56eWMxU1BFM2FCemF0ZkE4d2ptUUtoWE1kTkFHM0hTb1I1TlRxejN3TXhEOG4yM2R2akl5cDFRb2Joc2cyYXRZeVZDUQ?oc=5",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T04:40:08Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTFBvanozNzBweUdidUFxcnVUTjNSSHJUVGZaMjlkbklLUjgzRFVsbHRKWm1kZlZOeWRPREFTMUNmdEp4MXBpd2pzbzk4c2ZnYUZhSFpSMEcwV3hXakN3MG8yRXlIdWstRVg0SW94RVY2RDdSZ9IBjAFBVV95cUxPWXFhbjNRTUZJQWhRZVdDazY2SmliakhWTUZPTWxpMk02R2g5SXBma2ZxSkIzdFV2UW9TQnlNUnNCdWdlYVBTYXBMMDZIcC1sa24xdUZqeU1FT0dPaXhfOHJidE1pQ1JkQUdsYVNlU21JRWpHUFBkSlZULUtLZl8tQ0xsRThKaXNrbzRDVg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "العقارات المستدامة والذكية تتصدر توجهات الطلب في سوق دبي - الإمارات اليوم",
+   "text": " العقارات المستدامة والذكية تتصدر توجهات الطلب في سوق دبي &nbsp;&nbsp; الإمارات اليوم ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvanozNzBweUdidUFxcnVUTjNSSHJUVGZaMjlkbklLUjgzRFVsbHRKWm1kZlZOeWRPREFTMUNmdEp4MXBpd2pzbzk4c2ZnYUZhSFpSMEcwV3hXakN3MG8yRXlIdWstRVg0SW94RVY2RDdSZ9IBjAFBVV95cUxPWXFhbjNRTUZJQWhRZVdDazY2SmliakhWTUZPTWxpMk02R2g5SXBma2ZxSkIzdFV2UW9TQnlNUnNCdWdlYVBTYXBMMDZIcC1sa24xdUZqeU1FT0dPaXhfOHJidE1pQ1JkQUdsYVNlU21JRWpHUFBkSlZULUtLZl8tQ0xsRThKaXNrbzRDVg?oc=5",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T04:40:08Z"
+  },
+  {
+   "id": "rd:t3_1wdio50",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Danish tax on inherited/gifted German property with lifelong usufruct?",
+   "text": "   I live and work in Denmark and am tax resident here. My mother is tax resident in Germany and owns a house there.   She wants to transfer the house to me and my two siblings (my share would be roughly €300k), but she will retain a  lifelong usufruct (Nießbrauch)  and continue living in the house. There is no rental income.   Has anyone had a similar situation where a parent in Germany transferred German property to a child living in Denmark while retaining lifelong Nießbrauch?   I&#39;m particularly interested in:     How Denmark calculated the taxable gift value   Whether the value of the ",
+   "url": "https://www.reddit.com/r/expats/comments/1wdio50/danish_tax_on_inheritedgifted_german_property/",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T04:40:06Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMitARBVV95cUxOV1BWUHVTblBUcjBtelNINUNucFJRWUFyTUN3RW8tQnZrNVpDdm5mRURNc21vejkxWmZDY3FNMGhOa1dqNEs3d3hicXp4WmZQS2VFYWRnc2RjbTlrc1ZnTjFLSmVvZWdLRjBUbFk3Z3oxRDlNOXpZSVJJM2g1TGlGU2pYQW1fMEhyWkVoNHN1TkdvcHM0Mzg1Z182Zml3QzYzcnFsbGZNQ0VXZmRZdGJXQzhKV09RcV85NXJqTEJhdGo0aHJnSFFVRWlDNExPZi1XRDQ3WE9ETEd5Xy1tNkRoUlJYRTVSMmd2V2g5T0pZTHB1dlRNWFNzZDFfVnA0d2hIckx6Mmd5cWpGWWo0RVp2RWxLN0xyeFlra3lPZzhrWmZFaWRZckJMMmNkV294NHBrVGU2ODU0NmUyZkdlXzV4dmxZVktKTm8wRUE2RlM0R0ZLS20xWXltQzhYLWNjdUhLeEhXTUh5SjhpUGV3b19iWHd1VUlvM25WLWV6MVAtREhiMGlOeklwcmhMZ1h3ZG9hd1N6TXRCWTZ1Z2s0MlZhS3JQTURicEdmTnFScDdGVjZoYkJPUFpyWmRJM3ZpQkluUmJ5RF9PQmdlcmJwVlZnT185dWt3RmRaSmpwbjIxWloxd0JQN2dCSmFxMUc2dndLYjQwNmFyNEVkd0RwN1QzWjdTSm9Fdy1zR1ZNTVo1OUs1MGhwYjRjNHFWemJMLXVvRXVFeDJoV1Z3ZWxCUWtIemhJYi0?oc=5",
    "platform": "RSS",
