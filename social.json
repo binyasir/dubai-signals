@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-12T04:40:08Z",
- "newThisRun": 3,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-12T10:52:06Z",
+ "newThisRun": 6,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 21,
-  "reddit": 34,
-  "rss": 130
+  "reddit": 36,
+  "rss": 134
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "error": null
   },
   {
@@ -58,15 +58,15 @@
    "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 36,
+   "items": 29,
    "error": null
   },
   {
@@ -77,6 +77,66 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b6%d8%b1%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-2026-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%af%d9%81%d8%b9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "ضرائب العقارات في بريطانيا 2026.. ماذا يدفع المستثمر عند الشراء والتأجير والبيع؟",
+   "text": "يستعد ملاك العقارات الفاخرة في إنجلترا لتطبيق ضريبة سنوية جديدة على المنازل التي تبلغ قيمتها مليوني جنيه إسترليني (2.7 مليون&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%b6%d8%b1%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-2026-%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%af%d9%81%d8%b9/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T10:52:05Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVduVVFqVmlTR2VvSnBhbXhpUmJ5SFg5RmZMTkJFdHJnUDJIVGZFYjJvNkxUalNKS0xybHFES19ZSk9jQjY2blZFbGVaUjQ3Tmxhd2Vvd3RJdHlCYUFGaXQtMUtRRGdsZlN0dkVtb2pPel9VbTBXeWd3dzdiOHFFZnhJeUFDSk5wbi1VblRubXRHUVVtek5tZA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "The Gulf conflict reaches Dubai’s property market - AnewZ",
+   "text": " The Gulf conflict reaches Dubai’s property market &nbsp;&nbsp; AnewZ ",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVduVVFqVmlTR2VvSnBhbXhpUmJ5SFg5RmZMTkJFdHJnUDJIVGZFYjJvNkxUalNKS0xybHFES19ZSk9jQjY2blZFbGVaUjQ3Tmxhd2Vvd3RJdHlCYUFGaXQtMUtRRGdsZlN0dkVtb2pPel9VbTBXeWd3dzdiOHFFZnhJeUFDSk5wbi1VblRubXRHUVVtek5tZA?oc=5",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T10:52:05Z"
+  },
+  {
+   "id": "rd:t3_1we80zq",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Real Estate Spam",
+   "text": "   I am getting phone calls from Real Estate companies last 15 years. I keep blocking them. Now they switched to USA numbers.   I am also getting lots of Whatsapp spam as well. I keep blocking &amp; reporting them.   Does Whatsapp take action against Business accounts?   Is there any way to stop this syth?   For reference, it was initially personal details registered with developer. However, different details registered with property management company is being spammed as well. So employees in these places are taking and selling &#39;em.     &#32; submitted by &#32;   /u/CountingCrowz       [l",
+   "url": "https://www.reddit.com/r/dubai/comments/1we80zq/real_estate_spam/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T10:51:36Z"
+  },
+  {
+   "id": "rd:t3_1we5lhy",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Can we go directly to the quad bike place instead of booking a full desert safari?",
+   "text": "   Hi everyone, does anyone know if we can go directly to the location where desert safari companies offer quad biking?   Usually, when we book a desert safari package, quad biking is an extra activity and we have to pay separately for it anyway. So I was wondering why not just go there only for quad biking instead of booking the whole safari package?   Has anyone done this before? Do you know the location where these quad bikes are available, and is it possible to visit and rent one directly now?   Would appreciate any recommendations or experiences. Thanks!     &#32; submitted by &#32;   /u/",
+   "url": "https://www.reddit.com/r/dubai/comments/1we5lhy/can_we_go_directly_to_the_quad_bike_place_instead/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T10:51:36Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0k4TkN1TlZZRHZibjlRRFI5ZWgwUEhkdkVqM0NGT0w2Nm1XdkpIdjY1VW83LXVIWlhPd25yWHV5MGxZTkZWNUtTLWdfUVdCUVVENVVFTDB5Tm1BWGsyTHdjUGUxX1REekpicEo5a3N4MDhoZlRqRm8yNW9aUzQ3SzBxNGJrQmdfTnhWOXcwbUZfMUhTdk56eWMxU1BFM2FCemF0ZkE4d2ptUUtoWE1kTkFHM0hTb1I1TlRxejN3TXhEOG4yM2R2akl5cDFRb2Joc2cyYXRZeVZDUQ?oc=5",
    "platform": "RSS",
@@ -2851,6 +2911,36 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:20Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnZZUUlpT1hRVjc2aXBKN2s1U00xXzJDcDUxRmg3bmFoQjBsWEx4MDBnTXJkVjlQMFo1NHlpSms5c1FhV1BOUzNwU2VHOFh2SWNXTGZNTGJDeTVOMnlySjBxUll4WWIzOExSWUo1V0U1SVhVSm8tcjJDT29iTWVucU9kb25LT3FiMWEzMGpWeW1BZTY3X0FCVkFqb19Rb0IydnNBLVFVU3nSAa4BQVVfeXFMTkJOTFFPV1huR09xVUZ0aHNQYmxKX24tMTRpbWREWDdzSV9mSE5uYzRyLVAtYTZheGdJUWUyUXFrd2hVVDJwTU1RR3dTc2dSLUZBcWlJcTVTMHNvRDU0aFVTM3VvVzNsX09pQ21SMllqY2lndXZ2VTdPUU11SEhSOElXUkswc2hjV2NacVhQdjdiejRTWWpyTnJ0MkRnQkJUZF9uUm1sTlluS3UtbGd3?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "El-Sayed in the hot seat for another foreign rental property, nearly $300K in additional income - Fox News",
+   "text": " El-Sayed in the hot seat for another foreign rental property, nearly $300K in additional income &nbsp;&nbsp; Fox News ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnZZUUlpT1hRVjc2aXBKN2s1U00xXzJDcDUxRmg3bmFoQjBsWEx4MDBnTXJkVjlQMFo1NHlpSms5c1FhV1BOUzNwU2VHOFh2SWNXTGZNTGJDeTVOMnlySjBxUll4WWIzOExSWUo1V0U1SVhVSm8tcjJDT29iTWVucU9kb25LT3FiMWEzMGpWeW1BZTY3X0FCVkFqb19Rb0IydnNBLVFVU3nSAa4BQVVfeXFMTkJOTFFPV1huR09xVUZ0aHNQYmxKX24tMTRpbWREWDdzSV9mSE5uYzRyLVAtYTZheGdJUWUyUXFrd2hVVDJwTU1RR3dTc2dSLUZBcWlJcTVTMHNvRDU0aFVTM3VvVzNsX09pQ21SMllqY2lndXZ2VTdPUU11SEhSOElXUkswc2hjV2NacVhQdjdiejRTWWpyTnJ0MkRnQkJUZF9uUm1sTlluS3UtbGd3?oc=5",
+   "date": "2026-07-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T10:52:05Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1lEd3lSOFVyOWtRWXdrLVRENlRNYUJqb0lPckRvLU9HNFVZMDJlZUx3MHZjNUtEU1R5R1hqckFaSE1DOXNfbTVGTzhJa0xfZEN0T3ZzLVJPTmJLWjRaMkJOVThfcmppNVdvNXdtMjRqMkVfaXhLZFdselFzbjRuWnJDdzRJa2JubHNCS0VqYkVOX3JvTElnSlZkaHFBc0s4YjRZOHA2R3VoNm13Q0xz?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "AED 2M Dubai Property Buys a 10-Year Golden Visa as Europe Closes Its Doors - The National Law Review",
+   "text": " AED 2M Dubai Property Buys a 10-Year Golden Visa as Europe Closes Its Doors &nbsp;&nbsp; The National Law Review ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1lEd3lSOFVyOWtRWXdrLVRENlRNYUJqb0lPckRvLU9HNFVZMDJlZUx3MHZjNUtEU1R5R1hqckFaSE1DOXNfbTVGTzhJa0xfZEN0T3ZzLVJPTmJLWjRaMkJOVThfcmppNVdvNXdtMjRqMkVfaXhLZFdselFzbjRuWnJDdzRJa2JubHNCS0VqYkVOX3JvTElnSlZkaHFBc0s4YjRZOHA2R3VoNm13Q0xz?oc=5",
+   "date": "2026-07-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T10:52:05Z"
   }
  ]
 }
