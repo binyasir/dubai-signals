@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-09-12T15:35:16Z",
- "newThisRun": 10,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-12T20:41:53Z",
+ "newThisRun": 1,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 21,
-  "reddit": 39,
+  "reddit": 40,
   "rss": 141
  },
  "sources": [
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 29,
+   "items": 27,
    "error": null
   },
   {
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1wemywy",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Bedbugs in dubai?",
+   "text": "   Just moved to dubai and currently staying at a hotel until I find a flat to rent. I think I saw a bedbug today,checked the reviews of the hotel and so there are 2-3 people saying they found bedbugs. Is it common here? What should I do? Never happened to me before     &#32; submitted by &#32;   /u/Witty-Clue4014       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wemywy/bedbugs_in_dubai/",
+   "date": "2026-09-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-12T20:41:18Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVBoZTlNa0pMV01BOGxGT1Vab0otcDhtT3F6dEc1dEU2a1UtUV9DLUxFM0tva2tYTEh0OU42eHptR01uWFlvREM0cW10dFZZeE1PQ2RNZ2MtMGo5VC13WkM4RG1udDJxSTBYVXoyVlpzYkg0MG9vVy0tbkJ3ZG93N09rc1BEUTVYcFIxME5ESnJvQ1ljRFN2QmRSb23SAaIBQVVfeXFMT3pjSEZYTUhwZ1J4OUNzandYR19ySm1KR0MxbGVjQnozUnJIbXJPRHRsejE1Rk03OWg3WFBGaUs0Z3lfTjl3T3QzcDFDT0lVdDFnakRRM1cwVi0wa0ZuS1poRnJrd2NpRHZWNUhodFdhVU9EcXlCcm5ZbEZueDBLcVpmTFVGdUgzMHVoNjI0QnJmanNjeU9wZHRwdDNxXzhRZHdB?oc=5",
    "platform": "RSS",
