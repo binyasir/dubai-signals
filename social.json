@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-13T16:22:26Z",
- "newThisRun": 21,
+ "generatedAt": "2026-09-13T20:53:29Z",
+ "newThisRun": 8,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 20,
-  "reddit": 94,
-  "rss": 136
+  "youtube": 19,
+  "reddit": 100,
+  "rss": 131
  },
  "sources": [
   {
@@ -36,13 +36,13 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
    "ok": true,
-   "items": 33,
+   "items": 35,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,131 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWTgxM0U1N0N5eGFRYlZyMmRKNkxNRlJKRnA0eklxTkExV1ZDQ3RQZmtoY3Y5dDN0V3pIV0xRM0NOdGQ4STRsZTZyU3dkcEtGaHJlS3p5RXJSYkNielZmdGxaallzVlFaSlN3MkRSTlNvbEtZREl6SHdnMVM4THlDcm1wZmt4eEN0ZHAwU0hUYkJfSXBOZUI1Q2dmUkppcjlfRkNLZUhERktiVnp1TmI1aGVRWkJWVnU4cXNaTldlZFY0VFlMVmNWcTU5Mms2akVlSlc1NW9YQWFUZXhfLXllWHJrVjFFZXpqQUVOQkdZelZEYlNMZDV2Q0FUMnBFUHhoYTdvczEzQUdBd3hXeWNXeVI3ckh4MzhGN1IyQ1dxbXJTamJ2MGNWUHRnZzZQRkdFTFBuS0xLMTlJLWJYZUNpcGQ4dkVDYm5YbVA4NEQwbnNTUQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "من الفخامة إلى الخصوصية.. الاستثمار في العقارات الفاخرة في دبي - Arabisk London",
+   "text": " من الفخامة إلى الخصوصية.. الاستثمار في العقارات الفاخرة في دبي &nbsp;&nbsp; Arabisk London ",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWTgxM0U1N0N5eGFRYlZyMmRKNkxNRlJKRnA0eklxTkExV1ZDQ3RQZmtoY3Y5dDN0V3pIV0xRM0NOdGQ4STRsZTZyU3dkcEtGaHJlS3p5RXJSYkNielZmdGxaallzVlFaSlN3MkRSTlNvbEtZREl6SHdnMVM4THlDcm1wZmt4eEN0ZHAwU0hUYkJfSXBOZUI1Q2dmUkppcjlfRkNLZUhERktiVnp1TmI1aGVRWkJWVnU4cXNaTldlZFY0VFlMVmNWcTU5Mms2akVlSlc1NW9YQWFUZXhfLXllWHJrVjFFZXpqQUVOQkdZelZEYlNMZDV2Q0FUMnBFUHhoYTdvczEzQUdBd3hXeWNXeVI3ckh4MzhGN1IyQ1dxbXJTamJ2MGNWUHRnZzZQRkdFTFBuS0xLMTlJLWJYZUNpcGQ4dkVDYm5YbVA4NEQwbnNTUQ?oc=5",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:29Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnbzg5TlRBWmphVnlBdTQxNWhoeHQwQXJ1S01yVnQtVUYtMGo0NHhYWldEbV95SW1KMjdCNTNjWUV3cjdOWmtnVUZhOA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Why Privacy Is Becoming the New Luxury in Dubai Real Estate? - Arabisk London",
+   "text": " Why Privacy Is Becoming the New Luxury in Dubai Real Estate? &nbsp;&nbsp; Arabisk London ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnbzg5TlRBWmphVnlBdTQxNWhoeHQwQXJ1S01yVnQtVUYtMGo0NHhYWldEbV95SW1KMjdCNTNjWUV3cjdOWmtnVUZhOA?oc=5",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:28Z"
+  },
+  {
+   "id": "rd:t3_1wfijtt",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Dubai vs Abu Dhabi real estate in 2026 — the data says wait on one, buy selectively in the other. What should you do?",
+   "text": "   I’m an advisor, and I’ll be talking about what the title says - Do you buy now, sell your units or should you just wait?   Just a quick disclaimer. This is not AI generated. Not everything is slop. To generalise is just wrong. If you have arguments to the points mentioned, please have a solid one.    Ok so real answer, straight up, it&#39;s not one clean call across the board, it&#39;s by selectively, hold what&#39;s working, and wait on the rest.   Start with Dubai, because that&#39;s where the picture&#39;s actually shifted most since we first got into this. Cavendish Maxwell&#39;s own nu",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wfijtt/dubai_vs_abu_dhabi_real_estate_in_2026_the_data/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:03Z"
+  },
+  {
+   "id": "rd:t3_1wffvyn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Real estate content creation",
+   "text": "   Hey btw an ex real estate agent myself - so yeah I still know the places how it works and what works differently .    I’d love to work with real estate agents who need someone to shoot and edit content to get their personal page started. Not just shooting I’ll brainstorm content ideas, help with scripts, and handle the whole process, bringing my videography, editing and real estate market knowledge to the table.    I’m ready to come shoot one day in a week the content and I have already done sample works for real state agents here in Dubai . DM me if you’re in !     &#32; submitted by &#32;",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wffvyn/real_estate_content_creation/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:03Z"
+  },
+  {
+   "id": "rd:t3_1wfd9u9",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Danube or Damac?",
+   "text": "   I was looking into something cheaper (1.3M) option to invest and came across these 2 well famous developers.  Serenz by Danube has very attractive payment plan, 40% post handover payment. But 1250 unit in a same place, that&#39;s madness, crowded and competitive for rental purpose I guess.  Valencia - Damac Lagoon seems pretty decent too, community style. 50% final paymemt , they are saying it can be mortgage that time.   I more prefer post handover pay but dont like the tower as well.    Any different solution which fix both problem with better outcome?  What other areas I should consider ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wfd9u9/danube_or_damac/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:03Z"
+  },
+  {
+   "id": "rd:t3_1wfcmmz",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Mortgage question",
+   "text": "   Quick question for the group:   Suppose you have a mortgage with a 30% free partial settlement option per year (other banks charge 1% fee).   Would you:   A) Use that 30% to settle part of your mortgage early, or   B) Keep that 30% in a savings deposit earning 5–6% profit per year?   What would you do?     &#32; submitted by &#32;   /u/Zealousideal_Pen8099       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wfcmmz/mortgage_question/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:03Z"
+  },
+  {
+   "id": "rd:t3_1wfci25",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Need Advice. Purchasing property directly from owner without agent!",
+   "text": "   Hi everyone. I need help with step by step process for buying a property directly from owner without any real estate agent in Dubai. Basically owner made a direct ad on facebook about his property. We went and saw the property and agreed on the price. Now I want to know how to proceed with it? Specially how to prepare mou/form F which safeguard the risk. Also it will be a VOT deal as seller is living in the unit. The unit will be sold to us fully furnished. I am a mortgage buyer.    Considering above can anyone guide me step by step process?     &#32; submitted by &#32;   /u/Safe_Emergency6",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wfci25/need_advice_purchasing_property_directly_from/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:53:03Z"
+  },
+  {
+   "id": "rd:t3_1wfdw53",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Sliding glass door replacement",
+   "text": "   I’m lying here in my apartment in downtown trying to sleep,but the constant noise from car engines and horns beeping is waking me up throughout the night. I’m trying to figure out if it’s possible to either refit new soundproof sliding glass doors (balcony in bedroom) or at least hire a reliable company to redo the seals in an effort to improve the soundproofing in the existing doors? It’s an Emaar building so not really sure what’s allowed from their side but I own it so there are no landlord issues. I’ve had shocking luck with renovation companies previously so if anyone had a good experi",
+   "url": "https://www.reddit.com/r/dubai/comments/1wfdw53/sliding_glass_door_replacement/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T20:52:52Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d8%b9%d8%a7%d9%85%d9%84-%d9%85%d8%b9-899-%d8%b4%d9%83%d9%88%d9%89-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d9%88%d8%aa%d9%86%d9%81%d8%b0/",
    "platform": "RSS",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSDFtaU9hdDdubHlYaTNYVEpfUTN2N1Juci1WWW96TFF4eFo3cklUcE0xWmZidkY1V2F0ZmYyWDROdVAtbmZhYkl4NjRpZzRI0gFWQVVfeXFMTjB6eTNLajhDdmVfS1R4VGNoSk9MclNSOHh6TW43ME9qaGh2cmxDcF82aDNjZTJ0SU1QNE0wU1pRYXFLMXl2Vl9xM0RwWmwyVkJMVlA3bFE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "title": "معرض عقاري إماراتي في حيدر آباد بدعم دائرة الأراضي والأملاك في دبي - albayan.ae",
-   "text": " معرض عقاري إماراتي في حيدر آباد بدعم دائرة الأراضي والأملاك في دبي &nbsp;&nbsp; albayan.ae ",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YSDFtaU9hdDdubHlYaTNYVEpfUTN2N1Juci1WWW96TFF4eFo3cklUcE0xWmZidkY1V2F0ZmYyWDROdVAtbmZhYkl4NjRpZzRI0gFWQVVfeXFMTjB6eTNLajhDdmVfS1R4VGNoSk9MclNSOHh6TW43ME9qaGh2cmxDcF82aDNjZTJ0SU1QNE0wU1pRYXFLMXl2Vl9xM0RwWmwyVkJMVlA3bFE?oc=5",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi5wFBVV95cUxObWJ5b1dfMlRpV2dBN3BZMDNadGllMVJ4QWtoX3l1MXZLdUw2Z0pqWUNQYkJMWHhjZUtlMGQxeTZqbkdhWGhvcm10TzlQRUYwa3Jxczg2blVPbzJLMTJ0YjdLSzF2SXlFWEQyMlhOZXNldkJrdUVjVUUxbWR6WUJ0d1k1UjNwY3RKTktud2FSZi10MzFMZVZzRTNLeVpULWc3bldUTmMyNHZWZU5QZVJFeGIxU1VpSEk3d3BpX1ljbm1GUVZnX2dvZVo4eEotNU80NDNqRlF0SGZuMTktZVFNODQzbThhZWvSAewBQVVfeXFMTlJ5aW1VbnczbVZEWFFWTWdDamFCYmNvR19jSG1xYzV0UTN5TDVFUjZqT0FmcTd6ZFpfeTRGMmNQMUhBQ1VIaVF0dWptb2ExQjVfN21ld3RselFiUS1sUkljZHBscDJEYXE4MktjWEVST0x2VkxjWVJEcUctZ2ZMc1NtQkNmanVVVGpNUUNBZVhOT011cU1pR3l4R1hTbXhZSVdHN2M0N19fTGV4Qy1fVElmTkctY1JDY2plbDJyOWkzZ1VEUkprM2hXTXh0X1FKdmZoSVAzNzhNY3d0aGlsb0pvdHFtV2hfTldYWm0?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Good news for Indian tenants: All you need to know about Dubai Land Department’s ‘Flexi Rent’ scheme - theweek.in",
-   "text": " Good news for Indian tenants: All you need to know about Dubai Land Department’s ‘Flexi Rent’ scheme &nbsp;&nbsp; theweek.in ",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObWJ5b1dfMlRpV2dBN3BZMDNadGllMVJ4QWtoX3l1MXZLdUw2Z0pqWUNQYkJMWHhjZUtlMGQxeTZqbkdhWGhvcm10TzlQRUYwa3Jxczg2blVPbzJLMTJ0YjdLSzF2SXlFWEQyMlhOZXNldkJrdUVjVUUxbWR6WUJ0d1k1UjNwY3RKTktud2FSZi10MzFMZVZzRTNLeVpULWc3bldUTmMyNHZWZU5QZVJFeGIxU1VpSEk3d3BpX1ljbm1GUVZnX2dvZVo4eEotNU80NDNqRlF0SGZuMTktZVFNODQzbThhZWvSAewBQVVfeXFMTlJ5aW1VbnczbVZEWFFWTWdDamFCYmNvR19jSG1xYzV0UTN5TDVFUjZqT0FmcTd6ZFpfeTRGMmNQMUhBQ1VIaVF0dWptb2ExQjVfN21ld3RselFiUS1sUkljZHBscDJEYXE4MktjWEVST0x2VkxjWVJEcUctZ2ZMc1NtQkNmanVVVGpNUUNBZVhOT011cU1pR3l4R1hTbXhZSVdHN2M0N19fTGV4Qy1fVElmTkctY1JDY2plbDJyOWkzZ1VEUkprM2hXTXh0X1FKdmZoSVAzNzhNY3d0aGlsb0pvdHFtV2hfTldYWm0?oc=5",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjhEUnU0NWxGaDh6RjVNcFRwOGRFU2JPcmZPLUkwSFpXeEpVSlJYRmlLNm9CZ1B2c0R4bjd6dWNMdUZkZUM3VGVSYkw1QzRXWHRUSWM1NFdOR0VNYzBnT2haMGxJOFVRUF9BNWdjWkZEdXlMV3Q0eU53bWExYTBtdDJkcFFYRXpiTkl6bEtzNjZ1d3lFOUJycDNUR2l6TnhITkQySkNoandfWF9na21oclhuRUY4U1FEdWfSAcwBQVVfeXFMTlpieUhXcFBRQXdQc0k4SUMxRnJ3WlhSQkNJV3Q1V1dva29vbEhPV2VWM0FFTnlyaTlLR201OEJUbmdISWxBZjBZcUVkN1A1S2hLZ1A4VU1FMlFtSFZlTGVNTTdDSGNRcUh3ckpfMUhzdGhUUnliVmhFTGp4azBTV1p4bHlPVU05aDNFRGc5M2dxNG5qdy1iX0FLWUJlZ3lzZUp2X0lZXy1WdFZFdFIzYU5RdGE5UFdaRUhUX25JSDg5dUx4SjhRbkNabXcw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Two-day UAE property showcase in Hyderabad targets Indian investors - Gulf News",
-   "text": " Two-day UAE property showcase in Hyderabad targets Indian investors &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjhEUnU0NWxGaDh6RjVNcFRwOGRFU2JPcmZPLUkwSFpXeEpVSlJYRmlLNm9CZ1B2c0R4bjd6dWNMdUZkZUM3VGVSYkw1QzRXWHRUSWM1NFdOR0VNYzBnT2haMGxJOFVRUF9BNWdjWkZEdXlMV3Q0eU53bWExYTBtdDJkcFFYRXpiTkl6bEtzNjZ1d3lFOUJycDNUR2l6TnhITkQySkNoandfWF9na21oclhuRUY4U1FEdWfSAcwBQVVfeXFMTlpieUhXcFBRQXdQc0k4SUMxRnJ3WlhSQkNJV3Q1V1dva29vbEhPV2VWM0FFTnlyaTlLR201OEJUbmdISWxBZjBZcUVkN1A1S2hLZ1A4VU1FMlFtSFZlTGVNTTdDSGNRcUh3ckpfMUhzdGhUUnliVmhFTGp4azBTV1p4bHlPVU05aDNFRGc5M2dxNG5qdy1iX0FLWUJlZ3lzZUp2X0lZXy1WdFZFdFIzYU5RdGE5UFdaRUhUX25JSDg5dUx4SjhRbkNabXcw?oc=5",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "yt:FT8tzFscqTI",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "betterhomes",
-   "title": "Your game needs a bigger pitch",
-   "text": "Some talent needs a bigger pitch.\n\nEvery ambitious broker reaches a point where effort isn't the thing holding them back. The talent is there. The drive is there. What's missing is room to use it, a bigger pitch, a stronger side, a game that actually tests you.\nIn real estate, talent and determination matter. But so does what's behind you, the clients you can reach, the visibility your listings get, and the support waiting when a real opportunity comes in.\nAt betterhomes, our brokers are backed by:\n\n1.7M+ clients in our database\n170,000+ monthly website visits\n5x greater property portal exposu",
-   "url": "https://www.youtube.com/watch?v=FT8tzFscqTI",
-   "date": "2026-08-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "16 views",
-   "firstSeenAt": "2026-09-11T16:01:54Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMif0FVX3lxTE92Z3Z3YzN3aVp6S0NpZThTUmVySkNPa0FkLVlLM3hJVHNSZXBxWmttOVY3eFRoTHdabGpmTGJjMmVrVWVhbE5aNWtkX09EdGg0Zk1FblMxY01lWmVKUTY2eTBNbGlVSmxQSUFJeTFZNVM0cXM1enZmMFdPZ3VzT1k?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property market rebounds as sales rise and investors return - Arabian Business",
-   "text": " Dubai property market rebounds as sales rise and investors return &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92Z3Z3YzN3aVp6S0NpZThTUmVySkNPa0FkLVlLM3hJVHNSZXBxWmttOVY3eFRoTHdabGpmTGJjMmVrVWVhbE5aNWtkX09EdGg0Zk1FblMxY01lWmVKUTY2eTBNbGlVSmxQSUFJeTFZNVM0cXM1enZmMFdPZ3VzT1k?oc=5",
-   "date": "2026-08-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjVlOThjVm9WcDM1ZVJNTXlsUXFNSG1QR29aZ2ZuV3l0dEdua210OG1WVkFfcmtwX0t5ZGluX1lFRjhZNk0zMWZYdkhqRGU4aTBkQWJsNzZQRnVuNHRyb21rejIxSjBkbGN3WUFXZ3Ffd3hYV2dkZ01VdVlic2tiSTU3RVVLSjVlRVlaR1RNN0hJaGFOV0h6Y1g0bXpyMHowQ19QYkVkR2g4RmtNVnJ4VkhFUHZfX2ZYOF9IQm84RTJ1Q3ZULXk2TEtwQTdYRzFVMVBSWdIB3AFBVV95cUxQREw3RjdLcEdRRW9EQ0JUV29VVVJON2tPVEVMZ2VQQmNfd3l5YnRkcXRlT09LWVJveEptZVJhYU8taENXQklWbERWaVJGTW90dHctQ0JIZDRxZ1l0dVdtNDJsMHY3VkprVm5QU2FfSUtGUS1ONGF4Sk0yb1MyTm5aZGFWU2ZyUzIxVGhLbEw0X2xhSk4taktYUmxCOXk4S2k2ZEF6VWhrZVhmVlRUblZvXzVpekxjTmpmNmRfbmF6TGFMOWx2eWp0Wm96RU5QTGhhZy1zRkEyNTgzQnNW?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Who is buying Dubai property in 2026? Inside the changing real estate buyer profile - Khaleej Times",
-   "text": " Who is buying Dubai property in 2026? Inside the changing real estate buyer profile &nbsp;&nbsp; Khaleej Times ",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjVlOThjVm9WcDM1ZVJNTXlsUXFNSG1QR29aZ2ZuV3l0dEdua210OG1WVkFfcmtwX0t5ZGluX1lFRjhZNk0zMWZYdkhqRGU4aTBkQWJsNzZQRnVuNHRyb21rejIxSjBkbGN3WUFXZ3Ffd3hYV2dkZ01VdVlic2tiSTU3RVVLSjVlRVlaR1RNN0hJaGFOV0h6Y1g0bXpyMHowQ19QYkVkR2g4RmtNVnJ4VkhFUHZfX2ZYOF9IQm84RTJ1Q3ZULXk2TEtwQTdYRzFVMVBSWdIB3AFBVV95cUxQREw3RjdLcEdRRW9EQ0JUV29VVVJON2tPVEVMZ2VQQmNfd3l5YnRkcXRlT09LWVJveEptZVJhYU8taENXQklWbERWaVJGTW90dHctQ0JIZDRxZ1l0dVdtNDJsMHY3VkprVm5QU2FfSUtGUS1ONGF4Sk0yb1MyTm5aZGFWU2ZyUzIxVGhLbEw0X2xhSk4taktYUmxCOXk4S2k2ZEF6VWhrZVhmVlRUblZvXzVpekxjTmpmNmRfbmF6TGFMOWx2eWp0Wm96RU5QTGhhZy1zRkEyNTgzQnNW?oc=5",
-   "date": "2026-08-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMid0FVX3lxTFBaWjdLcGU1VlZJM3FhZlpDUnppd2doLVFieURySkZPQnRsY0J2VjFKR1FiQW5hc01Tb1hfN0tENVp4RGpNaUFDbEFVWUJKcE1mYldYMlZvWkpNVzhZMTAwT1BqaDhJaXRYUXprUHZJMGFBc3VEcG1F?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Dubai to launch 0% interest ‘rent now, pay later’ scheme - Arabian Business",
-   "text": " Dubai to launch 0% interest ‘rent now, pay later’ scheme &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaWjdLcGU1VlZJM3FhZlpDUnppd2doLVFieURySkZPQnRsY0J2VjFKR1FiQW5hc01Tb1hfN0tENVp4RGpNaUFDbEFVWUJKcE1mYldYMlZvWkpNVzhZMTAwT1BqaDhJaXRYUXprUHZJMGFBc3VEcG1F?oc=5",
-   "date": "2026-08-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T16:02:24Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiugFBVV95cUxQSE5sTWUxR0oxNEhxYmlmSkRORk93Rk12M3FvSUgtbTJheXBzdnBVRUN4WW03QmhHTVF5ckNrSkFmSEZpcFljNG0wZ1NpZjR0aXUwQnFQM19reHVhdUlrLVRBNFVpMUJzR3ZXSFl4X0hhLVMzZEt1cmFaR25GOXU4ekZRdy1WelNTRkR3R3o0RGNhTTNBNG5HdUg5bTk0WGdtMGN1MGdUckdQc0tNUXZxTDFqeEdBQUdYNVE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "title": "Abu Dhabi’s property market just hit a milestone nobody expected this early - Arabian Business",
-   "text": " Abu Dhabi’s property market just hit a milestone nobody expected this early &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSE5sTWUxR0oxNEhxYmlmSkRORk93Rk12M3FvSUgtbTJheXBzdnBVRUN4WW03QmhHTVF5ckNrSkFmSEZpcFljNG0wZ1NpZjR0aXUwQnFQM19reHVhdUlrLVRBNFVpMUJzR3ZXSFl4X0hhLVMzZEt1cmFaR25GOXU4ekZRdy1WelNTRkR3R3o0RGNhTTNBNG5HdUg5bTk0WGdtMGN1MGdUckdQc0tNUXZxTDFqeEdBQUdYNVE?oc=5",
-   "date": "2026-08-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:20Z"
   }
  ]
 }
