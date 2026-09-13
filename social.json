@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-13T04:53:25Z",
- "newThisRun": 33,
- "sourcesOk": 7,
+ "generatedAt": "2026-09-13T11:57:14Z",
+ "newThisRun": 5,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 21,
-  "reddit": 72,
-  "rss": 142
+  "reddit": 74,
+  "rss": 145
  },
  "sources": [
   {
@@ -16,16 +16,16 @@
    "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
    "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
@@ -36,20 +36,20 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 4,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 32,
-   "error": null
-  },
-  {
-   "source": "r/UAE",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
+  },
+  {
+   "source": "r/UAE",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 26,
+   "items": 25,
    "error": null
   },
   {
@@ -77,6 +77,66 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9DNEtieHhnVW9SUWx1WXVYdHdxQ0xSWlJuTEQ1Mkt3ZW1lMGN2VlpVVXBWZEZWc1NPWTl2MDUtVV9vVlVyLUJCT1Q3X2c1UF9JYktja01lajRiN01UR2ZSM3M2WGdyNDZ1SVE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "كيف كان أداء سوق العقارات في دبي خلال الـ 8 أشهر الأولى من 2026؟ - ارقام",
+   "text": " كيف كان أداء سوق العقارات في دبي خلال الـ 8 أشهر الأولى من 2026؟ &nbsp;&nbsp; ارقام ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DNEtieHhnVW9SUWx1WXVYdHdxQ0xSWlJuTEQ1Mkt3ZW1lMGN2VlpVVXBWZEZWc1NPWTl2MDUtVV9vVlVyLUJCT1Q3X2c1UF9JYktja01lajRiN01UR2ZSM3M2WGdyNDZ1SVE?oc=5",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T11:57:14Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d8%aa%d9%86%d9%85%d9%88-21-%d8%a5%d9%84%d9%89-827-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إيرادات \"أرادَ\" تنمو 21% إلى 827.5 مليون دولار في النصف الأول 2026",
+   "text": "سجلت شركة التطوير العقاري أرادَ Arada ، ومقرها الشارقة، نمواً بنسبة 21% في إيراداتها خلال النصف الأول من عام 2026،&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d8%aa%d9%86%d9%85%d9%88-21-%d8%a5%d9%84%d9%89-827-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%81/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T11:57:13Z"
+  },
+  {
+   "id": "rd:t3_1wf46n1",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Abu Dhabi's new off-plan mortgage framework expected to support property market",
+   "text": "              &#32; submitted by &#32;   /u/TheNational_News       [link]   &#32;   [comments]      ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wf46n1/abu_dhabis_new_offplan_mortgage_framework/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T11:57:01Z"
+  },
+  {
+   "id": "rd:t3_1weyql7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Studio rent in dubai",
+   "text": "   Hello! I’m a female currently working in Dubai. I’m planning to rent a place in Azizi, and I’m looking for a female roommate to share the apartment with. 😊     &#32; submitted by &#32;   /u/Traditional_Base_108       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1weyql7/studio_rent_in_dubai/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T11:57:01Z"
+  },
   {
    "id": "rd:t3_1wevq9y",
    "platform": "Reddit",
@@ -691,6 +751,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-12T04:40:08Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiugRBVV95cUxPeEJlQkQ4UkVMNGw0NTJoN0dRQURHZ2tOX3FFbGowT3JtOU5UUzhTdzB2c0I3bjV6aDhDeHZBRTJ5ejRfcWhuT3hJNVJNcnNDSmtyczF0Y3plTHRla19NajVCcDhSb2pETHNEM0g0VGl5TEQtNEIwN0EwQmRFY2prT2p1Y0Q2N1ZHU0NHY0xBVk9oNVh4bThlbHo2WUpmRUFOSkFodUZLZkRfcWp5YVhkZUJJaGhMU2VsUGEwQ05GZ1dhRUJfQ01zclBBTmNVYVFDMVREUVdvcDNzZUNEUkZqZkNNbnJKVEtQUXhBQ1V6ZXBhZ2RrN0FGMzlSNXNTYnhXak11LU1iUDJpeEkybW96bFNCMjhnUFZkS1B0QjdZY0ZLQ0czNXFHUDRzOUszRUU2SG41bTc1SURrWGl1M1FCeVlyYlBMdU9LV1dwOEJreHNrZmJEb1JwYm4zcE9hTlJsTlFUdUV3UUdRYTNiQ0lLNHN5dGhUSVY5ZnNVT3FWLU1CTXZrNEFCbFpkcGlCNWQtUjAxa19tNG5kSEczZTl2WExnYzRvejlWMXF1alNHeFdJYkdtb1NseEdNSU5FazN2cFNwb2pJWm1rOXM2X1JJOEZ5VGNFZXF0WnhSdmwtUERMclJrUnhsamJES0VSXzFGdHZXbUR1Sk9oOWlHWkdMM0p3alg0b29fRFc4Xy1CMVBEMTdySDBFaFgxRWxkUEs2aVdITHdNM0lSUkl1MFVQSjBmc3RwclROb0E?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "«أراضي دبي» تستعرض نموذجاً متقدماً لتنظيم السوق العقاري وتطويره رقمياً - aletihad.ae",
+   "text": " «أراضي دبي» تستعرض نموذجاً متقدماً لتنظيم السوق العقاري وتطويره رقمياً &nbsp;&nbsp; aletihad.ae ",
+   "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxPeEJlQkQ4UkVMNGw0NTJoN0dRQURHZ2tOX3FFbGowT3JtOU5UUzhTdzB2c0I3bjV6aDhDeHZBRTJ5ejRfcWhuT3hJNVJNcnNDSmtyczF0Y3plTHRla19NajVCcDhSb2pETHNEM0g0VGl5TEQtNEIwN0EwQmRFY2prT2p1Y0Q2N1ZHU0NHY0xBVk9oNVh4bThlbHo2WUpmRUFOSkFodUZLZkRfcWp5YVhkZUJJaGhMU2VsUGEwQ05GZ1dhRUJfQ01zclBBTmNVYVFDMVREUVdvcDNzZUNEUkZqZkNNbnJKVEtQUXhBQ1V6ZXBhZ2RrN0FGMzlSNXNTYnhXak11LU1iUDJpeEkybW96bFNCMjhnUFZkS1B0QjdZY0ZLQ0czNXFHUDRzOUszRUU2SG41bTc1SURrWGl1M1FCeVlyYlBMdU9LV1dwOEJreHNrZmJEb1JwYm4zcE9hTlJsTlFUdUV3UUdRYTNiQ0lLNHN5dGhUSVY5ZnNVT3FWLU1CTXZrNEFCbFpkcGlCNWQtUjAxa19tNG5kSEczZTl2WExnYzRvejlWMXF1alNHeFdJYkdtb1NseEdNSU5FazN2cFNwb2pJWm1rOXM2X1JJOEZ5VGNFZXF0WnhSdmwtUERMclJrUnhsamJES0VSXzFGdHZXbUR1Sk9oOWlHWkdMM0p3alg0b29fRFc4Xy1CMVBEMTdySDBFaFgxRWxkUEs2aVdITHdNM0lSUkl1MFVQSjBmc3RwclROb0E?oc=5",
+   "date": "2026-09-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-13T11:57:14Z"
   },
   {
    "id": "rd:t3_1wdv6g9",
