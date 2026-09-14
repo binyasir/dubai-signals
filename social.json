@@ -1,55 +1,55 @@
 {
- "generatedAt": "2026-09-13T20:53:29Z",
+ "generatedAt": "2026-09-14T05:02:55Z",
  "newThisRun": 8,
- "sourcesOk": 9,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 19,
-  "reddit": 100,
-  "rss": 131
+  "youtube": 17,
+  "reddit": 105,
+  "rss": 128
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 11,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 35,
-   "error": null
-  },
-  {
-   "source": "r/UAE",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
+  },
+  {
+   "source": "r/UAE",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -59,14 +59,14 @@
   },
   {
    "source": "https://masdarak.com/feed/",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "error": "unchanged"
+   "error": "URLError"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 33,
    "error": null
   },
   {
@@ -77,6 +77,96 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTE1OUi1YSFJwUTVRS21NWmc3c0Z4ajUzQW9YTGxSMnpoOEZVZHhieXlyeG5VemNnMlZXakpEakpCT3Q3TGpUcmp2ZFBocG5RdzdfWXdxWWtSX25Kb3NQcWxaQnVZVW1IeS1mMi14a2FiWFluUdIBjAFBVV95cUxOYTlDeUNsVnZxcm43cFlfOGdsb1cxSVNpNUxMVVZiZkdqbXA2WTNaRDNSY2ZBeW5IQ2NfbWxhVExRZUVFMUpJT2FzaE1XYlZPY1dhRjE2WUJvaFRMbko1enQtdzRMZzhyS1VKMjdiVkFtdzFTTDY0dE1ZdEhkOXFCMUpGZUFyREcyNFdKVg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "قوة الطلب على العقارات الجاهزة تُعزّز سوق الرهن العقاري في دبي - الإمارات اليوم",
+   "text": " قوة الطلب على العقارات الجاهزة تُعزّز سوق الرهن العقاري في دبي &nbsp;&nbsp; الإمارات اليوم ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUi1YSFJwUTVRS21NWmc3c0Z4ajUzQW9YTGxSMnpoOEZVZHhieXlyeG5VemNnMlZXakpEakpCT3Q3TGpUcmp2ZFBocG5RdzdfWXdxWWtSX25Kb3NQcWxaQnVZVW1IeS1mMi14a2FiWFluUdIBjAFBVV95cUxOYTlDeUNsVnZxcm43cFlfOGdsb1cxSVNpNUxMVVZiZkdqbXA2WTNaRDNSY2ZBeW5IQ2NfbWxhVExRZUVFMUpJT2FzaE1XYlZPY1dhRjE2WUJvaFRMbko1enQtdzRMZzhyS1VKMjdiVkFtdzFTTDY0dE1ZdEhkOXFCMUpGZUFyREcyNFdKVg?oc=5",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:02:55Z"
+  },
+  {
+   "id": "rd:t3_1wftxra",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "DU/e& wireless Home Internet",
+   "text": "   We are 8 colleagues sharing a 2BHK apartment, and we expect around 10–11 devices to be connected to the internet at the same time.   I would like to get some advice regarding the Wireless Home Internet packages offered by du and e&amp;, which cost around AED 230 per month and provide speeds of up to 250 Mbps.   Would a 250 Mbps connection be sufficient for 8 people and around 10–11 devices, considering normal usage such as browsing, YouTube/Netflix, social media &amp; video calls ?   Also, are the routers provided with these packages powerful enough to provide good Wi-Fi coverage throughout",
+   "url": "https://www.reddit.com/r/UAE/comments/1wftxra/due_wireless_home_internet/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:01:06Z"
+  },
+  {
+   "id": "rd:t3_1wfpizk",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Buying property for a Golden Visa: has anyone used a visa rejection/refund clause?",
+   "text": "   I&#39;m considering buying property in Dubai to apply for a Golden Visa, but I&#39;m concerned about committing to the purchase and then having the visa refused. I&#39;m coming from a country where young men reportedly face higher UAE visa rejection rates, so I&#39;d especially appreciate firsthand experiences from anyone in a similar situation.   Has anyone successfully included a clause in the purchase agreement making the sale conditional on Golden Visa approval, with the deposit/purchase payments refundable if the visa is rejected? Did a developer or a private seller accept it, and has ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wfpizk/buying_property_for_a_golden_visa_has_anyone_used/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:01:06Z"
+  },
+  {
+   "id": "rd:t3_1wfty57",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Moving from India to Dubai — was it worth it, and what do you wish you'd known?",
+   "text": "   Considering a move from Gurgaon to Dubai. Work is remote and my business is already structured with a free zone entity there, so this isn&#39;t a question about setup or visas. It&#39;s a question about life.   I have a young kid, so this is a decade-long decision, not a two-year experiment.   Looking for people who have actually made the India to Dubai move, ideally with family:   - What did you underestimate? School fees, rent escalation, the summer, something else?   - Does it start to feel temporary after a few years — like you&#39;re always one job or one visa away from leaving?   - Ho",
+   "url": "https://www.reddit.com/r/dubai/comments/1wfty57/moving_from_india_to_dubai_was_it_worth_it_and/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:00:44Z"
+  },
+  {
+   "id": "rd:t3_1wfs0kb",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Car accident advice",
+   "text": "   Got into a minor car accident and received the green report (not at fault). I have full comprehensive insurance with Qatar insurance.    The question is, do I contact my own insurance and they handle everything, or do I directly contact the at-fault party&#39;s insurance (Liva)?   Also, while my car is being repaired, would I be entitled to a free rental during that period? (I guess that depends on which ever insurance I&#39;m contacting?)     &#32; submitted by &#32;   /u/ignorant_physicist       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wfs0kb/car_accident_advice/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:00:44Z"
+  },
+  {
+   "id": "rd:t3_1wfduv9",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Anyone paying mortgage",
+   "text": "   Suppose you have a mortgage with a 30% free partial settlement option per year (other banks charge 1% fee).   Would you:   A) Use that 30% to settle part of your mortgage early (3.99% rate), or   B) Keep that 30% in a savings deposit earning 5–6% profit per year?   What would you do?     &#32; submitted by &#32;   /u/Zealousideal_Pen8099       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wfduv9/anyone_paying_mortgage/",
+   "date": "2026-09-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:01:06Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWTgxM0U1N0N5eGFRYlZyMmRKNkxNRlJKRnA0eklxTkExV1ZDQ3RQZmtoY3Y5dDN0V3pIV0xRM0NOdGQ4STRsZTZyU3dkcEtGaHJlS3p5RXJSYkNielZmdGxaallzVlFaSlN3MkRSTlNvbEtZREl6SHdnMVM4THlDcm1wZmt4eEN0ZHAwU0hUYkJfSXBOZUI1Q2dmUkppcjlfRkNLZUhERktiVnp1TmI1aGVRWkJWVnU4cXNaTldlZFY0VFlMVmNWcTU5Mms2akVlSlc1NW9YQWFUZXhfLXllWHJrVjFFZXpqQUVOQkdZelZEYlNMZDV2Q0FUMnBFUHhoYTdvczEzQUdBd3hXeWNXeVI3ckh4MzhGN1IyQ1dxbXJTamJ2MGNWUHRnZzZQRkdFTFBuS0xLMTlJLWJYZUNpcGQ4dkVDYm5YbVA4NEQwbnNTUQ?oc=5",
    "platform": "RSS",
@@ -2943,6 +3033,21 @@
    "firstSeenAt": "2026-09-11T15:56:17Z"
   },
   {
+   "id": "rs:https://news.google.com/rss/articles/CBMimAFBVV95cUxOby1nc003ZlN4YWdCaUIzTER2ai1oX1k2NjU1cXNiU18weGdLNE05YkE2MVd6SGFSanFHbzY0ckhoOEpsb1Yxd3JnR1hoR19MVE9EWTNIVnZDWG1IcDNQaDFWbXpmVk9NMkpqWnNTTmt4UmZEeHFTRFVaNDNYLWxkUi05SzdHaTlDNUFHZGx1aUNGcjlnc1NqYdIBoAFBVV95cUxOamVVSExTTDZzUEVRLUM4bS1TZUMyclp6UG5zZm01NjdVcm1YYUs4SDNoZVRXVEVTUFNEdV8zbmJZMkFPU28wUGQ5UjQ4azFLeEdlamxLM0Y2UjBwcG1xS0VGVGdmLWFzczg1bXBzS05SM0ptUGM4T1hGNTVnWWlUOG9SYlZDeWV0OVFGNXN1cklfZ0VwbmJaTkhhdWtQMG9W?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate activity continues to remain elevated - Khaleej Times",
+   "text": " Dubai real estate activity continues to remain elevated &nbsp;&nbsp; Khaleej Times ",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOby1nc003ZlN4YWdCaUIzTER2ai1oX1k2NjU1cXNiU18weGdLNE05YkE2MVd6SGFSanFHbzY0ckhoOEpsb1Yxd3JnR1hoR19MVE9EWTNIVnZDWG1IcDNQaDFWbXpmVk9NMkpqWnNTTmt4UmZEeHFTRFVaNDNYLWxkUi05SzdHaTlDNUFHZGx1aUNGcjlnc1NqYdIBoAFBVV95cUxOamVVSExTTDZzUEVRLUM4bS1TZUMyclp6UG5zZm01NjdVcm1YYUs4SDNoZVRXVEVTUFNEdV8zbmJZMkFPU28wUGQ5UjQ4azFLeEdlamxLM0Y2UjBwcG1xS0VGVGdmLWFzczg1bXBzS05SM0ptUGM4T1hGNTVnWWlUOG9SYlZDeWV0OVFGNXN1cklfZ0VwbmJaTkhhdWtQMG9W?oc=5",
+   "date": "2026-09-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:02:55Z"
+  },
+  {
    "id": "rs:https://news.google.com/rss/articles/CBMikgJBVV95cUxNclVDMExIRExGN0ZHVUQtSnlKaHpnd296eFBEMGF4VWppYktwcTJodWs3eTRrWU1lblQySmczSWV5X0Y2S2w0SlFhYWdfbUpSMW45MWZLZ2ppNk1DS1poN3R2d05NaEgtZ01pVnluZDFkdmxxenc3d0RScUI2VzFhc2FvRXJoUHBTa01GVDlXSVVBSG54N00wS05NR3B4UDNjRkxtTy1BQjdMSWdJN2NaUFlvdVBXUURRclJMXzJtQlE5UG5GTFllSU1zckllWFVZejhVQTd1VllCM09Fc2JOZm51ZDd5TUJFcXpqdlAyN0EycGxteDR1MDNqaGxSNVpEeVgxbEczSlI3Qy1Wb3ZUdUpn0gGiAkFVX3lxTE5QcDhkQjhSTW51Q28zNUxqNFFIdnRYb0xHaTcxb0hzcDgtSnQ2dkhGdUg3TkFlQUNnajREVHRBTW5Mb2lVQm1meDBPWFh1VlFVbDVDQnpkdEpNcFg3WE5Na1pIS2RRTTJjTVREYjRNalEwaG5jaGswc2JBVEZjTGpfYkpUbjVFZy0tcTNsb3VTSmV5bnl6cW56YW9NVmJHZDdGS2p3cE1RejVRT1RYRW11bVZpQU1kaWExblQ3dVlaazFsZVRDQ0otMzIxdnJYajNDZkQtZzNmQU5vNHJIZ2hGNUxXWVp1V1dwLTE1UUpHYkNBaW5YMnVkT2dESFhyVHVHZzFVbEY5UGJaNXVDSThHX3FMZVVodFBOazlWNlRXQ3J3?oc=5",
    "platform": "RSS",
    "channel": "News",
@@ -3378,6 +3483,21 @@
    "firstSeenAt": "2026-09-11T15:56:18Z"
   },
   {
+   "id": "rs:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmFfalZZMEFkbFJCOVJhNkxQUU5laFFJNk9VbXBlSUtGekdRNHY0TjVOLUNkZUhwYTJEZ0VPM2FKODZGNlAzVURZT1FIVE1IVnVqN05ncmQ2VkdFWmdsVkZwUXA3YUpUUWZCMklOcE1jY2hqZ0xDQmNxWkl3NV93dVJTSDlKLThLWVU1SHl3RzZSOUllVHRJVGN3ZlVNNzMyVi13enhaQ3JWbHZyYzdmT2s3eEVwWk1H?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property: $61.5m Palm Jumeirah home sold as prices hit $3,057 per sq ft - arabianbusiness.com",
+   "text": " Dubai property: $61.5m Palm Jumeirah home sold as prices hit $3,057 per sq ft &nbsp;&nbsp; arabianbusiness.com ",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmFfalZZMEFkbFJCOVJhNkxQUU5laFFJNk9VbXBlSUtGekdRNHY0TjVOLUNkZUhwYTJEZ0VPM2FKODZGNlAzVURZT1FIVE1IVnVqN05ncmQ2VkdFWmdsVkZwUXA3YUpUUWZCMklOcE1jY2hqZ0xDQmNxWkl3NV93dVJTSDlKLThLWVU1SHl3RzZSOUllVHRJVGN3ZlVNNzMyVi13enhaQ3JWbHZyYzdmT2s3eEVwWk1H?oc=5",
+   "date": "2026-08-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T05:02:55Z"
+  },
+  {
    "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXo0dTFvdG5kVmNJTVRpbEFHMUlPNlNyS2VLUjVfdXU0UXRoRmx0NXozZ204d3pLeFdIZExKTF9EQ09INjBDZ1RiWjMzQm9zSG1Nak8xd0VsSHpqTXFmWENmQjY2TE5GVmt3WThXRTVWY3paYnBfSEloT0VwRTNXZHIxaW5EMnpBdHBLX29fTU11ODUzalloM3BneHhqUkhuR0kySw?oc=5",
    "platform": "RSS",
    "channel": "News",
@@ -3702,126 +3822,6 @@
    "text": " Dubai Real Estate H1 2026: 38.7% Rise in Projects, 52% Increase in Investment Value - News and Statistics &nbsp;&nbsp; IndexBox ",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0hwclpKdXNCb3pwSV9YVWlHcFExbzdDeDU2Qy1QV2V2blh6SGhUZ25icF9pdExabDJGQzJSOHlvOWp3dEZ1bXVrVEx1YVh6aVJHS3lWa1JyQkZTeWgwbVRpUzBNemVsc0FxLUdHMHgtVWFrNHF1R25Zb0dyQWdlZGhkQnE0X1BCOFNON1dFYktUaXBHcE1lQl9tV3pJU0xKcWRIRnhpT1laS0x5TUFPbE1EVF8?oc=5",
    "date": "2026-08-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUJqdFgxWjE0U0tzR2RaMVRLdjliZ0w0dnhRN0xfRjAwOExtRmQ4bExKVG5BSV9IYnJNM2Q5dHFhZ2NTOVJkbnYtUmpfMnhUXzZyU0RZbi10akxVOXZ4RWJVSWwyLW5BbjlWMElaRHM3Q2YzLV8xNVJUdXYzR0tjcjFZSXJGWElqUXhpcU15R3RERGRkVUpROGhMMA?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Dubai’s real estate sector completes 104 projects valued at over AED111 billion in H1 2026 - وكالة وام",
-   "text": " Dubai’s real estate sector completes 104 projects valued at over AED111 billion in H1 2026 &nbsp;&nbsp; وكالة وام ",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUJqdFgxWjE0U0tzR2RaMVRLdjliZ0w0dnhRN0xfRjAwOExtRmQ4bExKVG5BSV9IYnJNM2Q5dHFhZ2NTOVJkbnYtUmpfMnhUXzZyU0RZbi10akxVOXZ4RWJVSWwyLW5BbjlWMElaRHM3Q2YzLV8xNVJUdXYzR0tjcjFZSXJGWElqUXhpcU15R3RERGRkVUpROGhMMA?oc=5",
-   "date": "2026-08-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2RKckxJSWZfRFlidVVNT3Vvc3IwLUZtV3RsbWc0NkwxM0lmVFZfWVMyZmdLLU4zbTNlUUtBajJfV2NTVDdaNWsyQkE3d2VRTFc5bU9IOFoyM2J1LXJkNkJUOXR5bjdoeE0wR09sWkR0RUwwOEhjeDlVTGVpZG0zcHRGbVkxV1VJVWxaWmJod01ReEdXdGZ1eHZpRUpfZFE5bFlCSlZyMndrZnZiMjUxNU9lRDVIVktBV1Z0cVZNVmw3OFhlM2ZwaHNCeXFPWkxMb0lmS2dyeFI?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Investments in completed Dubai property projects top $30bn in first half of 2026 - thenationalnews.com",
-   "text": " Investments in completed Dubai property projects top $30bn in first half of 2026 &nbsp;&nbsp; thenationalnews.com ",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2RKckxJSWZfRFlidVVNT3Vvc3IwLUZtV3RsbWc0NkwxM0lmVFZfWVMyZmdLLU4zbTNlUUtBajJfV2NTVDdaNWsyQkE3d2VRTFc5bU9IOFoyM2J1LXJkNkJUOXR5bjdoeE0wR09sWkR0RUwwOEhjeDlVTGVpZG0zcHRGbVkxV1VJVWxaWmJod01ReEdXdGZ1eHZpRUpfZFE5bFlCSlZyMndrZnZiMjUxNU9lRDVIVktBV1Z0cVZNVmw3OFhlM2ZwaHNCeXFPWkxMb0lmS2dyeFI?oc=5",
-   "date": "2026-08-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "yt:uUTYkHb-npY",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "betterhomes",
-   "title": "The lengths our agents go to make sure your property gets seen… 😭",
-   "text": "Thinking of selling or renting?\nCall betterhomes. We’ve clearly committed to the bit. 😉\n\nhttps://www.bhomes.com/en/contact",
-   "url": "https://www.youtube.com/shorts/uUTYkHb-npY",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "188 views",
-   "firstSeenAt": "2026-09-11T16:01:54Z"
-  },
-  {
-   "id": "yt:ARRSyhaUczo",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "betterhomes",
-   "title": "A limited villa release at Bayn | Dubai & Abu Dhabi",
-   "text": "Y Views at Bayn offers a limited release of Core Villas within a waterfront master community designed for long-term demand.\n\n • 3 & 4-bedroom villas\n • Limited villa inventory\n • Starting from AED 6.5M\n • 60/40 payment plan available\n\nGet in touch with our team to explore availability, pricing and EOI details.\nhttps://www.bhomes.com/en/contact",
-   "url": "https://www.youtube.com/shorts/ARRSyhaUczo",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "62 views",
-   "firstSeenAt": "2026-09-11T16:01:54Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzNUdWRnNzFtUUxMZndMbHdZSzRFX3dseGZEM2lHNVhhYUpJVEN5QzZzMWlfM0FkVnRabG5KdWJfMFQ3S2hTRWRZcWFMR3YxZndCVGF6dWxZVndtSU1LY0JBYk9seDlFa2luNWs3YUIxMEJBYTVid0JrWjBDeVQwOXBR?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "title": "Abu Dhabi property sales surge to $19.2bn as apartment prices jump 20% and foreign buyers drive market - Arabian Business",
-   "text": " Abu Dhabi property sales surge to $19.2bn as apartment prices jump 20% and foreign buyers drive market &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzNUdWRnNzFtUUxMZndMbHdZSzRFX3dseGZEM2lHNVhhYUpJVEN5QzZzMWlfM0FkVnRabG5KdWJfMFQ3S2hTRWRZcWFMR3YxZndCVGF6dWxZVndtSU1LY0JBYk9seDlFa2luNWs3YUIxMEJBYTVid0JrWjBDeVQwOXBR?oc=5",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:20Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMikgFBVV95cUxQeG4yTEhIY015TVNma3VUZHdBRUJrcVl0dUREb0xqZlZlMFNhRVcyRVNSdVVoQ2xCTEhNYWhqanJOZ3hwci1DY0QxU1ZHUTFVN05kWi1yM2ZoUTU3OHpqaHRBUHo0dF9mZ21iQktEVU1wcHI0NGpYQkVXQjFkS18wVUxiY1VraTZfYV9CUTAxZDlLUQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "title": "ADREC releases Abu Dhabi Real Estate Market Report for H1 2026 - وكالة وام",
-   "text": " ADREC releases Abu Dhabi Real Estate Market Report for H1 2026 &nbsp;&nbsp; وكالة وام ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeG4yTEhIY015TVNma3VUZHdBRUJrcVl0dUREb0xqZlZlMFNhRVcyRVNSdVVoQ2xCTEhNYWhqanJOZ3hwci1DY0QxU1ZHUTFVN05kWi1yM2ZoUTU3OHpqaHRBUHo0dF9mZ21iQktEVU1wcHI0NGpYQkVXQjFkS18wVUxiY1VraTZfYV9CUTAxZDlLUQ?oc=5",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:20Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMivgVBVV95cUxQVGlET0g0NjdwSG5Fa2N0N3pOYnMwXzNCRF9zTkNOOE5Sb1dUU0x3RVBHWmNOd01vbzNBMzdNekRYUFRMX2RaYl9aX0h4RHJ5dnBBTThDZWpTSVAxZmFtcElucktpUjdkbU03NXFjalZ2bFZVUkx4WEwxZ0I2NTdqVDNFWXdHQy1RdWR1YTJIZWNwT1FxMi1ibUUyQ2pVV3FGTDUtM3g0ZjJhdWh6UUExaFBtNWdKRUwtRzI5R1JKVDVvSlNVR09wbWJHZWJSZ09iRnVSUlRmSGdBbWtXMDBYVXlTVU9ZOXlYeVpwWENmVzdXQWZSNXhRVU9RQVZJZXRDdWxyNXlHOUpUd2hzdG5McDh0MXBmaDhiMlMxNlM2ajNPOGFfOGV6Q3Znb0poZ09FblVfLTlDNTVSLW9UYW1vRDFlQUt4TGFhZUpUU1JITkNmMWw2R1JzbHlIcFBMcDE0NURZNTFIV2xyT0lnOWItSGJWV3VsQ3VOSF9VOFZoMnQ1Y1d3QlVURUVKbHg3c2FMdmFyVnM1Z2RDTGMyTUtENXM3RGd0SmdTS3ktUmoyV3Zhd0dQZmFreWx0am9kTTRGakQzU1lrMEd5aTI0aGExVmFXWnFsYktIX1VmSDJIR0JOWlRqTGN5MFR1UVBMSWc1TVVqUlo2eUF6aGJkT3lZa3E0MHJZYjFzb2JjWVZwRW5sY2FZekl1VFNxNjZ3RVFKZFpwQ3pBT04xbW1WUFBzVm5weTYyNnBwMmJaUG13dWRjdjhBN3ktRnpxVDBpRlNjNEdZMExKWThVc3VWbmpiQURhWS01SzB4NGN4UEp3YTBXajlxdXU3bUVjdDFsRUJnaV9FTUpEbnFsOHRVX1h3UFQ0X3hsRVpTWkppWHhJZk8zekNTaEQ4bndNSVZGWlpyVzRHdmxYYkw4bVVPX2c?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "«فيتش»: اتجاهات سوق العقار في دبي لـ «المشاريع المتكاملة».. والكبار يتسيّدون - صحيفة الخليج",
-   "text": " «فيتش»: اتجاهات سوق العقار في دبي لـ «المشاريع المتكاملة».. والكبار يتسيّدون &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMivgVBVV95cUxQVGlET0g0NjdwSG5Fa2N0N3pOYnMwXzNCRF9zTkNOOE5Sb1dUU0x3RVBHWmNOd01vbzNBMzdNekRYUFRMX2RaYl9aX0h4RHJ5dnBBTThDZWpTSVAxZmFtcElucktpUjdkbU03NXFjalZ2bFZVUkx4WEwxZ0I2NTdqVDNFWXdHQy1RdWR1YTJIZWNwT1FxMi1ibUUyQ2pVV3FGTDUtM3g0ZjJhdWh6UUExaFBtNWdKRUwtRzI5R1JKVDVvSlNVR09wbWJHZWJSZ09iRnVSUlRmSGdBbWtXMDBYVXlTVU9ZOXlYeVpwWENmVzdXQWZSNXhRVU9RQVZJZXRDdWxyNXlHOUpUd2hzdG5McDh0MXBmaDhiMlMxNlM2ajNPOGFfOGV6Q3Znb0poZ09FblVfLTlDNTVSLW9UYW1vRDFlQUt4TGFhZUpUU1JITkNmMWw2R1JzbHlIcFBMcDE0NURZNTFIV2xyT0lnOWItSGJWV3VsQ3VOSF9VOFZoMnQ1Y1d3QlVURUVKbHg3c2FMdmFyVnM1Z2RDTGMyTUtENXM3RGd0SmdTS3ktUmoyV3Zhd0dQZmFreWx0am9kTTRGakQzU1lrMEd5aTI0aGExVmFXWnFsYktIX1VmSDJIR0JOWlRqTGN5MFR1UVBMSWc1TVVqUlo2eUF6aGJkT3lZa3E0MHJZYjFzb2JjWVZwRW5sY2FZekl1VFNxNjZ3RVFKZFpwQ3pBT04xbW1WUFBzVm5weTYyNnBwMmJaUG13dWRjdjhBN3ktRnpxVDBpRlNjNEdZMExKWThVc3VWbmpiQURhWS01SzB4NGN4UEp3YTBXajlxdXU3bUVjdDFsRUJnaV9FTUpEbnFsOHRVX1h3UFQ0X3hsRVpTWkppWHhJZk8zekNTaEQ4bndNSVZGWlpyVzRHdmxYYkw4bVVPX2c?oc=5",
-   "date": "2026-08-18",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:19Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiigJBVV95cUxOUG11SU15ZU15aU9IQUZkQklibHhWNU56TWFzSG02Q01xZWJCeFJFTXZkUkpMMTBiaDQ0bXVyNE5iOHlHSGJfZmNoOTI3WGhGX0VDZ2NuRmFJZ0lWdllvNUcwcWRwV3pyNk1ySlNvLWVtMFNZNzlkc3JzOTZRdklqQ2pnNUl0OTJ0V2JCLXJCRW1WWlBBaF8zRXltUVQ1b1kyQzVZdU5OdnlidEd4TVJiQ0R1TDdvbFhISXpla3BMVWQ5cHF0eFZ6Z1R2UHFaa2VqdzBJdmJ1ZW80VmVtUnYxSlphcXI0elNZS2FqamlaaU9FRFdJVGxFb3JSRUZuU1ZEUnNDdm43eVdod9IBjwJBVV95cUxPeUJhNktQVFVhbjJrZXgtemtvZVhmSVpybThhN0dGWHpsUWJCNm44S0NpSElwRlVKeTBWM2ttdDJXRE9idDJLQ0VHc3hwR0NWazBCcDFoOGxzVkF4M1lRdWdnRUNfajBrOHp4MXczMFpwMEZreVFqUjU3NFExeDB4bFl6UGswb25mUnlKbkZ3U0ZiQjdVTmQwR2JwUHQ4M1ZPNXZ2QWliMl9QbGtXRUU3NEc2MmFVTDA3UzBoVE5HS0Z2RWxPc01yXy1sVXJjcnhSajVnR01PZmw4X3k1Y1luT0hIZzZyYTJYWWYyMnRUZ1VVUXNKS1h2YzdiZ21LM0RETl9WWHBVNzVxWEhwVktj?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Why the West Asia crisis has pushed Dubai's real estate into a 'wait-and-watch' mode, but the luxury market holds firm | Real Estate News - Hindustan Times",
-   "text": " Why the West Asia crisis has pushed Dubai's real estate into a 'wait-and-watch' mode, but the luxury market holds firm | Real Estate News &nbsp;&nbsp; Hindustan Times ",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUG11SU15ZU15aU9IQUZkQklibHhWNU56TWFzSG02Q01xZWJCeFJFTXZkUkpMMTBiaDQ0bXVyNE5iOHlHSGJfZmNoOTI3WGhGX0VDZ2NuRmFJZ0lWdllvNUcwcWRwV3pyNk1ySlNvLWVtMFNZNzlkc3JzOTZRdklqQ2pnNUl0OTJ0V2JCLXJCRW1WWlBBaF8zRXltUVQ1b1kyQzVZdU5OdnlidEd4TVJiQ0R1TDdvbFhISXpla3BMVWQ5cHF0eFZ6Z1R2UHFaa2VqdzBJdmJ1ZW80VmVtUnYxSlphcXI0elNZS2FqamlaaU9FRFdJVGxFb3JSRUZuU1ZEUnNDdm43eVdod9IBjwJBVV95cUxPeUJhNktQVFVhbjJrZXgtemtvZVhmSVpybThhN0dGWHpsUWJCNm44S0NpSElwRlVKeTBWM2ttdDJXRE9idDJLQ0VHc3hwR0NWazBCcDFoOGxzVkF4M1lRdWdnRUNfajBrOHp4MXczMFpwMEZreVFqUjU3NFExeDB4bFl6UGswb25mUnlKbkZ3U0ZiQjdVTmQwR2JwUHQ4M1ZPNXZ2QWliMl9QbGtXRUU3NEc2MmFVTDA3UzBoVE5HS0Z2RWxPc01yXy1sVXJjcnhSajVnR01PZmw4X3k1Y1luT0hIZzZyYTJYWWYyMnRUZ1VVUXNKS1h2YzdiZ21LM0RETl9WWHBVNzVxWEhwVktj?oc=5",
-   "date": "2026-08-18",
    "dateApprox": false,
    "language": "en",
    "engagement": "",
