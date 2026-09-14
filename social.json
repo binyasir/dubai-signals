@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-09-14T05:02:55Z",
- "newThisRun": 8,
- "sourcesOk": 4,
+ "generatedAt": "2026-09-14T12:54:41Z",
+ "newThisRun": 5,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 17,
-  "reddit": 105,
-  "rss": 128
+  "reddit": 107,
+  "rss": 126
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
-   "ok": false,
-   "items": 0,
-   "error": "URLError"
+   "source": "المصدر العقاري",
+   "ok": true,
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,81 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiO0FVX3lxTE1Jc1FCSG91Qi1ZYlVwdkpWcXdxdVVicEk3QU9RNXRWNWlKWkFEN3RvNXdWekQweFJIMkpV?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "شركة Huspy تستحوذ على LuxuryX لتعزيز حضورها في سوق العقارات الفاخرة - jawlah.co",
+   "text": " شركة Huspy تستحوذ على LuxuryX لتعزيز حضورها في سوق العقارات الفاخرة &nbsp;&nbsp; jawlah.co ",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1Jc1FCSG91Qi1ZYlVwdkpWcXdxdVVicEk3QU9RNXRWNWlKWkFEN3RvNXdWekQweFJIMkpV?oc=5",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T12:54:41Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%81%d8%a7%d9%8a%d9%86%d9%86%d8%b4%d8%a7%d9%84-%d8%aa%d8%a7%d9%8a%d9%85%d8%b2-%d8%a7%d9%86%d8%af%d9%85%d8%a7%d8%ac%d8%a7%d8%aa-%d9%88%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0%d8%a7%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"فايننشال تايمز\" : اندماجات واستحواذات مرتقبة بين شركات التطوير العقاري في دبي",
+   "text": "قد يشهد قطاع التطوير العقاري في دبي موجة من الاندماجات والاستحواذات بين الشركات، في ظل التحولات التي يشهدها السوق بالتزامن&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%81%d8%a7%d9%8a%d9%86%d9%86%d8%b4%d8%a7%d9%84-%d8%aa%d8%a7%d9%8a%d9%85%d8%b2-%d8%a7%d9%86%d8%af%d9%85%d8%a7%d8%ac%d8%a7%d8%aa-%d9%88%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0%d8%a7%d8%aa/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T12:54:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeWZ3RlVWem0yd0E1cEp2Qm1jR0dJNTRnZ1FTMzhVUHJFLVh2NUI0bjJ4Ni1uUTBrSEt4azlHUUZQQm8zWnhIdzdUZVNwcEZVTFJNMUc2X19sYVpkSUZIM1JjX3NlWEhBSGw4QW5fYjYtUlJ4X1NGQjg5dVRHWkkweXdFYktnMlViaW9QSjV1eGpjeHhTZ0pmVnkwblVYWkFaN0twU0FhVlEzT0I1MkNiMmlmVGJVcm5QOC0yZmhMUGNIb3Fka2djaFpSMjYyZjFNQnZBbnZfQ19CRVhoV2RuVTlnS0hCWk44dzVTR1dDWUE4NkxTOVVB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "OCTA Properties’ DLD and RERA recognition at IPS 2026 reinforces long-term position in Dubai real estate - Zawya",
+   "text": " OCTA Properties’ DLD and RERA recognition at IPS 2026 reinforces long-term position in Dubai real estate &nbsp;&nbsp; Zawya ",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeWZ3RlVWem0yd0E1cEp2Qm1jR0dJNTRnZ1FTMzhVUHJFLVh2NUI0bjJ4Ni1uUTBrSEt4azlHUUZQQm8zWnhIdzdUZVNwcEZVTFJNMUc2X19sYVpkSUZIM1JjX3NlWEhBSGw4QW5fYjYtUlJ4X1NGQjg5dVRHWkkweXdFYktnMlViaW9QSjV1eGpjeHhTZ0pmVnkwblVYWkFaN0twU0FhVlEzT0I1MkNiMmlmVGJVcm5QOC0yZmhMUGNIb3Fka2djaFpSMjYyZjFNQnZBbnZfQ19CRVhoV2RuVTlnS0hCWk44dzVTR1dDWUE4NkxTOVVB?oc=5",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T12:54:40Z"
+  },
+  {
+   "id": "rd:t3_1wg1cn1",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Advice needed: Fully paid for a car via dubizzle Cars, transfer delayed by \"ENBD system issue\". Is this normal?",
+   "text": "   I paid 71,000 AED in full for a used car on Sept 3rd via dubizzle Cars. The seller dropped it at their warehouse on Sept 5th, but the RTA transfer is still pending.   The agent promised a 10-working-day timeline (deadline is this Wed, Sept 16). They claim the delay is purely due to an &quot;Emirates NBD system issue&quot; failing to send the mortgage clearance to RTA. I also just found out the car has a complex Court-issued POA that wasn&#39;t disclosed before payment.   Questions:     Is this ENBD &quot;system issue&quot; a real thing lately, or just a stall tactic?   If they miss the 10-d",
+   "url": "https://www.reddit.com/r/dubai/comments/1wg1cn1/advice_needed_fully_paid_for_a_car_via_dubizzle/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T12:54:06Z"
+  },
+  {
+   "id": "rd:t3_1wfx8b6",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dubai tenancy renewal / agency fee question",
+   "text": "   Helloooo, looking for some advice from people familiar with Dubai tenancy renewals.   Last year, we rented our apartment through an agency, and we paid an agency fee of 5%.   This year, we requested to renew the tenancy for a period of less than 12 months, and the landlord agreed.   Our previous Ejari stated AED 1,000 + VAT as the agency fee for renewal. However, the agency is now asking for AED 2,200.   When I asked why, they said that because we&#39;re doing a contract for less than 12 months, it is considered a new contract rather than a renewal, so the agency fee is different.   Does th",
+   "url": "https://www.reddit.com/r/dubai/comments/1wfx8b6/dubai_tenancy_renewal_agency_fee_question/",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-14T12:54:06Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTE1OUi1YSFJwUTVRS21NWmc3c0Z4ajUzQW9YTGxSMnpoOEZVZHhieXlyeG5VemNnMlZXakpEakpCT3Q3TGpUcmp2ZFBocG5RdzdfWXdxWWtSX25Kb3NQcWxaQnVZVW1IeS1mMi14a2FiWFluUdIBjAFBVV95cUxOYTlDeUNsVnZxcm43cFlfOGdsb1cxSVNpNUxMVVZiZkdqbXA2WTNaRDNSY2ZBeW5IQ2NfbWxhVExRZUVFMUpJT2FzaE1XYlZPY1dhRjE2WUJvaFRMbko1enQtdzRMZzhyS1VKMjdiVkFtdzFTTDY0dE1ZdEhkOXFCMUpGZUFyREcyNFdKVg?oc=5",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:20Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlUzUk1sMzZTaWc2aUM0bEM3YVRDRkQ3ZFpTRndxVUQ5WVg5R25WcG5rNGdLRVlqbXE0LUhBRDR1M3REY0NXWnY0aDR6WWVHeUQ2V0NvMjFJSTNHcUlqWFg0N2hTVzZaT0s2M2F2d3BuSjI2U1B2Um5HWllTamlVQjZxTGF3eDdzZHc?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "title": "Hudayriyat Island tops Abu Dhabi real estate market for 2nd consecutive quarter of 2026 | Emirates News Agency - وكالة وام",
-   "text": " Hudayriyat Island tops Abu Dhabi real estate market for 2nd consecutive quarter of 2026 | Emirates News Agency &nbsp;&nbsp; وكالة وام ",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlUzUk1sMzZTaWc2aUM0bEM3YVRDRkQ3ZFpTRndxVUQ5WVg5R25WcG5rNGdLRVlqbXE0LUhBRDR1M3REY0NXWnY0aDR6WWVHeUQ2V0NvMjFJSTNHcUlqWFg0N2hTVzZaT0s2M2F2d3BuSjI2U1B2Um5HWllTamlVQjZxTGF3eDdzZHc?oc=5",
-   "date": "2026-08-21",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:20Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWE0azR4cWtMbktOczFraFoxQnNhYVBCN0diVzJTdnFoV2pJV2kzQkpER3hyQnJsMklzd052MzFuSVlqb2stbXVyS0tObkpVWkF4TlVtNVdqNjNfclJuenZIX2ljMG5ycXFoOWZOYmRVYTlPeDl5RmJqdC10bUE0UUR3dlMtNVhEMEhvWmp2cFpIbmtiSnNxNVloa1ViLTBuRDZhVEhzdTF3T29mM3hZWFlTZ2FDWV9VaURQdmZfTkRNMms5MW5CRUR1a3B4a1VheTJ4WQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property trend: Half of prospective villa buyers now search for 4-bedroom or larger homes - Arabian Business",
-   "text": " Dubai property trend: Half of prospective villa buyers now search for 4-bedroom or larger homes &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWE0azR4cWtMbktOczFraFoxQnNhYVBCN0diVzJTdnFoV2pJV2kzQkpER3hyQnJsMklzd052MzFuSVlqb2stbXVyS0tObkpVWkF4TlVtNVdqNjNfclJuenZIX2ljMG5ycXFoOWZOYmRVYTlPeDl5RmJqdC10bUE0UUR3dlMtNVhEMEhvWmp2cFpIbmtiSnNxNVloa1ViLTBuRDZhVEhzdTF3T29mM3hZWFlTZ2FDWV9VaURQdmZfTkRNMms5MW5CRUR1a3B4a1VheTJ4WQ?oc=5",
-   "date": "2026-08-21",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEQwLW9sdndVSEM4ZFlfaWtRQ0xneWgzUFMzTTFIaUdwT0U4X0JYVVVLSFR4enVFUFZydG9LNVB3T0JpYnFfUG5EY1BOWkZtS01RS0FuUklTeUxnYWlxd1AtOGZETkpLaVFtXzhwWlpBeFgydVdyM2Y0U2s0RndOYVRfTnpuYy01bDlZRzNQOEZ6Zw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property: 75% of 564,000 homes under construction already sold as villa demand hits 85% - Arabian Business",
-   "text": " Dubai property: 75% of 564,000 homes under construction already sold as villa demand hits 85% &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEQwLW9sdndVSEM4ZFlfaWtRQ0xneWgzUFMzTTFIaUdwT0U4X0JYVVVLSFR4enVFUFZydG9LNVB3T0JpYnFfUG5EY1BOWkZtS01RS0FuUklTeUxnYWlxd1AtOGZETkpLaVFtXzhwWlpBeFgydVdyM2Y0U2s0RndOYVRfTnpuYy01bDlZRzNQOEZ6Zw?oc=5",
-   "date": "2026-08-21",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUdXNlE0NlVyVjBZa1FMTkJuWmc2aURoeGtyVmo0TlREcWIwTlFJY1JOU0RyVktTRmhZWUo5RVpRQnFvLWhONC05aE9DMjRXVl9aeXcxTkY4QTlQdTZjWHprNmZONzJady02aW1vaXlfMHk1Y1NNRGdudU5Bb2N2ZGlPVEpRSHZzalduc2huLXB4WkIzdVVzYjh3?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "title": "Christie’s International Real Estate Launches in Abu Dhabi - RISMedia",
-   "text": " Christie’s International Real Estate Launches in Abu Dhabi &nbsp;&nbsp; RISMedia ",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLUdXNlE0NlVyVjBZa1FMTkJuWmc2aURoeGtyVmo0TlREcWIwTlFJY1JOU0RyVktTRmhZWUo5RVpRQnFvLWhONC05aE9DMjRXVl9aeXcxTkY4QTlQdTZjWHprNmZONzJady02aW1vaXlfMHk1Y1NNRGdudU5Bb2N2ZGlPVEpRSHZzalduc2huLXB4WkIzdVVzYjh3?oc=5",
-   "date": "2026-08-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:20Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0hwclpKdXNCb3pwSV9YVWlHcFExbzdDeDU2Qy1QV2V2blh6SGhUZ25icF9pdExabDJGQzJSOHlvOWp3dEZ1bXVrVEx1YVh6aVJHS3lWa1JyQkZTeWgwbVRpUzBNemVsc0FxLUdHMHgtVWFrNHF1R25Zb0dyQWdlZGhkQnE0X1BCOFNON1dFYktUaXBHcE1lQl9tV3pJU0xKcWRIRnhpT1laS0x5TUFPbE1EVF8?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai Real Estate H1 2026: 38.7% Rise in Projects, 52% Increase in Investment Value - News and Statistics - IndexBox",
-   "text": " Dubai Real Estate H1 2026: 38.7% Rise in Projects, 52% Increase in Investment Value - News and Statistics &nbsp;&nbsp; IndexBox ",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0hwclpKdXNCb3pwSV9YVWlHcFExbzdDeDU2Qy1QV2V2blh6SGhUZ25icF9pdExabDJGQzJSOHlvOWp3dEZ1bXVrVEx1YVh6aVJHS3lWa1JyQkZTeWgwbVRpUzBNemVsc0FxLUdHMHgtVWFrNHF1R25Zb0dyQWdlZGhkQnE0X1BCOFNON1dFYktUaXBHcE1lQl9tV3pJU0xKcWRIRnhpT1laS0x5TUFPbE1EVF8?oc=5",
-   "date": "2026-08-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
   }
  ]
 }
