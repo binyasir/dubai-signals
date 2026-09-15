@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-15T17:03:30Z",
- "newThisRun": 26,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-15T21:25:02Z",
+ "newThisRun": 9,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 174,
-  "rss": 72
+  "reddit": 175,
+  "rss": 71
  },
  "sources": [
   {
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 35,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 19,
+   "items": 30,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 29,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMimwVBVV95cUxPRTJQNmlQaHFuckVEejl2enJycUNSaGpjODhIMUJjUXFGRnpzS202Z3U2dG90cm84cnpucGIyYnNkNTF3bE5jWHNDUGJORHBFZFZQaGZ5ejdRc1djTm1aeXgwbFhfcm8wbDFOZk4zYng0d09WUzQteWxDZzFVdW52Y3VabXRlUURldWxDWEMxLThDZ1A3cHpxOXZwZGs2MkwwQUZPZF8za1BHdEwwM01Gc0RqZnNHVWl5MV81a1AycFcwYVhDWkQ3ajdENE1oVjZZT0RzcURfUVFHRlZIcEY0VlcydVd0MWpwazhCSTBPYkRwS0VNbVVvSFBYRmhoZ2V0THhrN1hHdmFVbnl2Q05sRDNtSGZGaFRnbk41a1VUaFJpSVNaSDhmWkJzSzIyQjB4ZHA0bnVMS28tZ3pkYWhVNFhpak45OXZ6X2VJSjN4eUhSU2tmTDlRWkxFYmI0V1FyZTVtYzNsd0hZX2ZaWmdVU1lwNGU1VTlMazZUWm9kSmFWSmlWcEltZEpDZjB1V0lXLTF6dHV0WXVpWHh2V0RaN2hsU1VYdmlVcXU0UmRMLWc5NjY0RVRkSXVoTTF5cjFwNmtNY2xldk1lY194UUl3THphNVJpMVkwMmpXZFVZVFVCVW1VWEo2ODFLTURfV0xOVmhPTWZKaHhhSEZOU2w2bmpONldETWNXM0FtLVJrTlI3X2hlMVJJbF9DcVZFYjRzSkxid2kzeFZWRmtCdmJRTDN2UXZQWnpZb014N2l6eExBWlpreG4wTTlYdC1rRnNpbmtieGY5VjNFemJZU3JhWUZfb1Y0UUdGQTVtSjRYY05jOUFQTkMyVGpoWXJmQW1sSHY1WjlKbm5KSHhOMlBLQmQwTU0zbnRzSnhj?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "«دبي القابضة للعقارات» و«أبوظبي التجاري» يطلقان حلول تمويل مبتكرة - صحيفة الخليج",
+   "text": " «دبي القابضة للعقارات» و«أبوظبي التجاري» يطلقان حلول تمويل مبتكرة &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxPRTJQNmlQaHFuckVEejl2enJycUNSaGpjODhIMUJjUXFGRnpzS202Z3U2dG90cm84cnpucGIyYnNkNTF3bE5jWHNDUGJORHBFZFZQaGZ5ejdRc1djTm1aeXgwbFhfcm8wbDFOZk4zYng0d09WUzQteWxDZzFVdW52Y3VabXRlUURldWxDWEMxLThDZ1A3cHpxOXZwZGs2MkwwQUZPZF8za1BHdEwwM01Gc0RqZnNHVWl5MV81a1AycFcwYVhDWkQ3ajdENE1oVjZZT0RzcURfUVFHRlZIcEY0VlcydVd0MWpwazhCSTBPYkRwS0VNbVVvSFBYRmhoZ2V0THhrN1hHdmFVbnl2Q05sRDNtSGZGaFRnbk41a1VUaFJpSVNaSDhmWkJzSzIyQjB4ZHA0bnVMS28tZ3pkYWhVNFhpak45OXZ6X2VJSjN4eUhSU2tmTDlRWkxFYmI0V1FyZTVtYzNsd0hZX2ZaWmdVU1lwNGU1VTlMazZUWm9kSmFWSmlWcEltZEpDZjB1V0lXLTF6dHV0WXVpWHh2V0RaN2hsU1VYdmlVcXU0UmRMLWc5NjY0RVRkSXVoTTF5cjFwNmtNY2xldk1lY194UUl3THphNVJpMVkwMmpXZFVZVFVCVW1VWEo2ODFLTURfV0xOVmhPTWZKaHhhSEZOU2w2bmpONldETWNXM0FtLVJrTlI3X2hlMVJJbF9DcVZFYjRzSkxid2kzeFZWRmtCdmJRTDN2UXZQWnpZb014N2l6eExBWlpreG4wTTlYdC1rRnNpbmtieGY5VjNFemJZU3JhWUZfb1Y0UUdGQTVtSjRYY05jOUFQTkMyVGpoWXJmQW1sSHY1WjlKbm5KSHhOMlBLQmQwTU0zbnRzSnhj?oc=5",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T21:25:02Z"
+  },
+  {
+   "id": "rd:t3_1wh763c",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Driving school recommendations for Golden chance w/ golden visa.",
+   "text": "   Hello. I&#39;m looking to apply for golden chance through golden visa which means i can have unlimited attempts at golden chance without starting from scratch.    Which school would be right for this. Priority is to have a good area with low traffic for final test. I&#39;ve only had experience with Drive dubai which can have high industrial traffic at times.     &#32; submitted by &#32;   /u/procrastingSloth       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wh763c/driving_school_recommendations_for_golden_chance/",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T21:24:27Z"
+  },
   {
    "id": "rd:t3_1wh4lk2",
    "platform": "Reddit",
@@ -3796,36 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxPY05tVm9rb2EzZGM2blZKVXZja09jVmlaNmZWOVpMODZ2Ymo0a01mOXoyajV5NS1TZXVVa1Z4Y05LU3Jzemo2b1dYeEdhNWY2V2xBREpYT0ZHUWludVlzampqNWp3TkZDeWMxRTNtSFdsa0tQSWVHYy1yaGpnQzlkREUxNjc0YUJ6MW5OZVY3N29seFZYdnY2UGZnRUxIbUZfVEpmTmw0b9IBugFBVV95cUxQNmtuY05lVkxHOER3WjZIQmM2ZGlzY1gybXhmTDZLMFZFN040S09JclBLazNwQnJVMktwZ0lwa2Vhdm1xdkJnY1l3eXlkOV9vd2RndnBETUFLZ0JEQjlVbzhocnVsa0dpZElGbklkcmdHMGFZaTdQUkJaTEZGckM3T05IdVVHejFrR1ZXS2JialpXcjM1VWhqMHM4S19SSURpVDlrbkdpbFRHd2U0RGxfRG5zMi1HckZoZUE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "DLD expands use of AI, develops specialised real estate talent - Gulf News",
-   "text": " DLD expands use of AI, develops specialised real estate talent &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY05tVm9rb2EzZGM2blZKVXZja09jVmlaNmZWOVpMODZ2Ymo0a01mOXoyajV5NS1TZXVVa1Z4Y05LU3Jzemo2b1dYeEdhNWY2V2xBREpYT0ZHUWludVlzampqNWp3TkZDeWMxRTNtSFdsa0tQSWVHYy1yaGpnQzlkREUxNjc0YUJ6MW5OZVY3N29seFZYdnY2UGZnRUxIbUZfVEpmTmw0b9IBugFBVV95cUxQNmtuY05lVkxHOER3WjZIQmM2ZGlzY1gybXhmTDZLMFZFN040S09JclBLazNwQnJVMktwZ0lwa2Vhdm1xdkJnY1l3eXlkOV9vd2RndnBETUFLZ0JEQjlVbzhocnVsa0dpZElGbklkcmdHMGFZaTdQUkJaTEZGckM3T05IdVVHejFrR1ZXS2JialpXcjM1VWhqMHM4S19SSURpVDlrbkdpbFRHd2U0RGxfRG5zMi1HckZoZUE?oc=5",
-   "date": "2026-09-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0ZiMDBjc1daeTFBdHZMT2hMNThveFdoSzJDNEVMWWNSNHREcGQ1RVNPYlhwM1hBTDZNZVM3WHZycUMtX25JQkRPV2xKdnZmQ1RFUmI0UTB4N0hwZVNOOE52c253YlItb1p3T0pUSUE4X3plWmEzSGxxdThOZW0ydUtUQVFKc21LdDlpbEF4WHVoOXlKZXRxN25pT243ZnpQWTNiOUNWRUVJcnJGVDA2bDJjQmdVbmZnMktHTzFia3FMSjNoMkVGSGJ5Ykx6NTNCS1pDM9IB5wFBVV95cUxNSVNEeklaYTc0RkhpQWowOXRrdVEwTGgtME5KN3dNXzJnQ0dUQ3hfdzVSS1hsSWlEbTl3ckZTR3FRMnRBZ2lJcmF6b0RkbEdwXzkta2xIMXN5bHdWVUFqeXNWblJ5OGl1aFlhakdLRS1USXRpVGlpS3ozUUJEZnZZekhvelNMa2xPdndYLU1BeUhiWHUxU25jUU15VFZ4TGVhb3VHUmRVQVFES2Y3RGlCYzk0SXpQanFicTYyOU9lQ3dqVEhfUzFzaV9JdTlPbjQ4Z0JmYmcycE9keElOQko5WmEwZW5Jd1U?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property market to find 'nice balance' as 2027 supply wave hits, says Emaar's Alabbar - Gulf News",
-   "text": " Dubai property market to find 'nice balance' as 2027 supply wave hits, says Emaar's Alabbar &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0ZiMDBjc1daeTFBdHZMT2hMNThveFdoSzJDNEVMWWNSNHREcGQ1RVNPYlhwM1hBTDZNZVM3WHZycUMtX25JQkRPV2xKdnZmQ1RFUmI0UTB4N0hwZVNOOE52c253YlItb1p3T0pUSUE4X3plWmEzSGxxdThOZW0ydUtUQVFKc21LdDlpbEF4WHVoOXlKZXRxN25pT243ZnpQWTNiOUNWRUVJcnJGVDA2bDJjQmdVbmZnMktHTzFia3FMSjNoMkVGSGJ5Ykx6NTNCS1pDM9IB5wFBVV95cUxNSVNEeklaYTc0RkhpQWowOXRrdVEwTGgtME5KN3dNXzJnQ0dUQ3hfdzVSS1hsSWlEbTl3ckZTR3FRMnRBZ2lJcmF6b0RkbEdwXzkta2xIMXN5bHdWVUFqeXNWblJ5OGl1aFlhakdLRS1USXRpVGlpS3ozUUJEZnZZekhvelNMa2xPdndYLU1BeUhiWHUxU25jUU15VFZ4TGVhb3VHUmRVQVFES2Y3RGlCYzk0SXpQanFicTYyOU9lQ3dqVEhfUzFzaV9JdTlPbjQ4Z0JmYmcycE9keElOQko5WmEwZW5Jd1U?oc=5",
-   "date": "2026-09-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-12T15:35:16Z"
   }
  ]
 }
