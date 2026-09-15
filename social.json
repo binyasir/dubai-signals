@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-14T21:52:25Z",
- "newThisRun": 53,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-15T04:58:27Z",
+ "newThisRun": 13,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
-  "reddit": 144,
-  "rss": 98
+  "reddit": 147,
+  "rss": 95
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 11,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
@@ -66,17 +66,107 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 33,
+   "items": 20,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 32,
+   "items": 30,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%85%d8%b9%d8%b1%d8%b6-%d8%b9%d8%ac%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-2026-%d9%8a%d8%b3%d8%ac%d9%84-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%80136-%d9%85%d9%84%d9%8a%d9%88/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "معرض عجمان العقاري 2026 يسجل صفقات بـ136 مليون دولار في يومه الأول",
+   "text": "افتتح سمو الشيخ عمار بن حميد النعيمي، ولي عهد عجمان رئيس المجلس التنفيذي، أمس، فعاليات النسخة الرابعة من معرض عجمان&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%85%d8%b9%d8%b1%d8%b6-%d8%b9%d8%ac%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-2026-%d9%8a%d8%b3%d8%ac%d9%84-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%80136-%d9%85%d9%84%d9%8a%d9%88/",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T04:58:26Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d9%8017-%d9%88%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d9%8033-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%8b-%d9%81%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1-%d8%a7%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "دبي الـ17 وأبوظبي الـ33 عالمياً في مؤشر الشفافية العقارية العالمي 2026",
+   "text": "احتلت دبي المرتبة 17 عالمياً وأبوظبي المرتبة 33 في مؤشر الشفافية العقارية العالمي 2026  (Global Real Estate Transparency Index 2026)&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d9%8017-%d9%88%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d9%8033-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%8b-%d9%81%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1-%d8%a7%d9%84/",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T04:58:26Z"
+  },
+  {
+   "id": "rd:t3_1wgpd39",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Warehouse | Al Quoz 1 | AED 6,900,000",
+   "text": "   Posting as: Agent  Property type: Warehouse  Area/community: Al Quoz 1, Dubai  Building/project: N/A  Price: AED 6,900,000  Bedrooms: N/A  Size (sq ft): 16,000 BUA  Status: Ready  Additional details: Best deal warehouse investment opportunity in Al Quoz 1. Very urgent sale.  Property details:  Plot area: Approximately 10,000 sq ft  Built-up area: Approximately 16,000 sq ft  Ownership: Fully owned  3 warehouse sheds  Current tenancy:  2 sheds rented to car garages  1 shed rented to a restaurant  Total annual rental income: AED 530,000  Investment metrics:  Selling price: AED 6,900,000 net to",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgpd39/warehouse_al_quoz_1_aed_6900000/",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T04:58:02Z"
+  },
+  {
+   "id": "rd:t3_1wgnf6s",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Rental question..Al Kifaf? Dwtc?",
+   "text": "   Moved to dubai. Have a family with a little toddler who will go to pre-school.    All options are via bayut and brokers. I have never really dealt with landlords before (before leaving dubai, I was directly dealing with builders and it went flawless for 7 years).   How is living in these areas? There aren&#39;t great preschools around areas but we are wiling to drive a bit for that. Any caveats?   Thank you everyone. This sub has been a big help.     View Poll      &#32; submitted by &#32;   /u/Khayalmetal       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgnf6s/rental_questional_kifaf_dwtc/",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T04:58:02Z"
+  },
+  {
+   "id": "rd:t3_1wgor4v",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Is it better to Uber or rent a car in Dubai? One week stay",
+   "text": "   4 adults + 3 kids.    I don&#39;t think there&#39;s an uber that will fit all of us so we will have to take 2 ubers more than likely. We are staying in JVC.   Also the kids are all under 4. How strict is dubai laws on car seats?    We are from the US.    Thanks.      &#32; submitted by &#32;   /u/OkPipe3876       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wgor4v/is_it_better_to_uber_or_rent_a_car_in_dubai_one/",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T04:57:57Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZSXZacWhDUVJJekpfXzljYWE1MlFiVWNxbm5GQ1BmSHpvVmc4S2trSFJZMUVVM0xHaFdoN2xZdm15S2p4dUZB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "أوكتا العقاريّة تحصد تكريماً من “أراضي دبي”ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 - alwatan.ae",
+   "text": " أوكتا العقاريّة تحصد تكريماً من “أراضي دبي”ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 &nbsp;&nbsp; alwatan.ae ",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZSXZacWhDUVJJekpfXzljYWE1MlFiVWNxbm5GQ1BmSHpvVmc4S2trSFJZMUVVM0xHaFdoN2xZdm15S2p4dUZB?oc=5",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-15T04:58:27Z"
+  },
   {
    "id": "rs:https://masdarak.com/home-finance/%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%87%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-12-%d8%a5%d9%84/",
    "platform": "RSS",
@@ -3736,96 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWWhSYVplVTAzY0ZrSV9JbWpKV295ZFdRRnpTN1k1TjNiZkhwZ3pTVFdkNEU2QjI5TXJyTFM0dkFGZEJqVG9rd1BIeThSQTJkUV8zdmdweWRSZmxkcm5tYXR1RUo1VUY4VmtQeXNsVVdrclhGQ01BQmdsaDFVMnVrY1BuUkVLLUMyVWpQS1YxOEtzQy1Zb0dVSmg5b0pEalE1Q0E3Z1B1UkhiOERYQVNwaXZYd1lwTUVvWThHRVVVOUJQV094MklOWXZXV2I2aF9BaGRoNVFodHNyMG1KTkJrZnp5VXBiVkJB0gH7AUFVX3lxTFBxdHpLMUhsLV9hY1owZmVJUHBRMTBPN3B5cXRQOGwzRDFxdGV4d3pJVXBIMDY2N1k3Qk13bTY2c2I2QllINy1TNWFGbE5ELWs5a00zQ0pXMy1ZbUJMTUFLVk0xUmRDY25RQ0pVU1NWSWM4Zk9qa0VrcU1Lb3NKUzJTWHZ3SjNUalVWa3pzd05MVFVVTlNPdDRJSWYyd3hZZUdYOGQ0TGQ3TGg2NGlqcUtTVnMxTWNhYXZWM0Mtb2NMUVhkeE9jYkhwNmdLd1Z1Y1ZHbUd4SGFDc0RGQk5mcm42WTJqM0dsZ3ZscXc2SFdUbXBWMERLakxtN2lB?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Dubai Land Department launches AI-powered platform to speed up real estate registration for developers - Gulf News",
-   "text": " Dubai Land Department launches AI-powered platform to speed up real estate registration for developers &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWWhSYVplVTAzY0ZrSV9JbWpKV295ZFdRRnpTN1k1TjNiZkhwZ3pTVFdkNEU2QjI5TXJyTFM0dkFGZEJqVG9rd1BIeThSQTJkUV8zdmdweWRSZmxkcm5tYXR1RUo1VUY4VmtQeXNsVVdrclhGQ01BQmdsaDFVMnVrY1BuUkVLLUMyVWpQS1YxOEtzQy1Zb0dVSmg5b0pEalE1Q0E3Z1B1UkhiOERYQVNwaXZYd1lwTUVvWThHRVVVOUJQV094MklOWXZXV2I2aF9BaGRoNVFodHNyMG1KTkJrZnp5VXBiVkJB0gH7AUFVX3lxTFBxdHpLMUhsLV9hY1owZmVJUHBRMTBPN3B5cXRQOGwzRDFxdGV4d3pJVXBIMDY2N1k3Qk13bTY2c2I2QllINy1TNWFGbE5ELWs5a00zQ0pXMy1ZbUJMTUFLVk0xUmRDY25RQ0pVU1NWSWM4Zk9qa0VrcU1Lb3NKUzJTWHZ3SjNUalVWa3pzd05MVFVVTlNPdDRJSWYyd3hZZUdYOGQ0TGQ3TGg2NGlqcUtTVnMxTWNhYXZWM0Mtb2NMUVhkeE9jYkhwNmdLd1Z1Y1ZHbUd4SGFDc0RGQk5mcm42WTJqM0dsZ3ZscXc2SFdUbXBWMERLakxtN2lB?oc=5",
-   "date": "2026-09-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VRmVGMk5iTTZyeDNsUkxaTlVXaXVqTGFldmw2NUdFY3FFbkdiakFFVTJla29nY3A1d09aQ2tiR0ZsblNKb3ZN?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "الطلب على السكن في دبي يحافظ على زخمه صيفاً مع تنوع واضح بين شرائح الإيجار والشراء - alwatan.ae",
-   "text": " الطلب على السكن في دبي يحافظ على زخمه صيفاً مع تنوع واضح بين شرائح الإيجار والشراء &nbsp;&nbsp; alwatan.ae ",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VRmVGMk5iTTZyeDNsUkxaTlVXaXVqTGFldmw2NUdFY3FFbkdiakFFVTJla29nY3A1d09aQ2tiR0ZsblNKb3ZN?oc=5",
-   "date": "2026-09-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1wRBVV95cUxNS2VoTm5GSDJWT1JrTldNa3FxRnJQaEFTZWxBNEdfQk5XQ1N0cHJIWjN4a1hnSi1nTVBSbG5RdlJpS0FqVmJXQjhoVmwzT1ptekFuNVB3a0Npd09iYmxpSkZwNEItSE9LNmF3TFRJWjFRVDJTMHQ2emxGS0pDU01xdWxuVUFGeVRlOHVwZ0tYQjYybENCRkdCYTU3M1U3eWM4a0oybnBhdFAwZ0Z5dmR5Wml4TmYxMnB6XzVaMEdsLTlwMmNNYTc4a002WXRDUWZDUDNHajBQZUEzR1puOXd4UWx2akhWenF5Y0VoRjRHYnl0WU9TSkNhLUtheEFvX1AwSS1seFJWQ1pCU1pPZmN0a1pMaVVaMGt1NjdNYklRZzIxUURrQnd3VlZ4cWtVZTRhVEhmX0VTbGJsQUZVekhJQ2kzaTB3QlRDSkF1ZGVkMHJnNVhQeWJZXzhPbXVmMnhZalk2OW5ERnZKWGUxVlNQZFhxYng5Qk5LcnI2cko1RUxvQU1KdU1IdlhweVNJV0ZseHY4MENuSGctTXZ1QUJVajdQMG1mTF93U1JZVW8tYWVPY1BVY3Q1aFVDNU41YVZRX3ZmOVh3ZE8zOW5BOWFscWRYZE5EcDREU1c5Z0YtVDlzcVRUOEpPeVVNZUR3cFR0cnVEcXduQlRQMHFLbHRMR0pPNnNva1dYUzA0S1FycTlFTWc2SEhfNzlfSzNXN3FsODB0aTd3V3RJT0Q0dlFpQnFoT2lzaGRxb2VmWlpPZ1ZPY1BnNXA3X3F4UW9wdGh3bk9WUUlPYw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "10 مناطق الأعلى طلباً لإيجارات المنازل في دبي خلال الصيف - صحيفة الخليج",
-   "text": " 10 مناطق الأعلى طلباً لإيجارات المنازل في دبي خلال الصيف &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNS2VoTm5GSDJWT1JrTldNa3FxRnJQaEFTZWxBNEdfQk5XQ1N0cHJIWjN4a1hnSi1nTVBSbG5RdlJpS0FqVmJXQjhoVmwzT1ptekFuNVB3a0Npd09iYmxpSkZwNEItSE9LNmF3TFRJWjFRVDJTMHQ2emxGS0pDU01xdWxuVUFGeVRlOHVwZ0tYQjYybENCRkdCYTU3M1U3eWM4a0oybnBhdFAwZ0Z5dmR5Wml4TmYxMnB6XzVaMEdsLTlwMmNNYTc4a002WXRDUWZDUDNHajBQZUEzR1puOXd4UWx2akhWenF5Y0VoRjRHYnl0WU9TSkNhLUtheEFvX1AwSS1seFJWQ1pCU1pPZmN0a1pMaVVaMGt1NjdNYklRZzIxUURrQnd3VlZ4cWtVZTRhVEhmX0VTbGJsQUZVekhJQ2kzaTB3QlRDSkF1ZGVkMHJnNVhQeWJZXzhPbXVmMnhZalk2OW5ERnZKWGUxVlNQZFhxYng5Qk5LcnI2cko1RUxvQU1KdU1IdlhweVNJV0ZseHY4MENuSGctTXZ1QUJVajdQMG1mTF93U1JZVW8tYWVPY1BVY3Q1aFVDNU41YVZRX3ZmOVh3ZE8zOW5BOWFscWRYZE5EcDREU1c5Z0YtVDlzcVRUOEpPeVVNZUR3cFR0cnVEcXduQlRQMHFLbHRMR0pPNnNva1dYUzA0S1FycTlFTWc2SEhfNzlfSzNXN3FsODB0aTd3V3RJT0Q0dlFpQnFoT2lzaGRxb2VmWlpPZ1ZPY1BnNXA3X3F4UW9wdGh3bk9WUUlPYw?oc=5",
-   "date": "2026-09-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMimAFBVV95cUxOby1nc003ZlN4YWdCaUIzTER2ai1oX1k2NjU1cXNiU18weGdLNE05YkE2MVd6SGFSanFHbzY0ckhoOEpsb1Yxd3JnR1hoR19MVE9EWTNIVnZDWG1IcDNQaDFWbXpmVk9NMkpqWnNTTmt4UmZEeHFTRFVaNDNYLWxkUi05SzdHaTlDNUFHZGx1aUNGcjlnc1NqYdIBoAFBVV95cUxOamVVSExTTDZzUEVRLUM4bS1TZUMyclp6UG5zZm01NjdVcm1YYUs4SDNoZVRXVEVTUFNEdV8zbmJZMkFPU28wUGQ5UjQ4azFLeEdlamxLM0Y2UjBwcG1xS0VGVGdmLWFzczg1bXBzS05SM0ptUGM4T1hGNTVnWWlUOG9SYlZDeWV0OVFGNXN1cklfZ0VwbmJaTkhhdWtQMG9W?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate activity continues to remain elevated - Khaleej Times",
-   "text": " Dubai real estate activity continues to remain elevated &nbsp;&nbsp; Khaleej Times ",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOby1nc003ZlN4YWdCaUIzTER2ai1oX1k2NjU1cXNiU18weGdLNE05YkE2MVd6SGFSanFHbzY0ckhoOEpsb1Yxd3JnR1hoR19MVE9EWTNIVnZDWG1IcDNQaDFWbXpmVk9NMkpqWnNTTmt4UmZEeHFTRFVaNDNYLWxkUi05SzdHaTlDNUFHZGx1aUNGcjlnc1NqYdIBoAFBVV95cUxOamVVSExTTDZzUEVRLUM4bS1TZUMyclp6UG5zZm01NjdVcm1YYUs4SDNoZVRXVEVTUFNEdV8zbmJZMkFPU28wUGQ5UjQ4azFLeEdlamxLM0Y2UjBwcG1xS0VGVGdmLWFzczg1bXBzS05SM0ptUGM4T1hGNTVnWWlUOG9SYlZDeWV0OVFGNXN1cklfZ0VwbmJaTkhhdWtQMG9W?oc=5",
-   "date": "2026-09-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T05:02:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMikgJBVV95cUxNclVDMExIRExGN0ZHVUQtSnlKaHpnd296eFBEMGF4VWppYktwcTJodWs3eTRrWU1lblQySmczSWV5X0Y2S2w0SlFhYWdfbUpSMW45MWZLZ2ppNk1DS1poN3R2d05NaEgtZ01pVnluZDFkdmxxenc3d0RScUI2VzFhc2FvRXJoUHBTa01GVDlXSVVBSG54N00wS05NR3B4UDNjRkxtTy1BQjdMSWdJN2NaUFlvdVBXUURRclJMXzJtQlE5UG5GTFllSU1zckllWFVZejhVQTd1VllCM09Fc2JOZm51ZDd5TUJFcXpqdlAyN0EycGxteDR1MDNqaGxSNVpEeVgxbEczSlI3Qy1Wb3ZUdUpn0gGiAkFVX3lxTE5QcDhkQjhSTW51Q28zNUxqNFFIdnRYb0xHaTcxb0hzcDgtSnQ2dkhGdUg3TkFlQUNnajREVHRBTW5Mb2lVQm1meDBPWFh1VlFVbDVDQnpkdEpNcFg3WE5Na1pIS2RRTTJjTVREYjRNalEwaG5jaGswc2JBVEZjTGpfYkpUbjVFZy0tcTNsb3VTSmV5bnl6cW56YW9NVmJHZDdGS2p3cE1RejVRT1RYRW11bVZpQU1kaWExblQ3dVlaazFsZVRDQ0otMzIxdnJYajNDZkQtZzNmQU5vNHJIZ2hGNUxXWVp1V1dwLTE1UUpHYkNBaW5YMnVkT2dESFhyVHVHZzFVbEY5UGJaNXVDSThHX3FMZVVodFBOazlWNlRXQ3J3?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Abu Dhabi real estate\"\" - Google News",
-   "title": "‘Gold is nothing in front of real estate’: Tariq Zekra on Abu Dhabi’s booming market and why Yas and Saadiyat Islands lead the ROI race - Gulf News",
-   "text": " ‘Gold is nothing in front of real estate’: Tariq Zekra on Abu Dhabi’s booming market and why Yas and Saadiyat Islands lead the ROI race &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNclVDMExIRExGN0ZHVUQtSnlKaHpnd296eFBEMGF4VWppYktwcTJodWs3eTRrWU1lblQySmczSWV5X0Y2S2w0SlFhYWdfbUpSMW45MWZLZ2ppNk1DS1poN3R2d05NaEgtZ01pVnluZDFkdmxxenc3d0RScUI2VzFhc2FvRXJoUHBTa01GVDlXSVVBSG54N00wS05NR3B4UDNjRkxtTy1BQjdMSWdJN2NaUFlvdVBXUURRclJMXzJtQlE5UG5GTFllSU1zckllWFVZejhVQTd1VllCM09Fc2JOZm51ZDd5TUJFcXpqdlAyN0EycGxteDR1MDNqaGxSNVpEeVgxbEczSlI3Qy1Wb3ZUdUpn0gGiAkFVX3lxTE5QcDhkQjhSTW51Q28zNUxqNFFIdnRYb0xHaTcxb0hzcDgtSnQ2dkhGdUg3TkFlQUNnajREVHRBTW5Mb2lVQm1meDBPWFh1VlFVbDVDQnpkdEpNcFg3WE5Na1pIS2RRTTJjTVREYjRNalEwaG5jaGswc2JBVEZjTGpfYkpUbjVFZy0tcTNsb3VTSmV5bnl6cW56YW9NVmJHZDdGS2p3cE1RejVRT1RYRW11bVZpQU1kaWExblQ3dVlaazFsZVRDQ0otMzIxdnJYajNDZkQtZzNmQU5vNHJIZ2hGNUxXWVp1V1dwLTE1UUpHYkNBaW5YMnVkT2dESFhyVHVHZzFVbEY5UGJaNXVDSThHX3FMZVVodFBOazlWNlRXQ3J3?oc=5",
-   "date": "2026-09-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:20Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnRXeUY1Tm1jUF9SMzdaMUdkTWFTMWxKel9JVzVLakVXTEM1TEk0X3VhZE12WXF3X2s2Mzl4cFJraTgxWWdVdVplY0E5cGZZdXFZUGJHTmVhREtxYjczLTduUVJKZ2hYRndSVkd1SUZUTW1lQkdrbnE1bHItOW9RcTRLMWt4ZzEw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate made easier as streamlined transaction service launched - Arabian Business",
-   "text": " Dubai real estate made easier as streamlined transaction service launched &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnRXeUY1Tm1jUF9SMzdaMUdkTWFTMWxKel9JVzVLakVXTEM1TEk0X3VhZE12WXF3X2s2Mzl4cFJraTgxWWdVdVplY0E5cGZZdXFZUGJHTmVhREtxYjczLTduUVJKZ2hYRndSVkd1SUZUTW1lQkdrbnE1bHItOW9RcTRLMWt4ZzEw?oc=5",
-   "date": "2026-09-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
   }
  ]
 }
