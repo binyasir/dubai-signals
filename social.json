@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-16T04:54:00Z",
- "newThisRun": 3,
- "sourcesOk": 4,
+ "generatedAt": "2026-09-16T11:42:17Z",
+ "newThisRun": 8,
+ "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 175,
-  "rss": 71
+  "reddit": 179,
+  "rss": 67
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,145 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
+   "items": 9,
+   "error": null
+  },
+  {
+   "source": "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
+   "ok": false,
    "items": 0,
-   "error": "unchanged"
+   "error": "HTTP 503"
   },
   {
-   "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "ok": true,
-   "items": 32,
-   "error": null
-  },
-  {
-   "source": "\"سوق العقارات في دبي\" - أخبار Google",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 503"
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%af%d9%88%d8%ba%d8%a7%d8%b3%d8%aa%d8%a7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d9%8a%d9%86-%d8%b3%d9%83%d9%86%d9%8a%d9%8a%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"دوغاستا العقارية\" تطلق مشروعين سكنيين في مدينة دبي الصناعية و\"ليوان\"",
+   "text": "أطلقت شركة التطوير العقاري دوغاستا للعقارات Dugasta Properties مشروعين سكنيين في دبي يضمان إجمالاً 456 وحدة، هما الحصين 6 (Al&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%af%d9%88%d8%ba%d8%a7%d8%b3%d8%aa%d8%a7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d9%8a%d9%86-%d8%b3%d9%83%d9%86%d9%8a%d9%8a%d9%86/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:41:18Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%af%d9%8a-%d8%a5%d8%aa%d8%b4-%d8%ac%d9%8a-%d8%aa%d9%86%d8%ac%d8%b2-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%87%d9%8a%d9%84%d9%81%d9%8a%d8%aa%d9%8a%d8%a7-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"دي إتش جي\" تنجز مشروع \"هيلفيتيا ريزيدنسز\" في قرية جميرا الدائرية بدبي",
+   "text": "أعلنت شركة دي إتش جي للعقارات DHG Properties إنجاز مشروع هيلفيتيا ريزيدنسز Helvetia Residences في قرية جميرا الدائرية، بعد حصوله&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%af%d9%8a-%d8%a5%d8%aa%d8%b4-%d8%ac%d9%8a-%d8%aa%d9%86%d8%ac%d8%b2-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%87%d9%8a%d9%84%d9%81%d9%8a%d8%aa%d9%8a%d8%a7-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:41:18Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/39-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "39 مليار دولار مبيعات شركات التطوير العقاري في دبي بعد 6 أشهر من الأحداث الإقليمية",
+   "text": "حققت شركات التطوير العقاري في دبي مبيعات بقيمة 39.3 مليار دولار (144.3 مليار درهم) عبر 57,104 صفقات في السوق الأولية&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/39-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:41:18Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%83%d9%8a%d8%a8%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-%d8%ae%d8%af%d9%85%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d9%85%d9%84%d8%a7%d9%83-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"كيبر\" تطلق خدمة لحماية ملاك العقارات في دبي من تعثر المستأجرين عن سداد الإيجار",
+   "text": "أطلقت منصة التكنولوجيا العقارية كيبَر Keyper خدمة رينتال شيلد Rental Shield، التي تستهدف حماية ملاك العقارات في الإمارات من فقدان&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%83%d9%8a%d8%a8%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-%d8%ae%d8%af%d9%85%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d9%85%d9%84%d8%a7%d9%83-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:41:18Z"
+  },
+  {
+   "id": "rd:t3_1whqsi6",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Car rental but crossing over to Oman and back?",
+   "text": "   Hi fellow redditors. I want to rent a car for a short vacation to Oman at the end of this month.    I want to rent a car but I heard that crossing to another country is usually not allowed. Does anyone know about that?    Is there a company who allows that? No small scammy companies. I prefer international (its ok if they are more expensive) car companies.    Thanks a lot.     &#32; submitted by &#32;   /u/MentalCheek7723       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1whqsi6/car_rental_but_crossing_over_to_oman_and_back/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:41:06Z"
+  },
+  {
+   "id": "rd:t3_1whneqd",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "⚠️ New to Dubai? Be Careful When Renting Rooms in JBR/Marina",
+   "text": "   If you’re new to Dubai and looking for a room in  JBR or Marina , please be very careful. Some agents/room providers don’t give you the full information upfront.   They’ll first send you nice pictures. You visit the room, like it, and then  when you’re about to move in , they may suddenly mention additional deposits, possible rent increases during the season, or extra security charges.   In my case, I was also told  only when I reached the room that the balcony would be shared , even though this wasn’t clearly mentioned before.   My advice:  Don’t pay even AED 1 before you actually move in ",
+   "url": "https://www.reddit.com/r/UAE/comments/1whneqd/new_to_dubai_be_careful_when_renting_rooms_in/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:41:06Z"
+  },
+  {
+   "id": "rd:t3_1whrupe",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Cut off from parking, pool access etc as landlord hasn’t paid service charges, can I use this to leave my apartment without paying penalty?",
+   "text": "   Access cards haven’t worked since Sat, reported it to property manager but as of yet no news on it being rectified   I want to get out of my apartment anyway and take advantage of the post war prices but I’m not interested in paying 2 months penalty to get out early    My question is can I use this lack of access (contract states landlord will provide access) to get out of my tenancy without paying the penalty?    I assume I’ll have to file some form of dispute etc    How long should I give the landlord to pay it      &#32; submitted by &#32;   /u/Lopsided-Tea-2586       [link]   &#32;   [c",
+   "url": "https://www.reddit.com/r/dubai/comments/1whrupe/cut_off_from_parking_pool_access_etc_as_landlord/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:40:44Z"
+  },
+  {
+   "id": "rd:t3_1whqe3x",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "How is it mid-September and nothing has changed?",
+   "text": "   Frustrated because everything is taking so long to recover from the mess of the conflict. I thought by now, things would settle back in but honestly, it hasn&#39;t at all. The struggle is lingering with work loss and cutbacks, and with salary delays and no extra income coming in, the stress and depression is just increasing daily. Got rent to think about and hopeful I do not get kicked out for delaying it, and groceries that I can&#39;t even cover right now coz budget is completely shot. And it is not like I&#39;m not trying or working extra hard, coz I am and it is just not enough anymore.",
+   "url": "https://www.reddit.com/r/dubai/comments/1whqe3x/how_is_it_midseptember_and_nothing_has_changed/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T11:40:44Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2NsaHB3Z0V1WEJYd05Hb1VTTzNaWXVYdU0zczhHS3AzWE1TM2Z6Q0VGbThKTDVHdkMtaEJpNEJZWE9obVRaTERmSm9oTUlKa2htdE94RkZPa05ZVHVKd0k1c0V2UENoR3J2U3NDaTEwWlVVdkxlVzZPNEI0TGJjNkRoVVhmTFh5NUhoVE02Q2lEZi1LTFBQVjFxdmdQOVRyVDdJUWVyX1U3N1gycm95OTdHd1lXQ3BZLXdkYl9QV0d5R0pWcXNfZEtUcw?oc=5",
    "platform": "RSS",
@@ -3702,126 +3822,6 @@
    "text": " 'High-value' Dubai property in demand in shift from luxury market &nbsp;&nbsp; thenationalnews.com ",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0o4LVNwQ2ozWnQyUV83bGFJcUZRbFJ3U0pyN2w2TUNHUjgyY1FCT0VJVEFzbUtVOU5iSF9LdkgtSFJfbXdHRlA3TXc5SVA4bnlhM3hqME5uYWxpRkd6blVLM0prSGhORHBKdktFXzZnam5NNVdVOV9fQ1NFUzhRNDN0YzBKSy1UVE54RUplSkhYNVBYbWc?oc=5",
    "date": "2026-09-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1gVBVV95cUxOU2c3dWF5bnEzX19nNmFyLXNXUkRpOHB5TVZvbVFLdmlKekVpSkxDc0U4bjJ1T1VTRUdGQmFLV2JyTlNmd1pSd1JDemVWRmlJOXE3dEFtNkhTbjhQbFhja2xLRWZWYjhGOE9LZ0kxU1FhMGM2YzFsTHlsX21UUmYtYWdwZUtxU01YWWNZaU9iWHJSa09kbVo0UzFUOGpWazYwa01vTE9XMFBTR0cxZWg3M2pJVEZkaFZndFRpNG9YX25uc0JJck1DZ2pNemt2d0VkWl9WVWFnbkNhalhRNlVzZVNZOEUtelA3cDlqd1d2MFU0aTl0Y0YzNWtxVEphRThydl82dmlaVXdDTi1qVWFXbFBfQVoxWE13LU5QQzA2amI4Z2dKcHF3NWc4UGViYlhhMjdFWHlnZEZYVEtuYnVFUGdWbFhyT0g2N09MYmFEMzZpMThOMllTYlVsUmdwWmZOOFdVSFNYZnBib2o1Rmk1T2lGdW54aU1nTlR5Yzg0Tlg1cHVKU3NNdm9Wd3F4UVFEMXFUR0VKWlNRdC1DLUxVM1ZyRzRVbkdhb2ZfeHVvU3l4RnV4WmJQbjgxSkFKSzRiaThLZ1V6SkNKT3d1eVlNR3Q0T3NjVEhFMm41Sjc5VVBKTVJJdGlsWi1XbmJGLUtfTC1fZ3Rmb2MxV0RzN1BqaEt4OUwzUXZOQWJsTzR6LTBlV1lxcmlva1lSU3Q0ZU1iS1d2dTVRbkY4VlVoZlB2eHN5cGRNdzdHd2Rnb1ZDb0pXdmt3QmxkYkFnNFBLdnNEOHdkZ0pCcmtDcHVHU1hIRjlpMXdxZUFpOWxuc0tFb3BkTDJkRkRablBiMm05SlRTQ1lMTlo4RWI1dVp2ZzRBVVctMldJM3Z1Q0psTml5VUttbDZiNzQ0T0RsNzM2N1o5TTF2UGZyaWI3M1ZjYzRuM0R0OS1MbG9sZUJXV08zcncxWUhYeHc?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "title": "«أراضي دبي» تفتح آفاقاً جديدة للابتكار والتعليم المتخصص في القطاع العقاري - صحيفة الخليج",
-   "text": " «أراضي دبي» تفتح آفاقاً جديدة للابتكار والتعليم المتخصص في القطاع العقاري &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMi1gVBVV95cUxOU2c3dWF5bnEzX19nNmFyLXNXUkRpOHB5TVZvbVFLdmlKekVpSkxDc0U4bjJ1T1VTRUdGQmFLV2JyTlNmd1pSd1JDemVWRmlJOXE3dEFtNkhTbjhQbFhja2xLRWZWYjhGOE9LZ0kxU1FhMGM2YzFsTHlsX21UUmYtYWdwZUtxU01YWWNZaU9iWHJSa09kbVo0UzFUOGpWazYwa01vTE9XMFBTR0cxZWg3M2pJVEZkaFZndFRpNG9YX25uc0JJck1DZ2pNemt2d0VkWl9WVWFnbkNhalhRNlVzZVNZOEUtelA3cDlqd1d2MFU0aTl0Y0YzNWtxVEphRThydl82dmlaVXdDTi1qVWFXbFBfQVoxWE13LU5QQzA2amI4Z2dKcHF3NWc4UGViYlhhMjdFWHlnZEZYVEtuYnVFUGdWbFhyT0g2N09MYmFEMzZpMThOMllTYlVsUmdwWmZOOFdVSFNYZnBib2o1Rmk1T2lGdW54aU1nTlR5Yzg0Tlg1cHVKU3NNdm9Wd3F4UVFEMXFUR0VKWlNRdC1DLUxVM1ZyRzRVbkdhb2ZfeHVvU3l4RnV4WmJQbjgxSkFKSzRiaThLZ1V6SkNKT3d1eVlNR3Q0T3NjVEhFMm41Sjc5VVBKTVJJdGlsWi1XbmJGLUtfTC1fZ3Rmb2MxV0RzN1BqaEt4OUwzUXZOQWJsTzR6LTBlV1lxcmlva1lSU3Q0ZU1iS1d2dTVRbkY4VlVoZlB2eHN5cGRNdzdHd2Rnb1ZDb0pXdmt3QmxkYkFnNFBLdnNEOHdkZ0pCcmtDcHVHU1hIRjlpMXdxZUFpOWxuc0tFb3BkTDJkRkRablBiMm05SlRTQ1lMTlo4RWI1dVp2ZzRBVVctMldJM3Z1Q0psTml5VUttbDZiNzQ0T0RsNzM2N1o5TTF2UGZyaWI3M1ZjYzRuM0R0OS1MbG9sZUJXV08zcncxWUhYeHc?oc=5",
-   "date": "2026-09-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiwARBVV95cUxOVzQwVktBTUhSdjRlMVhHZmpzZGI3dGZjQUNqWm9OQmhFWDZZYTFsd0xfNWtHNkZKUzlKeVk1RVRoZkZJc2Z5OWgzcHp2bGp3ajVQMlMxbDVtMUdUaV9DbU5NZ2ZJV2tUb3FQdFpncmVzTVhENXdIb2YzZ0MyUEhibEpmdHJ0b3ZlNkV1NHpVMElrcC1tVmZQWm1UNk5aTXg3TW04UkVCUFFBeTZqalRnbE5OZ2xNcWk1QmZLci1RRnFmRG5BVmpxN19JOElKMGNQRVhUODZKSE80eVVtYmcxNm1lR0pMbE9ndmF2cy03Ni1GcExzZWNNZ3NpQmd5RFM3NTN2NjJQbC0xNFpuWkRNRE1kaUcxVWU0OVV1bjhzd1dQWHgtUV9WWUpqTmxtOE9reUhXSlA3d3hiOUZJRDJqeWl3VGJ0cWVKNDVlNWNWYWp0NzZ2NmpVeVdaQ0k3ZGVSZWtJR2RiclNUNlliS2hKcnhFR01oSmdkanNJSXlQbTU1RjB4Nko0UlFLbmx1Q1ZIcGJWVkZtdUROUmZoLW5HY24yUGNmVllvdG1uNWZBNDdzU3BwRHZSNjhLd0xMcmVtbzR4enJEVXRtY1RZZTBJWGxaRy1FU21XaHBMUUVNTWU4YnJfZldJTEVzZElONFBhX3ZCUmZjNFpncWZ6cnAtbmxIdlBJM2VsY1hDWjNnb3plTXpEUHhjTk1GMnJ3c09tdjJVV1VBekFEUHRXS3Y3VXFiTkRtb1dNTnd5LW5HYWM?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "title": "«أراضي دبي» تختتم مشاركتها في معرض العقارات الدولي 2026 - صحيفة الخليج",
-   "text": " «أراضي دبي» تختتم مشاركتها في معرض العقارات الدولي 2026 &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxOVzQwVktBTUhSdjRlMVhHZmpzZGI3dGZjQUNqWm9OQmhFWDZZYTFsd0xfNWtHNkZKUzlKeVk1RVRoZkZJc2Z5OWgzcHp2bGp3ajVQMlMxbDVtMUdUaV9DbU5NZ2ZJV2tUb3FQdFpncmVzTVhENXdIb2YzZ0MyUEhibEpmdHJ0b3ZlNkV1NHpVMElrcC1tVmZQWm1UNk5aTXg3TW04UkVCUFFBeTZqalRnbE5OZ2xNcWk1QmZLci1RRnFmRG5BVmpxN19JOElKMGNQRVhUODZKSE80eVVtYmcxNm1lR0pMbE9ndmF2cy03Ni1GcExzZWNNZ3NpQmd5RFM3NTN2NjJQbC0xNFpuWkRNRE1kaUcxVWU0OVV1bjhzd1dQWHgtUV9WWUpqTmxtOE9reUhXSlA3d3hiOUZJRDJqeWl3VGJ0cWVKNDVlNWNWYWp0NzZ2NmpVeVdaQ0k3ZGVSZWtJR2RiclNUNlliS2hKcnhFR01oSmdkanNJSXlQbTU1RjB4Nko0UlFLbmx1Q1ZIcGJWVkZtdUROUmZoLW5HY24yUGNmVllvdG1uNWZBNDdzU3BwRHZSNjhLd0xMcmVtbzR4enJEVXRtY1RZZTBJWGxaRy1FU21XaHBMUUVNTWU4YnJfZldJTEVzZElONFBhX3ZCUmZjNFpncWZ6cnAtbmxIdlBJM2VsY1hDWjNnb3plTXpEUHhjTk1GMnJ3c09tdjJVV1VBekFEUHRXS3Y3VXFiTkRtb1dNTnd5LW5HYWM?oc=5",
-   "date": "2026-09-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d9%85%d8%ac%d9%85%d8%b9-%d8%af%d9%8a%d8%b3%d8%aa%d8%b1%d9%8a%d9%83%d8%aa-%d9%88%d9%86-%d8%a8%d8%af%d8%a8%d9%8a-%d8%a8%d9%80-1/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "تأجير فيلا في مجمع \"ديستريكت ون\" بدبي بـ 1.9 مليون دولار سنوياً لـ 3 أعوام",
-   "text": "شهدت دبي اليوم الإعلان عن إحدى أعلى صفقات الإيجار السكني في الإمارة، حيث أعلنت شركة الوساطة العقارية «B1 Properties» إتمام&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d9%85%d8%ac%d9%85%d8%b9-%d8%af%d9%8a%d8%b3%d8%aa%d8%b1%d9%8a%d9%83%d8%aa-%d9%88%d9%86-%d8%a8%d8%af%d8%a8%d9%8a-%d8%a8%d9%80-1/",
-   "date": "2026-09-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:16Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d9%85%d8%a7%d8%b3%d9%83-%d9%85%d8%b9-%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d9%85/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "أسعار العقارات في دبي تتماسك مع تصحيح محدود في أغسطس 2026",
-   "text": "سجلت أسعار العقارات في دبي خلال شهر أغسطس من العام 2026 حركة تصحيح محدودة، حيث تراجعت بنسبة 3.1% على أساس&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d9%85%d8%a7%d8%b3%d9%83-%d9%85%d8%b9-%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d9%85/",
-   "date": "2026-09-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:16Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMixwJBVV95cUxQSldaUy1DMkt1OUJBVHFPYXVUYWE2UzcxdkdtTllXYmI5c0p2SnppcXE3S3pWeHMyWllOOThQT2JmbXFocFNDUVZvb1VsZHBTejE3X25fWEt6NjNOSWlHVlh5QVFQYVMtWGFJbnE4SnZnNWNLWnBIT2VOMXNoTW9kMUZuZ2h6X2JHX29VOGhMNFdtOFlTRkRmZVhxWUZOR3psc1doc0w4UTFwRDZwRThtR0ZndjNqbUllOXNwaEJJcHlfbnVoUW1LVGFkd0JzaDhSUE1IUnBEbnEzcHlGdXdGazB2RF9QX2VvLWJpdHRjQ0dnR0lfdTdSd1JqeEZkbGM2UDUtV1Jkbk9zRFlHYVBnM3dIU2VoeFpxVUtVX1BONDBacDFRSV9MdU9GbFRyRUpXRGtDbkFjWHBpRTRaWVFFaDdQeHpHMVE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "مطورون خلال \"IPS 2026”: عقارات دبي تواصل جذب الاستثمارات ومشروعات جديدة بمليارات الدراهم - وكالة وام",
-   "text": " مطورون خلال \"IPS 2026”: عقارات دبي تواصل جذب الاستثمارات ومشروعات جديدة بمليارات الدراهم &nbsp;&nbsp; وكالة وام ",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQSldaUy1DMkt1OUJBVHFPYXVUYWE2UzcxdkdtTllXYmI5c0p2SnppcXE3S3pWeHMyWllOOThQT2JmbXFocFNDUVZvb1VsZHBTejE3X25fWEt6NjNOSWlHVlh5QVFQYVMtWGFJbnE4SnZnNWNLWnBIT2VOMXNoTW9kMUZuZ2h6X2JHX29VOGhMNFdtOFlTRkRmZVhxWUZOR3psc1doc0w4UTFwRDZwRThtR0ZndjNqbUllOXNwaEJJcHlfbnVoUW1LVGFkd0JzaDhSUE1IUnBEbnEzcHlGdXdGazB2RF9QX2VvLWJpdHRjQ0dnR0lfdTdSd1JqeEZkbGM2UDUtV1Jkbk9zRFlHYVBnM3dIU2VoeFpxVUtVX1BONDBacDFRSV9MdU9GbFRyRUpXRGtDbkFjWHBpRTRaWVFFaDdQeHpHMVE?oc=5",
-   "date": "2026-09-08",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:19Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMikwRBVV95cUxOUHRKb0VjbzZwdjM0TkpQbmdHRGpmeDJkMkpFTnpONnZnZVl5dGthbVFaV1V1ZENKakV2TWQxWUp3UVBBRndLdzRSclhFZ085MlNZS3VLb3lfeHFkYzM2cGFNalU2cXZ0RG1yTThrRThOa1BTMUkyc055VmhoWmVDWTByX3VZVDVpdVE5Y2p0S1c4dDJ4RVZSTHlLX05IZEk2cHZfNDlDRHdObm1fR0l1eGZhUEs5Y2FoOGlYZXVVYjFhbzB3bUY0RHN6Q0psMUxEbmRIREdkdWc0WFRqMHNTa3RtWkhHZWFpNUZJUmxTUUlaZHRYSUZhWGV3bERjNGZlcGtnNHZrOFdjajExUVJGekdBYVIxMkJuNmxzM2F2bTcyNTRKRTRvdGFId0ZFVG1QcVBlSnlmQ1RHMi1hQzR6SU9HMklUWFRhWDBNTVB4a1lfTHB2VW15b0haWXFjRHI2VUpBRDc5LS10SjRoX0g3V1M4VDRGaWpxSHpDbGtJUGRidFhmRHZqdGd4N3dJNWJoTjNMVmJUZ0stVFZNMkxkZWFnRlhFSGFwZmQxV0x1cGtKN2Q2UTk3ZGYtYmFoSnozbDlyY2VROFJ0ODB1eDB3Mk9mVW1ZZjF5SmdQbUJ5cHRGWTFsRlJydl84ZXVlWjA0bV9ONklfdlQyYTRBaVRkY05jbWRYYm5TUE5IN245MzZ5RlU?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "«تملك العقار الأول» يجذب طلباً قوياً من سكان دبي (فيديو) - صحيفة الخليج",
-   "text": " «تملك العقار الأول» يجذب طلباً قوياً من سكان دبي (فيديو) &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxOUHRKb0VjbzZwdjM0TkpQbmdHRGpmeDJkMkpFTnpONnZnZVl5dGthbVFaV1V1ZENKakV2TWQxWUp3UVBBRndLdzRSclhFZ085MlNZS3VLb3lfeHFkYzM2cGFNalU2cXZ0RG1yTThrRThOa1BTMUkyc055VmhoWmVDWTByX3VZVDVpdVE5Y2p0S1c4dDJ4RVZSTHlLX05IZEk2cHZfNDlDRHdObm1fR0l1eGZhUEs5Y2FoOGlYZXVVYjFhbzB3bUY0RHN6Q0psMUxEbmRIREdkdWc0WFRqMHNTa3RtWkhHZWFpNUZJUmxTUUlaZHRYSUZhWGV3bERjNGZlcGtnNHZrOFdjajExUVJGekdBYVIxMkJuNmxzM2F2bTcyNTRKRTRvdGFId0ZFVG1QcVBlSnlmQ1RHMi1hQzR6SU9HMklUWFRhWDBNTVB4a1lfTHB2VW15b0haWXFjRHI2VUpBRDc5LS10SjRoX0g3V1M4VDRGaWpxSHpDbGtJUGRidFhmRHZqdGd4N3dJNWJoTjNMVmJUZ0stVFZNMkxkZWFnRlhFSGFwZmQxV0x1cGtKN2Q2UTk3ZGYtYmFoSnozbDlyY2VROFJ0ODB1eDB3Mk9mVW1ZZjF5SmdQbUJ5cHRGWTFsRlJydl84ZXVlWjA0bV9ONklfdlQyYTRBaVRkY05jbWRYYm5TUE5IN245MzZ5RlU?oc=5",
-   "date": "2026-09-08",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:19Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGtZSWk2YXYteHNJYzR0b0F5ejhBeU9CeUlEVks3Uk5PQzBWLW40WXVzLUh6a19taGpMc0M5SXlUY1M1TW1CSzNKaGN3ZWNFbzlCNmFHTHNjcmhJZXltQXJzcDZxUUswTHdVV3lQQmRmTV9nOE1zREhnQndSREtXeFBoeU52ZktJbXdFUFNmdEdNN2ViOFFSbElUZ1V5NUI2TlFiNzJXb1IyQlZGVEtBdWxsWXREcnpyRTJtdFJydURWdE5lb3c?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "IPS 2026: Global real estate capital meets Dubai's thriving development landscape - desmoinesregister.com",
-   "text": " IPS 2026: Global real estate capital meets Dubai's thriving development landscape &nbsp;&nbsp; desmoinesregister.com ",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGtZSWk2YXYteHNJYzR0b0F5ejhBeU9CeUlEVks3Uk5PQzBWLW40WXVzLUh6a19taGpMc0M5SXlUY1M1TW1CSzNKaGN3ZWNFbzlCNmFHTHNjcmhJZXltQXJzcDZxUUswTHdVV3lQQmRmTV9nOE1zREhnQndSREtXeFBoeU52ZktJbXdFUFNmdEdNN2ViOFFSbElUZ1V5NUI2TlFiNzJXb1IyQlZGVEtBdWxsWXREcnpyRTJtdFJydURWdE5lb3c?oc=5",
-   "date": "2026-09-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzdhbmpiVDduR2s2N2pYWUxpU3RDV2tKX2tfeXRKVU8wTVFoajZSdTJFMS1heno3REtYdWhLU3JLYnEtU0Z1NmpCXy03U0dJQmFpVDhSUXR0d3o4UDJucnZFdWw4WFp6UEtSaUZyU0VWU3RrZnJyajZXSGEyMUxSdVN3endKRi1BeDYzeTJJc0NNMGViMmt5aV9HN0hhSnBTQmlmczFVSWd4Vk16WUJTUmxrYkVJVXhHdEHSAb8BQVVfeXFMTlhkVWhFaVNtWGp2VTQycUt1UERfdnBiZTJjaklzak56c1VFeXFrc2RsR0VqUDU5TVRUOENOTTJveGowanh5OWRkNldPZnk3MkZZNXJWbEVFUWNkNE1kQkg1QVR2X2RBTzFDdUFaMVpRVDVqVjlIck5lSHhNeUFoRGZPdkhkckdJbG5IR0Z1bHFwTDdtcXJuMjFlU0tIY2lndUhENmZoYTl3UUhuY29hdVVJcUxvTzlBckpFNXlpdHM?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property boom over? August 2026 data shows prices cooling - theweek.in",
-   "text": " Dubai property boom over? August 2026 data shows prices cooling &nbsp;&nbsp; theweek.in ",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzdhbmpiVDduR2s2N2pYWUxpU3RDV2tKX2tfeXRKVU8wTVFoajZSdTJFMS1heno3REtYdWhLU3JLYnEtU0Z1NmpCXy03U0dJQmFpVDhSUXR0d3o4UDJucnZFdWw4WFp6UEtSaUZyU0VWU3RrZnJyajZXSGEyMUxSdVN3endKRi1BeDYzeTJJc0NNMGViMmt5aV9HN0hhSnBTQmlmczFVSWd4Vk16WUJTUmxrYkVJVXhHdEHSAb8BQVVfeXFMTlhkVWhFaVNtWGp2VTQycUt1UERfdnBiZTJjaklzak56c1VFeXFrc2RsR0VqUDU5TVRUOENOTTJveGowanh5OWRkNldPZnk3MkZZNXJWbEVFUWNkNE1kQkg1QVR2X2RBTzFDdUFaMVpRVDVqVjlIck5lSHhNeUFoRGZPdkhkckdJbG5IR0Z1bHFwTDdtcXJuMjFlU0tIY2lndUhENmZoYTl3UUhuY29hdVVJcUxvTzlBckpFNXlpdHM?oc=5",
-   "date": "2026-09-08",
    "dateApprox": false,
    "language": "en",
    "engagement": "",
