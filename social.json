@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-15T21:25:02Z",
- "newThisRun": 9,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-16T04:54:00Z",
+ "newThisRun": 3,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 11,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 30,
+   "items": 32,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 29,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2NsaHB3Z0V1WEJYd05Hb1VTTzNaWXVYdU0zczhHS3AzWE1TM2Z6Q0VGbThKTDVHdkMtaEJpNEJZWE9obVRaTERmSm9oTUlKa2htdE94RkZPa05ZVHVKd0k1c0V2UENoR3J2U3NDaTEwWlVVdkxlVzZPNEI0TGJjNkRoVVhmTFh5NUhoVE02Q2lEZi1LTFBQVjFxdmdQOVRyVDdJUWVyX1U3N1gycm95OTdHd1lXQ3BZLXdkYl9QV0d5R0pWcXNfZEtUcw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property sales rebound 38% from three-year low as prices rise in 81% of communities - Arabian Business",
+   "text": " Dubai property sales rebound 38% from three-year low as prices rise in 81% of communities &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2NsaHB3Z0V1WEJYd05Hb1VTTzNaWXVYdU0zczhHS3AzWE1TM2Z6Q0VGbThKTDVHdkMtaEJpNEJZWE9obVRaTERmSm9oTUlKa2htdE94RkZPa05ZVHVKd0k1c0V2UENoR3J2U3NDaTEwWlVVdkxlVzZPNEI0TGJjNkRoVVhmTFh5NUhoVE02Q2lEZi1LTFBQVjFxdmdQOVRyVDdJUWVyX1U3N1gycm95OTdHd1lXQ3BZLXdkYl9QV0d5R0pWcXNfZEtUcw?oc=5",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T04:53:59Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDhsb2ZLalBjRVFFaU1nSkFXeTV2RWJ1SHBWRm9zYk04eFQ2Q2ZHZ3R3TDJRVnREUTdVWVIxNGpfdzlteUdSc0podThRWlotRmNkUnpvdzNMMFZIRzZUTTNzYjdxdHowLW5jVXQxSmQyZ2xJcHBQa3gxUWJId25Yekp3MHR6ZUVvVnV3Z3kxSGJmVGJBNG5WemFUWmJHMmZ1dEdFUXVLbGFuZzYyR0xvUGRDZWIxQlJUMkFDREZoVGIydEnSAd4BQVVfeXFMTVd0bHZuS1dEZ2ZrcnlqcmR2eXJuRVVib2N0ZVFEa1NZc1NnNDhQekZJOFlTZDdfYnV1dE04ODMtRnE4YkpqM2xLa2VZcU92VHlkak1ZQnpEVG90dEIwYWtubm1Yd0xMdDBFMFFpOFo4WDUtTzdzSHgyNEU5MWhLUzFLSkY2dmpCUE12emlGdmdhQ0RNdkRFRE5sTjNadVhsNENjSHUtM0xXX1c0cnpKN0pjeFBaelFaY2drMnY4aERPU2Q3VHFxNDluR2hLTklVU1l5V0ZILXUzdmdxclhn?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate ranks 17th globally for transparency in 2026 - up 11 places in two years - Emirates 24|7",
+   "text": " Dubai real estate ranks 17th globally for transparency in 2026 - up 11 places in two years &nbsp;&nbsp; Emirates 24|7 ",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeDhsb2ZLalBjRVFFaU1nSkFXeTV2RWJ1SHBWRm9zYk04eFQ2Q2ZHZ3R3TDJRVnREUTdVWVIxNGpfdzlteUdSc0podThRWlotRmNkUnpvdzNMMFZIRzZUTTNzYjdxdHowLW5jVXQxSmQyZ2xJcHBQa3gxUWJId25Yekp3MHR6ZUVvVnV3Z3kxSGJmVGJBNG5WemFUWmJHMmZ1dEdFUXVLbGFuZzYyR0xvUGRDZWIxQlJUMkFDREZoVGIydEnSAd4BQVVfeXFMTVd0bHZuS1dEZ2ZrcnlqcmR2eXJuRVVib2N0ZVFEa1NZc1NnNDhQekZJOFlTZDdfYnV1dE04ODMtRnE4YkpqM2xLa2VZcU92VHlkak1ZQnpEVG90dEIwYWtubm1Yd0xMdDBFMFFpOFo4WDUtTzdzSHgyNEU5MWhLUzFLSkY2dmpCUE12emlGdmdhQ0RNdkRFRE5sTjNadVhsNENjSHUtM0xXX1c0cnpKN0pjeFBaelFaY2drMnY4aERPU2Q3VHFxNDluR2hLTklVU1l5V0ZILXUzdmdxclhn?oc=5",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-16T04:53:59Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMimwVBVV95cUxPRTJQNmlQaHFuckVEejl2enJycUNSaGpjODhIMUJjUXFGRnpzS202Z3U2dG90cm84cnpucGIyYnNkNTF3bE5jWHNDUGJORHBFZFZQaGZ5ejdRc1djTm1aeXgwbFhfcm8wbDFOZk4zYng0d09WUzQteWxDZzFVdW52Y3VabXRlUURldWxDWEMxLThDZ1A3cHpxOXZwZGs2MkwwQUZPZF8za1BHdEwwM01Gc0RqZnNHVWl5MV81a1AycFcwYVhDWkQ3ajdENE1oVjZZT0RzcURfUVFHRlZIcEY0VlcydVd0MWpwazhCSTBPYkRwS0VNbVVvSFBYRmhoZ2V0THhrN1hHdmFVbnl2Q05sRDNtSGZGaFRnbk41a1VUaFJpSVNaSDhmWkJzSzIyQjB4ZHA0bnVMS28tZ3pkYWhVNFhpak45OXZ6X2VJSjN4eUhSU2tmTDlRWkxFYmI0V1FyZTVtYzNsd0hZX2ZaWmdVU1lwNGU1VTlMazZUWm9kSmFWSmlWcEltZEpDZjB1V0lXLTF6dHV0WXVpWHh2V0RaN2hsU1VYdmlVcXU0UmRMLWc5NjY0RVRkSXVoTTF5cjFwNmtNY2xldk1lY194UUl3THphNVJpMVkwMmpXZFVZVFVCVW1VWEo2ODFLTURfV0xOVmhPTWZKaHhhSEZOU2w2bmpONldETWNXM0FtLVJrTlI3X2hlMVJJbF9DcVZFYjRzSkxid2kzeFZWRmtCdmJRTDN2UXZQWnpZb014N2l6eExBWlpreG4wTTlYdC1rRnNpbmtieGY5VjNFemJZU3JhWUZfb1Y0UUdGQTVtSjRYY05jOUFQTkMyVGpoWXJmQW1sSHY1WjlKbm5KSHhOMlBLQmQwTU0zbnRzSnhj?oc=5",
    "platform": "RSS",
@@ -3794,36 +3824,6 @@
    "date": "2026-09-08",
    "dateApprox": false,
    "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXB6REpzcFB5Vm53MTA0NXlRbENwRjM0U2tMb2xVOUtVTjM0dVk4YWNGSnJucXN3eTFSa3p5TTRDbHNaaVptaGpYN0ZTNFJBdjcwazA4LVhDVTA3a2xuZ1lqOXhtYlVNWXU1SUZzZHhXNEd2and1OVRkNnpxM2o0cU5zQ3hUWVVRbHJRZzNFbWlNX2EyclN0SEM3X0VwV3dDdjNJazUyN19fbnhqcGFEc3hqeUFidEFK?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai developer plans up to $1.1bn investment and 8 more property projects - Arabian Business",
-   "text": " Dubai developer plans up to $1.1bn investment and 8 more property projects &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXB6REpzcFB5Vm53MTA0NXlRbENwRjM0U2tMb2xVOUtVTjM0dVk4YWNGSnJucXN3eTFSa3p5TTRDbHNaaVptaGpYN0ZTNFJBdjcwazA4LVhDVTA3a2xuZ1lqOXhtYlVNWXU1SUZzZHhXNEd2and1OVRkNnpxM2o0cU5zQ3hUWVVRbHJRZzNFbWlNX2EyclN0SEM3X0VwV3dDdjNJazUyN19fbnhqcGFEc3hqeUFidEFK?oc=5",
-   "date": "2026-09-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMigANBVV95cUxOdnlKbEZVd0lRd1hzQ1VIZnJ6YXBzQ29PZlhjZE1uSEJfTWw3aWN3ZWhRUC1jbnlaMTZNQjM5Y2F5bk1vejE3STdNSU1NYXdUOUFvbVZoSHVCVHJRcEtMQnh0aDB1SXlnTFltZThzVUJuSGJNS1RVeW5USHNyOVNZVzdiQncySWFvaXVQS2ZYNDNTdTFQVXVWRUN1cEpwUUtOYVZza0lXc3k5RHZDXzBlZk5VWGo0SkNpMG1NYlhGWHBUem5saDROUFU5M2FwUjcxUHNZVUxlZW5JcEFNLXZLNm9jLWJ5RWVRV1BEVExTYVAxZjcyRDh0ME5fbzRQbmJzSEQ2Zy05MGEybkdKZmRIN1l4V2JqSGxKX3ZveEZKaGs2TjdPNkNhUW9XZkRJYmh6Ukw3ZnpuRzYwNmFoOVlWZmE0RkszNzhBaDNsWXhseVRDTl9aSm9zeDBGcjlkdk4xYThpNEVDSUNNLThVelUzclNRM2NMcXpRb3ZnMUhoX2M?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "title": "\"أراضي دبي\" توسع توظيف الذكاء الاصطناعي في تأهيل الكفاءات العقارية - وكالة وام",
-   "text": " \"أراضي دبي\" توسع توظيف الذكاء الاصطناعي في تأهيل الكفاءات العقارية &nbsp;&nbsp; وكالة وام ",
-   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOdnlKbEZVd0lRd1hzQ1VIZnJ6YXBzQ29PZlhjZE1uSEJfTWw3aWN3ZWhRUC1jbnlaMTZNQjM5Y2F5bk1vejE3STdNSU1NYXdUOUFvbVZoSHVCVHJRcEtMQnh0aDB1SXlnTFltZThzVUJuSGJNS1RVeW5USHNyOVNZVzdiQncySWFvaXVQS2ZYNDNTdTFQVXVWRUN1cEpwUUtOYVZza0lXc3k5RHZDXzBlZk5VWGo0SkNpMG1NYlhGWHBUem5saDROUFU5M2FwUjcxUHNZVUxlZW5JcEFNLXZLNm9jLWJ5RWVRV1BEVExTYVAxZjcyRDh0ME5fbzRQbmJzSEQ2Zy05MGEybkdKZmRIN1l4V2JqSGxKX3ZveEZKaGs2TjdPNkNhUW9XZkRJYmh6Ukw3ZnpuRzYwNmFoOVlWZmE0RkszNzhBaDNsWXhseVRDTl9aSm9zeDBGcjlkdk4xYThpNEVDSUNNLThVelUzclNRM2NMcXpRb3ZnMUhoX2M?oc=5",
-   "date": "2026-09-08",
-   "dateApprox": false,
-   "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:18Z"
   }
