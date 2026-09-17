@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-17T17:03:26Z",
- "newThisRun": 38,
+ "generatedAt": "2026-09-17T21:26:07Z",
+ "newThisRun": 4,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 0,
-  "reddit": 202,
-  "rss": 48
+  "reddit": 199,
+  "rss": 51
  },
  "sources": [
   {
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 34,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -53,15 +53,15 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,71 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFl5WU1aNFVuRE9jeEIySVMteHU0Wmw0QWJtSl9od1IwNlc2RXo5VjVHMkFRbVJMaTNBajBHTWZwR1ZDazU1MldUTWF6Yi1SZ2JmbFJkSHFObUZWcHZhcW9VQUFjZ21uU1N2amdoVEFVdWIxLTlQNkpLakpEdmtNLVA5TElabkl0RmdDWmsxR1JFQXhtdHNfYndOYjhxUUxnZjdoTHo5UEhNSnh0VWNZN0NBNU5FZ2tKSkszeThMSUEtWnY5OFNkb0kyc3NvWW5KWWh0MkgzR2p5UQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Property Index Announces Dubai Real Estate Data in ChatGPT and Claude - FinancialContent",
+   "text": " Property Index Announces Dubai Real Estate Data in ChatGPT and Claude &nbsp;&nbsp; FinancialContent ",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFl5WU1aNFVuRE9jeEIySVMteHU0Wmw0QWJtSl9od1IwNlc2RXo5VjVHMkFRbVJMaTNBajBHTWZwR1ZDazU1MldUTWF6Yi1SZ2JmbFJkSHFObUZWcHZhcW9VQUFjZ21uU1N2amdoVEFVdWIxLTlQNkpLakpEdmtNLVA5TElabkl0RmdDWmsxR1JFQXhtdHNfYndOYjhxUUxnZjdoTHo5UEhNSnh0VWNZN0NBNU5FZ2tKSkszeThMSUEtWnY5OFNkb0kyc3NvWW5KWWh0MkgzR2p5UQ?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T21:26:07Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMingFBVV95cUxNby0xWDdSQnJHWE01Q2dvQ09aZm9MaGxRZXpwdTQ5MkMtYWlVR2VSbHBiSjRvRWlkZ2drUjdrVThVV1RxN0JDcGh1Nmpjbkg2aHE3UzVoWmw5YmQ0Y29aWm5FQTZmcXl2X0t2cGx6emVlSzJ2MmpqNHlCWHd5d1RWMVU5bjJfa1FsNkx2RFFqbG1vNUNNVi1BZ2tIOXRUQdIBngFBVV95cUxNby0xWDdSQnJHWE01Q2dvQ09aZm9MaGxRZXpwdTQ5MkMtYWlVR2VSbHBiSjRvRWlkZ2drUjdrVThVV1RxN0JDcGh1Nmpjbkg2aHE3UzVoWmw5YmQ0Y29aWm5FQTZmcXl2X0t2cGx6emVlSzJ2MmpqNHlCWHd5d1RWMVU5bjJfa1FsNkx2RFFqbG1vNUNNVi1BZ2tIOXRUQQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai’s property market continues to defy expectations - Khaleej Times",
+   "text": " Dubai’s property market continues to defy expectations &nbsp;&nbsp; Khaleej Times ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNby0xWDdSQnJHWE01Q2dvQ09aZm9MaGxRZXpwdTQ5MkMtYWlVR2VSbHBiSjRvRWlkZ2drUjdrVThVV1RxN0JDcGh1Nmpjbkg2aHE3UzVoWmw5YmQ0Y29aWm5FQTZmcXl2X0t2cGx6emVlSzJ2MmpqNHlCWHd5d1RWMVU5bjJfa1FsNkx2RFFqbG1vNUNNVi1BZ2tIOXRUQdIBngFBVV95cUxNby0xWDdSQnJHWE01Q2dvQ09aZm9MaGxRZXpwdTQ5MkMtYWlVR2VSbHBiSjRvRWlkZ2drUjdrVThVV1RxN0JDcGh1Nmpjbkg2aHE3UzVoWmw5YmQ0Y29aWm5FQTZmcXl2X0t2cGx6emVlSzJ2MmpqNHlCWHd5d1RWMVU5bjJfa1FsNkx2RFFqbG1vNUNNVi1BZ2tIOXRUQQ?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T21:26:07Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTkxTU3E2SENjcVYtck9SNDR2U0dHdVlGV3JpbG9Ib0FhUHNRampFcWJxRl9PcGEwcHN0UjdpQl96OEZnZ19oUlB5OGF2Q2UtQjhreU9Oa3NUSllmOHJZdXRoZS1fN1Z6M2c?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "تقرير : 35 مليار درهم مبيعات عقارات دبي السكنية (+5%) في يوليو - ارقام",
+   "text": " تقرير : 35 مليار درهم مبيعات عقارات دبي السكنية (+5%) في يوليو &nbsp;&nbsp; ارقام ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTkxTU3E2SENjcVYtck9SNDR2U0dHdVlGV3JpbG9Ib0FhUHNRampFcWJxRl9PcGEwcHN0UjdpQl96OEZnZ19oUlB5OGF2Q2UtQjhreU9Oa3NUSllmOHJZdXRoZS1fN1Z6M2c?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T21:26:07Z"
+  },
+  {
+   "id": "rd:t3_1wj1i33",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Do you get irritated when kids play in family oriented community",
+   "text": "   Genuinely curious to hear other parents’ perspectives on this.   I’m a mom of two, 5 and 3, and they were playing with some of the neighbouring kids in the corridor around 6 PM. They were asked not to play there, and I’m trying to understand where everyone stands on this.   I completely understand that apartment living means being mindful of noise, and I’m happy to remind my kids to keep it down if they’re being too loud. I also understand that some residents may work night shifts and need to sleep during the day.   But I was a little surprised that 6 PM was considered too late/too disrupti",
+   "url": "https://www.reddit.com/r/dubai/comments/1wj1i33/do_you_get_irritated_when_kids_play_in_family/",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T21:25:32Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXd1pRSGhRZ3NvVmtwdG43OWU1LTZVZkJpZ2ZRdGNzaF9TdjZVMkd0Z3VnbS16OF94Q0p4XzZDbXowNC0xX2ktdHFteVRkSW5S?oc=5",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "For SALE - 2BR Apartment | Aria on the Park-Town Square | AED 1,470,000",
    "text": "    Posting as:  Agent   Property type : Apartment   Area/community : Town Square   Building/project:  Aria on the Park   Price:  AED 1,470,000   Bedrooms : 2Br- Type-D   Size (sq ft):  969   Status:  Soon to be hand over   Additional details : 2 &amp; 1/2 bathrooms, Full Park View, High Floor, 1 parking space, White Goods. Drop me a message for details. Handover November 2026.     &#32; submitted by &#32;   /u/umeed27       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1we79kx/for_sale_2br_apartment_aria_on_the_parktown/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we6ye4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Warehouse | Al Quoz Industrial Area | AED 30,000,000",
-   "text": "   Posting as: Agent  Property type: Warehouse / Industrial Property  Area/community: Al Quoz Industrial Area 4, Dubai  Building/project: N/A  Price: AED 30,000,000  Bedrooms: 0  Size (sq ft): 100,993  Status: Ready  Additional details: Large industrial property available for sale in Al Quoz Industrial Area 4.   Property details:   Plot area: 100,993 sq ft  Office block: Approximately 8,000 sq ft  Factory sheds: 3  Power load: 780 kW  Selling price: AED 30,000,000   Suitable for industrial operators, manufacturers, investors or businesses requiring a substantial landholding in Al Quoz.   Buyer",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we6ye4/warehouse_al_quoz_industrial_area_aed_30000000/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we6y7g",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai Real Investment",
-   "text": "   Dear All,   If you had 1 million, what option would you choose?       Would you use it to pay down payment for 4 different properties so it can give you a good monthly cash flow and diversify location based problems      Or you would invest all as a down payment in one property in tier 1 location      Or buy a property for self use and save on rent that you are paying.         &#32; submitted by &#32;   /u/HourProperty3347       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we6y7g/dubai_real_investment/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we67bb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For sale: Apartment 2BR | Palm Jumeirah Beach acccess | 7,200,000 AED",
-   "text": "    Posting as: Agent Property type: Apartment Area/community: Palm Jumeirah Building/project: Ellington Beach House Price: AED 7,200,000 Bedrooms: 2 Size (sq ft): 1400 sqf Status: Ready Additional details: High Floor Atlantis and Royal Atlantis and sea view (omniyat dolchester construction going on) Vacant Exclusive Beach access Unfurnished Fully fitted kitchen Direct and agents are welcome.       &#32; submitted by &#32;   /u/Eastern_Sea2562       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we67bb/for_sale_apartment_2br_palm_jumeirah_beach/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we631w",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For SALE - 2BR Apartment | Jumeirah Lake Towers | AED 1,550,000",
-   "text": "    Posting as:  Agent   Property type : Apartment   Area/community : Jumeirah Lake Towers   Building/project:  Lake City Tower   Price:  AED 1,550,000   Bedrooms : 2BHK   Size (sq ft):  1,245 sqft.   Status:  Ready   Additional details : 2 bathrooms, 1 parking space, fully upgraded interiors,  Vastu-compliant,  unfurnished, middle floor unit and ready to move in. Spacious layout located  opposite DMCC Metro  with quick access to Sheikh Zayed Road. Drop me a message to arrange a viewing.     &#32; submitted by &#32;   /u/umeed27       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we631w/for_sale_2br_apartment_jumeirah_lake_towers_aed/",
    "date": "2026-09-12",
    "dateApprox": false,
    "language": "en",
