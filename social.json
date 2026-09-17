@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-17T04:57:04Z",
- "newThisRun": 7,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-17T11:46:55Z",
+ "newThisRun": 4,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 189,
-  "rss": 60
+  "reddit": 191,
+  "rss": 58
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 7,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": null
   },
   {
@@ -77,6 +77,66 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%a8%d9%8a%d8%b9-%d9%83%d8%a7%d9%81%d8%a9-%d9%88%d8%ad%d8%af%d8%a7%d8%aa-%d8%a8%d8%a7%d9%8a-%d8%ba%d8%b1%d9%88%d9%81-%d9%81%d9%8a-%d8%ac%d8%b2%d8%b1-%d8%af/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"نخيل\" تبيع كافة وحدات \"باي غروف\" في جزر دبي وترسي عقد تنفيذ مرحلتين من المشروع",
+   "text": "أعلنت شركة نخيل، التابعة لدبي القابضة للعقارات، بيع جميع وحدات مشروع باي غروف ريزيدنسز Bay Grove Residences في جزر دبي،&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%a8%d9%8a%d8%b9-%d9%83%d8%a7%d9%81%d8%a9-%d9%88%d8%ad%d8%af%d8%a7%d8%aa-%d8%a8%d8%a7%d9%8a-%d8%ba%d8%b1%d9%88%d9%81-%d9%81%d9%8a-%d8%ac%d8%b2%d8%b1-%d8%af/",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T11:46:54Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d9%86-%d8%ba%d8%a7%d8%b7%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d8%aa%d8%a7%d8%b1%d9%81%d8%a7%d9%84-%d9%84%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d9%85%d8%ad%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"بن غاطي\" تطلق مشروع \"ستارفال\" لتوسيع محفظة مشاريعها بمنطقة الجداف بدبي",
+   "text": "تستعد شركة بن غاطي للتطوير العقاري Binghatti Developers لطرح مشروع بن غاطي ستارفال Binghatti Starfall في منطقة الجداف بدبي، بإجمالي&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a8%d9%86-%d8%ba%d8%a7%d8%b7%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d8%aa%d8%a7%d8%b1%d9%81%d8%a7%d9%84-%d9%84%d8%aa%d9%88%d8%b3%d9%8a%d8%b9-%d9%85%d8%ad%d9%81/",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T11:46:54Z"
+  },
+  {
+   "id": "rd:t3_1winlqf",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Serene Gardens 1, Dubai",
+   "text": "   I am an owner of an apartment in Serene Gardens 1, Dubai. The building was supposed to be finished end of 2025, but they extended the timeline by 1 year. We are in September already and I see on DLD that only 52% is completed. There is no way they will manage to finish by EOY.   Question to other owners - can we do anything about it?     &#32; submitted by &#32;   /u/Anny_Najada       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1winlqf/serene_gardens_1_dubai/",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T11:46:21Z"
+  },
+  {
+   "id": "rd:t3_1wils9j",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Stopped at airport AFTER exit stamp — told to close my company to cancel Partner Visa. Is this correct?",
+   "text": "   Stopped at airport AFTER exit stamp — told to close my company to cancel Partner Visa. Is this correct?   I urgently need advice from anyone who has dealt with GDRFA Dubai, investor/partner visa cancellation or a similar airport situation.   Today, 17 September 2026, I was prevented from boarding my flight at Al Maktoum Airport (DWC), even though I had already passed immigration and received an exit stamp.   I own an active real estate company in Dubai. I applied yesterday to cancel my Partner/Investor residence visa because I am moving to an Employment Visa sponsored by a completely differ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wils9j/stopped_at_airport_after_exit_stamp_told_to_close/",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T11:46:21Z"
+  },
   {
    "id": "rs:https://masdarak.com/home-finance/%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d8%a5%d9%84%d9%89-3-9-%d9%8a%d8%b6%d8%b9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81/",
    "platform": "RSS",
@@ -3766,66 +3826,6 @@
    "language": "en",
    "engagement": "76 views",
    "firstSeenAt": "2026-09-11T16:01:54Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiREFVX3lxTE5kdi1INF8zVl9zeVMzal9iZ3pISmZwOTNFeXVSTExEVTJEY1laQThjeENIT2lST3NlUEFUZ2RLY0kxWlJw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "«أراضي دبي» تستعرض في لندن نموذجاً متقدماً لتنظيم السوق العقاري وتطويره رقمياً خلال «بروبتك كونكت أوروبا» - بوابة التكنولوجيا المالية",
-   "text": " «أراضي دبي» تستعرض في لندن نموذجاً متقدماً لتنظيم السوق العقاري وتطويره رقمياً خلال «بروبتك كونكت أوروبا» &nbsp;&nbsp; بوابة التكنولوجيا المالية ",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5kdi1INF8zVl9zeVMzal9iZ3pISmZwOTNFeXVSTExEVTJEY1laQThjeENIT2lST3NlUEFUZ2RLY0kxWlJw?oc=5",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:19Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adWlWc3B1WTF0Vll3WjlKQU1tcXR1RzJESDZSZlZ4WE5heVIzeGxXR2VJd2NwbUpQUUFNeHIxb1hmVTlrU1RTU1d3aDVMdWRRbks1ZHdBSmpmUWs?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Why UK Investors Are Turning to Dubai Property in 2026 - Seen in The City",
-   "text": " Why UK Investors Are Turning to Dubai Property in 2026 &nbsp;&nbsp; Seen in The City ",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1adWlWc3B1WTF0Vll3WjlKQU1tcXR1RzJESDZSZlZ4WE5heVIzeGxXR2VJd2NwbUpQUUFNeHIxb1hmVTlrU1RTU1d3aDVMdWRRbks1ZHdBSmpmUWs?oc=5",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMisANBVV95cUxPalZrNk9WS2g1QVlyWi1pRmwwajhfbDl6dF9JanFYN0hRMk9MenVzZ3JtOERsQmlhT3NUeDJHLU1LWl80YjNkZUI4c3B3anc1THF5RExfeVFxWnNiZ3B0OThHbVBGVUxjQkc0QktaMHFKMGwwRTI4NHlFSEtrLVJ6bjVuSDFYckFwcHRmLW9xQnk1XzhsTmNUSmtGaUltdXRhSFQ5MkdoTW1hMFVSTTlIQTZGdzFxaXl0NnJpNE40cXVfNHl3X1Z3akNxLUl1aElHSmpaekVKVThoeEt2T3JwMk1pajYwd0hFODM0bzI1TDk5NzBTaGRHV0hrSjJWd1hOVmpwMFAzU3NfV1FwbkpEcnQ4d0JKN0V6LTQ0U01Rd3R5bkwwN2ZfdDktN2V6Y0JfSHBENUdtb1IzV1ZTdU1kNkI4RWR4QmtGZURLZTlwZXZqY2h6LVFFWmhuNmQ0c0VIY0xvbUE3RWNodWlZeWdSLTRUcks1SWxDOHVrQjc0aEFGWXp0bktVUHBFb3pjZFQ1dnhwd0lTMkRpbXl3NHRqVnBrcm54aFI2a1BNZ3FrbEo?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "title": "\"أراضي دبي\" تستعرض في لندن نموذجها المتقدم لتنظيم السوق العقاري رقميا - وكالة وام",
-   "text": " \"أراضي دبي\" تستعرض في لندن نموذجها المتقدم لتنظيم السوق العقاري رقميا &nbsp;&nbsp; وكالة وام ",
-   "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPalZrNk9WS2g1QVlyWi1pRmwwajhfbDl6dF9JanFYN0hRMk9MenVzZ3JtOERsQmlhT3NUeDJHLU1LWl80YjNkZUI4c3B3anc1THF5RExfeVFxWnNiZ3B0OThHbVBGVUxjQkc0QktaMHFKMGwwRTI4NHlFSEtrLVJ6bjVuSDFYckFwcHRmLW9xQnk1XzhsTmNUSmtGaUltdXRhSFQ5MkdoTW1hMFVSTTlIQTZGdzFxaXl0NnJpNE40cXVfNHl3X1Z3akNxLUl1aElHSmpaekVKVThoeEt2T3JwMk1pajYwd0hFODM0bzI1TDk5NzBTaGRHV0hrSjJWd1hOVmpwMFAzU3NfV1FwbkpEcnQ4d0JKN0V6LTQ0U01Rd3R5bkwwN2ZfdDktN2V6Y0JfSHBENUdtb1IzV1ZTdU1kNkI4RWR4QmtGZURLZTlwZXZqY2h6LVFFWmhuNmQ0c0VIY0xvbUE3RWNodWlZeWdSLTRUcks1SWxDOHVrQjc0aEFGWXp0bktVUHBFb3pjZFQ1dnhwd0lTMkRpbXl3NHRqVnBrcm54aFI2a1BNZ3FrbEo?oc=5",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMitgVBVV95cUxNdHlGNnItaENxYkdZT2FZWjRTSHo3Z0hOVGJFVFFZYVM4VmRtU1Q0bHRlb2kzMzZuczJ4MTdvY2QtWGhnX3VOX015QzF3Z2IySzFZN0RtU0pxaXdtR1lMeTFENmxPRTRJRFpqV1BrbjV2M3VsVUlPWV9TTzdPTjNSdS1hY2R4RWRCQmdocWg4T2xCRWFGQ2lQQ2VZWmJ4OFJlYUJybFlKY1F0LW9CU3pNbEVNcTgzaVdtMXdiajNPdTVCXzVsYUwxM0tEcjBWQzhuSHZ4VTBsdTFkRms0Qy00TEhtV2NOd1czNWpxMW1NajdCRXhpajlKazRRTElyREpBRjdmRGdoMUZRa3RwUVV1VzB5SEE4OTdEcm9YOGJwZUVKUWdEQVluTE02OGxHRVoyM1BWZ2VJd3k3MzFUY1NBdmYzeTRnTVVXcXg2anM0M1BkNGVKMFZIZXFCRGphZXNGbjl6RVFtOEs0ZC12UEppaEF2X1paQVpvT3hRTThpaG1aanN1QWtZMHd4Tl9XU0lKeTZNU1ZBQzNwX2JrSXNud2V0d0dKWlN3dWpSdkJXTFJQOF9GTFVHdTczdVRwS1pYR0JMT1RhaHdMY18ydkVnS3VNMzNLZWpmZ2xMWmtPcHV3WUlVRndxOTV5dDNnd0lCZ29xVVQ1RXJpWV9yRXNPYzRDcVd5WXNfYklBYVNscWRyLVJBSXY1YlpFVW5WX0RqNlAyUnRwbG9SeHZaS2M4eThkcnVEcEFpNi1RWENvdjlpVk9KUjFqekswMGdpdUNLR0pmX1dtc2RzOFlOM3o4ZVM0YTJnVGprZjRFbGxEdDNvMTJjVTdPNk1uSzg0dkdTT3NaRkFobnQzNWM2VGRUN053VDhGTGpxajdRejJCbXhvTDBiNDRjdEJQckVjM3JoNy0yU0VR?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"دائرة الأراضي والأملاك\" - أخبار Google",
-   "title": "\"أراضي دبي\" تستعرض في لندن نموذجاً متقدماً لتنظيم وتطوير السوق العقاري - صحيفة الخليج",
-   "text": " \"أراضي دبي\" تستعرض في لندن نموذجاً متقدماً لتنظيم وتطوير السوق العقاري &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxNdHlGNnItaENxYkdZT2FZWjRTSHo3Z0hOVGJFVFFZYVM4VmRtU1Q0bHRlb2kzMzZuczJ4MTdvY2QtWGhnX3VOX015QzF3Z2IySzFZN0RtU0pxaXdtR1lMeTFENmxPRTRJRFpqV1BrbjV2M3VsVUlPWV9TTzdPTjNSdS1hY2R4RWRCQmdocWg4T2xCRWFGQ2lQQ2VZWmJ4OFJlYUJybFlKY1F0LW9CU3pNbEVNcTgzaVdtMXdiajNPdTVCXzVsYUwxM0tEcjBWQzhuSHZ4VTBsdTFkRms0Qy00TEhtV2NOd1czNWpxMW1NajdCRXhpajlKazRRTElyREpBRjdmRGdoMUZRa3RwUVV1VzB5SEE4OTdEcm9YOGJwZUVKUWdEQVluTE02OGxHRVoyM1BWZ2VJd3k3MzFUY1NBdmYzeTRnTVVXcXg2anM0M1BkNGVKMFZIZXFCRGphZXNGbjl6RVFtOEs0ZC12UEppaEF2X1paQVpvT3hRTThpaG1aanN1QWtZMHd4Tl9XU0lKeTZNU1ZBQzNwX2JrSXNud2V0d0dKWlN3dWpSdkJXTFJQOF9GTFVHdTczdVRwS1pYR0JMT1RhaHdMY18ydkVnS3VNMzNLZWpmZ2xMWmtPcHV3WUlVRndxOTV5dDNnd0lCZ29xVVQ1RXJpWV9yRXNPYzRDcVd5WXNfYklBYVNscWRyLVJBSXY1YlpFVW5WX0RqNlAyUnRwbG9SeHZaS2M4eThkcnVEcEFpNi1RWENvdjlpVk9KUjFqekswMGdpdUNLR0pmX1dtc2RzOFlOM3o4ZVM0YTJnVGprZjRFbGxEdDNvMTJjVTdPNk1uSzg0dkdTT3NaRkFobnQzNWM2VGRUN053VDhGTGpxajdRejJCbXhvTDBiNDRjdEJQckVjM3JoNy0yU0VR?oc=5",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:18Z"
   }
  ]
 }
