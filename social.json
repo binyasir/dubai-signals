@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-09-16T21:21:26Z",
- "newThisRun": 35,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-17T04:57:04Z",
+ "newThisRun": 7,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 192,
-  "rss": 57
+  "reddit": 189,
+  "rss": 60
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 11,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 37,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -53,30 +53,120 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 31,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/home-finance/%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d8%a5%d9%84%d9%89-3-9-%d9%8a%d8%b6%d8%b9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "رفع الفائدة إلى 3.9% يضع التمويل العقاري في الإمارات أمام إعادة تسعير محتملة",
+   "text": "رفع مصرف الإمارات العربية المتحدة المركزي سعر الأساس المطبق على تسهيلات الإيداع لليلة واحدة بمقدار 25 نقطة أساس، من 3.65%&#8230;",
+   "url": "https://masdarak.com/home-finance/%d8%b1%d9%81%d8%b9-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d8%a5%d9%84%d9%89-3-9-%d9%8a%d8%b6%d8%b9-%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81/",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:57:03Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMilwFBVV95cUxONm9Ud3ZLcG5TbDQ0c3hkU3hTb19wcDd6NFJRazJSM3BtRThDSHA0ZW12bElJNTI5N3ZjVUVSMUg3dGlERmd6bVE5VVdub094Nlh0UEQzcEpuWlMtMkI1SEwycFNWLUItQTA2YS1BU1ZDTHMtX3hHYmVUbGdKTW85dkZod2F3eko2cGk4MGZtdVVsRGtkVS1R?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "AED300m deals expected at Dubai property show in UK - Arab News",
+   "text": " AED300m deals expected at Dubai property show in UK &nbsp;&nbsp; Arab News ",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONm9Ud3ZLcG5TbDQ0c3hkU3hTb19wcDd6NFJRazJSM3BtRThDSHA0ZW12bElJNTI5N3ZjVUVSMUg3dGlERmd6bVE5VVdub094Nlh0UEQzcEpuWlMtMkI1SEwycFNWLUItQTA2YS1BU1ZDTHMtX3hHYmVUbGdKTW85dkZod2F3eko2cGk4MGZtdVVsRGtkVS1R?oc=5",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:57:04Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjhKZWNLTDhUQVFNTjZBZDFQbDdVd09iRWlnT0QyTWVyeEVrMGJtcDNTMlZRN3ZsOUNYRGY4WGhxZ3N2RkZXOUZYTkl6R19lRzBkNWJieTJvbkx4QmRFSWpGMk9wSkxnVm4wTk5meURJVDJ3TkhmZHR2QkppaEtvSUkxY182LWpEY3NkUEFCdVJRczBvLWFsalJfcEI0azd6VDRGYWF6RHA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Damac chief confident of Dubai property market recovery by 2021 - Arab News",
+   "text": " Damac chief confident of Dubai property market recovery by 2021 &nbsp;&nbsp; Arab News ",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjhKZWNLTDhUQVFNTjZBZDFQbDdVd09iRWlnT0QyTWVyeEVrMGJtcDNTMlZRN3ZsOUNYRGY4WGhxZ3N2RkZXOUZYTkl6R19lRzBkNWJieTJvbkx4QmRFSWpGMk9wSkxnVm4wTk5meURJVDJ3TkhmZHR2QkppaEtvSUkxY182LWpEY3NkUEFCdVJRczBvLWFsalJfcEI0azd6VDRGYWF6RHA?oc=5",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:57:04Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMicEFVX3lxTE5CU0xJQWtTdFl3cGtTenZZSFkxNFRsblQtanNwZE5LYkt1cURYcm16YU9xWTdxWEM3RTgyWkdFczYwbDdqZ3J5MXo0UGlQYTRzN2ZIUTl6dVdfWHJQMmtTb1lIUTlfdkFULUdPSXdCWC3SAXBBVV95cUxOQlNMSUFrU3RZd3BrU3p2WUhZMTRUbG5ULWpzcGROS2JLdXFEWHJtemFPcVk3cVhDN0U4MlpHRXM2MGw3amdyeTF6NFBpUGE0czdmSFE5enVXX1hyUDJrU29ZSFE5X3ZBVC1HT0l3Qlgt?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "«بروبرتي فايندر»: سوق العقارات في دبي يتجاوز التوترات الإقليمية - البيان",
+   "text": " «بروبرتي فايندر»: سوق العقارات في دبي يتجاوز التوترات الإقليمية &nbsp;&nbsp; البيان ",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CU0xJQWtTdFl3cGtTenZZSFkxNFRsblQtanNwZE5LYkt1cURYcm16YU9xWTdxWEM3RTgyWkdFczYwbDdqZ3J5MXo0UGlQYTRzN2ZIUTl6dVdfWHJQMmtTb1lIUTlfdkFULUdPSXdCWC3SAXBBVV95cUxOQlNMSUFrU3RZd3BrU3p2WUhZMTRUbG5ULWpzcGROS2JLdXFEWHJtemFPcVk3cVhDN0U4MlpHRXM2MGw3amdyeTF6NFBpUGE0czdmSFE5enVXX1hyUDJrU29ZSFE5X3ZBVC1HT0l3Qlgt?oc=5",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:57:04Z"
+  },
+  {
+   "id": "rd:t3_1wi7voj",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Has Anyone Experienced Car Scratches After Refusing a Parking-Lot Car Wash in Dubai?",
+   "text": "   Has anyone experienced this in Dubai? Workers in indoor shopping-centre parking lots often offer to wash my rental car, but I always say no. I recently noticed new scratches, small dents and hard stains that I cannot remove. I’m not accusing anyone because I don’t have proof, but I’m worried and wondering if others had the same experience. Should I report it to mall security and ask them to check the cameras? I paid for rental insurance, but I’m scared they may still charge me.     &#32; submitted by &#32;   /u/teleghma       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wi7voj/has_anyone_experienced_car_scratches_after/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:56:37Z"
+  },
+  {
+   "id": "rd:t3_1wi5qxq",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Apartment rental move-out clauses",
+   "text": "   Hello,   I am moving out soon. In the move out clauses of my rental contract, the tenant should repaint the premises and do pest control. Is this normal in a contract ? I did not really pay attention to these clauses when signing. Should I proceed by doing this even though for the repaint it&#39;s not really needed? I would expect they will charge me double or triple if I don&#39;t do it myself. I&#39;m dealing with a management company and not the landlord directly.   Also in my new rental contract, there is a 1,000aed admin charge for the renewal of the contract, is this standard or shoul",
+   "url": "https://www.reddit.com/r/dubai/comments/1wi5qxq/apartment_rental_moveout_clauses/",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:56:37Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzY3bWVma1R1X3JscHpHS1lWWTRxUDVBVjFsRzVzSmFCejhINlBxaVVoaG82V0czb3RSVF9KX1E5YmRvb3pDWjJ4b1p6a0hZTFBwY0oyQ1pyeWRfeHpVTVdQNm9GWkE0Wk4wQ25fV0VHTFRKNmg3MHNVMVotTGd2OFkxSHlveW9Jb3ludlBEWnlBVXlIWUpVY3B5NVpNMHNM?oc=5",
    "platform": "RSS",
@@ -1441,6 +1531,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-15T04:57:57Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi2gZBVV95cUxPTlNSZWw2REtaOGNwYUlxWjdNRmxSbDI1Xy1GdGlzTVJzcDNQdlo3S3ctOW5FNjV0bUFQZHNRSXllbUx1NXZmLUx6XzFYSGlLaVVwYWVQam5fbFZhVW5pdndfYW9jNEFlZXZlWXBDM3JKRjF4cFhZZmxnU3dQbVIxbkU2cXpNZ0I2Z3pYc2ptdVZxT1liazlBd091STQwSnh4MDNTOExDSEtsSTRNSHdTaG55R203WU5PWEhucnN0TFNQWGN1bU5LRXZDLU5UZEViVElpdlNlS1lsMkdLTVEwT0NMUWNUZXNLX1ZNZUQ3Q3BjZnZCd3JKcUdXdjY1c09UaldoRkN5Q1kzNEIwOWNyVlRBeEZQQTdkckQxcm9fakhJMTYwbmkzMl9LYUd1WEtlUFdCZ0o5ZEdTaG5fRDBrRExYWUxjWjFBX054djBKM0hrdjgzVXV4VkduaFAyYTNsTzF3blRKa1RpZkV4aEJQNzJFQXpMLXYtNTV5U3Z1Ym5NR05iQVhvQV9GYmFsVThXOHN0Q2t4RVh4emFwek5mQ0l2UThDdzduX3RiUk13TVhvU0dLVmlDMTIwcG5SbUswMzVMRnFSbmppdUJQM19OT1NLdnZZSGxlZXBmQkp0Z212YmRadld5N3dhWEd6Z3AweENHZHpKVTNhNnN3MHNhSExleHJNRGxWYUpEZTlpM2hPdE1FcHRJMlFRbzZrSW82YzdYbW5vd0NVYm5HWUJkaDhYbUtZeVRMNnRrWHMtUEJUS2NLZGRCb3lFQ0dZNEttYUtUTEV2WTI5bzUxWnoxaUU1NmJrVHlpUmgxTmtKMkNqNUhVOEljZ1VQMmZRLXB4ZTN6UVhOV3FGYVhMX215cGZCeVhFbTktNE9zc2l3eDRyNHc3NXNxSncwN2N2OUYxTllUUkZweERyZktsTktCejNObHRXaElmcFlFN2V1YUVXckUta3o3MTZWMW9hRWVtTGIyVmduX0hlRFRsMG01TlFleXhBVDN5bFFpamVOT0VZemVIdGFETUxKSjRBV040RFBWZnVHLWw5MEp6WFVFNE1iUGJQX0d1MWppM1kxZEwzdmlLTUZqd2xQQlpNYUVlbU5nUWoyeE0wb2hWeW9XWVVuUFA3UVJsSGc?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "أوكتا العقاريّة تحصد تكريماً من \"أراضي دبي\" ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 - zawya.com",
+   "text": " أوكتا العقاريّة تحصد تكريماً من \"أراضي دبي\" ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 &nbsp;&nbsp; zawya.com ",
+   "url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxPTlNSZWw2REtaOGNwYUlxWjdNRmxSbDI1Xy1GdGlzTVJzcDNQdlo3S3ctOW5FNjV0bUFQZHNRSXllbUx1NXZmLUx6XzFYSGlLaVVwYWVQam5fbFZhVW5pdndfYW9jNEFlZXZlWXBDM3JKRjF4cFhZZmxnU3dQbVIxbkU2cXpNZ0I2Z3pYc2ptdVZxT1liazlBd091STQwSnh4MDNTOExDSEtsSTRNSHdTaG55R203WU5PWEhucnN0TFNQWGN1bU5LRXZDLU5UZEViVElpdlNlS1lsMkdLTVEwT0NMUWNUZXNLX1ZNZUQ3Q3BjZnZCd3JKcUdXdjY1c09UaldoRkN5Q1kzNEIwOWNyVlRBeEZQQTdkckQxcm9fakhJMTYwbmkzMl9LYUd1WEtlUFdCZ0o5ZEdTaG5fRDBrRExYWUxjWjFBX054djBKM0hrdjgzVXV4VkduaFAyYTNsTzF3blRKa1RpZkV4aEJQNzJFQXpMLXYtNTV5U3Z1Ym5NR05iQVhvQV9GYmFsVThXOHN0Q2t4RVh4emFwek5mQ0l2UThDdzduX3RiUk13TVhvU0dLVmlDMTIwcG5SbUswMzVMRnFSbmppdUJQM19OT1NLdnZZSGxlZXBmQkp0Z212YmRadld5N3dhWEd6Z3AweENHZHpKVTNhNnN3MHNhSExleHJNRGxWYUpEZTlpM2hPdE1FcHRJMlFRbzZrSW82YzdYbW5vd0NVYm5HWUJkaDhYbUtZeVRMNnRrWHMtUEJUS2NLZGRCb3lFQ0dZNEttYUtUTEV2WTI5bzUxWnoxaUU1NmJrVHlpUmgxTmtKMkNqNUhVOEljZ1VQMmZRLXB4ZTN6UVhOV3FGYVhMX215cGZCeVhFbTktNE9zc2l3eDRyNHc3NXNxSncwN2N2OUYxTllUUkZweERyZktsTktCejNObHRXaElmcFlFN2V1YUVXckUta3o3MTZWMW9hRWVtTGIyVmduX0hlRFRsMG01TlFleXhBVDN5bFFpamVOT0VZemVIdGFETUxKSjRBV040RFBWZnVHLWw5MEp6WFVFNE1iUGJQX0d1MWppM1kxZEwzdmlLTUZqd2xQQlpNYUVlbU5nUWoyeE0wb2hWeW9XWVVuUFA3UVJsSGc?oc=5",
+   "date": "2026-09-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-17T04:57:04Z"
   },
   {
    "id": "rd:t3_1wfz2gx",
@@ -3721,111 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-11T15:56:18Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzFMa09yeHMzRTh6aFMyUEFtWFpOdVU0WHBCU05faVN1cGpJUGhEVEI0YVJHN0VrckFrcXl5WlZReDlBNmYwRFAySUNqY3Z6NUNacmttZTRva2RQVjZWclB3cF8xaEdJRFFVX3NDOVhENjJ4Zk5aVWl1aVpIdDRoSVpHbFpwbUhQdFA1Z1QzbTZxa1NySzRKWHZSTjdqUWd4dUY1Z04xcXpHUUE1?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai Land Department\"\" - Google News",
-   "title": "Dubai Land Department launches AI platform to automate property registration - fastcompanyme.com",
-   "text": " Dubai Land Department launches AI platform to automate property registration &nbsp;&nbsp; fastcompanyme.com ",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzFMa09yeHMzRTh6aFMyUEFtWFpOdVU0WHBCU05faVN1cGpJUGhEVEI0YVJHN0VrckFrcXl5WlZReDlBNmYwRFAySUNqY3Z6NUNacmttZTRva2RQVjZWclB3cF8xaEdJRFFVX3NDOVhENjJ4Zk5aVWl1aVpIdDRoSVpHbFpwbUhQdFA1Z1QzbTZxa1NySzRKWHZSTjdqUWd4dUY1Z04xcXpHUUE1?oc=5",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:17Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d9%81%d9%8a-%d9%84%d9%86%d8%af%d9%86-%d9%85%d9%86%d8%b8%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%85/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "أراضي دبي تستعرض في لندن منظومة المعاملات العقارية الرقمية في دبي",
-   "text": "استعرضت دائرة الأراضي والأملاك في دبي أمام شركات التكنولوجيا العقارية والمستثمرين في لندن المنظومة العقارية الرقمية في دبي التي تستخدم&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d9%81%d9%8a-%d9%84%d9%86%d8%af%d9%86-%d9%85%d9%86%d8%b8%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%85/",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:16Z"
-  },
-  {
-   "id": "rd:t3_1wdje3i",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Greenz or Tilal Binghatti?",
-   "text": "   Hi All    im planning to by a property in Dubai. I ended up with 2 options. Greenz by Danube or Tilal Binghatti?   both almost same price similar spacious floor plan for the 4bh. Im not looking for investment since i will live in them.    What i like about Greenz is that its going to be furnished. But what do you all think? I do live outside the UAE and planning to move over there.    Im open to suggestions and other options.      &#32; submitted by &#32;   /u/Prior-Sun3212       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wdje3i/greenz_or_tilal_binghatti/",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:03Z"
-  },
-  {
-   "id": "rd:t3_1wdjcbn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Office | Business Bay | AED 150,000 year",
-   "text": "   Posting as: Agent  Property type: office  Area/community: Business Bay  Building/project: Bayswater by Omniyat  Price: AED 150,000 YEARLY  Bedrooms: NA  Size (sq ft): 815 sq.ft  Furnishing: Furnished  Available from: 20 sep 2026  Cheques: 2/4 cheques  Images/video: Available  Additional details: Must go by month end     &#32; submitted by &#32;   /u/SnooDoodles4993       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wdjcbn/office_business_bay_aed_150000_year/",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:03Z"
-  },
-  {
-   "id": "rd:t3_1wdhb44",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Anyone selling 03 bdr townhouse in Bay villas?",
-   "text": "   Posting as : Agent    Property type: 03 bdr Townhouse   Preferred Area: Bay Villas, Dubai Islands    Budget: 5,000,000 AED    03 bdr townhouse    Direct owners or agents with direct inventory may please reach out with details in DM   IGNORE below:    Posting as : Agent    Property type: 03 bdr Townhouse   Preferred Area: Bay Villas, Dubai Islands    Budget: 5,000,000 AED    03 bdr townhouse    Direct owners or agents with direct inventory may please reach out with details in DM   Posting as : Agent    Property type: 03 bdr Townhouse   Preferred Area: Bay Villas, Dubai Islands    Budget: 5,0",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wdhb44/anyone_selling_03_bdr_townhouse_in_bay_villas/",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:03Z"
-  },
-  {
-   "id": "rd:t3_1wdh9ks",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "What will actually be unique on Reem Island by the time you get the keys?*",
-   "text": "   The island is developing quickly, and with more projects launching and more units coming to the market, I think the way we evaluate property needs to change. Today, a new apartment with a nice pool, gym, modern interiors, parking and a water view can look attractive. But if several more buildings offer essentially the same package by 2030–2031, what happens when you want to rent or resell?   You are no longer competing against today&#39;s supply. *You are competing against everything that gets delivered between now and your handover.*   That is why I think *scarcity matters more than simply",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wdh9ks/what_will_actually_be_unique_on_reem_island_by/",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:03Z"
-  },
-  {
-   "id": "rd:t3_1wdgucn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "What Hudayriyat buyers should know about Modon–ADIB’s 75% off-plan financing",
-   "text": "   🏦 Modon and ADIB are introducing a financing solution that will allow eligible buyers to finance up to  75% of an off-plan property —beginning during construction rather than only once the property is completed.   The facility will apply to the upcoming villa release on  Hudayriyat Island .   The current indicative villa details can’t be shared online as of now, but come in at a very  attractive price per square foot .   The detailed payment schedule and villa-specific cash requirements have not yet been cleared for public circulation. However, I can share the expected structure and individ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wdgucn/what_hudayriyat_buyers_should_know_about/",
-   "date": "2026-09-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-11T15:56:03Z"
   }
  ]
 }
