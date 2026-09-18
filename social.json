@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-18T16:28:01Z",
- "newThisRun": 7,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-18T20:57:16Z",
+ "newThisRun": 13,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 190,
-  "rss": 59
+  "reddit": 189,
+  "rss": 60
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 4,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -66,17 +66,122 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 25,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 27,
+   "items": 25,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%80%d8%b3%d8%b9%d8%af%d9%8a%d8%a7%d8%aa-%d8%ba/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"الدار\" تكشف تفاصيل جديدة لـ\"سعديات غروف\" بأبوظبي وتسلّم 1,000 وحدة خلال أشهر",
+   "text": "كشفت مجموعة الدار العقارية عن تفاصيل جديدة لوجهة التسوق والمطاعم في مشروع سعديات غروف Saadiyat Grove ضمن المنطقة الثقافية بجزيرة&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%80%d8%b3%d8%b9%d8%af%d9%8a%d8%a7%d8%aa-%d8%ba/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:57:15Z"
+  },
+  {
+   "id": "rd:t3_1wk11s7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "advice",
+   "text": "   My father hes unemployed for so many months and he hasnt paid off anything not any school fees,rent nothing and the rent hasnt been paid in 2 months we keep getting notices and a few weeks ago he ran away to another country and took my brother with him without telling anyone he told us after he reached there and he said hes not gonna help us he just abandoned us and im genuinely scared because i was preparing for university how will i go if this is the situation what will i even do , my mom barely earns anything, im so scared and my mom has been planning to divorce him and file a police cas",
+   "url": "https://www.reddit.com/r/UAE/comments/1wk11s7/advice/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:57:03Z"
+  },
+  {
+   "id": "rd:t3_1wjs0th",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Closing our shelter - hope people sees this and reach out 🙏🏻",
+   "text": "                 We’re a small rescue currently caring for  75 cats and 6 dogs , but sadly, we are now  closing our shelter because we can no longer afford to keep caring for all the animals we rescued.   We’re struggling with  food, rent, and electricity , and we’re trying our best to find safe alternatives for the animals before we have to close.   we’re simply asking for an  upvote and a follow on Instagram . 🙏 The more people who see our page, the better our chances of finding  fosters and adopte rs for these animals.   🐾 Instagram:  https://www.instagram.com/hopeforpaws\\_uae?igsh=MWVvNm51",
+   "url": "https://www.reddit.com/r/UAE/comments/1wjs0th/closing_our_shelter_hope_people_sees_this_and/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:57:03Z"
+  },
+  {
+   "id": "rd:t3_1wjqtw0",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Camping in UAE",
+   "text": "   Looking for camping spots accessible by car.   Also questioning if it is wise to rent a 4x4 car to drive in the desert to a good spot.   Any ideas?     &#32; submitted by &#32;   /u/NoCategory143       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wjqtw0/camping_in_uae/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:57:03Z"
+  },
+  {
+   "id": "rd:t3_1wjmvuw",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "🌴 Private Pool Villa in Ras Al Khaimah 🏡💦",
+   "text": "   🌴 Private Pool Villa in Ras Al Khaimah 🏡💦   Enjoy a relaxing getaway at Azure 88—a 3-bedroom villa with a private, temperature-controlled pool, exclusively yours during your stay.   ✨ September stays from AED 999 per night, depending on dates.   📩 Contact us on Instagram with your preferred dates and number of guests for availability and pricing:   https://www.instagram.com/azure88.rak/    🏡 Photos, amenities and booking details:   https://airbnb.ae/h/azure88rak      &#32; submitted by &#32;   /u/One-Owl-7790       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wjmvuw/private_pool_villa_in_ras_al_khaimah/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:57:03Z"
+  },
+  {
+   "id": "rd:t3_1wjylyn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dewa Transfer to new apartments",
+   "text": "   I put up a request to transfer my DEWA to a new apartment. I chose the move out date as 23rd September. But I will be moving in to the nee apartment on the 20th. I chose 23rd as a safety and buffer in case if I want to do any cleaning to the old apartment.    When will DEWA get activated at my new place exactly?  Is it on the day I put up the transfer request or on the 23rd?     &#32; submitted by &#32;   /u/TheOneWithAWeirdName       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wjylyn/dewa_transfer_to_new_apartments/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:56:47Z"
+  },
+  {
+   "id": "rd:t3_1wjvyhr",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "What is the Cheapest way to get a freelance permit while on golden visa",
+   "text": "   I am on a golden visa sponsored by parent, and would like to do freelancing.. I&#39;ve searched around and all freelance permits are all expensive.    I just need a permit without any visa or other benefits. I am not sure if an E-trader license would work for me as I heard that it only applies for locals. I am north african.      &#32; submitted by &#32;   /u/Adept_Act867       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wjvyhr/what_is_the_cheapest_way_to_get_a_freelance/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T20:56:47Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%8a%d8%a7%d8%b3-%d8%a8%d8%a3%d8%a8%d9%88%d8%b8/",
    "platform": "RSS",
@@ -3721,111 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-13T11:57:01Z"
-  },
-  {
-   "id": "rd:t3_1wevq9y",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Should you buy offplan or re-sale/secondary?",
-   "text": "   I get this question from most clients almost everyday, and i see a lot of people with different opinions and its hard to say whats right from wrong because everyone thinks in their own way   Now for me when you invest into off-plan you it has its own benefits and investing into the secondary market has its own   Firstly one of the benefits of investing into offplan should be that the property is under the average ready market in the same area, that makes sense as an investor to put his money and wait for 3-4 years hoping when its ready his property value has gone up and he has made some cap",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wevq9y/should_you_buy_offplan_or_resalesecondary/",
-   "date": "2026-09-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wep78l",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "How's Centrium Towers? Why are the rents low mer with good layouts and pool and gym?",
-   "text": "   Looking to rent there and looking for feedback on the building     &#32; submitted by &#32;   /u/anandrams       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wep78l/hows_centrium_towers_why_are_the_rents_low_mer/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wel8xf",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Why are new Dubai apartments getting smaller while the brochures get bigger?",
-   "text": "   I’m an upcoming developer in Dubai, and one thing I’ve been thinking about a lot is how residential development has evolved here.   It seems like many developers are focused on squeezing the maximum revenue out of a plot — more units, smaller apartments, standardised interiors, cheaper specifications, and a long list of amenities that look great on a brochure.   The result? You can have hundreds of investors owning almost identical apartments, all competing with each other when they eventually want to sell.   That’s not the type of development I want to create**.**  I’m much more interested",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wel8xf/why_are_new_dubai_apartments_getting_smaller/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wege9v",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Do you think that can bring real estate agents in Dubai Marina Together 🤔?",
-   "text": "   I created a group in WhatsApp where agents that only focused on Dubai Marina can send their clients request   So that they can all close and increase their closing rate    And starting agents will not have to sit without any clients and deals 😁   DM is you want the link to the group      &#32; submitted by &#32;   /u/Comfortable-invest       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wege9v/do_you_think_that_can_bring_real_estate_agents_in/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wefqyl",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai 50-60% correction has begun - ultra rich moving capital to Singapore, Milan",
-   "text": "   .In addition to the supply overhang, we are now witnessing capital reallocation towards Singapore, Milan and other jurisdictions.   I see a lot of posts inquiring about which areas are best suited for investment. Just as a rising tide lifts all ships, when the tide goes out you know what’s been swimming naked (warren buffett). In this hamam everyone is naked   Dubai has sold over $300bn in offplan properties over last 4 years. This will create an unprecedented overhang that’s not visible today.   As they say, follow the money - the trend is outward not inward   Caution is warranted. Be ware",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wefqyl/dubai_5060_correction_has_begun_ultra_rich_moving/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1weemik",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Renting in Dubai Hills Estate — heads up on Elvira 1&2 and the upcoming Parkside Views (for anyone house-hunting)",
-   "text": "   Posting this because Dubai Hills keeps coming up here and the info floating around is often outdated. Quick rundown on two buildings that are actually becoming available to rent right now, not &quot;someday.&quot;   Elvira 1 &amp; 2 (16-storey towers),handover is happening in the next few weeks.    1BR: ~700–720 sqft — estimated AED 90,000–110,000/year    2BR: ~1,060–1,140 sqft — estimated AED 140,000–180,000/year    3BR: ~1,670–1,700 sqft (some corner/storage units) — estimated AED 220,000–280,000/year    Direct Dubai Hills Park access, walking distance to Dubai Hills Mall and the golf clu",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1weemik/renting_in_dubai_hills_estate_heads_up_on_elvira/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wecuag",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4 bed townhouse for rent l Damac Hills 2 l Brand New l Corner",
-   "text": "   posting as an agent   4 bedroom townhouse for rent   damac hills 2    cluster: verona (Brand new being handed over now)   L shape (bigger balcony area)   2352 sqft built up area    1842 sqft plot area    mid corner    single row unit    135k multiple cheques   unit is being handed over and will be ready to rent out roughly between mid October or start of November. Video is available upon request      &#32; submitted by &#32;   /u/CommunicationUsed33       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wecuag/4_bed_townhouse_for_rent_l_damac_hills_2_l_brand/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
   }
  ]
 }
