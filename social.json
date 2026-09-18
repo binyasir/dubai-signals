@@ -1,25 +1,25 @@
 {
- "generatedAt": "2026-09-18T04:48:40Z",
- "newThisRun": 1,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-18T11:21:03Z",
+ "newThisRun": 13,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 0,
-  "reddit": 198,
-  "rss": 52
+  "youtube": 1,
+  "reddit": 191,
+  "rss": 58
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
    "source": "YouTube betterhomes",
@@ -28,15 +28,15 @@
    "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -53,30 +53,105 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 33,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 25,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXdVeWRGNDk3dXpQWXJ0U0ppYzFxcDc4aDloNVQ2a19NZ19USC1pXzBqLVJDMDBjYWZRNVpDOFprNDV0aFNuc2Z1MVRFRHBYcGpmTGhhMHp4dUpyMmxMbl9xOGh5eDBuMVBsTHAyd1I2eEhjdWtiZzNnbTVaX3BNNGt6cFh6RHV2VnVPelVBZEV3SXJhMU9VYzNTenpCWVV0TGs1STU4a05kV3ZDanc?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Real Estate Market Update: August 2026 - Allsopp & Allsopp",
+   "text": " Dubai Real Estate Market Update: August 2026 &nbsp;&nbsp; Allsopp & Allsopp ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXdVeWRGNDk3dXpQWXJ0U0ppYzFxcDc4aDloNVQ2a19NZ19USC1pXzBqLVJDMDBjYWZRNVpDOFprNDV0aFNuc2Z1MVRFRHBYcGpmTGhhMHp4dUpyMmxMbl9xOGh5eDBuMVBsTHAyd1I2eEhjdWtiZzNnbTVaX3BNNGt6cFh6RHV2VnVPelVBZEV3SXJhMU9VYzNTenpCWVV0TGs1STU4a05kV3ZDanc?oc=5",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T11:21:03Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxOcm5HRU5oRy1saGtyRHRvMFdhVEFsSmdUZ01TRnlUMndlNENIUDBVRGg3UFg0UWxJamdleXp1dWpCUnJaVmJIQTZQQ1Y5bUN3cmVHbEFZTXJsSG5ickExN0VsOXZZbmZuZTVXY2JTdy1DbGtFSjgwNFktaWYwaW9oTFRqczhhSF95RXJHeXJITmFaLVQ0ZDVLWU5uY3d6Z0doUEdSYjBVRko1Nl9mQVHSAbYBQVVfeXFMUGZvMG5POHE4WHRmRUJTU01tQWVmeHNYMW5GZk5ac25XaFZmNFVTSk1YenJHZlRmeXdzTFRlZjBPT2Vxa2FuNjN2YlhNRnBWQUtmRXFPZXdSY3FiZzNXZnA4X3J4OWhWaXFkX3VBVEstYTNmUjFjNXFtVW1reS1ENlBjTzcwMXE3ZG10T2ZLUk9hdTNYa0xMVnoxNW5YOEZRR3d1UWpURlRIU2hrY3JvclU3cWQtNUE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Majestic Hotels launches fourth Dubai property, Majestic Central Hotel - Khaleej Times",
+   "text": " Majestic Hotels launches fourth Dubai property, Majestic Central Hotel &nbsp;&nbsp; Khaleej Times ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcm5HRU5oRy1saGtyRHRvMFdhVEFsSmdUZ01TRnlUMndlNENIUDBVRGg3UFg0UWxJamdleXp1dWpCUnJaVmJIQTZQQ1Y5bUN3cmVHbEFZTXJsSG5ickExN0VsOXZZbmZuZTVXY2JTdy1DbGtFSjgwNFktaWYwaW9oTFRqczhhSF95RXJHeXJITmFaLVQ0ZDVLWU5uY3d6Z0doUEdSYjBVRko1Nl9mQVHSAbYBQVVfeXFMUGZvMG5POHE4WHRmRUJTU01tQWVmeHNYMW5GZk5ac25XaFZmNFVTSk1YenJHZlRmeXdzTFRlZjBPT2Vxa2FuNjN2YlhNRnBWQUtmRXFPZXdSY3FiZzNXZnA4X3J4OWhWaXFkX3VBVEstYTNmUjFjNXFtVW1reS1ENlBjTzcwMXE3ZG10T2ZLUk9hdTNYa0xMVnoxNW5YOEZRR3d1UWpURlRIU2hrY3JvclU3cWQtNUE?oc=5",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T11:21:03Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%86%d8%a7%d9%8a%d8%aa-%d9%81%d8%b1%d8%a7%d9%86%d9%83-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d9%80175-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "نايت فرانك: دبي تتصدر العالم بـ175 مشروعاً عقارياً بعلامات تجارية",
+   "text": "تصدرت دبي مدن العالم في سوق العقارات ذات العلامات التجارية Branded Residences ، بإجمالي 175 مشروعاً من المساكن التي تحمل&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%86%d8%a7%d9%8a%d8%aa-%d9%81%d8%b1%d8%a7%d9%86%d9%83-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d9%80175-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T11:21:02Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/5-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-45-%d9%85%d9%86-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d8%a8%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "5 شركات تستحوذ على 45 % من مبيعات عقارات دبي على الخريطةمنذ 2021 حتى 2026",
+   "text": "استحوذت خمس شركات تطوير عقاري في دبي على 44.7% من إجمالي معاملات بيع العقارات على الخريطة في السوق الأولية بالإمارة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/5-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-45-%d9%85%d9%86-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d8%a8%d9%8a/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T11:21:02Z"
+  },
+  {
+   "id": "yt:pCsjubN8pIA",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "What Nobody Tells You About Off-Plan and Developer Finance",
+   "text": "What is really happening across Dubai and Abu Dhabi’s property markets?\n\nIn the latest episode of Taking Care of Business, Lewis Allsopp, Chairman of Allsopp & Allsopp, and Marc Walters, Managing Director, sit down for a candid conversation about the biggest talking points shaping the UAE real estate market right now.\n\nFrom Abu Dhabi’s growing momentum and developer payment plans, to Dubai’s upcoming handovers, infrastructure, construction costs and the arrival of international agencies, they discuss what’s happening behind the headlines.\n\nThey also share their views on where the market could ",
+   "url": "https://www.youtube.com/watch?v=pCsjubN8pIA",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "43 views",
+   "firstSeenAt": "2026-09-18T11:20:26Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWlVVXNZX0ttN3ZtTTNVY1QzSFFZOHRncDRlX1E4eXljUUZVVkEybllOeGk2SEdBMTJkWFVxVlVFLXlpb3FXdkdNTkR3X0xnVXJ1SkVNRFJVaVRGTzYzT2ZlcU1YNTFwR21pUHJsbWZwbHFZdkNQSHhlTkJ4ZGFzTnVFNHlCNl8tVWhZMzM4N2ZsU0JPd3d5am5pWkg3bXMyMGxLdVVXamRXRExvWE94c0RjbDg4a1B5VV9z?oc=5",
    "platform": "RSS",
@@ -91,6 +166,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-18T04:48:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmdCcVZnbkQtRUhxallwS05DdkYtV1ctTloyd0NySjI2LVJ6dnZXQTdEZWRPc1ZhYVByOU13MU8zc09mdmtaU3h2TV9jRnZBZzBFSzEwQmIyN0p2Mzc3dkx1dTJXdktNckhDSTAxMnhzaUlBR05aMGNSbUZSanVXaVNEb3I4NURkc043czVRM2pXVzVXbkRWeWx0cVpzWU44UE91bmxB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Property Sales Bounce Back 38% After Three-Year Low - Realty Today",
+   "text": " Dubai Property Sales Bounce Back 38% After Three-Year Low &nbsp;&nbsp; Realty Today ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmdCcVZnbkQtRUhxallwS05DdkYtV1ctTloyd0NySjI2LVJ6dnZXQTdEZWRPc1ZhYVByOU13MU8zc09mdmtaU3h2TV9jRnZBZzBFSzEwQmIyN0p2Mzc3dkx1dTJXdktNckhDSTAxMnhzaUlBR05aMGNSbUZSanVXaVNEb3I4NURkc043czVRM2pXVzVXbkRWeWx0cVpzWU44UE91bmxB?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T11:21:03Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFl5WU1aNFVuRE9jeEIySVMteHU0Wmw0QWJtSl9od1IwNlc2RXo5VjVHMkFRbVJMaTNBajBHTWZwR1ZDazU1MldUTWF6Yi1SZ2JmbFJkSHFObUZWcHZhcW9VQUFjZ21uU1N2amdoVEFVdWIxLTlQNkpLakpEdmtNLVA5TElabkl0RmdDWmsxR1JFQXhtdHNfYndOYjhxUUxnZjdoTHo5UEhNSnh0VWNZN0NBNU5FZ2tKSkszeThMSUEtWnY5OFNkb0kyc3NvWW5KWWh0MkgzR2p5UQ?oc=5",
@@ -781,6 +871,21 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-17T04:57:03Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi2ANBVV95cUxQWC15S0s2ZkFFVEZPRVVNaWljaHFlVHNkaFlKTmlKM3BzeUpXZk83NTdBc2steExqQzdMZ1AxQ0dDN1l4czJLaXBSQ1NtaGYwVFVxaDNsRXhxM0QtOG1FWi1TaUFFWVRQMXBtQVNteWxOUEN1UlVUQXk0UXlaTEFBXzhVR3QxbGotcTVVZWlTanRFVW9TRDF2NFJHbTFnSmo3VTZ4cVVaUXZaQ0pjeVBvbDZUWUVMcm1PZlgtQklFVzltbHRXT0FiMWpKSzNBcWotNEJZLUwyQzJnSkZNVzZxa1hCYnpiSmhUMG9rZFBKSUhKSHczVXBmdElILWpqSTBwTVUzU3ZrVFZTeWJOSFdhdm81MzcyU09TVVpXZEFQYm10Y054S3BmM1BDS3I4UUxPUVFpYkpOc3VaNEdJYW1XYS1zVjkyeWh2Q0JJOGI1RWxpbXBtUmg4SmZfUzhrbHp6alZHSFNybk56ckZYbkpaX2FCaUJpaTFmY1VtWmdvenNaSDBCb2VHUXlyQ1JqZmxISUljdTZyeHlvNno1S0VYLWxVTzdxaTJZNFdpZVk1VzdiMmE4U3huX3VWQXdwWjZxME4xMk9PZURTRjhkc2U5Z3F3M0M4ZDdE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "LEOS Developments تسلط الضوء على أغراض شراء البريطانيين للعقارات في دبي - Menafn",
+   "text": " LEOS Developments تسلط الضوء على أغراض شراء البريطانيين للعقارات في دبي &nbsp;&nbsp; Menafn ",
+   "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQWC15S0s2ZkFFVEZPRVVNaWljaHFlVHNkaFlKTmlKM3BzeUpXZk83NTdBc2steExqQzdMZ1AxQ0dDN1l4czJLaXBSQ1NtaGYwVFVxaDNsRXhxM0QtOG1FWi1TaUFFWVRQMXBtQVNteWxOUEN1UlVUQXk0UXlaTEFBXzhVR3QxbGotcTVVZWlTanRFVW9TRDF2NFJHbTFnSmo3VTZ4cVVaUXZaQ0pjeVBvbDZUWUVMcm1PZlgtQklFVzltbHRXT0FiMWpKSzNBcWotNEJZLUwyQzJnSkZNVzZxa1hCYnpiSmhUMG9rZFBKSUhKSHczVXBmdElILWpqSTBwTVUzU3ZrVFZTeWJOSFdhdm81MzcyU09TVVpXZEFQYm10Y054S3BmM1BDS3I4UUxPUVFpYkpOc3VaNEdJYW1XYS1zVjkyeWh2Q0JJOGI1RWxpbXBtUmg4SmZfUzhrbHp6alZHSFNybk56ckZYbkpaX2FCaUJpaTFmY1VtWmdvenNaSDBCb2VHUXlyQ1JqZmxISUljdTZyeHlvNno1S0VYLWxVTzdxaTJZNFdpZVk1VzdiMmE4U3huX3VWQXdwWjZxME4xMk9PZURTRjhkc2U5Z3F3M0M4ZDdE?oc=5",
+   "date": "2026-09-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T11:21:03Z"
   },
   {
    "id": "rd:t3_1widav0",
@@ -3716,111 +3821,6 @@
    "title": "Wilds by aldar for sale 5BR",
    "text": "   🏡 Single Row | Park Facing Villa for Sale – The Wilds by Aldar   ✨ 5 Bedrooms + Maid’s Room   📐 BUA: ~4,820 sq.ft   🌳 Single Row | Direct Park View   🏗️ Off-Plan | Cassia 5   💰 AED 8,500.000 – Negotiable   فرصة مميزة للسكن الفاخر والاستثمار في The Wilds by Aldar.   📩 For serious buyers, DM for details.     &#32; submitted by &#32;   /u/VegetableObvious5719       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1web5yi/wilds_by_aldar_for_sale_5br/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wea2p6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai Rental Process - Is something not right here?",
-   "text": "   Hello,   First time renter in Dubai / UAE.   I decided to do a one year lease from an agent with Provident.  I verified their broker card and the DLD permit number on the listing, did a viewing, sent the commission and the security deposit and signed the contract.   The agent is saying I cannot see any copy of the signed contract before sending the entire rent (1 chq). Is this normal? Should I request a full counter-signed copy of the contract before sending the annual rent?   They are saying I will just send them the full rent, then they will show me a contract, get an ejari number after t",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wea2p6/dubai_rental_process_is_something_not_right_here/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we9h7d",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2 BEDROOM | MAJAN | AED 130,000",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: Majan, Dubailand   Building/project: Tulip Oasis 10   Price: AED 130,000   Bedrooms: 2   Size (sq ft): 1,429   Furnishing: Unfurnished   Available from: 1st October   Cheques: 4   Additional details: Brand new unit. Spacious living/dining, closed kitchen with appliances, private balcony, built-in wardrobes, 1 covered parking space, bright interiors. Amenities: temperature-controlled pool, paddle area, poolside cabanas, gym, kids&#39; play area, landscaped outdoor spaces, 24/7 security &amp; CCTV. Near SMBZ Road, Global Village, ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we9h7d/2_bedroom_majan_aed_130000/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we9cql",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Office | Business Bay | AED 2,500,000",
-   "text": "   Posting as: Agent   Property type: Office   Area/community: Business Bay   Building/project: Opus by OMNIYAT   Price: AED 2,500,000   Bedrooms: 0   Size (sq ft): 3070   Furnishing: Furnished   Available from: Agent   Cheques: 0   Additional details:     &#32; submitted by &#32;   /u/Abann_       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we9cql/office_business_bay_aed_2500000/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we8yi4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Half Floor | Business Bay | AED 55,000,000",
-   "text": "   Posting as: Agent   Property type: Half floor   Area/community: Business Bay   Building/project: Opus by OMNIYAT   Price: AED 55,000,000   Bedrooms: 1   Size (sq ft): 9600   Status: Ready   Additional details:     &#32; submitted by &#32;   /u/Abann_       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we8yi4/half_floor_business_bay_aed_55000000/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we8nlf",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Abu Dhabi - what is all the fuss about? Where to look into?",
-   "text": "   Well aware this is a Dubai-focused Reddit.   I&#39;m an agent, yes, but an advisor first. DM me with questions, or argue with me in the comments.   Cavendish Maxwell&#39;s H1 2026 numbers show Abu Dhabi sales up 178% year-on-year to AED 67.8 billion, with real price growth behind it, apartments up 16.4%, villas over 10%. One caveat before anyone reads too much into that: off-plan made up 83% of transactions and 89% of value, with off-plan sales alone up roughly 250% year-on-year. Most of that growth is new supply launching above what&#39;s already standing next to it, not existing flats res",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we8nlf/abu_dhabi_what_is_all_the_fuss_about_where_to/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we86ba",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "What’s the best way to get a CRM in front of Dubai real estate brokerages?",
-   "text": "   We’ve built a CRM based on the requirements of a friend working in a brokerage, and a few agencies are already using it.   We’re now looking to expand, but would like to speak to someone who really understands the brokerage side of the UAE market and can give us some direction on how to approach agencies.   We are looking for long term partnership, If you’ve worked in a brokerage or know someone who could help, I’d really appreciate a DM.     &#32; submitted by &#32;   /u/Artistic-Sun3940       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we86ba/whats_the_best_way_to_get_a_crm_in_front_of_dubai/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we7aqm",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "3 years ago before this place became an AI dump, I made this post.",
-   "text": "   It was relevant back then, it&#39;s even more relevant now.    A user came across it recently and told me that it&#39;s worthy of a repost.    ------  Hello fellow redditors.   In my experience with numerous engagements with people (both offline and including in this sub), I consistently observe the same pattern: lots of people lack fundamental knowledge about key aspects of the real estate sector of Dubai. Needless to say, the market is swarming with those who will take advantage of that. We see it happen all the time. Besides this being absolutely immoral, it is detrimental to Dubai&#39;s",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we7aqm/3_years_ago_before_this_place_became_an_ai_dump_i/",
    "date": "2026-09-12",
    "dateApprox": false,
    "language": "en",
