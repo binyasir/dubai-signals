@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-18T11:21:03Z",
- "newThisRun": 13,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-18T16:28:01Z",
+ "newThisRun": 7,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 191,
-  "rss": 58
+  "reddit": 190,
+  "rss": 59
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 2,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 33,
+   "items": 24,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 25,
+   "items": 27,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%8a%d8%a7%d8%b3-%d8%a8%d8%a3%d8%a8%d9%88%d8%b8/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إطلاق مشروع \"الوادي\" في جزيرة ياس بأبوظبي بـ1.63 مليار دولار و3,950 وحدة",
+   "text": "أطلقت شركة كوزمو للتطوير العقاري Cosmo Developments مشروع \"الوادي\" THE WADI، وهو مشروع سكني متعدد الاستخدامات في جزيرة ياس بأبوظبي،&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%8a%d8%a7%d8%b3-%d8%a8%d8%a3%d8%a8%d9%88%d8%b8/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T16:28:00Z"
+  },
+  {
+   "id": "rd:t3_1wjpimg",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Know any good baby stroller rental places/platforms?",
+   "text": "   Hey everyone, just wanted to know as a tourist coming into dxb, does anyone know where I can find a good place to rent baby supply equipment or strollers for children during my stay here?   Pls let me know if you guys know any companies or services - would be a massive help!     &#32; submitted by &#32;   /u/azhardinio       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wjpimg/know_any_good_baby_stroller_rental_placesplatforms/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T16:27:25Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXdVeWRGNDk3dXpQWXJ0U0ppYzFxcDc4aDloNVQ2a19NZ19USC1pXzBqLVJDMDBjYWZRNVpDOFprNDV0aFNuc2Z1MVRFRHBYcGpmTGhhMHp4dUpyMmxMbl9xOGh5eDBuMVBsTHAyd1I2eEhjdWtiZzNnbTVaX3BNNGt6cFh6RHV2VnVPelVBZEV3SXJhMU9VYzNTenpCWVV0TGs1STU4a05kV3ZDanc?oc=5",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "4 bed townhouse for rent l Damac Hills 2 l Brand New l Corner",
    "text": "   posting as an agent   4 bedroom townhouse for rent   damac hills 2    cluster: verona (Brand new being handed over now)   L shape (bigger balcony area)   2352 sqft built up area    1842 sqft plot area    mid corner    single row unit    135k multiple cheques   unit is being handed over and will be ready to rent out roughly between mid October or start of November. Video is available upon request      &#32; submitted by &#32;   /u/CommunicationUsed33       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wecuag/4_bed_townhouse_for_rent_l_damac_hills_2_l_brand/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1wecajt",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1 BR Apartment | JVC | AED 1,050,000",
-   "text": "   Posting as: Owner  Property type: Apartment  Area/community: JVC  Building/project: Vita Grande by Meteora  Price: AED 1,050,000  Bedrooms: 1  Size (sq ft): 700  Handover: Q1/2027  Images/video: N/A  Posting as: Owner  Property type: Apartment  Area/community: JVC (Jumeirah Village Circle)  Building/project: Vita Grande by Meteora  Price: AED 1,050,000  Bedrooms: 1  Size (sq ft): 700  Status: Off-plan (Handover: Q1/2027)  Images/video: Available upon request  Additional details: park/boulevard view. Comes with 1 allocated covered parking space. Attractive payment structure featuring a 40% p",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wecajt/1_br_apartment_jvc_aed_1050000/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1web5yi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Wilds by aldar for sale 5BR",
-   "text": "   🏡 Single Row | Park Facing Villa for Sale – The Wilds by Aldar   ✨ 5 Bedrooms + Maid’s Room   📐 BUA: ~4,820 sq.ft   🌳 Single Row | Direct Park View   🏗️ Off-Plan | Cassia 5   💰 AED 8,500.000 – Negotiable   فرصة مميزة للسكن الفاخر والاستثمار في The Wilds by Aldar.   📩 For serious buyers, DM for details.     &#32; submitted by &#32;   /u/VegetableObvious5719       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1web5yi/wilds_by_aldar_for_sale_5br/",
    "date": "2026-09-12",
    "dateApprox": false,
    "language": "en",
