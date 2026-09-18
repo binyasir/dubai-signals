@@ -1,25 +1,25 @@
 {
- "generatedAt": "2026-09-17T21:26:07Z",
- "newThisRun": 4,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-18T04:48:40Z",
+ "newThisRun": 1,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 0,
-  "reddit": 199,
-  "rss": 51
+  "reddit": 198,
+  "rss": 52
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 11,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
    "source": "YouTube betterhomes",
@@ -28,15 +28,15 @@
    "error": null
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 5,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -72,11 +72,26 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWlVVXNZX0ttN3ZtTTNVY1QzSFFZOHRncDRlX1E4eXljUUZVVkEybllOeGk2SEdBMTJkWFVxVlVFLXlpb3FXdkdNTkR3X0xnVXJ1SkVNRFJVaVRGTzYzT2ZlcU1YNTFwR21pUHJsbWZwbHFZdkNQSHhlTkJ4ZGFzTnVFNHlCNl8tVWhZMzM4N2ZsU0JPd3d5am5pWkg3bXMyMGxLdVVXamRXRExvWE94c0RjbDg4a1B5VV9z?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Some wealthy Pakistanis shift Dubai property investments home amid Gulf crisis - Arab News PK",
+   "text": " Some wealthy Pakistanis shift Dubai property investments home amid Gulf crisis &nbsp;&nbsp; Arab News PK ",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNWlVVXNZX0ttN3ZtTTNVY1QzSFFZOHRncDRlX1E4eXljUUZVVkEybllOeGk2SEdBMTJkWFVxVlVFLXlpb3FXdkdNTkR3X0xnVXJ1SkVNRFJVaVRGTzYzT2ZlcU1YNTFwR21pUHJsbWZwbHFZdkNQSHhlTkJ4ZGFzTnVFNHlCNl8tVWhZMzM4N2ZsU0JPd3d5am5pWkg3bXMyMGxLdVVXamRXRExvWE94c0RjbDg4a1B5VV9z?oc=5",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-18T04:48:40Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUFl5WU1aNFVuRE9jeEIySVMteHU0Wmw0QWJtSl9od1IwNlc2RXo5VjVHMkFRbVJMaTNBajBHTWZwR1ZDazU1MldUTWF6Yi1SZ2JmbFJkSHFObUZWcHZhcW9VQUFjZ21uU1N2amdoVEFVdWIxLTlQNkpLakpEdmtNLVA5TElabkl0RmdDWmsxR1JFQXhtdHNfYndOYjhxUUxnZjdoTHo5UEhNSnh0VWNZN0NBNU5FZ2tKSkszeThMSUEtWnY5OFNkb0kyc3NvWW5KWWh0MkgzR2p5UQ?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "3 years ago before this place became an AI dump, I made this post.",
    "text": "   It was relevant back then, it&#39;s even more relevant now.    A user came across it recently and told me that it&#39;s worthy of a repost.    ------  Hello fellow redditors.   In my experience with numerous engagements with people (both offline and including in this sub), I consistently observe the same pattern: lots of people lack fundamental knowledge about key aspects of the real estate sector of Dubai. Needless to say, the market is swarming with those who will take advantage of that. We see it happen all the time. Besides this being absolutely immoral, it is detrimental to Dubai&#39;s",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1we7aqm/3_years_ago_before_this_place_became_an_ai_dump_i/",
-   "date": "2026-09-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T04:53:01Z"
-  },
-  {
-   "id": "rd:t3_1we79kx",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For SALE - 2BR Apartment | Aria on the Park-Town Square | AED 1,470,000",
-   "text": "    Posting as:  Agent   Property type : Apartment   Area/community : Town Square   Building/project:  Aria on the Park   Price:  AED 1,470,000   Bedrooms : 2Br- Type-D   Size (sq ft):  969   Status:  Soon to be hand over   Additional details : 2 &amp; 1/2 bathrooms, Full Park View, High Floor, 1 parking space, White Goods. Drop me a message for details. Handover November 2026.     &#32; submitted by &#32;   /u/umeed27       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1we79kx/for_sale_2br_apartment_aria_on_the_parktown/",
    "date": "2026-09-12",
    "dateApprox": false,
    "language": "en",
