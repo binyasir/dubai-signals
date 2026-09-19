@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-09-19T04:42:05Z",
- "newThisRun": 5,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-19T11:04:41Z",
+ "newThisRun": 3,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 189,
-  "rss": 60
+  "reddit": 188,
+  "rss": 61
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -72,11 +72,26 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdmd4eTdHTVBlLTA2bTlvaHliV25XX0ZwYU03N3lhNE5TRmZXN0JUM29vUm5iMktFVXhBMXZnVTNuckZfeWpjbmR2MC1QRW9UWDR0c0E2dy1EVkJUSFY1SEJneEZkaEVfZi1sb1VJRHNoU1lISUFzUXlJWUVQZDFBVVMzTTgxc1BPVUlHVkRBRi1nTGR6MGs1YTk5TFV0ZUkwNXByZ2FFRWUxRTlJTEYwYjJRdjl0S0ZZWHVKYkh1OElaYVNBWnZweUlsRnoxQ0pqYzVkd2Z2SDQzeENpTGE4TmsyUFRlYVJRT0E?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "3705 deals.. Dubai real estate transactions amounted to 14 billion dirhams per week - صوت الإمارات",
+   "text": " 3705 deals.. Dubai real estate transactions amounted to 14 billion dirhams per week &nbsp;&nbsp; صوت الإمارات ",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdmd4eTdHTVBlLTA2bTlvaHliV25XX0ZwYU03N3lhNE5TRmZXN0JUM29vUm5iMktFVXhBMXZnVTNuckZfeWpjbmR2MC1QRW9UWDR0c0E2dy1EVkJUSFY1SEJneEZkaEVfZi1sb1VJRHNoU1lISUFzUXlJWUVQZDFBVVMzTTgxc1BPVUlHVkRBRi1nTGR6MGs1YTk5TFV0ZUkwNXByZ2FFRWUxRTlJTEYwYjJRdjl0S0ZZWHVKYkh1OElaYVNBWnZweUlsRnoxQ0pqYzVkd2Z2SDQzeENpTGE4TmsyUFRlYVJRT0E?oc=5",
+   "date": "2026-09-19",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-19T11:04:41Z"
+  },
   {
    "id": "rd:t3_1wjpmbo",
    "platform": "Reddit",
@@ -331,6 +346,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-18T04:48:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLMTdreklxUGJwUGw2VGRVTVROTHZvSVRWLVN4bHJYbTFtYXNoYnBma2gxV3FLZ1ZOdkRiRFFkdFJaVTZjZzhaR1g5c3paTXMxMHdxbmNhdw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "تقرير «بروبرتي فايندر»: سوق عقارات دبي يتجاوز تداعيات التوترات الإقليمية - emirates24.net",
+   "text": " تقرير «بروبرتي فايندر»: سوق عقارات دبي يتجاوز تداعيات التوترات الإقليمية &nbsp;&nbsp; emirates24.net ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLMTdreklxUGJwUGw2VGRVTVROTHZvSVRWLVN4bHJYbTFtYXNoYnBma2gxV3FLZ1ZOdkRiRFFkdFJaVTZjZzhaR1g5c3paTXMxMHdxbmNhdw?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-19T11:04:41Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmdCcVZnbkQtRUhxallwS05DdkYtV1ctTloyd0NySjI2LVJ6dnZXQTdEZWRPc1ZhYVByOU13MU8zc09mdmtaU3h2TV9jRnZBZzBFSzEwQmIyN0p2Mzc3dkx1dTJXdktNckhDSTAxMnhzaUlBR05aMGNSbUZSanVXaVNEb3I4NURkc043czVRM2pXVzVXbkRWeWx0cVpzWU44UE91bmxB?oc=5",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-13T16:22:01Z"
-  },
-  {
-   "id": "rd:t3_1wfao8s",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Advice needed for buying used car under active loan",
-   "text": "   Hey guys, I need some advice on a private car purchase. I found a 2023 Tank 300 in great condition, but the seller currently has an outstanding bank loan on the car.   Since the seller doesn&#39;t have the cash to clear the mortgage himself, he initially asked me to pay the loan off directly so the bank can release the eNOC to the RTA, and then we transfer the Mulkiya. I flat out told him no because handing over cash before the car is in my name sounds like a massive risk/potential scam.   Now, his alternative suggestion is that we go through a used car dealership.   They would draft a Sale",
-   "url": "https://www.reddit.com/r/dubai/comments/1wfao8s/advice_needed_for_buying_used_car_under_active/",
-   "date": "2026-09-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T16:21:50Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9DNEtieHhnVW9SUWx1WXVYdHdxQ0xSWlJuTEQ1Mkt3ZW1lMGN2VlpVVXBWZEZWc1NPWTl2MDUtVV9vVlVyLUJCT1Q3X2c1UF9JYktja01lajRiN01UR2ZSM3M2WGdyNDZ1SVE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "كيف كان أداء سوق العقارات في دبي خلال الـ 8 أشهر الأولى من 2026؟ - ارقام",
-   "text": " كيف كان أداء سوق العقارات في دبي خلال الـ 8 أشهر الأولى من 2026؟ &nbsp;&nbsp; ارقام ",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DNEtieHhnVW9SUWx1WXVYdHdxQ0xSWlJuTEQ1Mkt3ZW1lMGN2VlpVVXBWZEZWc1NPWTl2MDUtVV9vVlVyLUJCT1Q3X2c1UF9JYktja01lajRiN01UR2ZSM3M2WGdyNDZ1SVE?oc=5",
-   "date": "2026-09-13",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T11:57:14Z"
   }
  ]
 }
