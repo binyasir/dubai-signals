@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-18T20:57:16Z",
- "newThisRun": 13,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-19T04:42:05Z",
+ "newThisRun": 5,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
@@ -10,28 +10,28 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -47,21 +47,21 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 4,
-   "error": null
-  },
-  {
-   "source": "r/expats",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "r/expats",
    "ok": true,
-   "items": 9,
+   "items": 2,
    "error": null
+  },
+  {
+   "source": "https://masdarak.com/feed/",
+   "ok": true,
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,41 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 25,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1wjpmbo",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Beachside Destination for Digital Nomads",
+   "text": "   Looking for locations that are digital nomad friendly, warm, beach side ideally and not a terrible time difference with North America. I&#39;m a solo female so something also safe is important. I don&#39;t mind a coliving community so if you have recommendations on that, that&#39;d be great too! I&#39;ve heard of Outsite but unsure if they&#39;re worth it? If I had to think of a place close to what I want, it&#39;d be like Hawaii?    Important things:     Sandy beaches   Good infrastructure/cleanliness   North America Timezone friendly   Digital nomad community   Not too expensive / rent fo",
+   "url": "https://www.reddit.com/r/expats/comments/1wjpmbo/beachside_destination_for_digital_nomads/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-19T04:42:02Z"
+  },
+  {
+   "id": "rd:t3_1wk0ks3",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Golden visa rejected",
+   "text": "   Anyone got a refund for a golden visa application through GDRFA? (~2700 AED).   Trying to apply for a refund after my application was rejected but the system says “Transaction not eligible for a refund”.    Appreciate if someone tried this before to tell me how to go through this error.     &#32; submitted by &#32;   /u/MostwantedK17       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wk0ks3/golden_visa_rejected/",
+   "date": "2026-09-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-19T04:41:30Z"
+  },
   {
    "id": "rs:https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%80%d8%b3%d8%b9%d8%af%d9%8a%d8%a7%d8%aa-%d8%ba/",
    "platform": "RSS",
@@ -1801,6 +1831,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-16T11:40:44Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1FUa1AzX1RSYVJfWnFEVUMzaVl4TjhWZjNQM1pmaWxsMFZwVWY2b1poWkdLYVk0VjlWcXFVUmZWS2wxNThyVGNhRVVDeFJBMzNpQkh1TnVTRENELUdzNWMzQTZYdVNFOVdqdFNRQmVOekJYZG5ydE9nS1RSQXBPVnpVd0U5S3pEVFBNMGw1RG1HeVdmdFRQRlRqUUY3R0hjSThPbDJR?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property giant Emaar grows profits despite lower prices - Arab News",
+   "text": " Dubai property giant Emaar grows profits despite lower prices &nbsp;&nbsp; Arab News ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1FUa1AzX1RSYVJfWnFEVUMzaVl4TjhWZjNQM1pmaWxsMFZwVWY2b1poWkdLYVk0VjlWcXFVUmZWS2wxNThyVGNhRVVDeFJBMzNpQkh1TnVTRENELUdzNWMzQTZYdVNFOVdqdFNRQmVOekJYZG5ydE9nS1RSQXBPVnpVd0U5S3pEVFBNMGw1RG1HeVdmdFRQRlRqUUY3R0hjSThPbDJR?oc=5",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-19T04:42:05Z"
   },
   {
    "id": "rd:t3_1whcd6w",
@@ -3781,51 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-13T11:57:14Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d8%aa%d9%86%d9%85%d9%88-21-%d8%a5%d9%84%d9%89-827-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%81/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "إيرادات \"أرادَ\" تنمو 21% إلى 827.5 مليون دولار في النصف الأول 2026",
-   "text": "سجلت شركة التطوير العقاري أرادَ Arada ، ومقرها الشارقة، نمواً بنسبة 21% في إيراداتها خلال النصف الأول من عام 2026،&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a5%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa-%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d8%aa%d9%86%d9%85%d9%88-21-%d8%a5%d9%84%d9%89-827-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%81/",
-   "date": "2026-09-13",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T11:57:13Z"
-  },
-  {
-   "id": "rd:t3_1wf46n1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Abu Dhabi's new off-plan mortgage framework expected to support property market",
-   "text": "              &#32; submitted by &#32;   /u/TheNational_News       [link]   &#32;   [comments]      ",
-   "url": "https://www.reddit.com/r/UAE/comments/1wf46n1/abu_dhabis_new_offplan_mortgage_framework/",
-   "date": "2026-09-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T11:57:01Z"
-  },
-  {
-   "id": "rd:t3_1weyql7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Studio rent in dubai",
-   "text": "   Hello! I’m a female currently working in Dubai. I’m planning to rent a place in Azizi, and I’m looking for a female roommate to share the apartment with. 😊     &#32; submitted by &#32;   /u/Traditional_Base_108       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1weyql7/studio_rent_in_dubai/",
-   "date": "2026-09-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-13T11:57:01Z"
   }
  ]
 }
