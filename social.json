@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-20T16:11:25Z",
- "newThisRun": 30,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-20T20:52:44Z",
+ "newThisRun": 2,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 183,
-  "rss": 66
+  "reddit": 182,
+  "rss": 67
  },
  "sources": [
   {
@@ -36,14 +36,14 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 34,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -58,25 +58,55 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 22,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 13,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXMwdDljQ3RJaEY5M2xPOF9DS0FiZjhZX19rQkFHTng5ZVlnSzBOZ3A4TkFoNF85S29yNkRPcTFvTW1kYXFEMGEweFFqZEtUZVhMVUYxbXlLMUphcFlpempaRnJLSmpUUjNZWUJvNTZwSktPYmVNN28tVlpQeTRYVXA4bmI1VElrVGhieHozYllWNDhjenVSY1BWdXJJc0loQkJicXhXSWZqUEtYaWkxdw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market shows signs of recovery as home sales jump 25% - Arabian Business",
+   "text": " Dubai property market shows signs of recovery as home sales jump 25% &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXMwdDljQ3RJaEY5M2xPOF9DS0FiZjhZX19rQkFHTng5ZVlnSzBOZ3A4TkFoNF85S29yNkRPcTFvTW1kYXFEMGEweFFqZEtUZVhMVUYxbXlLMUphcFlpempaRnJLSmpUUjNZWUJvNTZwSktPYmVNN28tVlpQeTRYVXA4bmI1VElrVGhieHozYllWNDhjenVSY1BWdXJJc0loQkJicXhXSWZqUEtYaWkxdw?oc=5",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T20:52:44Z"
+  },
+  {
+   "id": "rd:t3_1wlsj18",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "How my friend found out about a vacant apartment 6 weeks before it was even listed",
+   "text": "   A friend of mine was hunting for a place by February, started looking in early December, found nothing online. We picked a building we liked and just started asking security guards if anyone was planning to leave. One pointed us to an agent who knew a tenant was moving out mid-January - the tenant even sent a video walkthrough before the place was officially vacant. My friend paid a deposit and locked it in weeks before it ever hit the market.   Tried the exact same thing again recently on my own search and got nothing - just got lucky that one time.   I posted about this general problem be",
+   "url": "https://www.reddit.com/r/dubai/comments/1wlsj18/how_my_friend_found_out_about_a_vacant_apartment/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T20:52:10Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a8%d8%a7%d9%84%d9%86%d8%b5/",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "Did you know you can cash out of your property without selling it? This is called equity release",
    "text": "   Quick one for property owners and agents here: a lot of people don&#39;t realize you can pull equity out of a UAE property as a loan — keep full ownership, keep renting it out, keep any future appreciation, instead of selling to access cash.   Rough shape of how it works right now:     Up to ~80% of appraised value for residents, ~50% for non-residents   Rates in the ~5–6.5% APR range, terms up to 25 years   Processing typically takes 30–45 business days once the full document package is in     I work with a UAE-based financial structuring firm that handles this (not a bank, and we don&#39;",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wgg2lu/did_you_know_you_can_cash_out_of_your_property/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:00Z"
-  },
-  {
-   "id": "rd:t3_1wgfr98",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Equity Release/Loans against property in the UAE",
-   "text": "   Greetings, property owners and real estate agents. I would like to raise a question, did you know that you can access cash in a form of a loan without selling your property and still remaining the owner and being able to rent the property out?   if you are interested to learn more, please let me know in the comments      &#32; submitted by &#32;   /u/DenisKHSmartConsult       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgfr98/equity_releaseloans_against_property_in_the_uae/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:00Z"
-  },
-  {
-   "id": "rd:t3_1wgf1d7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "AnyBR Apartment or Villa | Bvlgari",
-   "text": "   Hi from Driven Forbes Agency and I just wanted to check if you have any property you’re currently looking to sell.   My manager is currently working with an active Russian buyer, and Bulgari is his first choice. If you have a property there that you’d consider selling, I’d be happy to pass the details and your asking price directly to my manager.   Please let me know. Thank you!     &#32; submitted by &#32;   /u/Brave_Personality120       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgf1d7/anybr_apartment_or_villa_bvlgari/",
    "date": "2026-09-14",
    "dateApprox": false,
    "language": "en",
