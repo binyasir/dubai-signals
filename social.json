@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-20T04:57:49Z",
- "newThisRun": 4,
- "sourcesOk": 4,
+ "generatedAt": "2026-09-20T11:29:43Z",
+ "newThisRun": 9,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 186,
-  "rss": 63
+  "reddit": 184,
+  "rss": 65
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 1,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,71 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 26,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d9%8a%d9%88%d9%86%d9%8a%d8%b3%d8%aa%d9%8a%d8%aa-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-%d8%a5%d9%84%d9%89-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a8%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a3%d8%b1%d8%b6-%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"يونيستيت\" تتوسع إلى أبوظبي بشراء أرض في جزيرة الريم لتطوير مشروع سكني",
+   "text": "توسعت شركة التطوير العقاري يونيستيت Uniestate Properties إلى سوق أبوظبي، عبر شراء قطعة أرض مساحتها 3 آلاف متر مربع في&#8230;",
+   "url": "https://masdarak.com/new-projects/%d9%8a%d9%88%d9%86%d9%8a%d8%b3%d8%aa%d9%8a%d8%aa-%d8%aa%d8%aa%d9%88%d8%b3%d8%b9-%d8%a5%d9%84%d9%89-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a8%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a3%d8%b1%d8%b6-%d9%81/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T11:29:41Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "الولايات المتحدة تتجاوز بريطانيا في استقطاب الاستثمارات العقارية العابرة للحدود",
+   "text": "تفوقت الولايات المتحدة الأمريكية على المملكة المتحدة لتصبح أكبر وجهة عالمية للاستثمارات العقارية العابرة للحدود، بعدما استقطبت 28.26 مليار دولار&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d9%81%d9%8a-%d8%a7/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T11:29:41Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "الاستثمار العقاري في بريطانيا.. شراء العقار للتأجير يتغير بعد 30 عاماً",
+   "text": "يشهد سوق الاستثمار العقاري في بريطانيا تحولاً في نموذج شراء العقار للتأجير Buy-to-Let، الذي توسع على مدى ثلاثة عقود، مع&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7-%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T11:29:41Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d8%aa-3-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d9%83%d8%a8%d8%b1%d9%89/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"مرجان\" تكشف تطورات 3 مشاريع عقارية كبرى في رأس الخيمة",
+   "text": "تمضي «مرجان»، المطور الرئيسي لمشاريع التملك الحر في رأس الخيمة، في تنفيذ خططها الاستثمارية والتطويرية في الإمارة، بالتزامن مع تقدم&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d8%aa-3-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d9%83%d8%a8%d8%b1%d9%89/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T11:29:41Z"
+  },
   {
    "id": "rd:t3_1wl2m54",
    "platform": "Reddit",
@@ -856,6 +916,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-18T04:48:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRndFc1p2WFdGcGxTMTBzYV9kNkJYYVpyQjZwN2NEX3VtTms4ZXNJb3BBQ2MtQ0s2RjJFbG91bE50Qm1fUFpWdVRhVWRvRDgxdEdUeWp0eU4wN2E4MU9EQWU4ZGRlSG1ONkE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "رئيس الاتحاد العقارية: السوق العقاري في دبي يتحول إلى نمو أكثر استدامة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+   "text": " رئيس الاتحاد العقارية: السوق العقاري في دبي يتحول إلى نمو أكثر استدامة &nbsp;&nbsp; ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRndFc1p2WFdGcGxTMTBzYV9kNkJYYVpyQjZwN2NEX3VtTms4ZXNJb3BBQ2MtQ0s2RjJFbG91bE50Qm1fUFpWdVRhVWRvRDgxdEdUeWp0eU4wN2E4MU9EQWU4ZGRlSG1ONkE?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T11:29:43Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlh3cnhfN2ZqVkFac3NDS2R1LS1XSF9ETkZrbDFaVDhXRFlZMW1mSUFubWNaYmtSNElzVmxyeXM3MzQ3d0FkTlJFS0JkN2Z6WlBMVWJuek9IdWxIVFp3Wk1pcUszSG51c201bERoMlJRcVBpX3pQbW4yT1RkREwtTXcxQ1ZsdzBPOFFSbEtBT3U1cHo5OGY2LXBsbVQxWFRjMTgyZC16a19WTzdXSF9ybmxyc3BVYlJ1b0hxRE95OTdjdnZQT2c1WVBSSQ?oc=5",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-14T21:51:49Z"
-  },
-  {
-   "id": "rd:t3_1wg6fso",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Hi everyone, I need some help regarding my father’s UAE visa application.",
-   "text": "   My father will be visiting here for around 2 weeks. I applied for his visa, but the application was returned with the comment &quot;Lease Agreement”.   I already submitted my lease agreement with our villa, which is signed by both me and the property management company. However, when I asked the property management, they said they don’t have a Tawtheeq or municipality-authenticated tenancy contract for this property.   Has anyone experienced the same issue? Since my father will only be staying for 2 weeks, what kind of accommodation or lease document can I submit? Is Tawtheeq authentication",
-   "url": "https://www.reddit.com/r/dubai/comments/1wg6fso/hi_everyone_i_need_some_help_regarding_my_fathers/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:51:49Z"
-  },
-  {
-   "id": "rd:t3_1wg4bub",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Is it my responsibility to pay for this?",
-   "text": "                 This is my move out snag report, I lived there for 3 years. Some of these items seem like general wear and tear? Also I got the apartment painted and cleaned before I moved out.   The rental contract mentioned “the apartment must be left in the same condition you found it” so I thought painting and cleaning it would be enough.    When they came for the inspection on 1st Sep, they said just the charges for lights would be deducted since two weren’t working. Two weeks later I get this snag report. Coincidentally it’s very close to the total amount of my deposit (3k).    Let me k",
-   "url": "https://www.reddit.com/r/dubai/comments/1wg4bub/is_it_my_responsibility_to_pay_for_this/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:51:49Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiO0FVX3lxTE1Jc1FCSG91Qi1ZYlVwdkpWcXdxdVVicEk3QU9RNXRWNWlKWkFEN3RvNXdWekQweFJIMkpV?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "شركة Huspy تستحوذ على LuxuryX لتعزيز حضورها في سوق العقارات الفاخرة - jawlah.co",
-   "text": " شركة Huspy تستحوذ على LuxuryX لتعزيز حضورها في سوق العقارات الفاخرة &nbsp;&nbsp; jawlah.co ",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1Jc1FCSG91Qi1ZYlVwdkpWcXdxdVVicEk3QU9RNXRWNWlKWkFEN3RvNXdWekQweFJIMkpV?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T12:54:41Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%81%d8%a7%d9%8a%d9%86%d9%86%d8%b4%d8%a7%d9%84-%d8%aa%d8%a7%d9%8a%d9%85%d8%b2-%d8%a7%d9%86%d8%af%d9%85%d8%a7%d8%ac%d8%a7%d8%aa-%d9%88%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0%d8%a7%d8%aa/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"فايننشال تايمز\" : اندماجات واستحواذات مرتقبة بين شركات التطوير العقاري في دبي",
-   "text": "قد يشهد قطاع التطوير العقاري في دبي موجة من الاندماجات والاستحواذات بين الشركات، في ظل التحولات التي يشهدها السوق بالتزامن&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%81%d8%a7%d9%8a%d9%86%d9%86%d8%b4%d8%a7%d9%84-%d8%aa%d8%a7%d9%8a%d9%85%d8%b2-%d8%a7%d9%86%d8%af%d9%85%d8%a7%d8%ac%d8%a7%d8%aa-%d9%88%d8%a7%d8%b3%d8%aa%d8%ad%d9%88%d8%a7%d8%b0%d8%a7%d8%aa/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T12:54:40Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeWZ3RlVWem0yd0E1cEp2Qm1jR0dJNTRnZ1FTMzhVUHJFLVh2NUI0bjJ4Ni1uUTBrSEt4azlHUUZQQm8zWnhIdzdUZVNwcEZVTFJNMUc2X19sYVpkSUZIM1JjX3NlWEhBSGw4QW5fYjYtUlJ4X1NGQjg5dVRHWkkweXdFYktnMlViaW9QSjV1eGpjeHhTZ0pmVnkwblVYWkFaN0twU0FhVlEzT0I1MkNiMmlmVGJVcm5QOC0yZmhMUGNIb3Fka2djaFpSMjYyZjFNQnZBbnZfQ19CRVhoV2RuVTlnS0hCWk44dzVTR1dDWUE4NkxTOVVB?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "OCTA Properties’ DLD and RERA recognition at IPS 2026 reinforces long-term position in Dubai real estate - Zawya",
-   "text": " OCTA Properties’ DLD and RERA recognition at IPS 2026 reinforces long-term position in Dubai real estate &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeWZ3RlVWem0yd0E1cEp2Qm1jR0dJNTRnZ1FTMzhVUHJFLVh2NUI0bjJ4Ni1uUTBrSEt4azlHUUZQQm8zWnhIdzdUZVNwcEZVTFJNMUc2X19sYVpkSUZIM1JjX3NlWEhBSGw4QW5fYjYtUlJ4X1NGQjg5dVRHWkkweXdFYktnMlViaW9QSjV1eGpjeHhTZ0pmVnkwblVYWkFaN0twU0FhVlEzT0I1MkNiMmlmVGJVcm5QOC0yZmhMUGNIb3Fka2djaFpSMjYyZjFNQnZBbnZfQ19CRVhoV2RuVTlnS0hCWk44dzVTR1dDWUE4NkxTOVVB?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T12:54:40Z"
   }
  ]
 }
