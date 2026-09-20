@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-19T20:44:50Z",
+ "generatedAt": "2026-09-20T04:57:49Z",
  "newThisRun": 4,
- "sourcesOk": 8,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 187,
-  "rss": 62
+  "reddit": 186,
+  "rss": 63
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "error": null
   },
   {
@@ -58,25 +58,40 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 22,
+   "items": 24,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1wl2m54",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Hidden costs when renting an apartment",
+   "text": "   If someone could list for me all the hidden costs of renting an apartment - realistically what to budget for, it would be so so helpful! Thank you☺️     &#32; submitted by &#32;   /u/zeSnaa       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wl2m54/hidden_costs_when_renting_an_apartment/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T04:57:14Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiyANBVV95cUxNZWI3SFBnNkNXM0NDUEpPZ0NCNlJHMXVMSnJuVzZvNElNUXc2cnhyaFp3Ykw0emUyYTM2ektqbWthSXcwdGZKVldpUE1KV2JQQk9FQ2FJQTNEc0gwdUhkWEdpbkgzcnZaSTU5MHlaSUJwYjVNempEbUllb3hiUVdudlBVOVBjLVkwVnRYQ3VmcGprRXlyMzB3Umk3aXI0bXlxMmFONHJyQXBHYWNQQ2E3Wkw0aVBfYk1LVVk0d3ctQnM0U0hkVGE4bEl1M3Z4SGpOeEExbWxaZDNPRmIydjdjekRSM3BTd1FkTE1NVHdUUFc4dVZ1VjdXYjBPMDVULUxjeWN5SUxqMUJpcGhydlhIX1ltaVlWTkthMGFyYzBwT19MSEhlWGlvUmZiX2g4Uk0wc0dmREZ0dTdUX0x6RzBFWDk2QUs1cW1vVGR2TXl4UENveGNMNU1UcGJaeWZoNnk3S2YxeWU5cWpRc0ZHQUxXaUoxeVdIUUY2UC1EckVpb0RNLWpHVmlTZmxZSU83QU9GX29XeGJQUWgtTHlsRjRVNWFXekt3SjhfNTIyVFZaZTRqOXhpWkRJa3VSQ1JUZy1MZUJ6YnFzTTU?oc=5",
    "platform": "RSS",
@@ -841,6 +856,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-18T04:48:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlh3cnhfN2ZqVkFac3NDS2R1LS1XSF9ETkZrbDFaVDhXRFlZMW1mSUFubWNaYmtSNElzVmxyeXM3MzQ3d0FkTlJFS0JkN2Z6WlBMVWJuek9IdWxIVFp3Wk1pcUszSG51c201bERoMlJRcVBpX3pQbW4yT1RkREwtTXcxQ1ZsdzBPOFFSbEtBT3U1cHo5OGY2LXBsbVQxWFRjMTgyZC16a19WTzdXSF9ybmxyc3BVYlJ1b0hxRE95OTdjdnZQT2c1WVBSSQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Property Index Announces Dubai Real Estate Data in ChatGPT and Claude - FinancialContent",
+   "text": " Property Index Announces Dubai Real Estate Data in ChatGPT and Claude &nbsp;&nbsp; FinancialContent ",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlh3cnhfN2ZqVkFac3NDS2R1LS1XSF9ETkZrbDFaVDhXRFlZMW1mSUFubWNaYmtSNElzVmxyeXM3MzQ3d0FkTlJFS0JkN2Z6WlBMVWJuek9IdWxIVFp3Wk1pcUszSG51c201bERoMlJRcVBpX3pQbW4yT1RkREwtTXcxQ1ZsdzBPOFFSbEtBT3U1cHo5OGY2LXBsbVQxWFRjMTgyZC16a19WTzdXSF9ybmxyc3BVYlJ1b0hxRE95OTdjdnZQT2c1WVBSSQ?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T04:57:48Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLMTdreklxUGJwUGw2VGRVTVROTHZvSVRWLVN4bHJYbTFtYXNoYnBma2gxV3FLZ1ZOdkRiRFFkdFJaVTZjZzhaR1g5c3paTXMxMHdxbmNhdw?oc=5",
@@ -2358,6 +2388,21 @@
    "firstSeenAt": "2026-09-16T11:40:44Z"
   },
   {
+   "id": "rs:https://news.google.com/rss/articles/CBMiR0FVX3lxTE94UlZZSWdlNlRXMW1DeHlaaEgyZmNvblRRSmtzSnZkWExwZ09sRlFKc1ZQbmRpNGJmZGFEMHVLa1pHTGFTX1Vj?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "من المسابح الخاصة إلى المطابخ المجددة: خمسة تحسينات قد تعزز قيمة العقارات في سوق دبي - alwatan.ae",
+   "text": " من المسابح الخاصة إلى المطابخ المجددة: خمسة تحسينات قد تعزز قيمة العقارات في سوق دبي &nbsp;&nbsp; alwatan.ae ",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94UlZZSWdlNlRXMW1DeHlaaEgyZmNvblRRSmtzSnZkWExwZ09sRlFKc1ZQbmRpNGJmZGFEMHVLa1pHTGFTX1Vj?oc=5",
+   "date": "2026-09-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-20T04:57:49Z"
+  },
+  {
    "id": "rs:https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1FUa1AzX1RSYVJfWnFEVUMzaVl4TjhWZjNQM1pmaWxsMFZwVWY2b1poWkdLYVk0VjlWcXFVUmZWS2wxNThyVGNhRVVDeFJBMzNpQkh1TnVTRENELUdzNWMzQTZYdVNFOVdqdFNRQmVOekJYZG5ydE9nS1RSQXBPVnpVd0U5S3pEVFBNMGw1RG1HeVdmdFRQRlRqUUY3R0hjSThPbDJR?oc=5",
    "platform": "RSS",
    "channel": "News",
@@ -3781,51 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-14T12:54:40Z"
-  },
-  {
-   "id": "rd:t3_1wg1cn1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Advice needed: Fully paid for a car via dubizzle Cars, transfer delayed by \"ENBD system issue\". Is this normal?",
-   "text": "   I paid 71,000 AED in full for a used car on Sept 3rd via dubizzle Cars. The seller dropped it at their warehouse on Sept 5th, but the RTA transfer is still pending.   The agent promised a 10-working-day timeline (deadline is this Wed, Sept 16). They claim the delay is purely due to an &quot;Emirates NBD system issue&quot; failing to send the mortgage clearance to RTA. I also just found out the car has a complex Court-issued POA that wasn&#39;t disclosed before payment.   Questions:     Is this ENBD &quot;system issue&quot; a real thing lately, or just a stall tactic?   If they miss the 10-d",
-   "url": "https://www.reddit.com/r/dubai/comments/1wg1cn1/advice_needed_fully_paid_for_a_car_via_dubizzle/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T12:54:06Z"
-  },
-  {
-   "id": "rd:t3_1wfx8b6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Dubai tenancy renewal / agency fee question",
-   "text": "   Helloooo, looking for some advice from people familiar with Dubai tenancy renewals.   Last year, we rented our apartment through an agency, and we paid an agency fee of 5%.   This year, we requested to renew the tenancy for a period of less than 12 months, and the landlord agreed.   Our previous Ejari stated AED 1,000 + VAT as the agency fee for renewal. However, the agency is now asking for AED 2,200.   When I asked why, they said that because we&#39;re doing a contract for less than 12 months, it is considered a new contract rather than a renewal, so the agency fee is different.   Does th",
-   "url": "https://www.reddit.com/r/dubai/comments/1wfx8b6/dubai_tenancy_renewal_agency_fee_question/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T12:54:06Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTE1OUi1YSFJwUTVRS21NWmc3c0Z4ajUzQW9YTGxSMnpoOEZVZHhieXlyeG5VemNnMlZXakpEakpCT3Q3TGpUcmp2ZFBocG5RdzdfWXdxWWtSX25Kb3NQcWxaQnVZVW1IeS1mMi14a2FiWFluUdIBjAFBVV95cUxOYTlDeUNsVnZxcm43cFlfOGdsb1cxSVNpNUxMVVZiZkdqbXA2WTNaRDNSY2ZBeW5IQ2NfbWxhVExRZUVFMUpJT2FzaE1XYlZPY1dhRjE2WUJvaFRMbko1enQtdzRMZzhyS1VKMjdiVkFtdzFTTDY0dE1ZdEhkOXFCMUpGZUFyREcyNFdKVg?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "قوة الطلب على العقارات الجاهزة تُعزّز سوق الرهن العقاري في دبي - الإمارات اليوم",
-   "text": " قوة الطلب على العقارات الجاهزة تُعزّز سوق الرهن العقاري في دبي &nbsp;&nbsp; الإمارات اليوم ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUi1YSFJwUTVRS21NWmc3c0Z4ajUzQW9YTGxSMnpoOEZVZHhieXlyeG5VemNnMlZXakpEakpCT3Q3TGpUcmp2ZFBocG5RdzdfWXdxWWtSX25Kb3NQcWxaQnVZVW1IeS1mMi14a2FiWFluUdIBjAFBVV95cUxOYTlDeUNsVnZxcm43cFlfOGdsb1cxSVNpNUxMVVZiZkdqbXA2WTNaRDNSY2ZBeW5IQ2NfbWxhVExRZUVFMUpJT2FzaE1XYlZPY1dhRjE2WUJvaFRMbko1enQtdzRMZzhyS1VKMjdiVkFtdzFTTDY0dE1ZdEhkOXFCMUpGZUFyREcyNFdKVg?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T05:02:55Z"
   }
  ]
 }
