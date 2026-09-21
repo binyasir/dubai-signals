@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-09-20T20:52:44Z",
- "newThisRun": 2,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-21T05:03:05Z",
+ "newThisRun": 9,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 182,
-  "rss": 67
+  "reddit": 185,
+  "rss": 64
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 34,
+   "error": null
   },
   {
    "source": "r/UAE",
@@ -59,14 +59,14 @@
   },
   {
    "source": "https://masdarak.com/feed/",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "error": "unchanged"
+   "error": "URLError"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 24,
    "error": null
   },
   {
@@ -77,6 +77,111 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnFzbFl0aTBWdEc4a2dMeU1xQmRqYjR1czM1NGJxOV9paTNNRFlHZHZjNW5mQmFEWG9VRUdSdTdPRUFheEcyem80UlNiLWRUYVJHNW5uZUlsRHhNbVpCbkdMZE5OTVk2RW15MTZ2azZQcjhVT094bkp0VVRobDA2eDRHdHJLZ19Zbk1rbjhWLW1IamgweVV2LXN2cl9xQjNWOThqYjBnVFJiTDVmYW1zanRERDd1X3YyYWliNUpmbXlPNVdOUnpxMWFXNkFwTkU5Y09LYkhsYjVpNElwdVRnYUhB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate sector recorded $3.8bn of transactions last week, including premium Business Bay offices - Arabian Business",
+   "text": " Dubai real estate sector recorded $3.8bn of transactions last week, including premium Business Bay offices &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnFzbFl0aTBWdEc4a2dMeU1xQmRqYjR1czM1NGJxOV9paTNNRFlHZHZjNW5mQmFEWG9VRUdSdTdPRUFheEcyem80UlNiLWRUYVJHNW5uZUlsRHhNbVpCbkdMZE5OTVk2RW15MTZ2azZQcjhVT094bkp0VVRobDA2eDRHdHJLZ19Zbk1rbjhWLW1IamgweVV2LXN2cl9xQjNWOThqYjBnVFJiTDVmYW1zanRERDd1X3YyYWliNUpmbXlPNVdOUnpxMWFXNkFwTkU5Y09LYkhsYjVpNElwdVRnYUhB?oc=5",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:03:04Z"
+  },
+  {
+   "id": "rd:t3_1wm21cm",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "[Discussion] Analyzing a clean dataset of 98 Dubai real estate agency listings",
+   "text": "   Hi everyone, I&#39;ve put together a cleanly organized and verified Excel workbook containing 98 Dubai real estate agency listings, complete with company names, ratings. It&#39;s structured neatly for anyone looking to analyze the market, study regional business data, or perform professional research within the sector. If anyone is interested in exploring this dataset or wants a look at how it&#39;s formatted, feel free to comment below or drop a message!     &#32; submitted by &#32;   /u/Data_pro_Dubai       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wm21cm/discussion_analyzing_a_clean_dataset_of_98_dubai/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
+  {
+   "id": "rd:t3_1wm10z8",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "How did you find furniture and an interior designer for your home in Dubai?",
+   "text": "   Hey everyone! I’ve recently moved to Dubai from Shanghai, where I worked in furniture sourcing and coordinated with interior designers on projects. I’m curious how people here turn a new apartment or villa into a home.  Did you put everything together yourself, or work with a designer? And where did you find the shops or people you ended up trusting—friends, Instagram, or just visiting showrooms?  Would love to hear what worked for you—and anything you’d do differently next time!     &#32; submitted by &#32;   /u/Playful_Loan_7419       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wm10z8/how_did_you_find_furniture_and_an_interior/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
+  {
+   "id": "rd:t3_1wlzmkv",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "1BR Apartment | Greens or JVC | Budget AED 8,000/month",
+   "text": "   Posting as: Tenant   Property type: Apartment   Preferred area: Greens or JVC   Budget: AED 9,000/month   Bedrooms: 1   Preferred size: Any   Timeline: Flexible   Additional requirements: Looking for a furnished 1BR for 2–3 months. Clean, well-maintained apartment preferred, ideally with parking and good amenities. Direct landlord preferred. Open to suitable options within budget.     https://preview.redd.it/a18mw6qu5sqh1.png?width=1254&amp;format=png&amp;auto=webp&amp;s=e4ee0511eb1ae7bba0384c1dc010b933bddb08c4      &#32; submitted by &#32;   /u/KeyProject2897       [link]   &#32;   [commen",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlzmkv/1br_apartment_greens_or_jvc_budget_aed_8000month/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
+  {
+   "id": "rd:t3_1wlzhou",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "1 Bedroom Apartment | Greens or JVC | AED 7,000",
+   "text": "   Posting as: Owner   Property type: Apartment   Area/community: Greens or JVC   Building/project: Any   Price: AED 7000   Bedrooms: 1   Size (sq ft): Any   Furnishing: Furnished   Available from: Flexible   Cheques: Monthly   Images/video: Attached   Additional details: Looking to rent for 2–3 months. Clean, well-maintained apartment preferred. Direct landlord preferred.    https://preview.redd.it/o5vobeio4sqh1.png?width=1254&amp;format=png&amp;auto=webp&amp;s=08aeb8f6674b29e4c2f7aea70732059cfb8511c7      &#32; submitted by &#32;   /u/KeyProject2897       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlzhou/1_bedroom_apartment_greens_or_jvc_aed_7000/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
+  {
+   "id": "rd:t3_1wlwmz8",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "What do I rent now if i can spend up to 300k ( preferably less )?",
+   "text": "   I’m new to Dubai and staying here with my wife. Basically I just want the area to be classy and “safe” for her, it to be walkable with like cafes, restaurants (preferably no alcohol etc), no noise pollution, preferably waterfront, preferably the actual building to be in a quieter area. I already viewed emaar beachfront ( didnt like it, just some high rides on a road with nothing around) and palm jumeirah ( much better but they want around 300k for an old building and bad ish view). Palm jumeirah seemed good. Will also view la mer, city walk. But maybe someone can just give me some good info",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlwmz8/what_do_i_rent_now_if_i_can_spend_up_to_300k/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
+  {
+   "id": "rd:t3_1wlpm7r",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "2BRH apartment| living legends | Budget AED 90k",
+   "text": "   Posting as: Tenant  Property type: apartment  Preferred area: living legend  Budget: AED 95k  Bedrooms: 2BHK  Preferred size: min 1300+  Timeline: Oct 2026  Additional requirements: no agent direct from owner please.     &#32; submitted by &#32;   /u/Both_Constant_7817       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlpm7r/2brh_apartment_living_legends_budget_aed_90k/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXMwdDljQ3RJaEY5M2xPOF9DS0FiZjhZX19rQkFHTng5ZVlnSzBOZ3A4TkFoNF85S29yNkRPcTFvTW1kYXFEMGEweFFqZEtUZVhMVUYxbXlLMUphcFlpempaRnJLSmpUUjNZWUJvNTZwSktPYmVNN28tVlpQeTRYVXA4bmI1VElrVGhieHozYllWNDhjenVSY1BWdXJJc0loQkJicXhXSWZqUEtYaWkxdw?oc=5",
    "platform": "RSS",
@@ -1396,6 +1501,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-18T04:48:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWQxakdudkZYV29LdVhUT1dhZHk3UHA4RW9nTWlfZG5udnFKOXlJSC15MEpnZFVxVFoyWnZhTS1keUtuNmFEM1dOM014SHBJVVdlWHNBZEVYREJPLWNXNHJ2N2J2REE0NmhDQy10ZldhYmdGZmNsN2k5RkZLdlgzNXB0S0dnbU5POVd1d183U2dXRVpvblVUR0tZM2kxcDBDeGNnMw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Property Sales Bounce Back 38% After Three-Year Low - Realty Today",
+   "text": " Dubai Property Sales Bounce Back 38% After Three-Year Low &nbsp;&nbsp; Realty Today ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWQxakdudkZYV29LdVhUT1dhZHk3UHA4RW9nTWlfZG5udnFKOXlJSC15MEpnZFVxVFoyWnZhTS1keUtuNmFEM1dOM014SHBJVVdlWHNBZEVYREJPLWNXNHJ2N2J2REE0NmhDQy10ZldhYmdGZmNsN2k5RkZLdlgzNXB0S0dnbU5POVd1d183U2dXRVpvblVUR0tZM2kxcDBDeGNnMw?oc=5",
+   "date": "2026-09-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T05:03:04Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9YRndFc1p2WFdGcGxTMTBzYV9kNkJYYVpyQjZwN2NEX3VtTms4ZXNJb3BBQ2MtQ0s2RjJFbG91bE50Qm1fUFpWdVRhVWRvRDgxdEdUeWp0eU4wN2E4MU9EQWU4ZGRlSG1ONkE?oc=5",
@@ -3706,126 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-15T04:58:27Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/home-finance/%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%87%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-12-%d8%a5%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "معاملات الرهن العقاري في دبي ترتفع 12% إلى 36.6 مليار دولار خلال 8 أشهر من 2026",
-   "text": "ارتفعت قيمة معاملات الرهن العقاري في دبي بنسبة تقارب 12% خلال الأشهر الثمانية الأولى من 2026، لتصل إلى نحو 36.6&#8230;",
-   "url": "https://masdarak.com/home-finance/%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%87%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-12-%d8%a5%d9%84/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d9%87%d8%b3%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d9%84%d8%a7%d9%83%d8%b4%d8%b1%d9%8a-%d8%a5/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"هسبي\" تستحوذ على شركة الوساطة \"لاكشري إكس\" للتوسع في عقارات دبي الفاخرة",
-   "text": "استحوذت شركة هسبي Huspy، المتخصصة في خدمات تكنولوجيا العقارات و التمويل العقاري بالاعتماد على الذكاء الاصطناعي، على شركة لاكشري إكس&#8230;",
-   "url": "https://masdarak.com/business-news/%d9%87%d8%b3%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d9%84%d8%a7%d9%83%d8%b4%d8%b1%d9%8a-%d8%a5/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%aa%d9%85%d9%83%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%a3%d9%83%d8%ab/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "برنامج التمكين العقاري في دبي يوفر أكثر من 2100 وظيفة للمواطنين منذ 2023",
-   "text": "وفّر برنامج التمكين العقاري في دبي أكثر من 2100 وظيفة للمواطنين في القطاع العقاري منذ إطلاق أولى مبادراته في عام&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%aa%d9%85%d9%83%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%a3%d9%83%d8%ab/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%85%d8%a7-%d8%a7%d9%84%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%8a/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "تجديد العقار في دبي.. ما التحسينات التي تصنع فارقاً في السعر؟",
-   "text": "هل يمكن أن يؤدي تجديد العقار في دبي إلى رفع سعره عند عرضه للبيع، وما التحسينات التي قد تصنع الفارق&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%85%d8%a7-%d8%a7%d9%84%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%8a/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:24Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1FYeGQ4dUduTy1nbjE2bThRUmNiM2Y4OTBia05fdXFSbXpJTnBvT3Y1U19FWkk2OEM3d0dKenBIdzR5dHpKX0czQ0hVNDJ1VVN3TWZOeFNqc1JENnpQWDZVdkNsNG5uSkN4VFVURTk5MjZ0cDYtTDJYSmZGU1RFdTVUUGMzWDU5ZktqSlF3UXlQOTdsSWxXQlZLbF9RWklYOF9lcFRQaDZXeUhidDBjMVRYRFdNRjlMX2NnLTRtaERDREFjV1FIenhZdGNycmQ5SjZUNWo3NXM?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "OCTA Properties’ DLD and RERA recognition at IPS 2026 reinforces long-term position in Dubai Real Estate - Biz Today",
-   "text": " OCTA Properties’ DLD and RERA recognition at IPS 2026 reinforces long-term position in Dubai Real Estate &nbsp;&nbsp; Biz Today ",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1FYeGQ4dUduTy1nbjE2bThRUmNiM2Y4OTBia05fdXFSbXpJTnBvT3Y1U19FWkk2OEM3d0dKenBIdzR5dHpKX0czQ0hVNDJ1VVN3TWZOeFNqc1JENnpQWDZVdkNsNG5uSkN4VFVURTk5MjZ0cDYtTDJYSmZGU1RFdTVUUGMzWDU5ZktqSlF3UXlQOTdsSWxXQlZLbF9RWklYOF9lcFRQaDZXeUhidDBjMVRYRFdNRjlMX2NnLTRtaERDREFjV1FIenhZdGNycmQ5SjZUNWo3NXM?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:24Z"
-  },
-  {
-   "id": "rd:t3_1wggu35",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1BHK below 800K monthly 7900 only- Fully Furnished, 50/50 payment",
-   "text": "   Location:DLRC   1BHK apartment   Handover: Q1 2029 - metro will be in the area   If mortgage for 20 years , monthly will be 3,300 after handover   DM if your client or broker for more info     &#32; submitted by &#32;   /u/Chemical-Arrival-726       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wggu35/1bhk_below_800k_monthly_7900_only_fully_furnished/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:00Z"
-  },
-  {
-   "id": "rd:t3_1wggdik",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "FOR SALE",
-   "text": "   Posting as: Agent    Property type: apartment 1BHK   Area/ community: AL JADA NASQ4   Building/project: NASQ4   Price: AED 845,000   Bedrooms: 1   Size (sq ft): 689sqft   Status: Ready      &#32; submitted by &#32;   /u/Agile_Green6443       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wggdik/for_sale/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:00Z"
-  },
-  {
-   "id": "rd:t3_1wgg2lu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Did you know you can cash out of your property without selling it? This is called equity release",
-   "text": "   Quick one for property owners and agents here: a lot of people don&#39;t realize you can pull equity out of a UAE property as a loan — keep full ownership, keep renting it out, keep any future appreciation, instead of selling to access cash.   Rough shape of how it works right now:     Up to ~80% of appraised value for residents, ~50% for non-residents   Rates in the ~5–6.5% APR range, terms up to 25 years   Processing typically takes 30–45 business days once the full document package is in     I work with a UAE-based financial structuring firm that handles this (not a bank, and we don&#39;",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgg2lu/did_you_know_you_can_cash_out_of_your_property/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-14T21:52:00Z"
   }
  ]
 }
