@@ -1,55 +1,55 @@
 {
- "generatedAt": "2026-09-21T05:03:05Z",
- "newThisRun": 9,
- "sourcesOk": 4,
+ "generatedAt": "2026-09-21T12:54:15Z",
+ "newThisRun": 10,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 185,
-  "rss": 64
+  "reddit": 186,
+  "rss": 63
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 34,
-   "error": null
-  },
-  {
-   "source": "r/UAE",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
+  },
+  {
+   "source": "r/UAE",
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,160 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
-   "ok": false,
-   "items": 0,
-   "error": "URLError"
+   "source": "المصدر العقاري",
+   "ok": true,
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 34,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 13,
+   "items": 12,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0lpLUZ1Y1dlTjUwMnZKTFJJd0JWZTI1MGRkck80eHNFZldHcGhLX0JiVjVNb25XTXNjRjBvbDREbjZzOGh2dU1KZUtWTkJXQlhOaGthSURXNGV2MGV5d0RsT3dyX0dFd0JwckFGcWdfdjI2bzM2Y1A1MXJzVlJRaHRSWjJmUkpESUllSXNpTQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Edinburgh expat lands prestigious Dubai property award - Midlothian View",
+   "text": " Edinburgh expat lands prestigious Dubai property award &nbsp;&nbsp; Midlothian View ",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0lpLUZ1Y1dlTjUwMnZKTFJJd0JWZTI1MGRkck80eHNFZldHcGhLX0JiVjVNb25XTXNjRjBvbDREbjZzOGh2dU1KZUtWTkJXQlhOaGthSURXNGV2MGV5d0RsT3dyX0dFd0JwckFGcWdfdjI2bzM2Y1A1MXJzVlJRaHRSWjJmUkpESUllSXNpTQ?oc=5",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:15Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiqARBVV95cUxPWEh6aWU4LVB1eGhBZGNvZEN4WTRST0hDOUVDMXJ1VDhEckZZcGQzUm5NeDFPNmI0QXFQeTJRRm94YUc3enNBTGd6WHlJSXdxRlRkU2tvOGt0S2NJWHI3R2pMV19UYWNXRXIyanh3VUo2QmRPSVNzdzhrY3BvX3IxTXhpbUI5X0g5amJjR3hwcXlDeXVaaldoNUVjNXNvY0dBMjEzNUxZTDNOYnFWNm9ZLXp2Y2FUUzM1cHdjMWFhZ2NBRGtQdmoyMlRNLVRBT1RnbmZnM1lheVAwQVJDdkZlSUkzV1U4R3dCNVJyUEF1MFE0TkRCUjNoU243dExWZEhrX24tem5yYmRSTnNHaVAxcUhielJyQk5zZUxMY282NVNrUUFlSkpOcl9zYVVPN3pRU0djbUVwd3FMci1TdG83TVltVDA4ZzlvNzg0TnpKT0U3YlRsa2lvNWhaM1VoUjJ2QmFFM0RnekRuUnlfWU1kdFJSRnZzQ01qM0IyWGhSRjJ3RXRjV1pSN21wUmdOWnRDS2tEMGpfZ2UzckotRGRlY1Q1UWlkcnJmRk9Pa1FsVGttc2pYZzNhbHp3REdnUVRKQ0NjcTFOU2tGeC1sSDQ0ZE9TTlJDS0prS0tHWnVmbUs5QVhRVkp0OHkzVlZkU1ptQi1MY1B2a2xkaUEwVVF5M0dWekZUUlB1akREUnRvRVhjRlNLeTBIU2VMc29mNU01bnQzbzgzeVE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "دبي.. رهن قطعة أرض في «الخليج التجاري» بـ824 مليون درهم - صحيفة الخليج",
+   "text": " دبي.. رهن قطعة أرض في «الخليج التجاري» بـ824 مليون درهم &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxPWEh6aWU4LVB1eGhBZGNvZEN4WTRST0hDOUVDMXJ1VDhEckZZcGQzUm5NeDFPNmI0QXFQeTJRRm94YUc3enNBTGd6WHlJSXdxRlRkU2tvOGt0S2NJWHI3R2pMV19UYWNXRXIyanh3VUo2QmRPSVNzdzhrY3BvX3IxTXhpbUI5X0g5amJjR3hwcXlDeXVaaldoNUVjNXNvY0dBMjEzNUxZTDNOYnFWNm9ZLXp2Y2FUUzM1cHdjMWFhZ2NBRGtQdmoyMlRNLVRBT1RnbmZnM1lheVAwQVJDdkZlSUkzV1U4R3dCNVJyUEF1MFE0TkRCUjNoU243dExWZEhrX24tem5yYmRSTnNHaVAxcUhielJyQk5zZUxMY282NVNrUUFlSkpOcl9zYVVPN3pRU0djbUVwd3FMci1TdG83TVltVDA4ZzlvNzg0TnpKT0U3YlRsa2lvNWhaM1VoUjJ2QmFFM0RnekRuUnlfWU1kdFJSRnZzQ01qM0IyWGhSRjJ3RXRjV1pSN21wUmdOWnRDS2tEMGpfZ2UzckotRGRlY1Q1UWlkcnJmRk9Pa1FsVGttc2pYZzNhbHp3REdnUVRKQ0NjcTFOU2tGeC1sSDQ0ZE9TTlJDS0prS0tHWnVmbUs5QVhRVkp0OHkzVlZkU1ptQi1MY1B2a2xkaUEwVVF5M0dWekZUUlB1akREUnRvRVhjRlNLeTBIU2VMc29mNU01bnQzbzgzeVE?oc=5",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:15Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-13-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إطلاق 13 مشروعاً عقارياً جديداً في دبي بـ 2,326 وحدة سكنية خلال أغسطس 2026",
+   "text": "شهد شهر أغسطس من العام 2026 إطلاق 13 مشروعاً عقارياً جديداً في دبي تضم 2,326 وحدة سكنية بين شقق وفلل،&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-13-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:14Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d8%ae%d8%b7%d8%b7-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%ae%d8%a8%d8%a9-%d9%84%d9%84%d9%81%d9%84%d9%84-%d9%88%d9%85%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"نخيل\" تكشف مخطط جزيرة \"النخبة\" للفلل ومنازل الـ \"تاون هاوس\" في جزر دبي",
+   "text": "بدأت شركة نخيل ، المطور الرئيسي لمشروع جزر دبي، استعراض نموذج المخطط الرئيسي للجزيرة E، والتي تسمى جزيرة نخبة Elite&#8230;",
+   "url": "https://masdarak.com/new-projects/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d8%ae%d8%b7%d8%b7-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%ae%d8%a8%d8%a9-%d9%84%d9%84%d9%81%d9%84%d9%84-%d9%88%d9%85%d9%86/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:14Z"
+  },
+  {
+   "id": "rd:t3_1wm8dhx",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Didn't Know It would be my turn this time, but I lost my job.",
+   "text": "   Hey guys,   I never thought I’d be writing a post like this.   I’m a Software Engineer with 11 years of experience, and for the past 4 years, I’ve been working with the same company. Last week, I was told that my journey there is coming to an end—not because of my performance, but because of budget cuts and the company needing to reduce costs.   In a way, I knew this day could come. I had watched colleagues leave as the company continued cutting positions. Still, you never really know when your own turn will come—and when it does, it hits differently.   When you’re married, paying rent and ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wm8dhx/didnt_know_it_would_be_my_turn_this_time_but_i/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:01Z"
+  },
+  {
+   "id": "rd:t3_1wm8dcv",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "7+ years Java/Spring Boot experience – how to get a permanent IT job in Dubai/UAE?",
+   "text": "   &#x200B;   Hi everyone,   I’m currently working in Dubai as a Senior Java/Spring Boot Backend Developer with around 7 years of overall IT experience. I have experience in Java, Spring Boot, REST APIs, microservices, SQL, Docker/Kubernetes and banking/fintech projects.   I’m currently working in the UAE through a consulting/contract setup, but I’m now trying to move into a permanent/direct employment role with a company in Dubai or any other emirate.   I have been applying through LinkedIn and company career portals for quite some time. I’ve applied to companies such as Emirates multiple tim",
+   "url": "https://www.reddit.com/r/UAE/comments/1wm8dcv/7_years_javaspring_boot_experience_how_to_get_a/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:01Z"
+  },
+  {
+   "id": "rd:t3_1wm6knp",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Golden visa - Labour approval - Pakistani applicant",
+   "text": "   Hi,   Any guidance if labour approvals are being given for Pakistani applicants already holding Golden visa and switching jobs?     &#32; submitted by &#32;   /u/azizzoaib786       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wm6knp/golden_visa_labour_approval_pakistani_applicant/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:01Z"
+  },
+  {
+   "id": "rd:t3_1wm6cic",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "[F26] Looking for a female roommate in Al Nahda, Dubai, available Oct 1",
+   "text": "   I&#39;m a 26 year old female living in Al Nahda, Dubai, and I&#39;m looking for one female roommate to share the place with from October 1st.   Rent is AED 3,000 per month, so split between the two of us it comes to AED 1,500 each. DEWA (electricity and water) is included in that.   A few things so we&#39;re on the same page:   - Smoking and drinking are both fine, no judgement here   - Females only, please   - Available from October 1st   If this sounds like a fit, feel free to DM me and I can share photos, exact location and more details. Females only for DMs, thanks!     &#32; submitted ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wm6cic/f26_looking_for_a_female_roommate_in_al_nahda/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:54:01Z"
+  },
+  {
+   "id": "rd:t3_1wm44ia",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Refund with Dubai Developer",
+   "text": "   I&#39;ve Paid 51K AED to GFS Real-estate last year as 10% Deposit for one studio , they promised within one month the project will be launched and escrow account will be open, 4 months later on there were no update, I&#39;ve asked for refund as I didn&#39;t sign any SPA or Reservation form, They acknowledge the refund and said they are working on it , it was last march, till date they are telling it&#39;s under process without any clarity when it will be refunded  I tried to file complain with RERA but they refer to go to court , court will claim 6% for total price along with lawyer fees so",
+   "url": "https://www.reddit.com/r/dubai/comments/1wm44ia/refund_with_dubai_developer/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-21T12:53:45Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnFzbFl0aTBWdEc4a2dMeU1xQmRqYjR1czM1NGJxOV9paTNNRFlHZHZjNW5mQmFEWG9VRUdSdTdPRUFheEcyem80UlNiLWRUYVJHNW5uZUlsRHhNbVpCbkdMZE5OTVk2RW15MTZ2azZQcjhVT094bkp0VVRobDA2eDRHdHJLZ19Zbk1rbjhWLW1IamgweVV2LXN2cl9xQjNWOThqYjBnVFJiTDVmYW1zanRERDd1X3YyYWliNUpmbXlPNVdOUnpxMWFXNkFwTkU5Y09LYkhsYjVpNElwdVRnYUhB?oc=5",
    "platform": "RSS",
@@ -3691,141 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-15T11:48:18Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d9%85%d8%b9%d8%b1%d8%b6-%d8%b9%d8%ac%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-2026-%d9%8a%d8%b3%d8%ac%d9%84-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%80136-%d9%85%d9%84%d9%8a%d9%88/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "معرض عجمان العقاري 2026 يسجل صفقات بـ136 مليون دولار في يومه الأول",
-   "text": "افتتح سمو الشيخ عمار بن حميد النعيمي، ولي عهد عجمان رئيس المجلس التنفيذي، أمس، فعاليات النسخة الرابعة من معرض عجمان&#8230;",
-   "url": "https://masdarak.com/business-news/%d9%85%d8%b9%d8%b1%d8%b6-%d8%b9%d8%ac%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-2026-%d9%8a%d8%b3%d8%ac%d9%84-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%80136-%d9%85%d9%84%d9%8a%d9%88/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T04:58:26Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d9%8017-%d9%88%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d9%8033-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%8b-%d9%81%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1-%d8%a7%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "دبي الـ17 وأبوظبي الـ33 عالمياً في مؤشر الشفافية العقارية العالمي 2026",
-   "text": "احتلت دبي المرتبة 17 عالمياً وأبوظبي المرتبة 33 في مؤشر الشفافية العقارية العالمي 2026  (Global Real Estate Transparency Index 2026)&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d9%8017-%d9%88%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d9%8033-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%8b-%d9%81%d9%8a-%d9%85%d8%a4%d8%b4%d8%b1-%d8%a7%d9%84/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T04:58:26Z"
-  },
-  {
-   "id": "rd:t3_1wgpd39",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Warehouse | Al Quoz 1 | AED 6,900,000",
-   "text": "   Posting as: Agent  Property type: Warehouse  Area/community: Al Quoz 1, Dubai  Building/project: N/A  Price: AED 6,900,000  Bedrooms: N/A  Size (sq ft): 16,000 BUA  Status: Ready  Additional details: Best deal warehouse investment opportunity in Al Quoz 1. Very urgent sale.  Property details:  Plot area: Approximately 10,000 sq ft  Built-up area: Approximately 16,000 sq ft  Ownership: Fully owned  3 warehouse sheds  Current tenancy:  2 sheds rented to car garages  1 shed rented to a restaurant  Total annual rental income: AED 530,000  Investment metrics:  Selling price: AED 6,900,000 net to",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgpd39/warehouse_al_quoz_1_aed_6900000/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T04:58:02Z"
-  },
-  {
-   "id": "rd:t3_1wgnf6s",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Rental question..Al Kifaf? Dwtc?",
-   "text": "   Moved to dubai. Have a family with a little toddler who will go to pre-school.    All options are via bayut and brokers. I have never really dealt with landlords before (before leaving dubai, I was directly dealing with builders and it went flawless for 7 years).   How is living in these areas? There aren&#39;t great preschools around areas but we are wiling to drive a bit for that. Any caveats?   Thank you everyone. This sub has been a big help.     View Poll      &#32; submitted by &#32;   /u/Khayalmetal       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgnf6s/rental_questional_kifaf_dwtc/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T04:58:02Z"
-  },
-  {
-   "id": "rd:t3_1wgor4v",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Is it better to Uber or rent a car in Dubai? One week stay",
-   "text": "   4 adults + 3 kids.    I don&#39;t think there&#39;s an uber that will fit all of us so we will have to take 2 ubers more than likely. We are staying in JVC.   Also the kids are all under 4. How strict is dubai laws on car seats?    We are from the US.    Thanks.      &#32; submitted by &#32;   /u/OkPipe3876       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wgor4v/is_it_better_to_uber_or_rent_a_car_in_dubai_one/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T04:57:57Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi2gZBVV95cUxPTlNSZWw2REtaOGNwYUlxWjdNRmxSbDI1Xy1GdGlzTVJzcDNQdlo3S3ctOW5FNjV0bUFQZHNRSXllbUx1NXZmLUx6XzFYSGlLaVVwYWVQam5fbFZhVW5pdndfYW9jNEFlZXZlWXBDM3JKRjF4cFhZZmxnU3dQbVIxbkU2cXpNZ0I2Z3pYc2ptdVZxT1liazlBd091STQwSnh4MDNTOExDSEtsSTRNSHdTaG55R203WU5PWEhucnN0TFNQWGN1bU5LRXZDLU5UZEViVElpdlNlS1lsMkdLTVEwT0NMUWNUZXNLX1ZNZUQ3Q3BjZnZCd3JKcUdXdjY1c09UaldoRkN5Q1kzNEIwOWNyVlRBeEZQQTdkckQxcm9fakhJMTYwbmkzMl9LYUd1WEtlUFdCZ0o5ZEdTaG5fRDBrRExYWUxjWjFBX054djBKM0hrdjgzVXV4VkduaFAyYTNsTzF3blRKa1RpZkV4aEJQNzJFQXpMLXYtNTV5U3Z1Ym5NR05iQVhvQV9GYmFsVThXOHN0Q2t4RVh4emFwek5mQ0l2UThDdzduX3RiUk13TVhvU0dLVmlDMTIwcG5SbUswMzVMRnFSbmppdUJQM19OT1NLdnZZSGxlZXBmQkp0Z212YmRadld5N3dhWEd6Z3AweENHZHpKVTNhNnN3MHNhSExleHJNRGxWYUpEZTlpM2hPdE1FcHRJMlFRbzZrSW82YzdYbW5vd0NVYm5HWUJkaDhYbUtZeVRMNnRrWHMtUEJUS2NLZGRCb3lFQ0dZNEttYUtUTEV2WTI5bzUxWnoxaUU1NmJrVHlpUmgxTmtKMkNqNUhVOEljZ1VQMmZRLXB4ZTN6UVhOV3FGYVhMX215cGZCeVhFbTktNE9zc2l3eDRyNHc3NXNxSncwN2N2OUYxTllUUkZweERyZktsTktCejNObHRXaElmcFlFN2V1YUVXckUta3o3MTZWMW9hRWVtTGIyVmduX0hlRFRsMG01TlFleXhBVDN5bFFpamVOT0VZemVIdGFETUxKSjRBV040RFBWZnVHLWw5MEp6WFVFNE1iUGJQX0d1MWppM1kxZEwzdmlLTUZqd2xQQlpNYUVlbU5nUWoyeE0wb2hWeW9XWVVuUFA3UVJsSGc?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "أوكتا العقاريّة تحصد تكريماً من \"أراضي دبي\" ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 - zawya.com",
-   "text": " أوكتا العقاريّة تحصد تكريماً من \"أراضي دبي\" ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 &nbsp;&nbsp; zawya.com ",
-   "url": "https://news.google.com/rss/articles/CBMi2gZBVV95cUxPTlNSZWw2REtaOGNwYUlxWjdNRmxSbDI1Xy1GdGlzTVJzcDNQdlo3S3ctOW5FNjV0bUFQZHNRSXllbUx1NXZmLUx6XzFYSGlLaVVwYWVQam5fbFZhVW5pdndfYW9jNEFlZXZlWXBDM3JKRjF4cFhZZmxnU3dQbVIxbkU2cXpNZ0I2Z3pYc2ptdVZxT1liazlBd091STQwSnh4MDNTOExDSEtsSTRNSHdTaG55R203WU5PWEhucnN0TFNQWGN1bU5LRXZDLU5UZEViVElpdlNlS1lsMkdLTVEwT0NMUWNUZXNLX1ZNZUQ3Q3BjZnZCd3JKcUdXdjY1c09UaldoRkN5Q1kzNEIwOWNyVlRBeEZQQTdkckQxcm9fakhJMTYwbmkzMl9LYUd1WEtlUFdCZ0o5ZEdTaG5fRDBrRExYWUxjWjFBX054djBKM0hrdjgzVXV4VkduaFAyYTNsTzF3blRKa1RpZkV4aEJQNzJFQXpMLXYtNTV5U3Z1Ym5NR05iQVhvQV9GYmFsVThXOHN0Q2t4RVh4emFwek5mQ0l2UThDdzduX3RiUk13TVhvU0dLVmlDMTIwcG5SbUswMzVMRnFSbmppdUJQM19OT1NLdnZZSGxlZXBmQkp0Z212YmRadld5N3dhWEd6Z3AweENHZHpKVTNhNnN3MHNhSExleHJNRGxWYUpEZTlpM2hPdE1FcHRJMlFRbzZrSW82YzdYbW5vd0NVYm5HWUJkaDhYbUtZeVRMNnRrWHMtUEJUS2NLZGRCb3lFQ0dZNEttYUtUTEV2WTI5bzUxWnoxaUU1NmJrVHlpUmgxTmtKMkNqNUhVOEljZ1VQMmZRLXB4ZTN6UVhOV3FGYVhMX215cGZCeVhFbTktNE9zc2l3eDRyNHc3NXNxSncwN2N2OUYxTllUUkZweERyZktsTktCejNObHRXaElmcFlFN2V1YUVXckUta3o3MTZWMW9hRWVtTGIyVmduX0hlRFRsMG01TlFleXhBVDN5bFFpamVOT0VZemVIdGFETUxKSjRBV040RFBWZnVHLWw5MEp6WFVFNE1iUGJQX0d1MWppM1kxZEwzdmlLTUZqd2xQQlpNYUVlbU5nUWoyeE0wb2hWeW9XWVVuUFA3UVJsSGc?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T04:57:04Z"
-  },
-  {
-   "id": "rd:t3_1wfz2gx",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "What was the most confusing thing when you first moved to Slovakia?",
-   "text": "   I&#39;ve been looking at the things foreigners usually struggle with during their first weeks in Slovakia.   Interestingly, it&#39;s often not one big problem, but 5–6 small ones at the same time.   Finding an apartment where the landlord is okay with a foreign tenant.   Figuring out address registration.   Foreign Police appointments.   Opening a bank account.   Health insurance.   Getting a Slovak SIM.   Understanding which documents need an official translation.   Individually, most of these things are manageable. But when you&#39;ve just arrived and don&#39;t speak Slovak, even simple t",
-   "url": "https://www.reddit.com/r/expats/comments/1wfz2gx/what_was_the_most_confusing_thing_when_you_first/",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-16T17:02:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXZkMl9KUjRqLWhLOEp3cktfT0gzSkhoeVFkUEllM253YnVuVWttaXBaYmpFUFBaLVF3bmx3ZVhSZVlvVjlzQ2pWR3MxMXdYQThrcW0tSkFQNlFBa3ZObE9DemFwNl9UQ1VWdmZfTGQzV3U3bGtldUt0QlFUcmdINExYOWpLTmdZaGpv?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Top Areas to Invest in Dubai Property in 2026 - On Pattison",
-   "text": " Top Areas to Invest in Dubai Property in 2026 &nbsp;&nbsp; On Pattison ",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXZkMl9KUjRqLWhLOEp3cktfT0gzSkhoeVFkUEllM253YnVuVWttaXBaYmpFUFBaLVF3bmx3ZVhSZVlvVjlzQ2pWR3MxMXdYQThrcW0tSkFQNlFBa3ZObE9DemFwNl9UQ1VWdmZfTGQzV3U3bGtldUt0QlFUcmdINExYOWpLTmdZaGpv?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T11:48:54Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZSXZacWhDUVJJekpfXzljYWE1MlFiVWNxbm5GQ1BmSHpvVmc4S2trSFJZMUVVM0xHaFdoN2xZdm15S2p4dUZB?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "أوكتا العقاريّة تحصد تكريماً من “أراضي دبي”ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 - alwatan.ae",
-   "text": " أوكتا العقاريّة تحصد تكريماً من “أراضي دبي”ومؤسّسة التنظيم العقاري خلال معرض العقارات الدولي 2026 &nbsp;&nbsp; alwatan.ae ",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZSXZacWhDUVJJekpfXzljYWE1MlFiVWNxbm5GQ1BmSHpvVmc4S2trSFJZMUVVM0xHaFdoN2xZdm15S2p4dUZB?oc=5",
-   "date": "2026-09-14",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T04:58:27Z"
   }
  ]
 }
