@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-22T17:00:30Z",
- "newThisRun": 39,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-22T21:22:57Z",
+ "newThisRun": 2,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 32,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -72,7 +72,7 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   }
  ],
