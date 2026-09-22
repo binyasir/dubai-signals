@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-21T22:00:47Z",
- "newThisRun": 9,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-22T05:02:05Z",
+ "newThisRun": 5,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 181,
-  "rss": 68
+  "reddit": 180,
+  "rss": 69
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
@@ -53,20 +53,20 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 34,
+   "items": 33,
    "error": null
   },
   {
@@ -77,6 +77,36 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVE0OGJZZDlpU1QyRDdtcl9Sd2ZNQW4xcE1tMWltRzhiak1oU2FTNXlGelpKU0luNERRTkhsc1cybWRTdS1XNFRXUXk5TGNxLUJoTTJzc2U5Wk11dGxDUDBrWlcwYzduUTFXbTlXcHpwVGpSU1E4al9paVVON3Y0a1RvN1pjbWZZUEZrdnVndC3SAZgBQVVfeXFMTWJrcHdjblpId3hBZUcwT0VSTUxUWXg3Mlh4Tm1RUnotalM1Q3pWLUtONjJ1Z3ZpZUtreEdJS1U2ZjJxYlZzdE5IZk4zb0hOV3hEQmo5bGF2N09KQW5fRjRhY2hlZWRMejZ2TksyM29NblhFSGNtNEpGQXJvWGJNZTBtZGVqekU4SGsweE9DVmhhcEV3SWlTZF8?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Scot lands prestigious Dubai property honour - deadlinenews.co.uk",
+   "text": " Scot lands prestigious Dubai property honour &nbsp;&nbsp; deadlinenews.co.uk ",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVE0OGJZZDlpU1QyRDdtcl9Sd2ZNQW4xcE1tMWltRzhiak1oU2FTNXlGelpKU0luNERRTkhsc1cybWRTdS1XNFRXUXk5TGNxLUJoTTJzc2U5Wk11dGxDUDBrWlcwYzduUTFXbTlXcHpwVGpSU1E4al9paVVON3Y0a1RvN1pjbWZZUEZrdnVndC3SAZgBQVVfeXFMTWJrcHdjblpId3hBZUcwT0VSTUxUWXg3Mlh4Tm1RUnotalM1Q3pWLUtONjJ1Z3ZpZUtreEdJS1U2ZjJxYlZzdE5IZk4zb0hOV3hEQmo5bGF2N09KQW5fRjRhY2hlZWRMejZ2TksyM29NblhFSGNtNEpGQXJvWGJNZTBtZGVqekU4SGsweE9DVmhhcEV3SWlTZF8?oc=5",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-22T05:02:04Z"
+  },
+  {
+   "id": "rd:t3_1wmjgug",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "How do you deal with deteriorating mental health after moving abroad?",
+   "text": "   Hello friends, I know this isn’t a mental health sub but I’m (26f) hoping to kinda clear my head and maybe gain some perspective/advice. I’m originally from Mexico but I have been living abroad in a European country with my partner for almost 2 years, we have no family here and very few friends. Since living here, my mental health has steadily deteriorated and I have no zone of comfort outside of my apartment. I’m too anxious to drive outside and I haven’t had many positive interactions with the locals here (racial shouts, heavy stares), its admittingly made me quite agoraphobic and anxious",
+   "url": "https://www.reddit.com/r/expats/comments/1wmjgug/how_do_you_deal_with_deteriorating_mental_health/",
+   "date": "2026-09-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-22T05:02:02Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmtwd2NuWkh3eEFlRzBPRVJNTFRZeDcyWHhObVFSei1qUzVDelYtS042MnVndmllS2t4R0lLVTZmMnFiVnN0TkhmTjNvSE5XeERCajlsYXY3T0pBbl9GNGFjaGVlZEx6NnZOSzIzb01uWEVIY200SkZBcm9YYk1lMG1kZWp6RThIazB4T0NWaGFwRXdJaVNkX9IBmAFBVV95cUxNYmtwd2NuWkh3eEFlRzBPRVJNTFRZeDcyWHhObVFSei1qUzVDelYtS042MnVndmllS2t4R0lLVTZmMnFiVnN0TkhmTjNvSE5XeERCajlsYXY3T0pBbl9GNGFjaGVlZEx6NnZOSzIzb01uWEVIY200SkZBcm9YYk1lMG1kZWp6RThIazB4T0NWaGFwRXdJaVNkXw?oc=5",
    "platform": "RSS",
@@ -406,6 +436,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-21T05:01:05Z"
+  },
+  {
+   "id": "rd:t3_1wlghjn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Insurance coverage for US property while living abroad",
+   "text": "   Hi all,   I currently own property in the US that I am planning to keep (and NOT rent out) while moving abroad for work within the next year. Much of my personal property would remain there, and I would use it as a place to stay while visiting with family and friends back in the US.   My current insurance company does not offer coverage for properties that are &quot;vacant&quot; much of the time. Obviously someone does, though; lots of people own property in more than one country and they don&#39;t all rent it out. Who have you all worked with to insure your US property while living oversea",
+   "url": "https://www.reddit.com/r/expats/comments/1wlghjn/insurance_coverage_for_us_property_while_living/",
+   "date": "2026-09-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-22T05:02:02Z"
   },
   {
    "id": "rd:t3_1wlwmz8",
@@ -931,6 +976,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-20T04:57:14Z"
+  },
+  {
+   "id": "rd:t3_1wkhtkd",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Any Singapore rental negative stories when losing your Employment Pass?",
+   "text": "   I moved to Singapore last December and signed a lease for 2 years. I have a diplomatic clause that kicks into effect after 1 year, but I was just curious if anyone has ever been screwed because they lost their jobs?   As everyone knows, rental here are not cheap, even though my colleagues and I make around 275k, our rentals are about 6.5k SGD a month. Has anyone ever lost their Epass, no diplomatic clause and faced some serious issues?     &#32; submitted by &#32;   /u/Maleficent_Steak8373       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/expats/comments/1wkhtkd/any_singapore_rental_negative_stories_when_losing/",
+   "date": "2026-09-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-22T05:02:02Z"
   },
   {
    "id": "rd:t3_1wl1c67",
@@ -3761,66 +3821,6 @@
    "title": "Town X Developer buyers/friends of buyers only no agent?",
    "text": "   Any buyers or know someone who bought from Town X please give me your honest opinion as google has lots of positive reviews of their buildings which is weird for Dubai.     &#32; submitted by &#32;   /u/ParticularDiver7477       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wgth4e/town_x_developer_buyersfriends_of_buyers_only_no/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T17:03:06Z"
-  },
-  {
-   "id": "rd:t3_1wgszxg",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Buying UAE investment property as a resident Indian?",
-   "text": "   Hi everyone — I’m trying to understand how Indian residents can legally purchase higher-value property in Dubai or Abu Dhabi under the LRS/FEMA rules.  My parents are Indian citizens, tax residents of India, and live in India full-time. They are not NRIs and they do not already have significant funds held outside India.   My understanding is that under the Liberalised Remittance Scheme (LRS), each resident individual can remit up to USD 250,000 per financial year outside India, including for the purchase of overseas property.   So I’m trying to understand what happens if they want to buy a ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgszxg/buying_uae_investment_property_as_a_resident/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T17:03:06Z"
-  },
-  {
-   "id": "rd:t3_1wgsx02",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Al Ghaf Tower Sharjah – Parking Allocation & SPA Issue | 3/4 Bedroom Buyers – Anyone Else Facing This?",
-   "text": "   Hi everyone,   I’m looking to connect with other  Al Ghaf Tower buyers/owners  regarding the parking allocation.   From the sales information I’ve seen,  3- and 4-bedroom apartments were advertised as entitled to 2 parking spaces , depending on the unit/area. My understanding is that units above approximately  148 sqm  fall within this category, and my apartment qualifies based on its size.   However, my current  SPA allocates only 1 parking space , so I’m trying to understand how parking has been allocated to other buyers. I also want to  explore my legal rights and options before signing ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgsx02/al_ghaf_tower_sharjah_parking_allocation_spa/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T17:03:06Z"
-  },
-  {
-   "id": "rd:t3_1wgskfe",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "OFFICE | BUSINESS BAY | AED 150,000/year",
-   "text": "   Office | Business Bay | AED 150,000 year   Posting as: Agent  Property type: office  Area/community: Business Bay  Building/project: Bayswater by Omniyat  Price: AED 150,000 YEARLY  Bedrooms: NA  Size (sq ft): 815 sq.ft  Furnishing: Furnished  Available from: 20 sep 2026  Cheques: 2/4 cheques  Images/video: Available  Additional details: Must go by month end     &#32; submitted by &#32;   /u/SnooDoodles4993       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgskfe/office_business_bay_aed_150000year/",
-   "date": "2026-09-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-15T17:03:06Z"
-  },
-  {
-   "id": "rd:t3_1wgsfsd",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Studio | Arjan | AED 600,000",
-   "text": "   Posting as: Agent  Property type: Studio  Area/community: Arjan, Dubai  Building/project: Not disclosed  Price: AED 600,000  Bedrooms: Studio  Size (sq ft): 415  Status: Ready  Images/video: Optional  Additional details: Cash only — final price. Balcony included. Approximately 5-year-old building. Semi-furnished with TEKA kitchen appliances. Close to Sheikh Mohammed Bin Zayed Road entrance &amp; exit and near Dubai Butterfly Garden. Serious buyers and genuine buyer agents are welcome.  DM for further details     &#32; submitted by &#32;   /u/boulaki89       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wgsfsd/studio_arjan_aed_600000/",
    "date": "2026-09-15",
    "dateApprox": false,
    "language": "en",
