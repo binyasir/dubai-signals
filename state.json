@@ -23,8 +23,8 @@
    "modified": null
   },
   "https://masdarak.com/feed/": {
-   "etag": "\"a2e5d751301e32833935fea706a9e29e\"",
-   "modified": "Wed, 23 Sep 2026 05:01:04 GMT"
+   "etag": "\"88272b62eb9d9f4ff14d51968f2dd8df\"",
+   "modified": "Wed, 23 Sep 2026 17:00:04 GMT"
   },
   "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en": {
    "etag": null,
@@ -728,6 +728,44 @@
   "rd:t3_1wnns9e": "2026-09-23",
   "rd:t3_1wnfm5l": "2026-09-23",
   "rd:t3_1wn5eu1": "2026-09-23",
-  "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVNtamtXTmthQ0pPX2tyT2dJNmJsLXRlRlJPU0phU2xuX0ZDVjRYNGZVd3FJVUpkN2Eya3dUMW4yVThKeHNxZDBndW9CR2NQMmxnVkJfU3U0eDJyT0twOU1xUDZrQ1hmbTBPUERyWXc2RHlEdVRNXzVENnFkT1NVSi1GRzZrZ3Q0QkJqNmpPUVFZUkRGZGkzcHBCVUJKcjFKN1JnZDFZWHpfU2JYd0dwNU1kallvRkNrZ3NUaEZ3?oc=5": "2026-09-23"
+  "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVNtamtXTmthQ0pPX2tyT2dJNmJsLXRlRlJPU0phU2xuX0ZDVjRYNGZVd3FJVUpkN2Eya3dUMW4yVThKeHNxZDBndW9CR2NQMmxnVkJfU3U0eDJyT0twOU1xUDZrQ1hmbTBPUERyWXc2RHlEdVRNXzVENnFkT1NVSi1GRzZrZ3Q0QkJqNmpPUVFZUkRGZGkzcHBCVUJKcjFKN1JnZDFZWHpfU2JYd0dwNU1kallvRkNrZ3NUaEZ3?oc=5": "2026-09-23",
+  "rs:https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGVvdEJzR2JvUEtwQ21QeTRwbzNDaFg5RmVlWkZEaUZ2SHZTR19OZGRGaFc1U2RTQWZMT3ZPajRHb2RCUDJRa0Z6b3lhOGxsYl9NaElUWlBaWDVVdnlYTERYcTdUcE5PLXlQcUNUZ3hXdTFuMXZJUVF4bDlydExqVUtCV1RVUFBTUG42a1hYNTg?oc=5": "2026-09-23",
+  "rs:https://masdarak.com/new-projects/%d8%a8%d8%a7%d9%84%d8%a7%d8%b3-%d8%ba%d8%b1%d9%88%d8%a8-%d8%aa%d8%b7%d9%88%d8%b1-12-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%a8%d8%a7%d9%8a-%d9%88%d9%84%d8%a7/": "2026-09-23",
+  "rs:https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a3%d9%88%d9%84-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d9%83%d9%86%d9%8a-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%a8%d8%b9%d9%84%d8%a7%d9%85%d8%a9-%d9%85%d9%88%d9%81%d9%86/": "2026-09-23",
+  "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d9%85%d9%8a%d8%b1%d9%83%d8%a7-%d8%aa%d9%82%d9%81%d8%b2-%d9%84%d9%84%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d8%a7/": "2026-09-23",
+  "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b1-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d9%82%d8%a7%d8%af%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a7%d9%84/": "2026-09-23",
+  "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81/": "2026-09-23",
+  "rs:https://masdarak.com/business-news/%d9%87%d8%b3%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d9%83%d8%a9-%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d8%a7%d8%a6%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%a5/": "2026-09-23",
+  "rd:t3_1woal65": "2026-09-23",
+  "rd:t3_1wo90pu": "2026-09-23",
+  "rd:t3_1wo7qbt": "2026-09-23",
+  "rd:t3_1wo7dof": "2026-09-23",
+  "rd:t3_1wo7b19": "2026-09-23",
+  "rd:t3_1wo6z6e": "2026-09-23",
+  "rd:t3_1wo5pnv": "2026-09-23",
+  "rd:t3_1wo59gx": "2026-09-23",
+  "rd:t3_1wo4m10": "2026-09-23",
+  "rd:t3_1wo482t": "2026-09-23",
+  "rd:t3_1wo404x": "2026-09-23",
+  "rd:t3_1wo34y9": "2026-09-23",
+  "rd:t3_1wo34vs": "2026-09-23",
+  "rd:t3_1wo329a": "2026-09-23",
+  "rd:t3_1wo2yz5": "2026-09-23",
+  "rd:t3_1wo2yot": "2026-09-23",
+  "rd:t3_1wo2npm": "2026-09-23",
+  "rd:t3_1wo1stp": "2026-09-23",
+  "rd:t3_1wo1nk9": "2026-09-23",
+  "rd:t3_1wo1an9": "2026-09-23",
+  "rd:t3_1wo14mw": "2026-09-23",
+  "rd:t3_1wo0v8e": "2026-09-23",
+  "rd:t3_1wo0ldd": "2026-09-23",
+  "rd:t3_1wo09lz": "2026-09-23",
+  "rd:t3_1wo03ay": "2026-09-23",
+  "rd:t3_1wnyslx": "2026-09-23",
+  "rd:t3_1wnys34": "2026-09-23",
+  "rd:t3_1wnyoqk": "2026-09-23",
+  "rd:t3_1wny71x": "2026-09-23",
+  "rd:t3_1wnxlai": "2026-09-23",
+  "rd:t3_1wo9w7i": "2026-09-23"
  }
 }
