@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-09-22T21:22:57Z",
- "newThisRun": 2,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-23T04:49:27Z",
+ "newThisRun": 5,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 189,
-  "rss": 60
+  "reddit": 188,
+  "rss": 61
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 29,
+   "error": null
   },
   {
    "source": "r/UAE",
@@ -66,17 +66,92 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 34,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 18,
+   "items": 12,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cHI4MXdVQnhnc3VXWTVyaXNJM2o0Ry1Ib050Ym5relFSdlc2Vlowb1N6OHZlNW5UUDdJNmtUSlhkZElZcUMzdG1md3RvWl91N2ZMTS1vQW9FZE0?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "أسعار عقارات دبي أمام اختبار جديد.. هل تهبط 5%؟ - إرم بزنس",
+   "text": " أسعار عقارات دبي أمام اختبار جديد.. هل تهبط 5%؟ &nbsp;&nbsp; إرم بزنس ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cHI4MXdVQnhnc3VXWTVyaXNJM2o0Ry1Ib050Ym5relFSdlc2Vlowb1N6OHZlNW5UUDdJNmtUSlhkZElZcUMzdG1md3RvWl91N2ZMTS1vQW9FZE0?oc=5",
+   "date": "2026-09-23",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-23T04:49:27Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU3g1dGJabEg3UEN5NUdXOW1jQU9wRm1RZWMyc2VkdE9VVFZTYVZNcU1nRDU3NGo1Wk45YktZV09aWTRfSlplLWNDaTJDS1VOb1FWbDJuSUdCcjRiTjN3NkJncWpXdXRaTERrY01hNDdwc2hENDNsaGFLZE4yRno3c2ItTWxhbWZibU9YNi01SmRUTDVjQjRxR0VPclVxTjFIcE1HbXd5MlJZNnRGWVVudE5DZlc4SHh2TlU5aElEQm9LSG4wR251aTlZdWgyMlV0ekJwQ3dHcWXSAdgBQVVfeXFMT1N4NXRiWmxIN1BDeTVHVzltY0FPcEZtUWVjMnNlZHRPVVRWU2FWTXFNZ0Q1NzRqNVpOOWJLWVdPWlk0X0paZS1jQ2kyQ0tVTm9RVmwybklHQnI0Yk4zdzZCZ3FqV3V0WkxEa2NNYTQ3cHNoRDQzbGhhS2ROMkZ6N3NiLU1sYW1mYm1PWDYtNUpkVEw1Y0I0cUdFT3JVcU4xSHBNR213eTJSWTZ0RllVbnROQ2ZXOEh4dk5VOWhJREJvS0huMEdudWk5WXVoMjJVdHpCcEN3R3Fl?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property 2026: India tops international buyer interest, US surges to second - Emirates 24|7",
+   "text": " Dubai property 2026: India tops international buyer interest, US surges to second &nbsp;&nbsp; Emirates 24|7 ",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU3g1dGJabEg3UEN5NUdXOW1jQU9wRm1RZWMyc2VkdE9VVFZTYVZNcU1nRDU3NGo1Wk45YktZV09aWTRfSlplLWNDaTJDS1VOb1FWbDJuSUdCcjRiTjN3NkJncWpXdXRaTERrY01hNDdwc2hENDNsaGFLZE4yRno3c2ItTWxhbWZibU9YNi01SmRUTDVjQjRxR0VPclVxTjFIcE1HbXd5MlJZNnRGWVVudE5DZlc4SHh2TlU5aElEQm9LSG4wR251aTlZdWgyMlV0ekJwQ3dHcWXSAdgBQVVfeXFMT1N4NXRiWmxIN1BDeTVHVzltY0FPcEZtUWVjMnNlZHRPVVRWU2FWTXFNZ0Q1NzRqNVpOOWJLWVdPWlk0X0paZS1jQ2kyQ0tVTm9RVmwybklHQnI0Yk4zdzZCZ3FqV3V0WkxEa2NNYTQ3cHNoRDQzbGhhS2ROMkZ6N3NiLU1sYW1mYm1PWDYtNUpkVEw1Y0I0cUdFT3JVcU4xSHBNR213eTJSWTZ0RllVbnROQ2ZXOEh4dk5VOWhJREJvS0huMEdudWk5WXVoMjJVdHpCcEN3R3Fl?oc=5",
+   "date": "2026-09-23",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-23T04:49:26Z"
+  },
+  {
+   "id": "rd:t3_1wnlkfa",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Can unmarried couples get mortgage in UAE",
+   "text": "   My fiancé and I are planning to buy a property in the UAE and are considering applying for a mortgage on either one of us.   We are not married yet, so we want to confirm whether this is possible before proceeding with the purchase.   We would like both our names to be on the title deed and. However, different banks have given us conflicting information—some say unmarried couples are not eligible, while others say it may be possible.   Can unmarried couples in the UAE obtain a home loan with both names on the title deed? If yes, which banks offer this, and what requirements or restrictions ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wnlkfa/can_unmarried_couples_get_mortgage_in_uae/",
+   "date": "2026-09-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-23T04:49:03Z"
+  },
+  {
+   "id": "rd:t3_1wnk7d7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "🏠 Studio | Dubai South | AED 661,197 | 40/60 Payment Plan 📅 10 Years Post-Handover | Q1 2027 Handover",
+   "text": "   📐 Size: 400 sq.ft   🏢 Floor: 1st Floor   🏗️ Building: Building 1 – B+G+7+R   💰 Payment Plan – 40/60:   • 10% on booking: AED 66,119.70   • 4% DLD on booking: AED 26,447.88   • Admin fee: 1500   • 20% within 30 days: AED 132,239.40   • 10% within 360 days: AED 66,119.70   • 60% post-handover over 10 years: AED 396,718.20   Post-Handover: • 6% annually: AED 39,671.82/year   • Monthly equivalent: AED 3,305.99/month   • Payment period: 10 years after handover   🏢 Service Charge: AED 12/sq.ft/year   ➡️ Approximately AED 4,800/year   🏊 Amenities:    • Children’s Pool   • Pool Deck   • Pool Lounge",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wnk7d7/studio_dubai_south_aed_661197_4060_payment_plan/",
+   "date": "2026-09-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-23T04:49:03Z"
+  },
+  {
+   "id": "rd:t3_1wnjqku",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Is buying off-plan with a near-term completion the sweet spot for Dubai real estate right now?",
+   "text": "   &#x200B;   When looking at off-plan properties in Dubai, most projects being launched right now have handover dates stretched out to 2029 or 2030. While this spreads out payments, it also ties up investor capital for years without any immediate rental yield.   However, looking at mature, high-density business hubs like Jumeirah Lakes Towers (JLT), the dynamics shift when a premium project approaches completion within months rather than years. For instance, analyzing a newly emerging 37-story residential and commercial tower in JLT with a scheduled handover in early 2027 reveals some strong ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wnjqku/is_buying_offplan_with_a_nearterm_completion_the/",
+   "date": "2026-09-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-23T04:49:03Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUhBMGlHajVzX253UlJNYmR6N0FjVE5wUlZBTFhERDdmNDFxbkxLRHRVZkpxY2luNUo3bkNZZ0dHOUk1Tk1ZdGlFcmhHdzZaU0hVNW1CZTBabGJZdk9NS2U4Z205eVRwdFprcHZnYXFoaWVJMVZ5UjZ6RWd4WEN6ak5ZSWtoQ0hWQ3VweE56c1FuamJxY1ZPQW9pSHR4NENPNDRtMXMxSVJlOWJVakFiR2h3?oc=5",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-16T21:21:02Z"
-  },
-  {
-   "id": "rd:t3_1whpn9y",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "3BR Apartment | AG Tower, Business Bay | AED 2,600,000",
-   "text": "   Posting as: Agent  Property type: Apartment  Area/community: Business Bay, Dubai  Building/project: AG Tower  Price: AED 2,600,000  Bedrooms: 3  Size (sq ft): 2,075  Status: Ready  Images/video: Available  Additional details: Fully furnished 3-bedroom apartment available for sale in AG Tower, Business Bay.   Property details:   3 Bedrooms  Fully furnished  Provided size: 2,075 sq ft  Internal area: 192.80 sqm / approx. 2,075 sq ft  External area: 26.02 sqm / approx. 280 sq ft  Average annual rental: approx. AED 145,000  Last transaction value provided: AED 3,000,000  Selling price: AED 2,60",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1whpn9y/3br_apartment_ag_tower_business_bay_aed_2600000/",
-   "date": "2026-09-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-16T21:21:02Z"
-  },
-  {
-   "id": "rd:t3_1whpaze",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "I am paying a yearly agency fee that covers \"admin costs and renewal services\", does that mean I have to still pay for Ejari?",
-   "text": "   I don&#39;t know but I feel like this whole yearly agency fee for renewal is a scam as it is the first time in my 4 previous contracts that I have to pay this fee.    I read that it&#39;s now illegal to ask for a renewal fee, but because it was already included in my signed contract, I can&#39;t remove it anymore.    If I&#39;m paying these people 1200 AED per year, do I still have to pay for the Ejari?      &#32; submitted by &#32;   /u/HayhatBazilla       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1whpaze/i_am_paying_a_yearly_agency_fee_that_covers_admin/",
-   "date": "2026-09-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-16T21:21:02Z"
-  },
-  {
-   "id": "rd:t3_1whp2dw",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Wadeem Gardens & Jadat Al Wadeem - what’s planned around the villas",
-   "text": "   Wadeem Gardens is a gated villa community by Modon on Hudayriyat Island. Alongside it, Jadat Al Wadeem is planned to bring sports, shopping and entertainment to the area.   Jadat Al Wadeem’s planned facilities include:  Stadium and sports venues  Retail boulevard  Indoor rock climbing, skydiving and diving  Pet park  Parking   The wider Wadeem district also includes plans for:  2.3 km climate-controlled walking spine  Arena and 6 clubhouses  Office park  Healthcare centres  Waterfront promenade  Retail and dining  2 international schools  Cinemas   These are wider district facilities, not a",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1whp2dw/wadeem_gardens_jadat_al_wadeem_whats_planned/",
-   "date": "2026-09-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-16T21:21:02Z"
-  },
-  {
-   "id": "rd:t3_1whk5zf",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Mortgage 20% vs 40%?",
-   "text": "   You can mortgage in Dubai with a downpayment as low as 20% if you intend to live in the property.   Can you get away with renting it out anyway?     &#32; submitted by &#32;   /u/Trick-Head7242       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1whk5zf/mortgage_20_vs_40/",
-   "date": "2026-09-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-16T21:21:02Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiiARBVV95cUxObW9hR1gydlFBQ1hNODZFVmtTeEZ5dTR6UElQYkgwSXJPSFlyeHNudEo2NTFEZG9OcHJMWTJOVVJRdE9pa3JSUU1PR0d3NkxrRU9rM3lmT243cWR3YWFSUzR2QnY4ZWNIOGFjem9OQldJYks5dXR2Yk0zWnNtcmVWM0JiX2tQYzFnLVNFZ1lZbU5meERpcjdrM3h6RnJCUFRveDd3bDNmTWhubWliRWpoX2pjVHc2eENwVWhGSHRubHM0bE1mNTA0aG5uUE5SeDVIcnoySmdhTy1DWVk2WHpXSnVoS21BcV96dl9UejZOckdiRlBjaXRxWHlwcHpkVGRvUG5NaXRVVVRCT3R0eWtXdlZSejNncTNxd2loLURySGJFM0lXOVdPQWM4VnhTSkRUZnZzTWt0XzZhRDVUZ3hhUzN0c0t4N3laUkNmWGJ1eXBGbW5reElFOVc1QVZ3NkEtV0hCXzIwOEhRdW94MnNyNG5OdURjRTNkNFA5SXJEN2NrZjVycEtHSkh2YXZEc3dCTVpHOVVCQkctVEJJcnpULTZnOVpMSEQ5YXNpZ1BtdmxwdWctTFJDZjNVY2syZnAteDhkZnZvY2dMdTd0cVJkMjlDcmdrNmhLLW5zeUE3NkFGSkFfYW9ZM0ljVFJfc2o5UVBHQVVuY1F3a0E0QzVmSTJ2MTJHb3hs?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "7 من كل 10 باحثين عن عقارات دبي مستعدون للشراء - صحيفة الخليج",
-   "text": " 7 من كل 10 باحثين عن عقارات دبي مستعدون للشراء &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxObW9hR1gydlFBQ1hNODZFVmtTeEZ5dTR6UElQYkgwSXJPSFlyeHNudEo2NTFEZG9OcHJMWTJOVVJRdE9pa3JSUU1PR0d3NkxrRU9rM3lmT243cWR3YWFSUzR2QnY4ZWNIOGFjem9OQldJYks5dXR2Yk0zWnNtcmVWM0JiX2tQYzFnLVNFZ1lZbU5meERpcjdrM3h6RnJCUFRveDd3bDNmTWhubWliRWpoX2pjVHc2eENwVWhGSHRubHM0bE1mNTA0aG5uUE5SeDVIcnoySmdhTy1DWVk2WHpXSnVoS21BcV96dl9UejZOckdiRlBjaXRxWHlwcHpkVGRvUG5NaXRVVVRCT3R0eWtXdlZSejNncTNxd2loLURySGJFM0lXOVdPQWM4VnhTSkRUZnZzTWt0XzZhRDVUZ3hhUzN0c0t4N3laUkNmWGJ1eXBGbW5reElFOVc1QVZ3NkEtV0hCXzIwOEhRdW94MnNyNG5OdURjRTNkNFA5SXJEN2NrZjVycEtHSkh2YXZEc3dCTVpHOVVCQkctVEJJcnpULTZnOVpMSEQ5YXNpZ1BtdmxwdWctTFJDZjNVY2syZnAteDhkZnZvY2dMdTd0cVJkMjlDcmdrNmhLLW5zeUE3NkFGSkFfYW9ZM0ljVFJfc2o5UVBHQVVuY1F3a0E0QzVmSTJ2MTJHb3hs?oc=5",
-   "date": "2026-09-16",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-16T17:02:04Z"
   }
  ]
 }
