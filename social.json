@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-24T04:57:03Z",
- "newThisRun": 1,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-24T11:51:14Z",
+ "newThisRun": 8,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 182,
-  "rss": 67
+  "reddit": 181,
+  "rss": 68
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 8,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
@@ -47,36 +47,141 @@
   },
   {
    "source": "r/UAE",
+   "ok": true,
+   "items": 4,
+   "error": null
+  },
+  {
+   "source": "r/expats",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
   },
   {
-   "source": "r/expats",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "error": null
-  },
-  {
-   "source": "https://masdarak.com/feed/",
-   "ok": true,
-   "items": 0,
-   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 12,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%85%d9%90%d8%b1%d8%a7%d8%b3-%d8%aa%d8%b1%d8%b3%d9%8a-%d8%b9%d9%82%d8%af%d8%a7%d9%8b-%d8%a8%d9%80-272-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%aa%d9%86%d9%81%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"مِراس\" ترسي عقداً بـ 272 مليون دولار لتنفيذ المرحلة 7 من \"ند الشبا جاردنز\" بدبي",
+   "text": "أرست شركة مِراس، التابعة لدبي القابضة للعقارات، عقداً إنشائياً بقيمة 272 مليون دولار (مليار درهم) لتنفيذ المرحلة السابعة من مشروع&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%85%d9%90%d8%b1%d8%a7%d8%b3-%d8%aa%d8%b1%d8%b3%d9%8a-%d8%b9%d9%82%d8%af%d8%a7%d9%8b-%d8%a8%d9%80-272-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%aa%d9%86%d9%81%d9%8a/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:51:13Z"
+  },
+  {
+   "id": "rd:t3_1wow8jz",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "JLT?",
+   "text": "   Moving to JLT and looking for a studio. Most decent ones I’ve seen are around  AED 75–80K/year , which feels pretty high.  What’s a reasonable rent for a decent studio in JLT these days? Am I looking in the wrong buildings?     &#32; submitted by &#32;   /u/Quirky_Particular_10       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wow8jz/jlt/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:51:01Z"
+  },
+  {
+   "id": "rd:t3_1wovol7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Looking for short-term rental",
+   "text": "    Looking for a short-term rental / sublet in Dubai   Hey everyone, 24M here, working in consulting. I was born and raised in Dubai and did my bachelor’s in the UK. I come from a pretty well-settled family here, but I’ve recently decided to move out and get my own place as I’m at a point where I want to start living independently and move forward with my own life.   I’m currently hopping between hotels in Dubai, so I’m looking for something fairly soon.  Ideally looking for:   Studio or 1-bedroom    Short-term rental / sublet , ideally under 1 year   Budget: AED 3,000–4,000/month   Decent, c",
+   "url": "https://www.reddit.com/r/UAE/comments/1wovol7/looking_for_shortterm_rental/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:51:01Z"
+  },
+  {
+   "id": "rd:t3_1wovmln",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Looking for guidance on UAE charities that support expat families",
+   "text": "   Hello everyone,   I wanted to ask if anyone has experience with charities or community organisations in the UAE that genuinely support expat families going through a difficult period, particularly with home rent, school fees, children&#39;s visa renewals or overstay fines.   I would be grateful for any personal experience with organisations that were responsive, along with a sense of the process and documents needed.   Any direct experience or referral would be a great help. Private messages are also very welcome.   Thank you in advance.     &#32; submitted by &#32;   /u/Ray54687       [lin",
+   "url": "https://www.reddit.com/r/UAE/comments/1wovmln/looking_for_guidance_on_uae_charities_that/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:51:01Z"
+  },
+  {
+   "id": "rd:t3_1wov92l",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Looking for reliable Diesel Supplier / Trading Company",
+   "text": "   Hi everyone,   We are looking for a reliable fuel trading company/supplier for an ongoing villa project in Khalifa City (Kto Alef City area).   Requirement Specifications:   Product: Diesel (10 ppm / ADNOC)   Volume: ~ 10,000 gallons   If you operate a fuel supply/trading company in the UAE or have a direct contact/supplier you recommend for bulk diesel deliveries, please send me a DM.     &#32; submitted by &#32;   /u/jkknndndndjeowk       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wov92l/looking_for_reliable_diesel_supplier_trading/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:51:01Z"
+  },
+  {
+   "id": "rd:t3_1woz2bc",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Golden Visa - Through University Grade",
+   "text": "   Hi everyone, I am planning to apply for Golden Visa because I got a First Class Distinction with my Middlesex University Dubai Bachelors degree.    Was hoping someone could help me with their experience. Which documents do I need to get attested aside from my Diploma? Do i also need to get it UK attested?    Would appreciate any help      &#32; submitted by &#32;   /u/These_Job1557       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1woz2bc/golden_visa_through_university_grade/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:50:45Z"
+  },
+  {
+   "id": "rd:t3_1woybzg",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Moving from AUH to DXB- area shortlist",
+   "text": "   ​Hi,   ​I am currently looking for a 1BHK apartment for rent and would like to see if you can suggest me properties that fit my profile:   ​Unit Type: 1-Bedroom Apartment (1BHK)   ​Annual Budget: AED 50,000 (Maximum)   ​Work Location: Dubai City Walk   ​Preferred Areas: Locations well-connected via Metro or Bus with a maximum commute time of 20–30 minutes to City Walk (open to suggestions like Satwa, Al Jaddaf, Karama, or Oud Metha, Jumeirah 1depending on options).   ​Move-in Timeline: 1st Dec   ​Cheques: Flexible   ​Trying to zero down on location which is public transport friendly, if not",
+   "url": "https://www.reddit.com/r/dubai/comments/1woybzg/moving_from_auh_to_dxb_area_shortlist/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-24T11:50:45Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%ae%d8%a8%d8%a9-%d9%81%d9%8a-%d8%ac%d8%b2%d8%b1-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b6%d9%85-359-%d9%81%d9%8a%d9%84%d8%a7-%d9%88%d8%aa%d8%a7%d9%88/",
    "platform": "RSS",
@@ -3716,111 +3821,6 @@
    "title": "Yas Riva Reserve by Aldar - New Villa Community Coming Soon | From AED 7.9M",
    "text": "   Aldar’s upcoming Yas Riva Reserve brings a new villa community to what the Aldar calls “The Private Side of Yas,” with a focus on privacy and canal-side living.  4 to 6-bedroom villas  Starting from AED 7.9 million  50-hectare community  Waterfront setting   Coming Soon!   ——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———————————————-——————————— ———",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wish9s/yas_riva_reserve_by_aldar_new_villa_community/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wis1ur",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Security deposit",
-   "text": "   Hey,   What’s a realistic price for a 2 bed painting? I spent 1 year in the apartment. This is the quotation after handover. Should I fight this ir at least part of it?   Full painting: 1500.-   Removal of stains from wardrobes and cabinets: 500.-   Deep cleaning: 350.-   Supply of 1 light bulb: 30.-   Repair service charges: 500.-     &#32; submitted by &#32;   /u/atcofromeu       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wis1ur/security_deposit/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wiru7l",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Crypto OTC -> Managers cheque for property purchase?",
-   "text": "   Hey everyone, I’m buying a property in Dubai and looking to convert crypto through an OTC service that would arrange a manager’s cheque payable directly to the seller.   Has anyone here used dubaiotc net, especially for a property purchase or a larger transaction? Would appreciate firsthand experiences.   My conveyancer says the cheque doesn’t have to be funded from my own bank account, as long as it’s payable to the seller. Has anyone completed a transfer using a manager’s cheque arranged by an OTC company? Did the trustee or seller’s bank require any extra paperwork because the purchaser ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wiru7l/crypto_otc_managers_cheque_for_property_purchase/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wirr7n",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Wadeem Garden Payment Plan Tailored for Investors",
-   "text": "    16 Month Gap for Non-Mortgaged Investors    Ever since Wadeem Garden was revealed on Monday, people have been talking about how this project is designed for end users and not targeted to investors all over social media.   Well, this is Modon&#39;s answer.    For investors, after they have paid 20%, which is also the resale requirement, they have 16 months to resell the unit to an end user with a premium when many of the first communities on Hudayriyat will be ready and help the whole island appreciate. And the people who will buy can directly start on a Mortgage, which will make the cashfl",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wirr7n/wadeem_garden_payment_plan_tailored_for_investors/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wirhj1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Branded Residence on al marjan island with a 20 percent discount on full payment",
-   "text": "   I have an exclusive branded project on Al marjan Island, which has a price per sqft of on full payment   Studio: 2,213 AED   1 bedroom: 1430 AED   Starting prices on a payment plan ( 50-50 )   Studio: 1,165,000 AED   1 bedroom: 1,695,000 AED   Starting prices with full payment    Studio: 932,000 AED   1 bedroom: 1,356,000 AED    The handover is in q1 2029   Structure of the building 2B + G + M + 9F + R    ( 163 units )   Fully furnished branded residences just a 10-minute walk from the Wynn casino. One of the lowest entry prices for branded real estate on the island is highly optimized for ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wirhj1/branded_residence_on_al_marjan_island_with_a_20/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wircov",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Talay & Talay Beach – some details unveiled for the first community on Marsa Al Saadiyat",
-   "text": "   Just came back from Aldar’s sales centre and got some details on two upcoming villa communities:  Talay  and  Talay Beach . The latter is closer to the coastline    Talay    167 villas    4BR:  60 units | 502 sqm | from  AED 13.5M    5BR:  49 units | 582 sqm | from  AED 15.5M    6BR:  58 units | 630 sqm | from  AED 17.2M   Expected handover:  end of 2029     Talay Beach    184 villas    4BR:  81 units | 509 sqm   5BR:  42 units | 587 sqm   6BR:  61 units | 634 sqm   Starting prices haven’t been announced yet, but Aldar indicated they should be roughly  5–10% higher  than Talay   Expected ha",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wircov/talay_talay_beach_some_details_unveiled_for_the/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wir60r",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Should I buy in Wadeem Gardens?",
-   "text": "   Hi all - have been looking at Wadeem Gardens launch from Modon. Modon is a solid developer and the community looks fantastic especially the spine / mall which looks quite unique.    I’m an end user but one thing I’m struggling with is the fact that I can buy a Naseem villa at OP in Hudayriyat which seems to be better value in terms of price per sq foot and is still close enough to the spine for me. It’s also a lot closer to handover and so I can rent it if I go for Naseem - obviously I care about it from an investor perspective as well.    Really struggling here and I get the payment plan i",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wir60r/should_i_buy_in_wadeem_gardens/",
-   "date": "2026-09-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-17T17:03:02Z"
-  },
-  {
-   "id": "rd:t3_1wiqqmf",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1BR Apartment | Dubai Creek Harbour | AED 1,670,000",
-   "text": "   Posting as: Agent  Property type: Apartment  Area/community: Dubai Creek Harbour  Building/project: Creek Waters  Price: AED 1,670,000  Bedrooms: 1  Size (sq ft): 776  Status: Off-plan (handover Q4 2026)  Additional details: 1 bathroom, unfurnished, park-facing, original purchase price AED 1,791,888, selling net AED 1,670,000.     &#32; submitted by &#32;   /u/Particular_Pace9657       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wiqqmf/1br_apartment_dubai_creek_harbour_aed_1670000/",
    "date": "2026-09-17",
    "dateApprox": false,
    "language": "en",
