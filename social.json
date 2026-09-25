@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-24T21:33:59Z",
- "newThisRun": 1,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-25T05:02:45Z",
+ "newThisRun": 4,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 0,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 8,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "error": null
   },
   {
@@ -66,13 +66,13 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 22,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 13,
+   "items": 21,
    "error": null
   }
  ],
