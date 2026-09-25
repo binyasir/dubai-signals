@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-25T17:15:55Z",
- "newThisRun": 9,
+ "generatedAt": "2026-09-25T21:38:45Z",
+ "newThisRun": 2,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
@@ -58,21 +58,21 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 7,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 25,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   }
  ],
