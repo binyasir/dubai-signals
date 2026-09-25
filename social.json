@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-09-25T05:02:45Z",
- "newThisRun": 4,
- "sourcesOk": 4,
+ "generatedAt": "2026-09-25T11:55:14Z",
+ "newThisRun": 9,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 0,
-  "reddit": 201,
+  "youtube": 1,
+  "reddit": 200,
   "rss": 49
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -66,17 +66,122 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 22,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 21,
+   "items": 12,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYzJpcjlYaFdmTmlXZ2loRDIxQWFXZHVWSllYMXJmZWRCcUxVWmV5Zmp6a2hxdUtTREFkNFliVnFUZGE5SGJhSjBweUhCNkhWRTkwWmxZTFdGQlc5VndaU0FZMllDN2duZEdab3Q4Z1FBcDFPWkE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property bubble risk rises as price growth stalls - MEED",
+   "text": " Dubai property bubble risk rises as price growth stalls &nbsp;&nbsp; MEED ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYzJpcjlYaFdmTmlXZ2loRDIxQWFXZHVWSllYMXJmZWRCcUxVWmV5Zmp6a2hxdUtTREFkNFliVnFUZGE5SGJhSjBweUhCNkhWRTkwWmxZTFdGQlc5VndaU0FZMllDN2duZEdab3Q4Z1FBcDFPWkE?oc=5",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T11:55:14Z"
+  },
+  {
+   "id": "rd:t3_1wpojtg",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Master Bedroom Available – Al Ghubaiba / Bur Dubai",
+   "text": "   Fully furnished master bedroom available for short-term rental (2 months starting from 1st October)   📍 7–8 mins walk from Al Ghubaiba Metro  👤 Solo working male preferred   Clean and comfortable 1BHK, shared with only one other person. No partitions or bed spaces.   DM me if interested for rent details and photos.     &#32; submitted by &#32;   /u/ChocolateStrong1474       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wpojtg/master_bedroom_available_al_ghubaiba_bur_dubai/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T11:55:01Z"
+  },
+  {
+   "id": "rd:t3_1wpoipg",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Where to live The Greens or JBR?",
+   "text": "   Hi everyone,    I am new to Dubai and looking for apartment for myself. I am confused between JBR and The Greens.  I like the idea of being in a walk able area. I work from home so commute is not an issue.    Any feed back will be appreciated.      &#32; submitted by &#32;   /u/BasketSad9078       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wpoipg/where_to_live_the_greens_or_jbr/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T11:55:01Z"
+  },
+  {
+   "id": "rd:t3_1wpjdvp",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "How is job market in dubai atm?",
+   "text": "   Hey guys    I&#39;ve just graduated with a Bachelor&#39;s in uk and am job hunting in dxb as I have a golden visa. Is anyone else struggling to find work here at the moment?     &#32; submitted by &#32;   /u/AccomplishedBad7871       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1wpjdvp/how_is_job_market_in_dubai_atm/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T11:55:01Z"
+  },
+  {
+   "id": "rd:t3_1wpqq5b",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Ejari Renewal not possible anymore in REST app?",
+   "text": "                 Hi friends,   My Ejari is expiring next week but I&#39;ll be abroad. I&#39;m trying to renew my Ejari contract as a tenant but I don&#39;t see the option to renew. I Only see the option for new contract, and the info about the current one that was renewed last year. I&#39;m pretty sure I was able to do it last year   Can someone please point me to a proper way to do it online?    https://preview.redd.it/aa7dt8yzjmrh1.jpg?width=1077&amp;format=pjpg&amp;auto=webp&amp;s=b544cea7cdda2155a45b2e75e6d6ee6dff5b297b    Many thanks     &#32; submitted by &#32;   /u/astrofoundry       [l",
+   "url": "https://www.reddit.com/r/dubai/comments/1wpqq5b/ejari_renewal_not_possible_anymore_in_rest_app/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T11:54:40Z"
+  },
+  {
+   "id": "rd:t3_1wpqj8l",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Mortgage Buyout offers",
+   "text": "   Shopping around for Mortage buyout offers. Curious what are some good offers others have taken or heard of this year or recently. Either direct or via brokers. Broker reviews are welcome too.     &#32; submitted by &#32;   /u/raven45678       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wpqj8l/mortgage_buyout_offers/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T11:54:40Z"
+  },
+  {
+   "id": "yt:33q29-Xu5Sk",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "In The News With Taking Care Of Business",
+   "text": "Dubai's property market is heading into Q4. In this episode of Taking Care of Business, Carl Allsopp and Lewis Allsopp discuss the latest Dubai real estate news, from Palm Jebel Ali and interest rates to Abu Dhabi's growing property market and where they see opportunities for investors.\n\nIn this episode:\n- Palm Jebel Ali handovers\n- Interest rates, mortgages and affordability\n- Dubai's population and property supply\n- The rise of Abu Dhabi real estate\n- The UAE-Oman rail link\n- Larger plots and the future of luxury property\n- Where to look for Dubai property investment going into Q4\n\nWatch the",
+   "url": "https://www.youtube.com/watch?v=33q29-Xu5Sk",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "20 views",
+   "firstSeenAt": "2026-09-25T11:54:39Z"
+  },
   {
    "id": "rd:t3_1wp5sng",
    "platform": "Reddit",
@@ -3721,111 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-18T20:57:15Z"
-  },
-  {
-   "id": "rd:t3_1wk11s7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "advice",
-   "text": "   My father hes unemployed for so many months and he hasnt paid off anything not any school fees,rent nothing and the rent hasnt been paid in 2 months we keep getting notices and a few weeks ago he ran away to another country and took my brother with him without telling anyone he told us after he reached there and he said hes not gonna help us he just abandoned us and im genuinely scared because i was preparing for university how will i go if this is the situation what will i even do , my mom barely earns anything, im so scared and my mom has been planning to divorce him and file a police cas",
-   "url": "https://www.reddit.com/r/UAE/comments/1wk11s7/advice/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:57:03Z"
-  },
-  {
-   "id": "rd:t3_1wjs0th",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Closing our shelter - hope people sees this and reach out 🙏🏻",
-   "text": "                 We’re a small rescue currently caring for  75 cats and 6 dogs , but sadly, we are now  closing our shelter because we can no longer afford to keep caring for all the animals we rescued.   We’re struggling with  food, rent, and electricity , and we’re trying our best to find safe alternatives for the animals before we have to close.   we’re simply asking for an  upvote and a follow on Instagram . 🙏 The more people who see our page, the better our chances of finding  fosters and adopte rs for these animals.   🐾 Instagram:  https://www.instagram.com/hopeforpaws\\_uae?igsh=MWVvNm51",
-   "url": "https://www.reddit.com/r/UAE/comments/1wjs0th/closing_our_shelter_hope_people_sees_this_and/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:57:03Z"
-  },
-  {
-   "id": "rd:t3_1wjqtw0",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Camping in UAE",
-   "text": "   Looking for camping spots accessible by car.   Also questioning if it is wise to rent a 4x4 car to drive in the desert to a good spot.   Any ideas?     &#32; submitted by &#32;   /u/NoCategory143       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1wjqtw0/camping_in_uae/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:57:03Z"
-  },
-  {
-   "id": "rd:t3_1wjmvuw",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "🌴 Private Pool Villa in Ras Al Khaimah 🏡💦",
-   "text": "   🌴 Private Pool Villa in Ras Al Khaimah 🏡💦   Enjoy a relaxing getaway at Azure 88—a 3-bedroom villa with a private, temperature-controlled pool, exclusively yours during your stay.   ✨ September stays from AED 999 per night, depending on dates.   📩 Contact us on Instagram with your preferred dates and number of guests for availability and pricing:   https://www.instagram.com/azure88.rak/    🏡 Photos, amenities and booking details:   https://airbnb.ae/h/azure88rak      &#32; submitted by &#32;   /u/One-Owl-7790       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1wjmvuw/private_pool_villa_in_ras_al_khaimah/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:57:03Z"
-  },
-  {
-   "id": "rd:t3_1wjylyn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Dewa Transfer to new apartments",
-   "text": "   I put up a request to transfer my DEWA to a new apartment. I chose the move out date as 23rd September. But I will be moving in to the nee apartment on the 20th. I chose 23rd as a safety and buffer in case if I want to do any cleaning to the old apartment.    When will DEWA get activated at my new place exactly?  Is it on the day I put up the transfer request or on the 23rd?     &#32; submitted by &#32;   /u/TheOneWithAWeirdName       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wjylyn/dewa_transfer_to_new_apartments/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:56:47Z"
-  },
-  {
-   "id": "rd:t3_1wjvyhr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "What is the Cheapest way to get a freelance permit while on golden visa",
-   "text": "   I am on a golden visa sponsored by parent, and would like to do freelancing.. I&#39;ve searched around and all freelance permits are all expensive.    I just need a permit without any visa or other benefits. I am not sure if an E-trader license would work for me as I heard that it only applies for locals. I am north african.      &#32; submitted by &#32;   /u/Adept_Act867       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wjvyhr/what_is_the_cheapest_way_to_get_a_freelance/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:56:47Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%8a%d8%a7%d8%b3-%d8%a8%d8%a3%d8%a8%d9%88%d8%b8/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "إطلاق مشروع \"الوادي\" في جزيرة ياس بأبوظبي بـ1.63 مليار دولار و3,950 وحدة",
-   "text": "أطلقت شركة كوزمو للتطوير العقاري Cosmo Developments مشروع \"الوادي\" THE WADI، وهو مشروع سكني متعدد الاستخدامات في جزيرة ياس بأبوظبي،&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d9%88%d8%a7%d8%af%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d9%8a%d8%a7%d8%b3-%d8%a8%d8%a3%d8%a8%d9%88%d8%b8/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T16:28:00Z"
   }
  ]
 }
