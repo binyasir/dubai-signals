@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-25T11:55:14Z",
+ "generatedAt": "2026-09-25T17:15:55Z",
  "newThisRun": 9,
- "sourcesOk": 9,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 200,
-  "rss": 49
+  "reddit": 195,
+  "rss": 54
  },
  "sources": [
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -58,25 +58,115 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 24,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 12,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2NOeFFsN3M3b0l4NmQ5N3pqd0RUaDNza0FkdGpKUHU3UGlsSDUzcjRzZHhHcDJ3eTNsbVpzM1FsX0F2bjA0UFZxQU1lUDJBR0d5eVhuZ2hIN2FHd1JIeDNaSzhZN2tlQzV5NkgzWkJmSm9RWXZYLVhEVW4tQ0VXZXZoR2JBakswWTZNVWZHb2tleC0td25vTU1Lc0JZOGhYZE91NWNXZWViQVItTXZzV0Zsb3FMdw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "انتعاش سوق عقارات دبي: 11.1 مليار درهم إجمالي التصرفات العقارية في أسبوع واحد - XTB.com",
+   "text": " انتعاش سوق عقارات دبي: 11.1 مليار درهم إجمالي التصرفات العقارية في أسبوع واحد &nbsp;&nbsp; XTB.com ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2NOeFFsN3M3b0l4NmQ5N3pqd0RUaDNza0FkdGpKUHU3UGlsSDUzcjRzZHhHcDJ3eTNsbVpzM1FsX0F2bjA0UFZxQU1lUDJBR0d5eVhuZ2hIN2FHd1JIeDNaSzhZN2tlQzV5NkgzWkJmSm9RWXZYLVhEVW4tQ0VXZXZoR2JBakswWTZNVWZHb2tleC0td25vTU1Lc0JZOGhYZE91NWNXZWViQVItTXZzV0Zsb3FMdw?oc=5",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zRkkyckwxeUZrLWNTWU1tbWp4MGNuMnE0NWQwdmdweXFHS0NfaGFQU01LdDhmZUhKdVd2WU9wV0p2Q3EwY0RGdWtsV2lSUU81d3Jv?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "«أراضي دبي» تنقل «دبي كونكت.. وجهتك العقارية» إلى بنغالورو لفتح آفاق جديدة للاستثمار - شبكة تواصل الإخبارية",
+   "text": " «أراضي دبي» تنقل «دبي كونكت.. وجهتك العقارية» إلى بنغالورو لفتح آفاق جديدة للاستثمار &nbsp;&nbsp; شبكة تواصل الإخبارية ",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zRkkyckwxeUZrLWNTWU1tbWp4MGNuMnE0NWQwdmdweXFHS0NfaGFQU01LdDhmZUhKdVd2WU9wV0p2Q3EwY0RGdWtsV2lSUU81d3Jv?oc=5",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:55Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%88%d9%85%d8%ae%d8%b7%d8%b7-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "رسمياً.. \"نخيل\" تعلن تفاصيل وأسعار مشروع \"باي إستيت\" الجديد في جزر دبي",
+   "text": "كشفت شركة نخيل العقارية Nakheel عن تفاصيل المخطط الرئيسي للجزيرة E ضمن جزر دبي، والتي تحتضن مشروع باي إستيت Bay&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%88%d9%85%d8%ae%d8%b7%d8%b7-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:54Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a8%d8%af%d8%a1-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%8a%d8%a7%d8%b3-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3%d8%b2/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "بدء إنشاء «مانشستر سيتي ياس ريزيدنسز» في أبوظبي بقيمة 4 مليار دولار",
+   "text": "بدأت شركة أوهانا للتطوير العقاري Ohana Development، المطور العقاري الذي يتخذ من أبوظبي مقراً له وتضم محفظته مشاريع سكنية تحمل&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a8%d8%af%d8%a1-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%8a%d8%a7%d8%b3-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3%d8%b2/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:54Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a8%d9%86%d8%ba%d8%a7%d9%84%d9%88%d8%b1%d9%88-%d9%81%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"أراضي دبي\" تستعرض في مدينة بنغالورو فرص الاستثمار العقاري للمستثمرين الهنود",
+   "text": "زارت دائرة الأراضي والأملاك في دبي مدينة بنغالورو الهندية، في محطة جديدة ضمن مبادرة «دبي كونكت.. وجهتك العقارية»، بهدف تعزيز&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%b1%d8%b6-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%a8%d9%86%d8%ba%d8%a7%d9%84%d9%88%d8%b1%d9%88-%d9%81%d8%b1/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:54Z"
+  },
+  {
+   "id": "rd:t3_1wpzssc",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Car hit my from the back and did not let me take pictures as evidence",
+   "text": "   I was taking a right turn into DSO at the silicon gates 1 roundabout while i stopped right at the signal of saigon station. My car was already at rest when a black sedan hit me from the back. I immediately got out of the vehicle and told him to stop the car at the bus stop ahead. I told him that my car is a rental and that he needs to file a police report for the mjnor chip and dent.    He outright REFUSED and said the damage was minor. When i tried taking picture of his car, he started creating a scene saying I won’t let you take picture of my car. when there was a bus approaching the bus ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wpzssc/car_hit_my_from_the_back_and_did_not_let_me_take/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:20Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMidkFVX3lxTFBPYzJpcjlYaFdmTmlXZ2loRDIxQWFXZHVWSllYMXJmZWRCcUxVWmV5Zmp6a2hxdUtTREFkNFliVnFUZGE5SGJhSjBweUhCNkhWRTkwWmxZTFdGQlc5VndaU0FZMllDN2duZEdab3Q4Z1FBcDFPWkE?oc=5",
    "platform": "RSS",
@@ -1501,6 +1591,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-23T04:49:26Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi9AJBVV95cUxQWTFOdXYxMHVuTDVIWDVEU25ZNzgtN3NHNUFHVnhpRll4emdpejNtblplbTRKRjdueUJmVER2VHNfbzJfNUNMY3MyZ255enZYVjFnMGZzajFQcFQ2eldLQlNLbFZLQVdWX0F5WHFZZks3YWFxYVItaFh6aFJnVFE5SHBDSjRPTF9lSE44X2dBM250cHNSUGtCSE01RkxJcHR0WjNySXR0c2tYMUhrLUZka09BVU9HX242THh0cGNUcnFvZ1pnTXBSN0NqQXhsUU4zcDRMalhBekw4VjVxWVRDcVZ1TU9mZW5nUGRVUnJIMVJWZmtWT2hWSThHQmVRYXp4NWRQR3lQTm9RR0lhdEk4RkZIM1VFeV9TbF9QUzJxRV9mRllELXlqd3ppcENmclB5aGNJb25JNzdOVTZrelNlODBOUXdSeFU0dzdwRG1seElDZGFUc1NSUUVHcVlNbV90SDNiRG14alUya0FGNHkwaDNPLUw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "\"الخليج التجاري\" الأبرز 2026.. 24 مليار درهم مبيعات عقارات دبي التجارية - صوت الإمارات",
+   "text": " \"الخليج التجاري\" الأبرز 2026.. 24 مليار درهم مبيعات عقارات دبي التجارية &nbsp;&nbsp; صوت الإمارات ",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQWTFOdXYxMHVuTDVIWDVEU25ZNzgtN3NHNUFHVnhpRll4emdpejNtblplbTRKRjdueUJmVER2VHNfbzJfNUNMY3MyZ255enZYVjFnMGZzajFQcFQ2eldLQlNLbFZLQVdWX0F5WHFZZks3YWFxYVItaFh6aFJnVFE5SHBDSjRPTF9lSE44X2dBM250cHNSUGtCSE01RkxJcHR0WjNySXR0c2tYMUhrLUZka09BVU9HX242THh0cGNUcnFvZ1pnTXBSN0NqQXhsUU4zcDRMalhBekw4VjVxWVRDcVZ1TU9mZW5nUGRVUnJIMVJWZmtWT2hWSThHQmVRYXp4NWRQR3lQTm9RR0lhdEk4RkZIM1VFeV9TbF9QUzJxRV9mRllELXlqd3ppcENmclB5aGNJb25JNzdOVTZrelNlODBOUXdSeFU0dzdwRG1seElDZGFUc1NSUUVHcVlNbV90SDNiRG14alUya0FGNHkwaDNPLUw?oc=5",
+   "date": "2026-09-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-25T17:15:55Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjlpRFo0elFUNTdIRUMwSF82akJKUjgzT1loSVktZDZGb016N1VkLU9QQXFENFdLMXBPSFN3NDNEemNmQjZtRVNtYVZKdmhmQUhEY0x0WUpNOXFfUmdsdHBQZDFyTmlRZkxRM1F1VGNHdmRaS3g5ODdOY2dMamhjQTlVdm1GSU5yZ3loVmhGV2hMZnFYVXBkcWl1Mm1kWnpTcTJITl9VejdpdTdCM2s0MkVNdEhJdw?oc=5",
@@ -3721,111 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-19T11:04:41Z"
-  },
-  {
-   "id": "rd:t3_1wk1pzt",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Want to Invest In Dubai Property?",
-   "text": "   Contact me for property Investment in Dubai  I Am Dealing With Buying , Selling and Managing of properties in Dubai.  I am registered certified broker of Dubai Land Department  I have options starting from 550,000 Aed with flexible payment plan options      &#32; submitted by &#32;   /u/PirateSecret2038       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wk1pzt/want_to_invest_in_dubai_property/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wjywow",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "5BR + Maid Villa | Saheel, Arabian Ranches | AED 14,080,000",
-   "text": "   Posting as: Agent  Property type: Villa  Area/community: Arabian Ranches, Dubai  Building/project: Saheel  Price: AED 14,080,000  Bedrooms: 5 + Maid  Size (sq ft): 6,400 plot area  Status: Ready  Images/video: Available  Additional details:   Newly built 5-bedroom + maid villa available for sale in Saheel, Arabian Ranches.   Plot area: 6,400 sq ft  BUA: 4,500 sq ft  Selling price: AED 14,080,000  Price based on plot area: AED 2,200/sq ft   Open and closed kitchens  Upgraded swimming pool  BBQ station  2 covered parking spaces  2 uncovered parking spaces     &#32; submitted by &#32;   /u/Wee",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wjywow/5br_maid_villa_saheel_arabian_ranches_aed_14080000/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wjumvz",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Do you or someone you know require a CRM System for your business?",
-   "text": "   Hi guys!  Just wanted to introduce what we do—we’re a software company helping businesses simplify their operations, cut down on manual work and make better use of technology.  We build custom ERP, CRM, POS and AI systems, and also implement ready-made software when that’s the better fit. We’ve already worked with real estate companies, restaurants and construction companies, delivering systems tailored to their needs.  We know software development costs can feel daunting, especially here in the UAE. Our approach is to understand what you actually need and explore a practical, cost-effectiv",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wjumvz/do_you_or_someone_you_know_require_a_crm_system/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wjsgjm",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Wasl's new launch (Avenue Park Towers II) is fairly priced vs ready and offplan resale units",
-   "text": "   Wasl released their pricing for Avenue Park Towers II, the last plot inside the Wasl 1 master community. I ran12 months of Al Kifaf&#39;s transactions and compared it to the launch pricing.   To make it a fair comparison, I added 6% (4% DLD + 2% commission) to the price/sqft for the ready and offplan resale prices since that&#39;s amount you are paying pay on a resale. Wasl is providing a 4% DLD waiver on launch day, so you won&#39;t be paying that.   All-in AED per sq ft:        Unit Type   Ready (all-in, +6%)   Off-Plan Resale Avg   Avenue Park II Launch          1 Bed   2,061   2,340   2",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wjsgjm/wasls_new_launch_avenue_park_towers_ii_is_fairly/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wjpmbo",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Beachside Destination for Digital Nomads",
-   "text": "   Looking for locations that are digital nomad friendly, warm, beach side ideally and not a terrible time difference with North America. I&#39;m a solo female so something also safe is important. I don&#39;t mind a coliving community so if you have recommendations on that, that&#39;d be great too! I&#39;ve heard of Outsite but unsure if they&#39;re worth it? If I had to think of a place close to what I want, it&#39;d be like Hawaii?    Important things:     Sandy beaches   Good infrastructure/cleanliness   North America Timezone friendly   Digital nomad community   Not too expensive / rent fo",
-   "url": "https://www.reddit.com/r/expats/comments/1wjpmbo/beachside_destination_for_digital_nomads/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T04:42:02Z"
-  },
-  {
-   "id": "rd:t3_1wk0ks3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Golden visa rejected",
-   "text": "   Anyone got a refund for a golden visa application through GDRFA? (~2700 AED).   Trying to apply for a refund after my application was rejected but the system says “Transaction not eligible for a refund”.    Appreciate if someone tried this before to tell me how to go through this error.     &#32; submitted by &#32;   /u/MostwantedK17       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wk0ks3/golden_visa_rejected/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T04:41:30Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%80%d8%b3%d8%b9%d8%af%d9%8a%d8%a7%d8%aa-%d8%ba/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"الدار\" تكشف تفاصيل جديدة لـ\"سعديات غروف\" بأبوظبي وتسلّم 1,000 وحدة خلال أشهر",
-   "text": "كشفت مجموعة الدار العقارية عن تفاصيل جديدة لوجهة التسوق والمطاعم في مشروع سعديات غروف Saadiyat Grove ضمن المنطقة الثقافية بجزيرة&#8230;",
-   "url": "https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%80%d8%b3%d8%b9%d8%af%d9%8a%d8%a7%d8%aa-%d8%ba/",
-   "date": "2026-09-18",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-18T20:57:15Z"
   }
  ]
 }
