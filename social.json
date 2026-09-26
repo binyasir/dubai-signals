@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-26T05:04:05Z",
- "newThisRun": 8,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-26T11:30:43Z",
+ "newThisRun": 4,
+ "sourcesOk": 6,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
@@ -10,28 +10,28 @@
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -64,19 +64,64 @@
    "error": "unchanged"
   },
   {
-   "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "ok": true,
-   "items": 25,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 503"
   },
   {
-   "source": "\"سوق العقارات في دبي\" - أخبار Google",
-   "ok": true,
-   "items": 21,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 503"
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1wqo2nr",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Golden Visa issued in 1day",
+   "text": "   Just wanted to shared in case it helps others here the timeline for getting a Golden Visa (based on salary) recently  1. Submitted and asked for more documents 3x - despite all docs submitted initially (was told there’s some system issues sometimes)  2. At 4th attempt accepted, and approved in less than 24h  3. Issued the next day, together with the new EID  4. Physical EID took 3 days   And voila super efficient :)     &#32; submitted by &#32;   /u/Silly_Philosophy2220       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wqo2nr/golden_visa_issued_in_1day/",
+   "date": "2026-09-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T11:29:09Z"
+  },
+  {
+   "id": "rd:t3_1wqm9ju",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Car rental or taxi for abu dhabi + dubai trip?",
+   "text": "   Hey everyone!  I’m coming to the UAE next week and would love some advice on transportation.   Our plan is:  ● 3 days in Abu Dhabi  ● Then 5 days in Dubai  ● Then back to Abu Dhabi to catch our flight home   I’ve also heard that the Etihad Rail passenger train between Abu Dhabi and Dubai may be opening next week, so I’m wondering if that changes things.   For this kind of trip, would you recommend using taxis/Uber/Careem or renting a car? We’ll be doing some sightseeing in both cities, so I’m wondering about convenience, parking, traffic, and overall cost.  Would love to hear from people wh",
+   "url": "https://www.reddit.com/r/dubai/comments/1wqm9ju/car_rental_or_taxi_for_abu_dhabi_dubai_trip/",
+   "date": "2026-09-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T11:29:09Z"
+  },
+  {
+   "id": "rd:t3_1wqlbiw",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dewa transfer",
+   "text": "   Hey reddit, so I&#39;m shifting apartments and before moving I applied for a transfer request on the DEWA application.   Now the transfer date set, what are the next steps to be done ?   1.The security deposit I had given for the previous apartment is less than the current one. How do I pay that difference? Will I just get charged automatically in my next bill ?     Will I get a dewa clearance certificate on the transfer date ? ( I&#39;m supposed to give this to the current building management).     Note: this is the first time I&#39;m shifting houses so any feedback would be greatly apprec",
+   "url": "https://www.reddit.com/r/dubai/comments/1wqlbiw/dewa_transfer/",
+   "date": "2026-09-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T11:29:09Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjE1dXV1ci0zeDB4dnFEUWU5alRBTE9acTFxNnFYRGI0S1dxZjYtbTI2Tjc2dVdxTWF6MmRTSE9xZkFQRDV6V3pIN3o4bnZKRmkwNE41azkycG9SejhCMFNzVjE0emJwT1luR1Ytdm9GUzVUbnhkVm90cFBObFpoLUlNU094SDJLODROZWw0WXdpVmVtWm5GSHozLTJEdVdUaVNDQVRwcVZFU3RyZHpONjA1Z2RsRG9kZFR4UHV6LXBkTl8tOGctNWdJblZMclkyUTFaNGgybFZkSXQ1NFE?oc=5",
    "platform": "RSS",
@@ -3776,51 +3821,6 @@
    "title": "Somewhere to Go in the Summer Day, Jadat Al Wadeem - The Heart of Abu Dhabi",
    "text": "   2.3km of temperature controlled super commercial entertainment complex straight through Hudayriyat Island, this looks pretty amazing even though we don&#39;t know exactly what the end result would look like. Good concept no? This would make Wadeem the Villa version of Tara Park.    One of my client thought it was just a simple walkway. Oh boy he had another thing coming...     &#32; submitted by &#32;   /u/Silly-Option4119       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wkfs3j/somewhere_to_go_in_the_summer_day_jadat_al_wadeem/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wkehy7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Minimum Capital to buy a house ?",
-   "text": "   Hi Real Estate Wizards.    I’ve been researching Dubai’s property market (via Bayut, Propertyfinder, etc.) and keep seeing advice like “you need AED 1M+ to start.” But I’m curious: if someone wants to buy a studio outright (no mortgage/loan) purely to own and rent out — not as a flip or primary residence — what’s the absolute baseline cash required?   I’m not looking for “get rich quick” strategies or leveraged plays. Asking about the upfront capital needed just to close the deal (including all fees: DLD, agent, registration, etc.) for a  ready-to-rent  studio in a typical affordable area (",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wkehy7/minimum_capital_to_buy_a_house/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wkds7i",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Request to Real Estate Agents",
-   "text": "   Supposed to view an apartment this morning and the real estate agent informs after my message to him that it has been rented.   Isn’t that your responsibility to keep your clients informed Proactively or you simply don’t care? I wish they took their job and a clients time seriously.   EDIT- I am not bitter, neither I am in a desperate situation to rent or wanted the exact same unit. It’s just a reflection of the behavior of people which I believe can be worked upon if willing and it’s a win win situation for all. And it was a morning viewings at 10AM which warrants a proactive update as peo",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wkds7i/request_to_real_estate_agents/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wkdlog",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "New launch coming up In JVT",
-   "text": "   🚨 NEW LAUNCH IN JVT | NATIVE HAUS 🚨   📍 Jumeirah Village Triangle | JVT   🔥 EOIs NOW OPEN — AED 20,000   💰 STARTING FROM AED 699K   🏗 Handover — Q3 2029   📋 30/70 PAYMENT PLAN   5% — Booking   5% — Within 30 days   10% — Within 60 days   5% — June 2027   5% — January 2028   70% — On handover (Q3 2029)   🏡 STARTING PRICES &amp; SIZES   • Studio AED 699K | 407 sq.ft    • 1 BR — AED 1.175M | 664 sq.ft   • 1.5 BR — AED 1.195M | 678 sq.ft   • 2.5 BR — AED 1.75M | 1,016 sq.ft   ✨ PROJECT HIGHLIGHTS   • Only 162 residential units   • Low-rise 2B+G+6+R   • 6 retail units • Show apartment ready   • ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wkdlog/new_launch_coming_up_in_jvt/",
    "date": "2026-09-19",
    "dateApprox": false,
    "language": "en",
