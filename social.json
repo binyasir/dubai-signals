@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-25T21:38:45Z",
- "newThisRun": 2,
- "sourcesOk": 8,
+ "generatedAt": "2026-09-26T05:04:05Z",
+ "newThisRun": 8,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -72,11 +72,71 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 21,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjE1dXV1ci0zeDB4dnFEUWU5alRBTE9acTFxNnFYRGI0S1dxZjYtbTI2Tjc2dVdxTWF6MmRTSE9xZkFQRDV6V3pIN3o4bnZKRmkwNE41azkycG9SejhCMFNzVjE0emJwT1luR1Ytdm9GUzVUbnhkVm90cFBObFpoLUlNU094SDJLODROZWw0WXdpVmVtWm5GSHozLTJEdVdUaVNDQVRwcVZFU3RyZHpONjA1Z2RsRG9kZFR4UHV6LXBkTl8tOGctNWdJblZMclkyUTFaNGgybFZkSXQ1NFE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate sector recorded $3bn of transactions last week, including $19m Palm Jumeirah apartment - Arabian Business",
+   "text": " Dubai real estate sector recorded $3bn of transactions last week, including $19m Palm Jumeirah apartment &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjE1dXV1ci0zeDB4dnFEUWU5alRBTE9acTFxNnFYRGI0S1dxZjYtbTI2Tjc2dVdxTWF6MmRTSE9xZkFQRDV6V3pIN3o4bnZKRmkwNE41azkycG9SejhCMFNzVjE0emJwT1luR1Ytdm9GUzVUbnhkVm90cFBObFpoLUlNU094SDJLODROZWw0WXdpVmVtWm5GSHozLTJEdVdUaVNDQVRwcVZFU3RyZHpONjA1Z2RsRG9kZFR4UHV6LXBkTl8tOGctNWdJblZMclkyUTFaNGgybFZkSXQ1NFE?oc=5",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T05:04:04Z"
+  },
+  {
+   "id": "rd:t3_1wq8bft",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Following partner",
+   "text": "   I’m married with two young kids and my partner has a job in Manila from next year. Work is sorting a nice apartment in Makati and covering private school fees, so logistically it’s all working out.   But, I’ve basically lived my whole life in a small city in Australia near both our families so I’m quite anxious about the move. What are your best tips for making the most of an international move when it’s not exactly your choice? I won’t be working at first, so worried I’ll be bored and go mad     &#32; submitted by &#32;   /u/Great-Sail-6672       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/expats/comments/1wq8bft/following_partner/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T05:04:01Z"
+  },
+  {
+   "id": "rd:t3_1wpwgy5",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "What I wish I knew before renting an apartment in Bratislava",
+   "text": "   If you&#39;re moving to Bratislava and looking for an apartment, there are a few things that are worth knowing before you sign anything.   The rental market here isn&#39;t impossible, but there are some details that can easily surprise foreigners.    1. The advertised price isn&#39;t always your final monthly cost    If an apartment is listed for €700, check whether utilities are included.   Electricity, internet, parking and other costs may be separate, so always ask what the  total monthly payment  will be.    2. Be prepared to pay quite a lot at the beginning    Depending on the apartmen",
+   "url": "https://www.reddit.com/r/expats/comments/1wpwgy5/what_i_wish_i_knew_before_renting_an_apartment_in/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T05:04:01Z"
+  },
+  {
+   "id": "rd:t3_1wq6v6j",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Emicool damac hills 1",
+   "text": "   I live in Golf Vita, DAMAC Hills 1, in a 432 sq ft apartment with a 1.1-ton AC.   I had the AC fully serviced and cleaned, but the temperature won’t go below 22.5–23°C no matter what I set the thermostat to. I’ve even left it running continuously for days.   Maintenance says the AC is working fine, and Emicool says everything is fine on their side.   Is this normal for a 1.1-ton unit, or is there anything specific I should ask them to check to get closer to 20°C?     &#32; submitted by &#32;   /u/Parking-Hospital-927       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wq6v6j/emicool_damac_hills_1/",
+   "date": "2026-09-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T05:03:34Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2NOeFFsN3M3b0l4NmQ5N3pqd0RUaDNza0FkdGpKUHU3UGlsSDUzcjRzZHhHcDJ3eTNsbVpzM1FsX0F2bjA0UFZxQU1lUDJBR0d5eVhuZ2hIN2FHd1JIeDNaSzhZN2tlQzV5NkgzWkJmSm9RWXZYLVhEVW4tQ0VXZXZoR2JBakswWTZNVWZHb2tleC0td25vTU1Lc0JZOGhYZE91NWNXZWViQVItTXZzV0Zsb3FMdw?oc=5",
    "platform": "RSS",
@@ -271,6 +331,21 @@
    "language": "en",
    "engagement": "20 views",
    "firstSeenAt": "2026-09-25T11:54:39Z"
+  },
+  {
+   "id": "rd:t3_1wp7h44",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "When did it become clear it was time to move back?",
+   "text": "   I heard the phrase “being ready is not a feeling but a decision” and I think its very much true in my case because my feelings are atp just confusing me on whether to stay or go back to the US. I am starting to not feel happy where I am but I love my little home I created here. I literally have 3 cats and a beautiful apartment but the lifestyle here is just not for me anymore. I almost am growing resentment which is horrible because this city has given me beautiful moments. I guess I am scared because I know how it is in the US, and I won’t found something like this there hence why I moved ",
+   "url": "https://www.reddit.com/r/expats/comments/1wp7h44/when_did_it_become_clear_it_was_time_to_move_back/",
+   "date": "2026-09-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-26T05:04:01Z"
   },
   {
    "id": "rd:t3_1wp5sng",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wkc3dr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "How to Find the Best Real Estate Agency in Dubai Using Google Reviews",
-   "text": "   There is no single &quot;best real estate agency in Dubai&quot; that applies universally to every buyer and seller. Google reviews are a genuinely useful signal when read properly, alongside RERA verification, a real track record in your specific property type, and your own direct experience testing an agency&#39;s responsiveness. Combine all four, and you will make a far more confident choice than any star rating alone could offer.   If you would like to see how our team communicates and handles a real enquiry, get in touch with Takween Aldar, read more about our team and background, or le",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wkc3dr/how_to_find_the_best_real_estate_agency_in_dubai/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wkbhai",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4BR + Maid Villa | DAMAC Hills, Silver Springs | AED 5,450,000",
-   "text": "   Posting as: Agent  Property type: Villa  Area/community: DAMAC Hills, Dubai  Building/project: Silver Springs  Price: AED 5,450,000  Bedrooms: 4 + Maid  Size (sq ft): 4,843.76 plot area  Status: Ready  Images/video: Available  Additional details:   Residential villa for sale in Silver Springs, DAMAC Hills, Al Hebiah Third.   4 bedrooms + maid&#39;s room  Living area  Plot area: 4,843.76 sq ft  Unfurnished  Selling price: AED 5,450,000   Viewing is currently not available.     &#32; submitted by &#32;   /u/Weekly_Pollution_349       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wkbhai/4br_maid_villa_damac_hills_silver_springs_aed/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wk7ss7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Twin Villa | Al Furjan | AED 13,000,000",
-   "text": "   Posting as: Agent  Property type: Twin Villa  Area/community: Al Furjan, Dubai  Building/project: N/A  Price: AED 13,000,000  Bedrooms: 8  Size (sq ft): 6,458.35 plot / 5,928 total construction  Status: Ready  Additional details:  Rare off-market opportunity: two brand-new 4-bedroom villas on one freehold plot.  • 4 bedrooms in each villa  • 6 bathrooms per villa  • Maid room with bathroom for each villa  • All bedrooms with bathrooms and balconies  • Fully furnished  • Private gardens / outdoor space  • Parking for each villa plus additional outdoor parking  • One Title Deed  • Freehold – ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wk7ss7/twin_villa_al_furjan_aed_13000000/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rd:t3_1wk7qrl",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Twin Villa | Al Furjan | AED 14,500,000",
-   "text": "   Posting as: Agent  Property type: Twin Villa  Area/community: Al Furjan, Dubai  Building/project: N/A  Price: AED 14500000  Bedrooms: 8  Size (sq ft): 6458.35 plot / 5928 total built-up  Status: Ready  Images/video: Available  Additional details:  Two brand-new 4-bedroom villas on one plot.  One Title Deed.  Freehold — open to all nationalities.  4 bedrooms per villa.  6 bathrooms + maid’s room per villa.  Private swimming pool for each villa — 2 swimming pools in total.  Unfurnished.  Parking.  Asking price: AED 14,500,000.     &#32; submitted by &#32;   /u/boulaki89       [link]   &#32;  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wk7qrl/twin_villa_al_furjan_aed_14500000/",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T15:55:04Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdmd4eTdHTVBlLTA2bTlvaHliV25XX0ZwYU03N3lhNE5TRmZXN0JUM29vUm5iMktFVXhBMXZnVTNuckZfeWpjbmR2MC1QRW9UWDR0c0E2dy1EVkJUSFY1SEJneEZkaEVfZi1sb1VJRHNoU1lISUFzUXlJWUVQZDFBVVMzTTgxc1BPVUlHVkRBRi1nTGR6MGs1YTk5TFV0ZUkwNXByZ2FFRWUxRTlJTEYwYjJRdjl0S0ZZWHVKYkh1OElaYVNBWnZweUlsRnoxQ0pqYzVkd2Z2SDQzeENpTGE4TmsyUFRlYVJRT0E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "3705 deals.. Dubai real estate transactions amounted to 14 billion dirhams per week - صوت الإمارات",
-   "text": " 3705 deals.. Dubai real estate transactions amounted to 14 billion dirhams per week &nbsp;&nbsp; صوت الإمارات ",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdmd4eTdHTVBlLTA2bTlvaHliV25XX0ZwYU03N3lhNE5TRmZXN0JUM29vUm5iMktFVXhBMXZnVTNuckZfeWpjbmR2MC1QRW9UWDR0c0E2dy1EVkJUSFY1SEJneEZkaEVfZi1sb1VJRHNoU1lISUFzUXlJWUVQZDFBVVMzTTgxc1BPVUlHVkRBRi1nTGR6MGs1YTk5TFV0ZUkwNXByZ2FFRWUxRTlJTEYwYjJRdjl0S0ZZWHVKYkh1OElaYVNBWnZweUlsRnoxQ0pqYzVkd2Z2SDQzeENpTGE4TmsyUFRlYVJRT0E?oc=5",
-   "date": "2026-09-19",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-19T11:04:41Z"
   }
  ]
 }
