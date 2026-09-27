@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-27T05:23:51Z",
- "newThisRun": 0,
- "sourcesOk": 2,
+ "generatedAt": "2026-09-27T12:07:42Z",
+ "newThisRun": 6,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 200,
-  "rss": 49
+  "reddit": 199,
+  "rss": 50
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 7,
    "error": null
   },
   {
@@ -64,19 +64,79 @@
    "error": "unchanged"
   },
   {
-   "source": "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 503"
+   "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "ok": true,
+   "items": 24,
+   "error": null
   },
   {
-   "source": "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 503"
+   "source": "\"سوق العقارات في دبي\" - أخبار Google",
+   "ok": true,
+   "items": 12,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDhKdWlhSWJyYzBLUWtaTVl5MDUtMURSN1pPMkxVd2t1M043cjZhdURJeUp6dF9oTnZMSUM1SW16UjlraDB4dWJlamYwcjhDTUl5ZWZVejU1NWVXSEgzRVVEWURRSXNFUmR0OWdKZkVXbGhUMUpmcDVMSmFucmlFYzQzNjZLRUVsU3c?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "When is the best time to sell property in Dubai? Key factors for homeowners - Arabian Business",
+   "text": " When is the best time to sell property in Dubai? Key factors for homeowners &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDhKdWlhSWJyYzBLUWtaTVl5MDUtMURSN1pPMkxVd2t1M043cjZhdURJeUp6dF9oTnZMSUM1SW16UjlraDB4dWJlamYwcjhDTUl5ZWZVejU1NWVXSEgzRVVEWURRSXNFUmR0OWdKZkVXbGhUMUpmcDVMSmFucmlFYzQzNjZLRUVsU3c?oc=5",
+   "date": "2026-09-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-27T12:07:41Z"
+  },
+  {
+   "id": "rd:t3_1wrickt",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Thoughts on moving to Discovery Gardens?",
+   "text": "   Good evening everyone,  Wanted to get an opinion on living in Discovery gardens st1   I am getting a good price below market and its well connected via metro but want to get a more real understanding of the area and its facilities by folk who have lived there or have a good idea of it   -is the community well maintained and clean?  -what about apartment maintenance, plumber etc  -is it crowded in the mornings and evening with lots of traffic as I have to commute to Business bay  -is it a family friendly area?  -any other things i should be aware of   Thank you!     &#32; submitted by &#32; ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wrickt/thoughts_on_moving_to_discovery_gardens/",
+   "date": "2026-09-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-27T12:07:06Z"
+  },
+  {
+   "id": "rd:t3_1wreptc",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Questions about Mirdif",
+   "text": "   Hey guys. I’m planning on moving soon and Mirdif is pretty high on our list. We’re looking for a 4-5 bed villa and have viewed a few in the area and we really seem to like it. Our budget allows us to get something bigger than a 3 bed only in Mirdif and Damac communities so we prefer the former.  I have some questions I’m hoping someone from the area can answer:      How’s the traffic situation? I’m currently on the opposite end of dubai around the discovery gardens area. On weekdays I never need to commute past Al Quoz since I work around there. So at best it takes me 25-30 minutes both way",
+   "url": "https://www.reddit.com/r/dubai/comments/1wreptc/questions_about_mirdif/",
+   "date": "2026-09-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-27T12:07:06Z"
+  },
+  {
+   "id": "rd:t3_1wre6s0",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Ejari Termination Question",
+   "text": "   I’m planning to terminate my Ejari a few months before the end of the tenancy contract. There is no clause in my contract mentioning any penalty or fee for early termination.  If the contract doesn’t specify an early termination penalty, can the landlord still require me to pay one? If yes, what is the usual or standard penalty in Dubai?  Thanks!     &#32; submitted by &#32;   /u/ExpertProMax       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wre6s0/ejari_termination_question/",
+   "date": "2026-09-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-27T12:07:06Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi1ARBVV95cUxNcHMzTkR1WWVRNzdUbWl3bXgyaWdxN3FXd2VCZ2gxaFBPMWlKX2NWUUxZRzFOY1E2aEdIeWk2ekFBVXhrWHN0azNLM1YxV1E5UkVxM2FYQ1RVQlpNUW42amlUMkJBWUtNcVcwVFlBY2hRdUtud0Jsa2k3eWdRUHBmbW54Rzdha0g5UGRKLXNTVUdVd2VCbFRuT2x3Vmh1NU5DS2ltS3B6ZU1zaUI3ZHNwQ0JwQVVIWHcyOVlxaXo1SWxJTnRaQ1RoME5YcmkxWVJlcTNsb1NqS1NCTkFBZnktSU5XVFF2RDJwZUtZT016aTQwUTJmVTF0WmlVRkFXUXZ4TVJoNmxWQW51dmJVYUt6MnRLbWFIYW93V1lCSFA4dFhtMnhrYTJjTUpxbFltNHJUbElyNlQxN21GcmlSLXF1NGFSZFF4MmtzeTNpam93eUJBeE9xNDdQeURGSHFpUWJ1RWJDN0pXcTRjZnpLV0RKbDN2dUxaQXNtWXFOVU9OczBMNWVTV3E1SDhyX0JOVHd0N3J2UjhNa0lSbkhwLUM2VDYyS0EwMTVHdmgxekpwR2RfMkkwMUtTZ1BIYkFHSWRtQm9mcjlOU2k3UEVjQllvUERWS0x3eE5MU29zT0c5NHpfRXFZSEtRVTdvbmRKYVBaQWg2N0kteHdkS2tfM3gtNG55RGduaDlBamdvVDYxZjVtYXlIQmZ0Tm9Dd3oyaHY3aXBWOWpwYlozWmpxQXI4UG11d0RENk8yME5sdEJHVEwyWUNYclpaRE9NaDNnZ0lpWDNDVQ?oc=5",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "5 BEDR VILLA | AL FURJAN WEST| AED 11,000,000",
    "text": "   Posting as: Agent  Property type: VILLA  Area/community:AL FURJAN  Building/project: AL FURJAN WEST  Price: AED 11 M  Bedrooms:5  Size (sq ft):6600 sqft  Status: Ready  Images/video: (optional)  Additional details: private pool, maidroom, 3 families Hall     &#32; submitted by &#32;   /u/One-Network-1707       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wlclo6/5_bedr_villa_al_furjan_west_aed_11000000/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wlbvo5",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking for Property Monitor access/account at a lower cost",
-   "text": "   Hi everyone,  I’m looking for access to Property Monitor for Dubai real estate data. The regular subscription is a bit expensive for what I currently need.  Does anyone know of a cheaper plan, group/company access option, or any legitimate way to share access/cost?  Please DM me if you have any suggestions. Thanks!      &#32; submitted by &#32;   /u/Far-Way-3142       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlbvo5/looking_for_property_monitor_accessaccount_at_a/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wlb4m1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Bought a property !!",
-   "text": "   I just bought a property    Price - 910k    Rented at 70k already but I’ll just move in there    2beds , 1,200 sqft , two parking    And actually 16min to down town ( actually ! Actually !)   I’m writing this to say no off plan will be this price or size    Ever !!!      &#32; submitted by &#32;   /u/Public-Lifeguard3669       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlb4m1/bought_a_property/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wl91w4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Selling Multiple Units At OP",
-   "text": "   Project name - Lunaya By Zaya  Location - Sheikh Zayed Road (Jebel Ali)  Handover date - Q1 2029    4 BED TOWNHOUSES  CORNER &amp; MID UNITS AVAILABLE    PAYMENT PLAN 40/60      &#32; submitted by &#32;   /u/SecretAgentJames       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wl91w4/selling_multiple_units_at_op/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wl7nn6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Al Reem Island — Canal-facing mixed-use plot now at AED 85M.",
-   "text": "   How would investors/developers value this?   I&#39;ve been working on a development plot in Al Reem Island, Abu Dhabi, and thought I&#39;d put it out here as a Discussion &amp; Analysis rather than simply posting it as a property listing.   I&#39;m a real estate agent, and this is a freehold, canal-facing mixed-use development plot.   Plot Details   • Location: Al Reem, Abu Dhabi   • Ownership: Freehold   • Land Area: 37,060 sq.ft   • GFA: 200,000 sq.ft   • Development: 2 Basements + Ground + 3 Podiums + 20 Floors   • Usage: Mixed Use   • Position: Canal Facing   The numbers   The plot was ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wl7nn6/al_reem_island_canalfacing_mixeduse_plot_now_at/",
    "date": "2026-09-20",
    "dateApprox": false,
    "language": "en",
