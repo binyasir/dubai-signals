@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-26T21:14:04Z",
- "newThisRun": 3,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-27T05:23:51Z",
+ "newThisRun": 0,
+ "sourcesOk": 2,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
@@ -10,28 +10,28 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 6,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -64,16 +64,16 @@
    "error": "unchanged"
   },
   {
-   "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "ok": true,
-   "items": 24,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 503"
   },
   {
-   "source": "\"سوق العقارات في دبي\" - أخبار Google",
-   "ok": true,
-   "items": 20,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 503"
   }
  ],
  "items": [
