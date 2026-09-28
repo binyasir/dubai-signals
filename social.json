@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-09-27T21:24:06Z",
- "newThisRun": 7,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-28T05:29:04Z",
+ "newThisRun": 3,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 195,
-  "rss": 54
+  "reddit": 194,
+  "rss": 55
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -54,29 +54,44 @@
   {
    "source": "r/expats",
    "ok": true,
-   "items": 6,
+   "items": 4,
    "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 33,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-169-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إطلاق 169 مشروعاً عقارياً جديداً في دبي بـ 56,658 وحدة سكنية خلال 8 أشهر",
+   "text": "شهد سوق دبي العقاري إطلاق 169 مشروعاً سكنياً جديداً خلال الأشهر الثمانية الأولى من عام 2026، تضم نحو 56,658 وحدة&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-169-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8/",
+   "date": "2026-09-28",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-28T05:29:02Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTE5VQ1J3WVBueUhKMV9CdlpyLWRiUy1yZGxya29Tc0w2RzJMYm9WU1AzZ1EwcHNJbkdCYXJsU0lPMkk4Mlo4cnZ5d20zLVFfNzBTS1cxMnVoR2xRTlhJSE56TERaX19iYWZSWVV2Z1FBNi1JQdIBjAFBVV95cUxPM1VZel9aX3FxdUlvQUlYZXFaVjJ5eU92bnlsZXV5OHYzYVFUZDlGSFZVd0dteWhUYjQwMEJIWjJpUk1qMnRvRnY4ZzEyU2M1WXJhNWZ0QU9tRWUyMTNzWVpEQ0ZWRFZYMVBJZmFPc1NBU1M5MTN6UmlJdFFRamQ5OHJ5TjBGRmZZUm9OWA?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "Dubai Real Estate: A Professional View on the Market Ahead",
    "text": "   As a real estate professional, I believe the strongest opportunities will continue to come from fundamentals: quality locations, trusted developers, sustainable communities, realistic pricing, and a clear understanding of buyer demand.   The future of Dubai real estate is not simply about new launches. It is about creating long-term value for residents, investors, and the wider city. Areas with strong infrastructure, lifestyle appeal, connectivity, and genuine end-user demand will remain especially important.   For buyers and investors, the key is to look beyond headlines: assess the develo",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wlhjxt/dubai_real_estate_a_professional_view_on_the/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wlguku",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Final units available— RADISSON RESIDENCES in ADGM",
-   "text": "   Branded residences  within ADGM  with new Phase 2 studio availability.   Two options currently available:  •  Studio | 467 sqft | 22nd floor — AED 999,000   •  Large Studio | 625 sqft | 10th floor — AED 1,204,000     Payment plan: 40/60  — only 5% to book, with 60% due at handover in September 2029. Both prices include the furniture package.    A relatively low entry point for a  branded residence in ADGM , especially for investors looking at the rental market on Reem Island.     &#32; submitted by &#32;   /u/According-Law-5346       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlguku/final_units_available_radisson_residences_in_adgm/",
    "date": "2026-09-20",
    "dateApprox": false,
    "language": "en",
