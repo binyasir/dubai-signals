@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-09-28T05:29:04Z",
- "newThisRun": 3,
- "sourcesOk": 5,
+ "generatedAt": "2026-09-28T14:01:55Z",
+ "newThisRun": 5,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 194,
-  "rss": 55
+  "reddit": 193,
+  "rss": 56
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 7,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 3,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,17 +66,62 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 22,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 13,
+   "items": 11,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d8%af%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-12-3-%d8%ae%d9%84%d8%a7%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إيجارات المستودعات في دبي ترتفع 12.3% خلال الربع الثالث من 2026",
+   "text": "ارتفع متوسط إيجارات العقارات الصناعية واللوجستية في دبي بنسبة 12.3% على أساس سنوي، وفق بيانات الربع الثالث من 2026 الواردة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d8%af%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-12-3-%d8%ae%d9%84%d8%a7%d9%84/",
+   "date": "2026-09-28",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-28T14:01:53Z"
+  },
+  {
+   "id": "rd:t3_1ws96ap",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Rent a car or purchasing?",
+   "text": "   Hi all, was just wondering if renting a car is a better option or purchasing it for a brand new license. I&#39;m 28 years old, just got my driver&#39;s license and slightly tight on the budget.    I know insurance gets quite expensive for a new license, but I need some advice regarding this.    Also is renting in general even a good idea, I have heard they try to squeeze out as much money as they possibly can from you.    Also if you know any good rental companies, do hit me up.    I would really appreciate any response.     &#32; submitted by &#32;   /u/Fun-Board-8949       [link]   &#32; ",
+   "url": "https://www.reddit.com/r/dubai/comments/1ws96ap/rent_a_car_or_purchasing/",
+   "date": "2026-09-28",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-28T14:01:18Z"
+  },
+  {
+   "id": "rd:t3_1ws73hp",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Etisalat speed test is fake or real?",
+   "text": "                 I recently subscribed to a basic internet package for my apartment. When I run a speed test using Ookla/Speedtest, it consistently shows around 800 Mbps, which seemed unusually high for the package I subscribed to.   At first, I thought there might have been a mistake with my Etisalat package. However, when I tested the connection using other speed-test apps, they showed around 12 Mbps, which seems much closer to what I would expect from my actual package.   What confuses me even more is that around 90% of the speed tests I see from others—and even the results shown by Etisala",
+   "url": "https://www.reddit.com/r/dubai/comments/1ws73hp/etisalat_speed_test_is_fake_or_real/",
+   "date": "2026-09-28",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-28T14:01:18Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-169-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7%d9%8b-%d8%ac%d8%af%d9%8a%d8%af%d8%a7%d9%8b-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8/",
    "platform": "RSS",
@@ -3776,51 +3821,6 @@
    "title": "Arjan VS Rukan which is a better deal?",
    "text": "   Hey all, Looking to purchase a home in the next couple of months and I&#39;m torn between Arjan and Rukan.   ​My wife and I found a 2-bedroom apartment at the Welcome Residency building in Arjan for AED 1.65M. It about 1,345 sqft, includes two storage rooms and a laundry room, and has really nice finishing. The only downside for my wife is the hidden fridge she wants to install a bigger model, which will most likely require some renovation.    Regarding parking, we have two cars, but I can purchase an extra parking space down the line. In the meantime, they mentioned that security could hel",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wli3ut/arjan_vs_rukan_which_is_a_better_deal/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wlhnke",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For sale - ready property 25% down 75% within 5 years.",
-   "text": "   Hey everyone, I saw the posts on this reddit and some people are genuinely lost. In Dubai there are ready properties that DONT EVEN CHARGE 4% DLD or even 2% COMMISSION!!! Its a 25% downpayment and 75% within 5 years interest free! Also the price per sqft is 1200AED before you all claim that the price per sq/ft will be skyhigh 😴😴    Just sick of these inexperienced covid agents.    Rant over!     &#32; submitted by &#32;   /u/Excellent_Praline_12       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlhnke/for_sale_ready_property_25_down_75_within_5_years/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wlhkkw",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Is this rent possible?",
-   "text": "   Hello,   I’m looking for a 1 bedroom apartment within 45-47K. Is this even possible? I’ve been looking at sports city and IMPZ. They seem to be around 50K but surely I should be able to negotiate down to 45? Is this possible or am I being delusional?    Thanks!      &#32; submitted by &#32;   /u/No_Cauliflower1801       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlhkkw/is_this_rent_possible/",
-   "date": "2026-09-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-20T16:11:01Z"
-  },
-  {
-   "id": "rd:t3_1wlhjxt",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai Real Estate: A Professional View on the Market Ahead",
-   "text": "   As a real estate professional, I believe the strongest opportunities will continue to come from fundamentals: quality locations, trusted developers, sustainable communities, realistic pricing, and a clear understanding of buyer demand.   The future of Dubai real estate is not simply about new launches. It is about creating long-term value for residents, investors, and the wider city. Areas with strong infrastructure, lifestyle appeal, connectivity, and genuine end-user demand will remain especially important.   For buyers and investors, the key is to look beyond headlines: assess the develo",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wlhjxt/dubai_real_estate_a_professional_view_on_the/",
    "date": "2026-09-20",
    "dateApprox": false,
    "language": "en",
