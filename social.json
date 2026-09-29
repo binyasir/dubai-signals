@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-29T12:58:26Z",
- "newThisRun": 27,
- "sourcesOk": 9,
+ "generatedAt": "2026-09-29T22:19:41Z",
+ "newThisRun": 9,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 1,
-  "reddit": 206,
-  "rss": 43
+  "reddit": 204,
+  "rss": 45
  },
  "sources": [
   {
@@ -36,14 +36,14 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 8,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 28,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 22,
    "error": null
   },
   {
@@ -77,6 +77,81 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUmlwWXptUlZOT25WZ1lsUWo3R0JVdGdrTnEycTNFOGgwdEMzZU11VkMwa0tyWGdPeGtZeGRPaF84R2VaQlhRV01SYm51MVFBNlNaS1d1Rm42Yy1wQnV4ckVMTy15Vk5aZVZWbFY5NnRJemxjcGNZY2VuYjhmZF94V0ZPeWlWVENNZHJYdWJLSXNORXh4cHd3cmNaLWdOQVJ6aVVjMW13R0s4dENqTkJZOWNZdU5xSXl3TXRqWFJhUmxRQjdUeTlTXy1tNzhNLWhKM1VhSjJkSGVjRnpPTWp5aXFZSTlPNzl5bFlOekhRbFowUXpQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "BCD Royale strengthens India–Dubai real estate ties through engagement with Dubai Land Department leadership - aninews.in",
+   "text": " BCD Royale strengthens India–Dubai real estate ties through engagement with Dubai Land Department leadership &nbsp;&nbsp; aninews.in ",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUmlwWXptUlZOT25WZ1lsUWo3R0JVdGdrTnEycTNFOGgwdEMzZU11VkMwa0tyWGdPeGtZeGRPaF84R2VaQlhRV01SYm51MVFBNlNaS1d1Rm42Yy1wQnV4ckVMTy15Vk5aZVZWbFY5NnRJemxjcGNZY2VuYjhmZF94V0ZPeWlWVENNZHJYdWJLSXNORXh4cHd3cmNaLWdOQVJ6aVVjMW13R0s4dENqTkJZOWNZdU5xSXl3TXRqWFJhUmxRQjdUeTlTXy1tNzhNLWhKM1VhSjJkSGVjRnpPTWp5aXFZSTlPNzl5bFlOekhRbFowUXpQ?oc=5",
+   "date": "2026-09-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-29T22:19:41Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a3%d9%83%d9%88%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-%d8%a3%d9%88%d9%84-%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d8%aa%d8%ad%d9%85%d9%84-%d8%b9%d9%84%d8%a7%d9%85/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "مجموعة «أكور» تطلق أول مكاتب تحمل علامة «بولمان» الفندقية عالمياً في دبي",
+   "text": "أعلنت مجموعة «أكور» الفندقية وشركة سيتي فيو للتطوير العقاري CITYVIEW Developments إطلاق مشروع «بولمان ريزيدنسز آند أوفيسز دبي ميدان» Pullman&#8230;",
+   "url": "https://masdarak.com/new-projects/%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%a3%d9%83%d9%88%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-%d8%a3%d9%88%d9%84-%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d8%aa%d8%ad%d9%85%d9%84-%d8%b9%d9%84%d8%a7%d9%85/",
+   "date": "2026-09-29",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-09-29T22:19:40Z"
+  },
+  {
+   "id": "rd:t3_1wticmp",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Mold infected clothes",
+   "text": "   Left apartment for a few weeks, came back to a mold infestation (Apparently windows do not seal properly due to poor construction)   Gotten the apartment disinfected and cleaned professionally, but they do not offer sanitisation and cleaning of the clothes that the mold spread to.    We have several large bags of clothing and bedding thats mold infected.    Any recommendations? Ive seen a handful of laundry pickup services but they do not disinfect and remove mold specifically.      &#32; submitted by &#32;   /u/conflictions69       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wticmp/mold_infected_clothes/",
+   "date": "2026-09-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-29T22:19:05Z"
+  },
+  {
+   "id": "rd:t3_1wthkie",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Agent asking me for the agency fee in cash and to transfer the half of the deposit in landlords account before Ejari?",
+   "text": "   is this normal procedure? He insists to send the holding deposit so he stops showing the flat to others     &#32; submitted by &#32;   /u/Witty-Clue4014       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wthkie/agent_asking_me_for_the_agency_fee_in_cash_and_to/",
+   "date": "2026-09-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-29T22:19:05Z"
+  },
+  {
+   "id": "rd:t3_1wthk7t",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Tenent in Dubai refusing to move out despite serving notice last year .. what are my options?",
+   "text": "   Hi,   I purchased my first property in Dubai in November 2025 for purpose of living in it myself. At that time, it was tenented without any notice served. The previous owner attempted to evict the tenent by paying hin extra but tenent refused, so I decided to purchase the apartment and serve it myself.   Here is a timeline:   - 19th of November 2025: Contract renewed for a year with me as the new owner   - 27th of November 2025: Sent an eviction notice to tenent for personal use. Notarized and done legally through Dubai courts. Sent it on whatsapp and emailed it to him.   - 30th of November",
+   "url": "https://www.reddit.com/r/dubai/comments/1wthk7t/tenent_in_dubai_refusing_to_move_out_despite/",
+   "date": "2026-09-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-09-29T22:19:05Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d9%83%d9%8a%d9%81-%d8%a7%d8%b1%d8%aa%d9%82%d8%aa-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a8%d8%aa%d8%b5%d9%86%d9%8a%d9%81%d9%87%d8%a7-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2-33/",
    "platform": "RSS",
@@ -3746,81 +3821,6 @@
    "title": "1 bedroom Apartment | DSO | AED 720,000",
    "text": "    Posting as: Owner Property type: one bedroom Area/community: Dubai Silicon Oasis Building/project: Binghatti Apartments Price: AED 720k Bedrooms: one Size (sq ft):742 Status: Ready Images/video: Additional details: Only Cash Buyers | Ready to move Chiller-free | DEWA only URGENT SALE | HIGHLY DISCOUNTED       &#32; submitted by &#32;   /u/Temporary-Eye-7799       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wn6t60/1_bedroom_apartment_dso_aed_720000/",
-   "date": "2026-09-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-22T17:00:06Z"
-  },
-  {
-   "id": "rd:t3_1wn6m49",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "The numbers that actually decide whether a UAE mortgage closes smoothly",
-   "text": "   Most people track one number: the interest rate.   These are the ones that quietly decide the outcome more often:   Valuation gaps of 5–10% are common on certain buildings and communities. That gap comes straight out of your cash.   Total costs on transfer day usually land 7–9% above the deposit once you add DLD, registration, bank fees, valuation and buffer.   Self-employed files face a 25–30% income haircut in many banks before they even calculate eligibility.   Debt Burden Ratio is capped at 50%, but banks often stress-test higher. Credit card limits are counted at 5%.   A clean file wit",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wn6m49/the_numbers_that_actually_decide_whether_a_uae/",
-   "date": "2026-09-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-22T17:00:06Z"
-  },
-  {
-   "id": "rd:t3_1wn67bd",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4BR Townhouse | Villanova | AED 4,050,000",
-   "text": "   Posting as: Agent  Property type: 4 bedroom  Area: Villanova, Dubai land  Building : La violeta  Price: AED 4050000  Bedrooms: 4  Size: 2330 sqft  Furnishing: Unfurnished  Status: Ready     &#32; submitted by &#32;   /u/shishir_it3       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wn67bd/4br_townhouse_villanova_aed_4050000/",
-   "date": "2026-09-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-22T17:00:06Z"
-  },
-  {
-   "id": "rd:t3_1wn5qxi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "FOR RENT | RECENTLY RENOVATED | AED 60000/ YEAR | GOLD CREST EXECUTIVE JLT",
-   "text": "    Posting as: Agent Property type: Studio Area/community: JLT Building/project: Gold Crest Executive Price: AED 60000 Bedrooms: Studio Size (sq ft):__ Furnishing: Furnished Available from: 29/09/26 Cheques:4 Images/video: (optional) Additional details: (optional)       &#32; submitted by &#32;   /u/KacemListings       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wn5qxi/for_rent_recently_renovated_aed_60000_year_gold/",
-   "date": "2026-09-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-22T17:00:06Z"
-  },
-  {
-   "id": "rd:t3_1wn51to",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Is a Brand-New Apartment in Dubai Hills Estate Worth It?",
-   "text": "   The kquestion isn&#39;t simply new vs old, it is what are you paying per square foot, and what are you getting for that premium.   Parkside Views is now open for occupancy with Elvira 1 and 2 closely behind, Parkside Views is very close to Dubai Hills Mall, comparing it with older buildings in the community.    Does being close to Dubai Hills Mall really matter?    Yes, buy maybe not in the why you may actually think. Its not just &quot; my apartment is close to the mall&quot; The bigger benefit is the convenience of having one of Dubai Hills&#39; major lifestyle destinations close by: rest",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wn51to/is_a_brandnew_apartment_in_dubai_hills_estate/",
-   "date": "2026-09-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-22T17:00:06Z"
-  },
-  {
-   "id": "rd:t3_1wn47dg",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4BR Townhouse | meydan | Budget AED 600,00,00",
-   "text": "   Posting as: Agent   Property type: townhouse or villa   Preferred area: opal garden but open to any locations near jvc, meydan   Budget: AED 6000000 maximum   Bedrooms: 4-5   Preferred size: large size   Additional requirements: Ready property preferred. Serious buyer looking for a well-priced 4br. Direct owners and agents with genuine available units are welcome to reach out. Please DM with building name, asking price, size, floor/view, and photos.     &#32; submitted by &#32;   /u/Abdu_kun07       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wn47dg/4br_townhouse_meydan_budget_aed_6000000/",
    "date": "2026-09-22",
    "dateApprox": false,
    "language": "en",
