@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-09-30T22:19:25Z",
- "newThisRun": 35,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-01T06:01:27Z",
+ "newThisRun": 9,
+ "sourcesOk": 6,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 199,
-  "rss": 47
+  "reddit": 198,
+  "rss": 48
  },
  "sources": [
   {
@@ -16,33 +16,33 @@
    "error": null
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 4,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
    "ok": true,
-   "items": 33,
+   "items": 34,
    "error": null
   },
   {
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 22,
    "error": null
   },
   {
@@ -77,6 +77,96 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/home-finance/41-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%82%d9%8a%d9%85%d8%a9-%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%87%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "41 مليار دولار قيمة معاملات الرهن العقاري في دبي خلال 9 أشهر بنمو 14%",
+   "text": "قفزت قيمة معاملات الرهن العقاري في دبي خلال الأشهر التسعة الأولى من عام 2026 إلى 41 مليار دولار (150.6 مليار&#8230;",
+   "url": "https://masdarak.com/home-finance/41-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%82%d9%8a%d9%85%d8%a9-%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%87%d9%86-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1/",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-01T06:01:26Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/31-8-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d9%81%d9%8a-9-%d8%a3/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "31.8 مليار دولار مبيعات عقارات أبوظبي في 9 أشهر من 2026",
+   "text": "تجاوزت قيمة مبيعات العقارات في أبوظبي خلال الأشهر التسعة الأولى من عام 2026 نحو 31.8 مليار دولار (116.7 مليار درهم)،&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/31-8-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d9%81%d9%8a-9-%d8%a3/",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-01T06:01:26Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVkNHNkhhekstQXlRdGVISGdYWXBBZkNGQjNnNEt2N21BZjROVGhUWjVCT01qOUdNeFlCSmRsMXFPeDlMWDB2RE4wZ0cwNWZRWTBPT0ZNNGI0TnBYVnRPLVgyOFMweVRxU2JPN2hqejl3eEFRbjkzTzl0WHlsVEVVb1B3TFdrNlVUTVBvOTE3RjdrY1JScnd3bW93SmV5MTRpc0dZcEdnUmRwR0dKOUswZk5NRndnLXVqZUQ1X1hrcWwtLWJmU1FQQmMtcDJWVXZSb0N0UWJ2MmtxYVlzanlaQmdfSErSAf8BQVVfeXFMUHNUM0FPYUNocExpUWJzN0hVZnVtdjBkQWJOdW1wSEx2VVdVWTd0MXg5LUFTMnZDdi1fSFdZNVU2eGlxQWhQVWUtckZuMmJOTXlxQVoyY3EzNjdtWXZBSndVYWVQT1VYXzNPRkJxbTd3VXBkNWtOZjQtYk9EeWl4enZjMzRuLTlYdTN4M0c0NWlaUUlZeEg3d2xFVHYxR3JrVEJkN0ZBNVAwQU1vTExPNTJMMlBBNDRwdkwybHpKbkc4ZDJMT2k0cWxMVDRSY1JMdG9NY3ZlbjNVY2xXT2huX2RoMS1lZUpkUWhYUS15bUI5emJnbk1vWnBOaG0wYXg4?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate transactions hit Dh574 billion in nine months - second highest sales value in market history - Emirates 24|7",
+   "text": " Dubai real estate transactions hit Dh574 billion in nine months - second highest sales value in market history &nbsp;&nbsp; Emirates 24|7 ",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVkNHNkhhekstQXlRdGVISGdYWXBBZkNGQjNnNEt2N21BZjROVGhUWjVCT01qOUdNeFlCSmRsMXFPeDlMWDB2RE4wZ0cwNWZRWTBPT0ZNNGI0TnBYVnRPLVgyOFMweVRxU2JPN2hqejl3eEFRbjkzTzl0WHlsVEVVb1B3TFdrNlVUTVBvOTE3RjdrY1JScnd3bW93SmV5MTRpc0dZcEdnUmRwR0dKOUswZk5NRndnLXVqZUQ1X1hrcWwtLWJmU1FQQmMtcDJWVXZSb0N0UWJ2MmtxYVlzanlaQmdfSErSAf8BQVVfeXFMUHNUM0FPYUNocExpUWJzN0hVZnVtdjBkQWJOdW1wSEx2VVdVWTd0MXg5LUFTMnZDdi1fSFdZNVU2eGlxQWhQVWUtckZuMmJOTXlxQVoyY3EzNjdtWXZBSndVYWVQT1VYXzNPRkJxbTd3VXBkNWtOZjQtYk9EeWl4enZjMzRuLTlYdTN4M0c0NWlaUUlZeEg3d2xFVHYxR3JrVEJkN0ZBNVAwQU1vTExPNTJMMlBBNDRwdkwybHpKbkc4ZDJMT2k0cWxMVDRSY1JMdG9NY3ZlbjNVY2xXT2huX2RoMS1lZUpkUWhYUS15bUI5emJnbk1vWnBOaG0wYXg4?oc=5",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-01T06:01:26Z"
+  },
+  {
+   "id": "rd:t3_1wurbve",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Buyers: does AI marketing images/videos affect your trust and perception in a project?",
+   "text": "   Can&#39;t help but notice AI images and videos everywhere in Real Estate marketing especially the renderings and perspectives. Do buyers notice them, or is it just me?   Because if I’m looking at a property and wondering whether the render is showing me the actual design or a convincing approximation, that doubt matters.   Would you still feel comfortable making a major purchase based on marketing you don&#39;t fully believe?    Curious what buyers actually think.      &#32; submitted by &#32;   /u/GrouchyEgg2216       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wurbve/buyers_does_ai_marketing_imagesvideos_affect_your/",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-01T06:01:03Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5aejhSdEphVFdzZkVsUTlkc3ZtRHc3MHNKbXFLallDQUxsZHQxUGFwMHo4aDlSRGVEelRLbFlMTURXX1U?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "كيف يغيّر \"قطار الاتحاد\" سوق العقار في أبوظبي ودبي؟ - موقع 24",
+   "text": " كيف يغيّر \"قطار الاتحاد\" سوق العقار في أبوظبي ودبي؟ &nbsp;&nbsp; موقع 24 ",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5aejhSdEphVFdzZkVsUTlkc3ZtRHc3MHNKbXFLallDQUxsZHQxUGFwMHo4aDlSRGVEelRLbFlMTURXX1U?oc=5",
+   "date": "2026-09-30",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-01T06:01:27Z"
+  },
+  {
+   "id": "rd:t3_1wukg60",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "1BR Apartment | Al Jaddaf | AED 1,550,000",
+   "text": "   Posting as: Agent  Property type: Apartment  Area/community: Al Jaddaf  Building/project: Binghatti Pinnacle  Price: AED 1,550,000  Bedrooms: 1  Size: 880 sqft  Status: Ready to Move  Furnishing: Unfurnished  Payment: Cash or Mortgage  View: Marriott &amp; Dubai Frame  Floor: High Floor     &#32; submitted by &#32;   /u/DrinkChoice2545       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1wukg60/1br_apartment_al_jaddaf_aed_1550000/",
+   "date": "2026-09-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-01T06:01:03Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVFBfZ1B5S3F1V0hkMEwyQVRmQVRhT1pGTFlDaUhuMUpFajhycmZYcVo1eEZzVV9MT0Rvc2J2X3UzTUt5RlNrZEg3XzM1cGNXM00wWTBLaHFNVmh1dktTaHJ3QlM5Y2JIUlhQM3JLRW1JdFkyZ21lc0RPX2g5dWgxRDdnekQ3OHItQlZZVWlRWjFBbTkxRW1MMmQzOC15eWJXWi1xMVpLeXBGWHk0MFVmMGtwaXZ1dlAzcldZ?oc=5",
    "platform": "RSS",
@@ -3736,96 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-09-23T17:06:29Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b1-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d9%82%d8%a7%d8%af%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a7%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "محمد العبار: «إعمار» قادرة على تحقيق الأرباح 5 سنوات دون مبيعات عقارية جديدة",
-   "text": "قال محمد العبار، رئيس مجلس إدارة إعمار العقارية ، إن الشركة قادرة على الاستمرار في تحقيق الأرباح لمدة خمس سنوات&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b1-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d9%82%d8%a7%d8%af%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%a7%d9%84/",
-   "date": "2026-09-23",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-23T17:06:29Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "تعرف على أبرز مناطق العقارات الفاخرة في دبي وأبوظبي منذ بداية 2026",
-   "text": "برزت نخلة جميرا ومنطقة جميرا وتلال الإمارات و نخلة جبل علي بين المناطق التي شهدت أكبر صفقات بيع للعقارات الفاخرة&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81/",
-   "date": "2026-09-23",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-23T17:06:29Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d9%87%d8%b3%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d9%83%d8%a9-%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d8%a7%d8%a6%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%a5/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"هسبي\" تستحوذ على شركة وساطة ائتمانية إيطالية متخصصة بالتمويل العقاري والقروض",
-   "text": "تعتزم شركة هسبي Huspy، المتخصصة في تكنولوجيا العقارات والتمويل العقاري والقائمة على الذكاء الاصطناعي، استثمار 86 مليون دولار (315 مليون&#8230;",
-   "url": "https://masdarak.com/business-news/%d9%87%d8%b3%d8%a8%d9%8a-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d8%b4%d8%b1%d9%83%d8%a9-%d9%88%d8%b3%d8%a7%d8%b7%d8%a9-%d8%a7%d8%a6%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d8%a9-%d8%a5/",
-   "date": "2026-09-23",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-23T17:06:29Z"
-  },
-  {
-   "id": "rd:t3_1woal65",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "You see a Dubai broker u run",
-   "text": "   They will sell u sand.  U will be scammed.  Do not buy shit.  99% of them have no experience in real estate or investment management.  They care only about their commission.  Look at their CVs u will never hire them if it was ur business.  Every market and investment goes through ups and downs but according to them their investment goes up.! Never down     &#32; submitted by &#32;   /u/Desperate-Diver2716       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1woal65/you_see_a_dubai_broker_u_run/",
-   "date": "2026-09-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-23T17:06:06Z"
-  },
-  {
-   "id": "rd:t3_1wo90pu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "St Regis Residences Downtown - Estimated Rental Income",
-   "text": "   Hi all, I am interested in buying a 2-bedroom at St. Regis Residences downtown. Does anyone have a rough estimate of what I can expect in annual rental income? Assuming a good layout with a Burj Khalifa view and a high floor (40+).   Thanks in advance!      &#32; submitted by &#32;   /u/Desperate-Stage1441       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wo90pu/st_regis_residences_downtown_estimated_rental/",
-   "date": "2026-09-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-23T17:06:06Z"
-  },
-  {
-   "id": "rd:t3_1wo7qbt",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2BR Apartment | JLT, Marina or Furjan | Budget AED 80-90k a year",
-   "text": "   Posting as: Tenant    Property type: 2BR apartment   Preferred area: JLT, Furjan, Marina    Budget: AED 80-90k   Bedrooms: 2BR   Preferred size: 900 sqft+   Timeline: October end   Additional requirements: Balcony, dogs allowed, white goods, good maintenance, parking, 1km metro distance preferred      &#32; submitted by &#32;   /u/JustAnAnimeGirly       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wo7qbt/2br_apartment_jlt_marina_or_furjan_budget_aed/",
-   "date": "2026-09-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-23T17:06:06Z"
   }
  ]
 }
