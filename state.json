@@ -23,8 +23,8 @@
    "modified": null
   },
   "https://masdarak.com/feed/": {
-   "etag": "\"476201378e3dfd2584a55fcbd69e5bad\"",
-   "modified": "Thu, 01 Oct 2026 03:42:05 GMT"
+   "etag": "\"c994499a8b65c7d6fd187af555267ec0\"",
+   "modified": "Thu, 01 Oct 2026 11:16:21 GMT"
   },
   "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en": {
    "etag": null,
@@ -1013,6 +1013,14 @@
   "rs:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVkNHNkhhekstQXlRdGVISGdYWXBBZkNGQjNnNEt2N21BZjROVGhUWjVCT01qOUdNeFlCSmRsMXFPeDlMWDB2RE4wZ0cwNWZRWTBPT0ZNNGI0TnBYVnRPLVgyOFMweVRxU2JPN2hqejl3eEFRbjkzTzl0WHlsVEVVb1B3TFdrNlVUTVBvOTE3RjdrY1JScnd3bW93SmV5MTRpc0dZcEdnUmRwR0dKOUswZk5NRndnLXVqZUQ1X1hrcWwtLWJmU1FQQmMtcDJWVXZSb0N0UWJ2MmtxYVlzanlaQmdfSErSAf8BQVVfeXFMUHNUM0FPYUNocExpUWJzN0hVZnVtdjBkQWJOdW1wSEx2VVdVWTd0MXg5LUFTMnZDdi1fSFdZNVU2eGlxQWhQVWUtckZuMmJOTXlxQVoyY3EzNjdtWXZBSndVYWVQT1VYXzNPRkJxbTd3VXBkNWtOZjQtYk9EeWl4enZjMzRuLTlYdTN4M0c0NWlaUUlZeEg3d2xFVHYxR3JrVEJkN0ZBNVAwQU1vTExPNTJMMlBBNDRwdkwybHpKbkc4ZDJMT2k0cWxMVDRSY1JMdG9NY3ZlbjNVY2xXT2huX2RoMS1lZUpkUWhYUS15bUI5emJnbk1vWnBOaG0wYXg4?oc=5": "2026-10-01",
   "rd:t3_1wurbve": "2026-10-01",
   "rs:https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5aejhSdEphVFdzZkVsUTlkc3ZtRHc3MHNKbXFLallDQUxsZHQxUGFwMHo4aDlSRGVEelRLbFlMTURXX1U?oc=5": "2026-10-01",
-  "rd:t3_1wukg60": "2026-10-01"
+  "rd:t3_1wukg60": "2026-10-01",
+  "rs:https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdjY1M05PVnNYVHlzWTNaWXBKUGtBMUtsQlpncEVzTmRrUkY3VnhVYnZHaVQ3OUhweU5HeEhuazdjNmhkVjZKc3g4dUZ2MG9rTjJHdmxldlBCQklRWm1uMjhaNDBKWVkxUDF2U2dwdw?oc=5": "2026-10-01",
+  "rs:https://news.google.com/rss/articles/CBMi6ANBVV95cUxOd05VX2JxTnlRY0hOaVpoMjNBRlNpMmYzOVFVYzVtbG5BMkhpeFUzX3lYR3R5TXY1MFNFM0c3OUdXNTJWaWtYVm9Bd2pfalg1M056Xy0wWHZRT2FFRnNrblMxcFF2M1VUbTF6a1I5Zm9Fd3BwWGFhZ0pDQ2RZcWRzZ25kWXRWajF6WlduOTQtc1lDOWxpclMxUFB3NWhOY21kNE1rVlhyR3YxV0xncHBkRURFQWkzS2lBdjg1dnFoaEtMX1FnNE5nT3ItamljekFPY1k3WGNKYlozYm5rNVE5S3YtS2U4aFA5bDBxT3pHWE5iQ0J6VkkxYkhSZHdyQXVGMmVYR2NxR1d0ODU5bldwS2JSX0I4eEFYdFducU1kNVA1QmVyaUxsRXZRR09OeV9iSWY2TFo3Tm9jeXdSdGt3RE9PU0ItUVNlQWt1UFcwTmVWRXpyb1VjSDRjMDdMRkRjTzFmdjVvMVNhZFN4Q24xdEtiT2ZPc3pobWlBaHUwdkd4T2JvanpTaFlBTzhWQnRrWVkxU3h6cE90d3kxaUpsN3dzYndRNWd5Q0tMMTdfLTFvU2RLcHNkalpGanlzRW5UVXNVMEUtMlVOVkplMjBlMVY5UnktVlhkN2xNRlN6WjB5R29aLUJCaw?oc=5": "2026-10-01",
+  "rs:https://masdarak.com/home-finance/%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7%d9%8b-%d9%84%d8%b4/": "2026-10-01",
+  "rs:https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmZ3ZzAwbmlscy11dEhkVUJDX3luanllQUNmR3BXSGE2MnZFVjJ3LXVQOGlaLWFHNVlKODVqMWhPYUZhaXpRd0VuTW1tSWt5VVIxaGRLRVhmUXRaYTdoMVFOdUVXWER4RmJmWG8zNS1yZkdXV3Q4VGdVUUp1NUtRZDhMeEhWYjhRS0IybG1uMXhhTlh6R1JIeVlUTUExRVlkd21N?oc=5": "2026-10-01",
+  "rd:t3_1wuuzpw": "2026-10-01",
+  "rd:t3_1wusfmh": "2026-10-01",
+  "yt:PitU7-5trSU": "2026-10-01",
+  "rd:t3_1wtys42": "2026-10-01"
  }
 }
