@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-02T12:42:43Z",
- "newThisRun": 6,
+ "generatedAt": "2026-10-02T22:17:41Z",
+ "newThisRun": 8,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
@@ -58,25 +58,70 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 24,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1ww1w42",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Sports city - best buidlings to live and rent",
+   "text": "   Hi there, what are the best buildings in Sport city.   I am looking to rent 1 bedroom with these rules in mind.   1- open view not on the canal (golf view is perfect).   2- Dewa not emicool or empower.     Building quality to be good (thick walls)     Can you please suggest the best buildings you tried and lived in that match these requirement?     &#32; submitted by &#32;   /u/Status_Blacksmith523       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1ww1w42/sports_city_best_buidlings_to_live_and_rent/",
+   "date": "2026-10-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-02T22:17:05Z"
+  },
+  {
+   "id": "rd:t3_1wvycvh",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Golden visa through property",
+   "text": "   Hello I bought a house for 4.36M AED with mortgage. How can I check if I am eligible for golden visa ? And how to apply? Is it only through DLD Cube ? all information related to the process is very much welcome ! Thank you      &#32; submitted by &#32;   /u/Green-Tap-7921       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wvycvh/golden_visa_through_property/",
+   "date": "2026-10-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-02T22:17:05Z"
+  },
+  {
+   "id": "rd:t3_1wvsgd2",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Remodeling contractor",
+   "text": "   I hired a remodeling contractor to do some repair and also do the painting of my property to make it ready for my tenant. They were supposed to finish in 3 days and at the end of the third day they said we are done. I went for inspection and noticed a very very poor job in painting. Even a new painter could do a better job. They also missed few other things they said they will do in the quote. Contractor said it is a touch up work but this touch up work added another whole day to the timeline. I also had to stay with them whole day to supervise them and literally wasted 10 hours of my time ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wvsgd2/remodeling_contractor/",
+   "date": "2026-10-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-02T22:17:05Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjctWE5iRTRtd0dkNmRWM1VvLTRUUFZxbm9abS1KQVBqaHV3YVFIbWRxajl1dzJZU2JkVlhYaG1aWUdaYk11S0hIWkZsNC1wZzgydGxOTmNiSXBhb1lGbWhHNFVQRFc3b09RbmxZbFIxZ28zYzVJcEItZ0dyQlp4VnBxNXhHUGhBVkJwXzZBaWJyd0YwWUJoQ09uVV9GS1pDLVhOM1piQ3FGRl9McndWcG9VLUFWWWJRVXVUaHNmLWlBZ2dyYlNmZGo2QTXSAd8BQVVfeXFMUGg2WFV2OWdyMkt3NnYyNnd5RllfRF9HbXVWV3VXSi1yVjBvdDFLVnY3Ni1xcjhEX05HQWJENnFFOGpkUjNQcjItWU15c1Y2ZWZPcGJta3Y2NFJma2MzODF1U3JtOUFIZE5GVURxdXVhT0R5TzJTUlhCeV9Yb3VPMEx2Q2hPUFIwWlUtOFRJNWFpc1Noa0F5QkJTZ0tSZFNGNlhWOW9BYVFlUWN1SXBrVjlXYmNDNXB3clZYYllzUzJlMXNYcnVnSVdfeGZ4RmF4cnpqSENiWEp0V04yc04zOA?oc=5",
    "platform": "RSS",
@@ -3776,51 +3821,6 @@
    "title": "🔥 OFF-MARKET DEAL | SKY HILLS | HRE",
    "text": "   I have an  off-market studio  available in Sky Hills by HRE.   • 445 SQFT / 41.4 SQM  • Middle Floor  • Pool View  • Ready to Move  •  Original Price: AED 640K + DLD   •  Seller Paid 50% Already   • Buyer now needs to complete the remaining payment   💰  Deal Price: AED 665,000    📈 Current deals in the building are around  AED 700K–1M .   This is a  direct off-market opportunity  at AED 665K.   📩  Serious buyers only — DM for details.      &#32; submitted by &#32;   /u/Significant_Bass905       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1woxnvy/offmarket_deal_sky_hills_hre/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wox4k2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking to rent .. what’s up with realtors ?",
-   "text": "   Why are they not answering WhatsApp queries?  Why is the unit available for more than four months but they’re not eager to rent it to you ?   I’m messaging with FOUR realtors about four different properties and none of them is responsive .  Literally, none of them actually respond to a message immediately, I have to actually remind them .   Is the market so great? Are they getting so many requests? They don’t know what to do  Are they getting paid so well they don’t want any more customers?   I’m genuinely confused , because I really do want a property soon but I literally can’t get someone",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wox4k2/looking_to_rent_whats_up_with_realtors/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wox2pb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "SOBHA SANCTUARY | THE WILLOWS | 4BR GARDEN VILLA",
-   "text": "   If you’ve been waiting for an  entry-level 4BR villa in Sobha Sanctuary , this is worth looking at.  🌿  The Willows | Type T4B   🏡 4BR Garden Villa  📐  2,459.02 sq.ft saleable area   💰  AED 3.996M   📊  AED 1,625/sq.ft   📅  May 2030 handover   🚗 Ground-floor bedroom + private garden + 2-car garage   💳  20/80 payment structure     💰 Payment Structure    20%:  AED 799,182   80%:  AED 3,196,726 at handover   The current availability shows  only 7 units at this entry-level price point .   This is positioned as an  end-user focused 4BR garden villa , rather than a speculative investment pitch.   ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wox2pb/sobha_sanctuary_the_willows_4br_garden_villa/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wow8et",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "DUBAI VILLAS FOR RENT",
-   "text": "   For RENT    📍Maple, Dubai hills estate   4 BR plus maid   Unfurnished    * 255k AED flexible cheques *   📍Maple, Dubai hills estate   4 BR plus maid   Unfurnished    Type 2E   * 260k AED flexible cheques *   📍Maple, Dubai hills estate   4 BR plus maid   Furnished    Corner   Green belt   * 330k AED, one cheque only *   DM for more.      &#32; submitted by &#32;   /u/ritikaalloy       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wow8et/dubai_villas_for_rent/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
