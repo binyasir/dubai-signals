@@ -1,19 +1,19 @@
 {
- "generatedAt": "2026-10-02T05:43:56Z",
- "newThisRun": 5,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-02T12:42:43Z",
+ "newThisRun": 6,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 5,
-  "reddit": 194,
-  "rss": 51
+  "youtube": 6,
+  "reddit": 192,
+  "rss": 52
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 13,
+   "error": null
   },
   {
    "source": "YouTube Driven Properties",
@@ -22,21 +22,21 @@
    "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 500"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 6,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -72,11 +72,41 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjctWE5iRTRtd0dkNmRWM1VvLTRUUFZxbm9abS1KQVBqaHV3YVFIbWRxajl1dzJZU2JkVlhYaG1aWUdaYk11S0hIWkZsNC1wZzgydGxOTmNiSXBhb1lGbWhHNFVQRFc3b09RbmxZbFIxZ28zYzVJcEItZ0dyQlp4VnBxNXhHUGhBVkJwXzZBaWJyd0YwWUJoQ09uVV9GS1pDLVhOM1piQ3FGRl9McndWcG9VLUFWWWJRVXVUaHNmLWlBZ2dyYlNmZGo2QTXSAd8BQVVfeXFMUGg2WFV2OWdyMkt3NnYyNnd5RllfRF9HbXVWV3VXSi1yVjBvdDFLVnY3Ni1xcjhEX05HQWJENnFFOGpkUjNQcjItWU15c1Y2ZWZPcGJta3Y2NFJma2MzODF1U3JtOUFIZE5GVURxdXVhT0R5TzJTUlhCeV9Yb3VPMEx2Q2hPUFIwWlUtOFRJNWFpc1Noa0F5QkJTZ0tSZFNGNlhWOW9BYVFlUWN1SXBrVjlXYmNDNXB3clZYYllzUzJlMXNYcnVnSVdfeGZ4RmF4cnpqSENiWEp0V04yc04zOA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Adil Faridi: Turning uncertainty into opportunity in Dubai's real estate market - Gulf News",
+   "text": " Adil Faridi: Turning uncertainty into opportunity in Dubai's real estate market &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjctWE5iRTRtd0dkNmRWM1VvLTRUUFZxbm9abS1KQVBqaHV3YVFIbWRxajl1dzJZU2JkVlhYaG1aWUdaYk11S0hIWkZsNC1wZzgydGxOTmNiSXBhb1lGbWhHNFVQRFc3b09RbmxZbFIxZ28zYzVJcEItZ0dyQlp4VnBxNXhHUGhBVkJwXzZBaWJyd0YwWUJoQ09uVV9GS1pDLVhOM1piQ3FGRl9McndWcG9VLUFWWWJRVXVUaHNmLWlBZ2dyYlNmZGo2QTXSAd8BQVVfeXFMUGg2WFV2OWdyMkt3NnYyNnd5RllfRF9HbXVWV3VXSi1yVjBvdDFLVnY3Ni1xcjhEX05HQWJENnFFOGpkUjNQcjItWU15c1Y2ZWZPcGJta3Y2NFJma2MzODF1U3JtOUFIZE5GVURxdXVhT0R5TzJTUlhCeV9Yb3VPMEx2Q2hPUFIwWlUtOFRJNWFpc1Noa0F5QkJTZ0tSZFNGNlhWOW9BYVFlUWN1SXBrVjlXYmNDNXB3clZYYllzUzJlMXNYcnVnSVdfeGZ4RmF4cnpqSENiWEp0V04yc04zOA?oc=5",
+   "date": "2026-10-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-02T12:42:42Z"
+  },
+  {
+   "id": "yt:qW1vxBhN1gI",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Are Branded Residences Worth the Premium in Dubai?",
+   "text": "What makes a branded residence worth the premium?\n\nIn this video, our Senior Off-Plan Consultant, Josh Pargin joins Off Plan Sales Director, Josh Buckle to break down the world of branded residences and what buyers should consider before investing.\n\nFrom hospitality brands such as Ritz-Carlton and Hilton to standalone residences associated with watches, cars and football clubs, Josh explains what a brand actually adds to a property and why some branded residences may hold their value better than others.\n\nIn this episode:\n- What exactly is a branded residence?\n- Why developers partner with esta",
+   "url": "https://www.youtube.com/watch?v=qW1vxBhN1gI",
+   "date": "2026-10-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "23 views",
+   "firstSeenAt": "2026-10-02T12:42:07Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE96ekdzOW43QWU5b1dRT2JSWTJtXzM3cmtsZjZ2ZzhuVFR0ckJQXzVBTGd3WlloQW5vdjF5d2JSdXZ2aTMyakxCV1U5WndQalptMzlOckpMbnM4WDI3d1BMRTFYQVQ3ZlY5aFE?oc=5",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "DUBAI VILLAS FOR RENT",
    "text": "   For RENT    📍Maple, Dubai hills estate   4 BR plus maid   Unfurnished    * 255k AED flexible cheques *   📍Maple, Dubai hills estate   4 BR plus maid   Unfurnished    Type 2E   * 260k AED flexible cheques *   📍Maple, Dubai hills estate   4 BR plus maid   Furnished    Corner   Green belt   * 330k AED, one cheque only *   DM for more.      &#32; submitted by &#32;   /u/ritikaalloy       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wow8et/dubai_villas_for_rent/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wotwc7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai vs Abu Dhabi Golden Visa",
-   "text": "   Did you know? You will not get an Abu Dhabi Golden Visa by just investing in an AED 2M worth of property?   #propertywithsonika #abudhabi #realestate #dubai     &#32; submitted by &#32;   /u/propertywithsonika       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wotwc7/dubai_vs_abu_dhabi_golden_visa/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wotkr1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Please Stop Spamming Me",
-   "text": "   Dear Real Estate Companies and Agents,   I bought a property 15 years ago. My block list is already in 1000s yet I am still getting calls every day.    I am going to clear my block list and report each cold call / whatsapp msg to DLD starting next week. I had enough, I will really spend time on this. I am giving you a heads up.   Please search and remove this from your lists: 389009   Thank you!   MODs: I don&#39;t know if it is breaking rules or not, but it is technically not a number. However, I also understand this message is not fitting your format.     &#32; submitted by &#32;   /u/Cou",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wotkr1/please_stop_spamming_me/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
