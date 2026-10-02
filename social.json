@@ -1,19 +1,19 @@
 {
- "generatedAt": "2026-10-01T22:44:04Z",
- "newThisRun": 14,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-02T05:43:56Z",
+ "newThisRun": 5,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 196,
-  "rss": 49
+  "reddit": 194,
+  "rss": 51
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "YouTube Driven Properties",
@@ -22,21 +22,21 @@
    "error": null
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 500"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 24,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 23,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE96ekdzOW43QWU5b1dRT2JSWTJtXzM3cmtsZjZ2ZzhuVFR0ckJQXzVBTGd3WlloQW5vdjF5d2JSdXZ2aTMyakxCV1U5WndQalptMzlOckpMbnM4WDI3d1BMRTFYQVQ3ZlY5aFE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "كيف كان أداء سوق العقارات في دبي خلال الـ 9 أشهر الأولى من 2026؟ - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+   "text": " كيف كان أداء سوق العقارات في دبي خلال الـ 9 أشهر الأولى من 2026؟ &nbsp;&nbsp; ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96ekdzOW43QWU5b1dRT2JSWTJtXzM3cmtsZjZ2ZzhuVFR0ckJQXzVBTGd3WlloQW5vdjF5d2JSdXZ2aTMyakxCV1U5WndQalptMzlOckpMbnM4WDI3d1BMRTFYQVQ3ZlY5aFE?oc=5",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-02T05:43:56Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTdfaHR0QTRqbTBaVTV5Q292Wnp3a1NOb1EzOXotOXRZZ3pxc3Q4ZWU1N2M5aUdwOHU3dDNiMlE1WmRzSUVtTG5VbmM4TnZCeDFtdnFnQjF5TlpMMkR2cFd2OC02elBmeVBWMmdpXzByRjV1Y05jc0NrZVVLRldFRXhtbURlbVhyeVZHX1ptSlNwZXprbk9rajd4V3JadWl3Y1Jkdg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Why today's Dubai property boom isn't the 2008 bubble again - Around Prague",
+   "text": " Why today's Dubai property boom isn't the 2008 bubble again &nbsp;&nbsp; Around Prague ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUTdfaHR0QTRqbTBaVTV5Q292Wnp3a1NOb1EzOXotOXRZZ3pxc3Q4ZWU1N2M5aUdwOHU3dDNiMlE1WmRzSUVtTG5VbmM4TnZCeDFtdnFnQjF5TlpMMkR2cFd2OC02elBmeVBWMmdpXzByRjV1Y05jc0NrZVVLRldFRXhtbURlbVhyeVZHX1ptSlNwZXprbk9rajd4V3JadWl3Y1Jkdg?oc=5",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-02T05:43:55Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaHVWV1VUNTMtMzE4OHJ1TDF1T0FGWm4xNUE0RTNpbEFlNlJNazc5YUNCbEJxNEFGMmk0cXRQS3REU2xWRUhqMGV0blNyM0NBUERnZzVjQkNFVDdWeWJnNVNDRzY5TWhrb3lhV3Y1UjlvWkhrU1IwMWtXUjZqWW9aZTBlb0Eyb2ltc2J3OERCQmZQZnpZd2pwQjJCVThFUmthSFRCazFWVktDM0x5czlVVHBGUWhnZ0pHbjFHcmI5YlFfUzU2RkpJQWJNZUdGRUpxUlFPR1FjVGxiRzVKbkNaQlhGZjVFY3BHeTY0aG9UNTVEdlRrMzhjeG13?oc=5",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "Please Stop Spamming Me",
    "text": "   Dear Real Estate Companies and Agents,   I bought a property 15 years ago. My block list is already in 1000s yet I am still getting calls every day.    I am going to clear my block list and report each cold call / whatsapp msg to DLD starting next week. I had enough, I will really spend time on this. I am giving you a heads up.   Please search and remove this from your lists: 389009   Thank you!   MODs: I don&#39;t know if it is breaking rules or not, but it is technically not a number. However, I also understand this message is not fitting your format.     &#32; submitted by &#32;   /u/Cou",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wotkr1/please_stop_spamming_me/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wot5y6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4 bedroom townhouse | Damac Lagoons | Budget AED 2.4 M",
-   "text": "   Posting as: Buyer   Property type: 4 bedroom townhouse   Preferred area: Damac Lagoons - Malta &amp; Costa Brava   Budget: AED 2.4 M   Bedrooms: 4   Preferred size: NA   Additional requirements: Ready unit, mortgageable. Mortgage pre-approval available for AED 2.4 M. DM if you have availability     &#32; submitted by &#32;   /u/3ERL1N       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wot5y6/4_bedroom_townhouse_damac_lagoons_budget_aed_24_m/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1woqgqg",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Labor Camp |Jebel Ali |AED 54,000,000",
-   "text": "   &#x200B;   Posting as: Agent   Property type: Labor Camp   Area/community: Jebel Ali, Dubai   Building/project: N/A   Price: AED 54,000,00   Bedrooms: 172 rooms   Size (sq ft): 65,617 Sq.ft   Status: Ready   Images/video: Can be Viewed   Additional details:   Ownership: Freehold   Plot Area: 6,096 Sq.m (65,617 Sq.ft)   Building Footprint: 5,707 Sq.m   G+3 + Roof   Approximately 172 Accommodation Rooms   Dedicated Parking &amp; Bus Bays   Dining Hall &amp; Commercial Kitchen   Laundry Facilities   Gym &amp; Recreation Area   Prayer Facilities   Full Utility &amp; Service Infrastructure   Inv",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1woqgqg/labor_camp_jebel_ali_aed_54000000/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
