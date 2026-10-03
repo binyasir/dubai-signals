@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-02T22:17:41Z",
- "newThisRun": 8,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-03T05:22:59Z",
+ "newThisRun": 4,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 13,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 6,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -58,25 +58,40 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 24,
+   "items": 20,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1ww7fce",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Looking for a good gym in Jaddaf",
+   "text": "   Hey everyone, I’m looking for recommendations for a decent gym in Jaddaf.   The gym in my apartment is honestly less than basic — very limited equipment, and some of the machines are already broken. 😅 I’m looking for somewhere with a good range of weights and machines, decent maintenance, and preferably not insanely expensive     &#32; submitted by &#32;   /u/wildnullifier       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1ww7fce/looking_for_a_good_gym_in_jaddaf/",
+   "date": "2026-10-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T05:22:25Z"
+  },
   {
    "id": "rd:t3_1ww1w42",
    "platform": "Reddit",
@@ -3806,21 +3821,6 @@
    "title": "five agents, same unit, five different prices. which one is real?",
    "text": "   i sell in abu dhabi, so weigh all of this with that in mind. this is about how the listing side works, not an offer of anything.   if you have shopped for a resale here you have had this happen. the same apartment, same tower, same floor, reaches you from four or five different people, and every one of them quotes a different price. most buyers read that spread as negotiation. it usually is not.   what is happening most of the time is that one person has the unit and the rest have a screenshot of it. a broker sees it in a group, forwards it on, and prices it at whatever he thinks gets him a",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1woxte5/five_agents_same_unit_five_different_prices_which/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1woxnvy",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "🔥 OFF-MARKET DEAL | SKY HILLS | HRE",
-   "text": "   I have an  off-market studio  available in Sky Hills by HRE.   • 445 SQFT / 41.4 SQM  • Middle Floor  • Pool View  • Ready to Move  •  Original Price: AED 640K + DLD   •  Seller Paid 50% Already   • Buyer now needs to complete the remaining payment   💰  Deal Price: AED 665,000    📈 Current deals in the building are around  AED 700K–1M .   This is a  direct off-market opportunity  at AED 665K.   📩  Serious buyers only — DM for details.      &#32; submitted by &#32;   /u/Significant_Bass905       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1woxnvy/offmarket_deal_sky_hills_hre/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
