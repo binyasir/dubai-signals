@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-03T16:21:01Z",
- "newThisRun": 9,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-03T21:21:15Z",
+ "newThisRun": 6,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
-  "reddit": 187,
-  "rss": 57
+  "reddit": 186,
+  "rss": 58
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 8,
+   "items": 9,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "error": "HTTP 429"
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,55 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 24,
+   "items": 22,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d9%87%d9%8a%d9%85%d9%86%d8%aa-%d8%b9%d9%84%d9%89-%d9%85/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إليكم شركات التطوير العقاري التي تصدرت مبيعات عقارات دبي في الربع الثالث 2026",
+   "text": "تصدرت شركة عزيزي العقارية مبيعات شركات التطوير العقاري في دبي خلال الربع الثالث من عام 2026، بعد أن جاءت في&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d9%87%d9%8a%d9%85%d9%86%d8%aa-%d8%b9%d9%84%d9%89-%d9%85/",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T21:21:13Z"
+  },
+  {
+   "id": "rd:t3_1wwwyvb",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Accommodation suggestions",
+   "text": "   Hi everyone!   I’ve arrived in Dubai today and was hoping someone could give me some advice.   I am starting my very first Dubai job on Monday, and I need to live somewhere until the New Year when my wife joins me. I also don’t want to commit to a long term accommodation quite yet as who knows how things will go with the new job!   Do you know what the best options are for rental options for only three months? Airbnb seems expensive. My new job is near the Burj Khalifa and I would like to avoid renting a car for now. Something around the 5,000-7,000 AED per month would be ideal. It would on",
+   "url": "https://www.reddit.com/r/dubai/comments/1wwwyvb/accommodation_suggestions/",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T21:20:48Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi4wRBVV95cUxQVWQyRjRMV3F4YW1QRmRyUUluWF9Ycm5STE5TZHBaclZHaEFtYjZnRHBhM2RuaTF6QWh6R2FSSXRQdWhLY3pEYWxvU3JXQmEwSHQ4OGhMQzFVVFp0TkxBcDM0dGYyLW9uV2ItRzRFU0tGbXhVbS03Wm5YTnZyTnVhLUV3TThVenVHczRHYlBVY2FoMWZsQm04Qnd2RFViVE9BXzRLSWU4b29MWW50UXo2elpsTzNFYWEtRDlRcEJLVUVveDNqVGJpS3FyQ3AyNnVER1RvOFEzaGg2ZU9JSG5sdi1BdXNIMlNQeXpaeU4tQ3A3RWdfUnRGZ2JZbkNnblk5Y0NPMFc5WnVhOWEtb01iMm9DdnpGamh5aHBVV3MtNDZBVGdnc1VNY1QteG5KV01wMl9XYkc5am5abGs1Z2M0eUpsaWhFNlFKYmJqZkRXdy1BbUV6Z1lQTVlYYUxnTnZqZlhoZFVBeHZNTnhSM015TlItNW9hdlRBNUtZTC00Y1NhSHpjazRXbFhHVFlYNF9IZkVTYTI5ODZiSW5wOTVYdWphOHBKWDZlR2VYUU8tZHAxQUc2TjhyNndOa2cyOXctdk1pN3RxR2JDN2ZBN2xVNlk3U29odXVEeWpIMnpkSjhxQXZDNkxGOTFKSW80QTNvaHJQM3dOMmRwaUNOTE5GY0YtSjhiWE9MT183elp3WUJ3OURKdkM1cHJ1TXdqRmJRVmdLdW1MTGV4T2IxeldKSmlxc2dTUHJWSHV1b0NlZWlOdmlGbHhJa0dOX3hJM1UycEp5dGFpRWdqMU1wdjdicEU3RQ?oc=5",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "4BR Townhouse | Damac Hills 2 | AED 2,400,000⁠",
    "text": "   Posting as: Agent  Property type: Townhouse  Area/community: Damac Hills 2 (Akoya)  Building/project: Verona  Price: AED 2,400,000  Bedrooms: 4  Size (sq ft): 2415  Status: Ready  Images/video: (optional)  Additional details: Middle corner unit. Plot size: 1,842.26 sq. ft. Built-Up Area (BUA): 2,415.33 sq. ft.     &#32; submitted by &#32;   /u/Gold-005       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wp1e5p/4br_townhouse_damac_hills_2_aed_2400000/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wp1ce8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Abu Dhabi real estate questions, don't hallucinate - Ask Robin",
-   "text": "    https://proprobin.com  - now you can connect your Claude and ask questions, look up a project&#39;s DARI status, APREX pricing and brochures, find and compare projects by district or budget, check market trends, search raw sales transactions and even generate marketing materials for Instagram, Facebook, reddit and more.   What are you building?     &#32; submitted by &#32;   /u/proprobin       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wp1ce8/abu_dhabi_real_estate_questions_dont_hallucinate/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wp0crc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Danube Special 20/70 Payment Plan for the First Time in Dubai Real Estate | 26–27 September 2026",
-   "text": "    A limited two-day opportunity from Danube Properties is introducing a new way to structure your Dubai property purchase.    For  26 and 27 September 2026 only , eligible Danube Properties homes are available under a special  20/70 payment plan  designed around greater capital flexibility. Buyers can secure a property with  20% paid during the initial 60 days, make 0% payments during construction, and defer 70% until handover .   The offer also includes a  10% rebate , reducing the effective purchase cost under the stated terms.    How the Danube 20/70 Payment Plan Works     10% on Booking ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wp0crc/danube_special_2070_payment_plan_for_the_first/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
