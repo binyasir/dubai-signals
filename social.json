@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-03T11:43:47Z",
+ "generatedAt": "2026-10-03T16:21:01Z",
  "newThisRun": 9,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
-  "reddit": 189,
-  "rss": 55
+  "reddit": 187,
+  "rss": 57
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 8,
    "error": null
   },
   {
@@ -66,17 +66,77 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 24,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4wRBVV95cUxQVWQyRjRMV3F4YW1QRmRyUUluWF9Ycm5STE5TZHBaclZHaEFtYjZnRHBhM2RuaTF6QWh6R2FSSXRQdWhLY3pEYWxvU3JXQmEwSHQ4OGhMQzFVVFp0TkxBcDM0dGYyLW9uV2ItRzRFU0tGbXhVbS03Wm5YTnZyTnVhLUV3TThVenVHczRHYlBVY2FoMWZsQm04Qnd2RFViVE9BXzRLSWU4b29MWW50UXo2elpsTzNFYWEtRDlRcEJLVUVveDNqVGJpS3FyQ3AyNnVER1RvOFEzaGg2ZU9JSG5sdi1BdXNIMlNQeXpaeU4tQ3A3RWdfUnRGZ2JZbkNnblk5Y0NPMFc5WnVhOWEtb01iMm9DdnpGamh5aHBVV3MtNDZBVGdnc1VNY1QteG5KV01wMl9XYkc5am5abGs1Z2M0eUpsaWhFNlFKYmJqZkRXdy1BbUV6Z1lQTVlYYUxnTnZqZlhoZFVBeHZNTnhSM015TlItNW9hdlRBNUtZTC00Y1NhSHpjazRXbFhHVFlYNF9IZkVTYTI5ODZiSW5wOTVYdWphOHBKWDZlR2VYUU8tZHAxQUc2TjhyNndOa2cyOXctdk1pN3RxR2JDN2ZBN2xVNlk3U29odXVEeWpIMnpkSjhxQXZDNkxGOTFKSW80QTNvaHJQM3dOMmRwaUNOTE5GY0YtSjhiWE9MT183elp3WUJ3OURKdkM1cHJ1TXdqRmJRVmdLdW1MTGV4T2IxeldKSmlxc2dTUHJWSHV1b0NlZWlOdmlGbHhJa0dOX3hJM1UycEp5dGFpRWdqMU1wdjdicEU3RQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "عقارات دبي في الربع الثالث.. زيادة المعروض تضبط المنافسة - صحيفة الخليج",
+   "text": " عقارات دبي في الربع الثالث.. زيادة المعروض تضبط المنافسة &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQVWQyRjRMV3F4YW1QRmRyUUluWF9Ycm5STE5TZHBaclZHaEFtYjZnRHBhM2RuaTF6QWh6R2FSSXRQdWhLY3pEYWxvU3JXQmEwSHQ4OGhMQzFVVFp0TkxBcDM0dGYyLW9uV2ItRzRFU0tGbXhVbS03Wm5YTnZyTnVhLUV3TThVenVHczRHYlBVY2FoMWZsQm04Qnd2RFViVE9BXzRLSWU4b29MWW50UXo2elpsTzNFYWEtRDlRcEJLVUVveDNqVGJpS3FyQ3AyNnVER1RvOFEzaGg2ZU9JSG5sdi1BdXNIMlNQeXpaeU4tQ3A3RWdfUnRGZ2JZbkNnblk5Y0NPMFc5WnVhOWEtb01iMm9DdnpGamh5aHBVV3MtNDZBVGdnc1VNY1QteG5KV01wMl9XYkc5am5abGs1Z2M0eUpsaWhFNlFKYmJqZkRXdy1BbUV6Z1lQTVlYYUxnTnZqZlhoZFVBeHZNTnhSM015TlItNW9hdlRBNUtZTC00Y1NhSHpjazRXbFhHVFlYNF9IZkVTYTI5ODZiSW5wOTVYdWphOHBKWDZlR2VYUU8tZHAxQUc2TjhyNndOa2cyOXctdk1pN3RxR2JDN2ZBN2xVNlk3U29odXVEeWpIMnpkSjhxQXZDNkxGOTFKSW80QTNvaHJQM3dOMmRwaUNOTE5GY0YtSjhiWE9MT183elp3WUJ3OURKdkM1cHJ1TXdqRmJRVmdLdW1MTGV4T2IxeldKSmlxc2dTUHJWSHV1b0NlZWlOdmlGbHhJa0dOX3hJM1UycEp5dGFpRWdqMU1wdjdicEU3RQ?oc=5",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T16:21:00Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiuwRBVV95cUxOenhYY2swaGJRYnU4YjE1ZHRrVHFIRFlVdTJkVDFhYl83MVY4cjNmREpNVmRrZExOSmxhQVRiQ3FENUxVcU5HLTZjM2k3cFdGdnN1UktkV0R1R0lOdGV5RWEtVnhhZEhRYXE0T283NWR1OTZsMmdLM0JsT0MzR0NmcTJlYWFDQjNZVVBJSG05VTJMVkZ5dkdYa3RveXUyM0JSRzh3akRZN284Wk1iZGxDYVpPVmNWSWhxVDYyZTBoT2tUM0ExSTVPZUp5eWZWOFJ0QVVWODExVWlraVF6YmtScGtITjRNVTBldkJLUEtJUWdESGltRzkxcElJbWFfRFFfczd3dHlVVXdfY1YxNWVBZ3hrWHM1alRkVHJYa2ZKT1hRQUJ4bFRMS2JMSGpRU1N6MUZ3S3NpNDdOaWdqZEtuY2Nkc0dGNkctZHlaemNrTnlNRUZvQ1Z6U2R6RWhkV3c0N1oyTUExV0hQMVdHS2NHLTg3VC1OX2w2NWhfQzhMMVFaYW82U3ZJNFBmS2NUc2hDemU1QWhFZl94UXdQYWJ6NERYQ3pUenFHMXFoMjBKTGpXdjd6OFlESTdXMzJEUUhfbngxclU0NmpDazJNRHI2YkdpaDNtQjlZNzdtMWVIbWZLZUtkX3Jjdk03ZmZtbGRvT2g0UG9VVkpDLThsb1BTdXNtc1BsNTdtZnBleExvUzZqUmZLb09VVURFR1dZZ1ZQNVVrUUd0Nlp2N2psUFlCYU94ZHJGOGRpNUZz?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 - موقع 24",
+   "text": " عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 &nbsp;&nbsp; موقع 24 ",
+   "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxOenhYY2swaGJRYnU4YjE1ZHRrVHFIRFlVdTJkVDFhYl83MVY4cjNmREpNVmRrZExOSmxhQVRiQ3FENUxVcU5HLTZjM2k3cFdGdnN1UktkV0R1R0lOdGV5RWEtVnhhZEhRYXE0T283NWR1OTZsMmdLM0JsT0MzR0NmcTJlYWFDQjNZVVBJSG05VTJMVkZ5dkdYa3RveXUyM0JSRzh3akRZN284Wk1iZGxDYVpPVmNWSWhxVDYyZTBoT2tUM0ExSTVPZUp5eWZWOFJ0QVVWODExVWlraVF6YmtScGtITjRNVTBldkJLUEtJUWdESGltRzkxcElJbWFfRFFfczd3dHlVVXdfY1YxNWVBZ3hrWHM1alRkVHJYa2ZKT1hRQUJ4bFRMS2JMSGpRU1N6MUZ3S3NpNDdOaWdqZEtuY2Nkc0dGNkctZHlaemNrTnlNRUZvQ1Z6U2R6RWhkV3c0N1oyTUExV0hQMVdHS2NHLTg3VC1OX2w2NWhfQzhMMVFaYW82U3ZJNFBmS2NUc2hDemU1QWhFZl94UXdQYWJ6NERYQ3pUenFHMXFoMjBKTGpXdjd6OFlESTdXMzJEUUhfbngxclU0NmpDazJNRHI2YkdpaDNtQjlZNzdtMWVIbWZLZUtkX3Jjdk03ZmZtbGRvT2g0UG9VVkpDLThsb1BTdXNtc1BsNTdtZnBleExvUzZqUmZLb09VVURFR1dZZ1ZQNVVrUUd0Nlp2N2psUFlCYU94ZHJGOGRpNUZz?oc=5",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T16:21:00Z"
+  },
+  {
+   "id": "rd:t3_1wwmu3r",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Renting with no Emirates ID",
+   "text": "   I’m frequently in Dubai but will be living there full time in November.    I’ve gone apartment hunting a couple times. My question is how does one rent with no EID?   When I move I’ll enter on an Entry Permit for then I’ll go apply for the residency visa and EID but that takes time to process.    I want to line my apartment up and pay for it so when I arrive I can go there but seems I can’t without an EID.    How do I do this? Thanks 🙏🏼      &#32; submitted by &#32;   /u/The_Dao_Father       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wwmu3r/renting_with_no_emirates_id/",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T16:20:25Z"
+  },
+  {
+   "id": "rd:t3_1wwmm4w",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Should I live in the studio I bought, or rent a cheaper studio to save cash?Need advice🙏",
+   "text": "    I recently bought a spacious, high-quality studio in Arjan.    My company gives me a housing allowance of AED 5,200+ per month if I move out of company housing.    there are two options and considering  •  Live in my own studio    Use my AED 5,200+ allowance to cover my mortgage and service charges directly.    •  Rent it out &amp; rent a cheaper studio for myself    Rent out my studio so the tenant’s rent covers my mortgage.      Then, use my allowance to rent a cheaper studio somewhere else for AED 3,000 – 4,000/month,      so I can pocket the extra AED 1,000+ as cash savings.     Curren",
+   "url": "https://www.reddit.com/r/dubai/comments/1wwmm4w/should_i_live_in_the_studio_i_bought_or_rent_a/",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T16:20:25Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMihAVBVV95cUxNbFpFX3pIcXpKLVIyOXFLSHJ4ZW5BdkRHSXZla3lfbjRFWVlCVG0tQWdVOFNvbk5LbWM1dnM2N3RySUVMTmJOckFwU0EyYW9rajBaYnhkUWpWYUJGRnlPMUZWNlZ3T29xQVVlRWR6YUtxWTJkRXd5QlowMEw5VkZ5MWItNjZQaXptaW5BWnRZRzlwRmZRcFB6Ql9zdG94d1c3OG03NzNJb1hJNzR5TDl3bGlyTHB5Z0MxbWNlLTlLQ29fVklMVlVmNFExNVc0b1VMMGVxTUF4S3hubDdCN1g1RFQwMDBXM0JvZU5iODVGSnlfbDZKZ0JGU0s5OVRhdnNabWM2NmpscEJFbDJHYThRYWlrdWhkcUMtSG9LRW9VaEhScmdMU2NOUmRnREMwdTdxLXlLSHVGQlQ0MkRnQlV2cTdEczdOdXZacUFlVzJvb2cwQmlNLUp1WVZETDlEVExmdWpzYlRhaDlXVVFveHY4VktKc3NKSE1iX2RiLTlzdU0tTldCYlp4cjJZSGpjbmtvdy03LXVWNGp1VXhtS0JyQTVfZzJGcWttVzhsaXBwNkdFbzZ6UEdhS3NnS05zWGhiOU5fZ1NHVnJORUYtUDhWV1NzeERhalRJWG5BNnF6aHZ4Q0FpTVRuTzlaNWx5Wll1VGNQV2FlQnRidllDbVRMZ3otalQxUWtEM0J6QmMxTVZzeXV2akl1R2ZDRXFPZVdLOGFyMFVWQncyb1p3aVhhSkhfWTY3bEtTOHNfUEV5THVzSl8xRm5SeFpxejZ0MVFmZGxac3ptT3lPRzFzY0JDbWtENDJMN3MySWlqUTViZ2lBTjlJWFNaanFxMEM3WHZNd0RjRw?oc=5",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "Danube Special 20/70 Payment Plan for the First Time in Dubai Real Estate | 26–27 September 2026",
    "text": "    A limited two-day opportunity from Danube Properties is introducing a new way to structure your Dubai property purchase.    For  26 and 27 September 2026 only , eligible Danube Properties homes are available under a special  20/70 payment plan  designed around greater capital flexibility. Buyers can secure a property with  20% paid during the initial 60 days, make 0% payments during construction, and defer 70% until handover .   The offer also includes a  10% rebate , reducing the effective purchase cost under the stated terms.    How the Danube 20/70 Payment Plan Works     10% on Booking ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wp0crc/danube_special_2070_payment_plan_for_the_first/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wp08fn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2BR Apartment |Al kifaf | Aed 3,400,000",
-   "text": "   Posting as: Owner    Property type: 2BHK    Area/community: Al kifaf wasl 1   Building/project: Park Gate Residences    Price: AED 3.4m   Bedrooms: 2   Size (sq ft): 1477   Status: Ready    Additional details: Furnished.   Contact for photos.      &#32; submitted by &#32;   /u/Mobile_Handle_3721       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wp08fn/2br_apartment_al_kifaf_aed_3400000/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wp06b7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1 bed | Emaar Beachfront | AED 2,750,000/-",
-   "text": "   Posting as: Agent  Property type: Apartment  Area / community: Emaar Beachfront  Building / project: Seapoint  Price: AED 2,75,000/-.   Bedrooms: 1 bed  Size  (sq ft)  – 730.39 sq ft  Status – Off plan (re-sale)  Original Price – AED 3,081,888/- + 4%  View – Full Sea View. Corner Unit.   Ready in 2028.     &#32; submitted by &#32;   /u/tarundxbrealtor       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wp06b7/1_bed_emaar_beachfront_aed_2750000/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wozz3x",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Would you consider buying a Dubai apartment directly on Sheikh Zayed Road if the payment plan was heavily weighted toward handover?",
-   "text": "   I’ve been looking at a new project from one of Dubai’s top developers, with:   • Marina, sea &amp; Jumeirah Islands views  • 30+ amenities  • Strategic location between Palm Jumeirah and the future Palm Jebel Ali  • Starting around AED 1.6M  • 20% upfront, 80% at handover    For buyers/investors only:  What would make you seriously consider a project like this? the location, developer, payment plan, or potential rental demand?  Genuinely interested in hearing from people who are actually looking to buy in Dubai.     &#32; submitted by &#32;   /u/FarCod6829       [link]   &#32;   [comments] ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wozz3x/would_you_consider_buying_a_dubai_apartment/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wozskr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2 BEDROOM | MAJAN | AED 125,000",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: Majan, Dubailand   Building/project: Tulip Oasis 10   Price: AED 125,000   Bedrooms: 2   Size (sq ft): 1,429   Furnishing: Unfurnished   Available from: 1st October   Cheques: 4   Additional details: Brand new unit. Spacious living/dining, closed kitchen with appliances, private balcony, built-in wardrobes, 1 covered parking space, bright interiors. Amenities: temperature-controlled pool, paddle area, poolside cabanas, gym, kids&#39; play area, landscaped outdoor spaces, 24/7 security &amp; CCTV. Near SMBZ Road, Global Village, ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wozskr/2_bedroom_majan_aed_125000/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
