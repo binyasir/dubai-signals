@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-03T05:22:59Z",
- "newThisRun": 4,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-03T11:43:47Z",
+ "newThisRun": 9,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
-  "reddit": 192,
-  "rss": 52
+  "reddit": 189,
+  "rss": 55
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 13,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 6,
    "error": null
   },
   {
@@ -66,17 +66,92 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 20,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMihAVBVV95cUxNbFpFX3pIcXpKLVIyOXFLSHJ4ZW5BdkRHSXZla3lfbjRFWVlCVG0tQWdVOFNvbk5LbWM1dnM2N3RySUVMTmJOckFwU0EyYW9rajBaYnhkUWpWYUJGRnlPMUZWNlZ3T29xQVVlRWR6YUtxWTJkRXd5QlowMEw5VkZ5MWItNjZQaXptaW5BWnRZRzlwRmZRcFB6Ql9zdG94d1c3OG03NzNJb1hJNzR5TDl3bGlyTHB5Z0MxbWNlLTlLQ29fVklMVlVmNFExNVc0b1VMMGVxTUF4S3hubDdCN1g1RFQwMDBXM0JvZU5iODVGSnlfbDZKZ0JGU0s5OVRhdnNabWM2NmpscEJFbDJHYThRYWlrdWhkcUMtSG9LRW9VaEhScmdMU2NOUmRnREMwdTdxLXlLSHVGQlQ0MkRnQlV2cTdEczdOdXZacUFlVzJvb2cwQmlNLUp1WVZETDlEVExmdWpzYlRhaDlXVVFveHY4VktKc3NKSE1iX2RiLTlzdU0tTldCYlp4cjJZSGpjbmtvdy03LXVWNGp1VXhtS0JyQTVfZzJGcWttVzhsaXBwNkdFbzZ6UEdhS3NnS05zWGhiOU5fZ1NHVnJORUYtUDhWV1NzeERhalRJWG5BNnF6aHZ4Q0FpTVRuTzlaNWx5Wll1VGNQV2FlQnRidllDbVRMZ3otalQxUWtEM0J6QmMxTVZzeXV2akl1R2ZDRXFPZVdLOGFyMFVWQncyb1p3aVhhSkhfWTY3bEtTOHNfUEV5THVzSl8xRm5SeFpxejZ0MVFmZGxac3ptT3lPRzFzY0JDbWtENDJMN3MySWlqUTViZ2lBTjlJWFNaanFxMEM3WHZNd0RjRw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "دبي توسّع اقتصاد «الترميز».. من العقارات والمعادن إلى أصول جديدة - صحيفة الخليج",
+   "text": " دبي توسّع اقتصاد «الترميز».. من العقارات والمعادن إلى أصول جديدة &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNbFpFX3pIcXpKLVIyOXFLSHJ4ZW5BdkRHSXZla3lfbjRFWVlCVG0tQWdVOFNvbk5LbWM1dnM2N3RySUVMTmJOckFwU0EyYW9rajBaYnhkUWpWYUJGRnlPMUZWNlZ3T29xQVVlRWR6YUtxWTJkRXd5QlowMEw5VkZ5MWItNjZQaXptaW5BWnRZRzlwRmZRcFB6Ql9zdG94d1c3OG03NzNJb1hJNzR5TDl3bGlyTHB5Z0MxbWNlLTlLQ29fVklMVlVmNFExNVc0b1VMMGVxTUF4S3hubDdCN1g1RFQwMDBXM0JvZU5iODVGSnlfbDZKZ0JGU0s5OVRhdnNabWM2NmpscEJFbDJHYThRYWlrdWhkcUMtSG9LRW9VaEhScmdMU2NOUmRnREMwdTdxLXlLSHVGQlQ0MkRnQlV2cTdEczdOdXZacUFlVzJvb2cwQmlNLUp1WVZETDlEVExmdWpzYlRhaDlXVVFveHY4VktKc3NKSE1iX2RiLTlzdU0tTldCYlp4cjJZSGpjbmtvdy03LXVWNGp1VXhtS0JyQTVfZzJGcWttVzhsaXBwNkdFbzZ6UEdhS3NnS05zWGhiOU5fZ1NHVnJORUYtUDhWV1NzeERhalRJWG5BNnF6aHZ4Q0FpTVRuTzlaNWx5Wll1VGNQV2FlQnRidllDbVRMZ3otalQxUWtEM0J6QmMxTVZzeXV2akl1R2ZDRXFPZVdLOGFyMFVWQncyb1p3aVhhSkhfWTY3bEtTOHNfUEV5THVzSl8xRm5SeFpxejZ0MVFmZGxac3ptT3lPRzFzY0JDbWtENDJMN3MySWlqUTViZ2lBTjlJWFNaanFxMEM3WHZNd0RjRw?oc=5",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T11:43:47Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OeVhSQWdYenJxSWhFYWlIRGZIeTljTTBmVGNjaDdoWHAwbk1INFRRdmFJUk1BZTByNVB6cGJVTF84amtvTnllNUJ3c2duQjF3eC1z?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 - شبكة تواصل الإخبارية",
+   "text": " عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 &nbsp;&nbsp; شبكة تواصل الإخبارية ",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OeVhSQWdYenJxSWhFYWlIRGZIeTljTTBmVGNjaDdoWHAwbk1INFRRdmFJUk1BZTByNVB6cGJVTF84amtvTnllNUJ3c2duQjF3eC1z?oc=5",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T11:43:47Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeW5mMTZYOEMtdVdQaTg1TzhXZUZYSFh3Z3h6V3QxRlRwZ2VKM3RTY1piNzEtOC1hX0h2Zjl3QUpSSXNZRWJ6c1hGWWIxMHEwSnlmcEtnTGxuYm5DSW92UXdtWDFnMFBFdU9EdjF0QzJKdVpReFpaVWVzX1JyV2FLbnJGeVlxeDhUTXFEckZXc28yUG5yREJYVmkzREhSZV8xY3UtMkwyd0MwTmRldll0YW1IV1d1bkQybGNxMlFRVG1pNlA2aGxRUV90V3RYa1NWVEtFdg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Within a week.. AED 11.28 billion in Dubai real estate transactions - صوت الإمارات",
+   "text": " Within a week.. AED 11.28 billion in Dubai real estate transactions &nbsp;&nbsp; صوت الإمارات ",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeW5mMTZYOEMtdVdQaTg1TzhXZUZYSFh3Z3h6V3QxRlRwZ2VKM3RTY1piNzEtOC1hX0h2Zjl3QUpSSXNZRWJ6c1hGWWIxMHEwSnlmcEtnTGxuYm5DSW92UXdtWDFnMFBFdU9EdjF0QzJKdVpReFpaVWVzX1JyV2FLbnJGeVlxeDhUTXFEckZXc28yUG5yREJYVmkzREhSZV8xY3UtMkwyd0MwTmRldll0YW1IV1d1bkQybGNxMlFRVG1pNlA2aGxRUV90V3RYa1NWVEtFdg?oc=5",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T11:43:46Z"
+  },
+  {
+   "id": "rd:t3_1wwieez",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "How do i report a Real Estate company repeatidly calling me.",
+   "text": "   Please help me; I want to report these &quot;New Heights&quot; people. Despite repeatedly telling them I have never subscribed, nor am I interested, and to remove my number, almost every other day they are calling me, and I&#39;m now tired of their calls   I did not want to do it, but they left me with no option now     &#32; submitted by &#32;   /u/Possible_Fox_5716       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wwieez/how_do_i_report_a_real_estate_company_repeatidly/",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T11:43:11Z"
+  },
+  {
+   "id": "rd:t3_1wwi9ms",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Cockroaches in our apartment. Can you actually get rid of them for good, or is it a forever thing?",
+   "text": "     Update: They’ve confirmed that the building is in good condition. Therefore, I doubt that the washing machine is the primary source of cockroaches.      Just moved into a new apartment and found German cockroaches in the kitchen, mostly around the sink and the built-in washing machine. Found them inside the washer and the microwave too.   Pest control came two weeks ago. A lot died in the first few days, but they never really went away. Second treatment is tomorrow. My wife is pregnant, so I&#39;m a bit worried.   For anyone who&#39;s dealt with them: did they go away completely, or is it",
+   "url": "https://www.reddit.com/r/dubai/comments/1wwi9ms/cockroaches_in_our_apartment_can_you_actually_get/",
+   "date": "2026-10-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-03T11:43:11Z"
+  },
   {
    "id": "rd:t3_1ww7fce",
    "platform": "Reddit",
@@ -3746,81 +3821,6 @@
    "title": "2 BEDROOM | MAJAN | AED 125,000",
    "text": "   Posting as: Agent   Property type: Apartment   Area/community: Majan, Dubailand   Building/project: Tulip Oasis 10   Price: AED 125,000   Bedrooms: 2   Size (sq ft): 1,429   Furnishing: Unfurnished   Available from: 1st October   Cheques: 4   Additional details: Brand new unit. Spacious living/dining, closed kitchen with appliances, private balcony, built-in wardrobes, 1 covered parking space, bright interiors. Amenities: temperature-controlled pool, paddle area, poolside cabanas, gym, kids&#39; play area, landscaped outdoor spaces, 24/7 security &amp; CCTV. Near SMBZ Road, Global Village, ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wozskr/2_bedroom_majan_aed_125000/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wozj5t",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Contract F - Seller wants to back out. What are the options ?",
-   "text": "   Our contract F is signed and due to finish in 3 weeks. I have all finance in place but after I told the broker the property valuation a few hrs later he told me the seller wants to back out. Valuation much higher than what we agreed on contract f.  I am assuming that I will book the trustee office for the transfer and the seller will not turn up so court is the only way to claim the 10% from the seller.  Has anyone successfully Claimed the 10% or forced the sale ?  Thanks      &#32; submitted by &#32;   /u/Informal_Risk6495       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wozj5t/contract_f_seller_wants_to_back_out_what_are_the/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1wozep8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "I ranked every JVC building by rental yield using DLD transaction data — full breakdown",
-   "text": "   Been digging into Dubai Land Department rental transaction data to find which JVC buildings actually deliver yield vs. which just claim to. Matched current Bayut asking prices against median DLD rents from the past 90 days (same building, same bedroom type, only new annual contracts).    Top studio yields by building:         Building   Gross Yield          Diamond Views 1 Block B   8.7%       The Manhattan   8.6%       May Residence Tower 3   8.6%       Roxana Residence D   8.4%       Knightsbridge Court   8.4%       May Residence Tower 2   8.3%       Kensington Manor   8.2%       Stonehen",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wozep8/i_ranked_every_jvc_building_by_rental_yield_using/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1woyybj",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4 bedroom townhouse | Damac Lagoons | Budget AED 2.4 M",
-   "text": "   4 bedroom townhouse | Damac Lagoons | Budget   AED 2.4 M   Looking to Buy   Posting as: Agent    Property type: 4 bedroom townhouse   Preferred area: Damac Lagoons - Malta &amp; Costa Brava   Budget: AED 2.4 M   Deal type : Mortgage    Bedrooms: 4   Preferred size: NA   Additional requirements: looking Ready unit     &#32; submitted by &#32;   /u/DependentWear291       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1woyybj/4_bedroom_townhouse_damac_lagoons_budget_aed_24_m/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1woyh10",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Sometimes adding a co-borrower completely changes the conversation",
-   "text": "   I actually like joint mortgage cases when both profiles complement each other. One person may have the stronger salary, the other may have fewer commitments, or together the income simply gives the purchase a lot more breathing room. Instead of stretching one person’s eligibility to make a property work, you’re letting the bank look at the household properly. I’ve seen couples come in thinking the property they want is slightly out of reach, then we run both profiles together and the numbers start looking very different. Obviously both profiles still need to make sense, but when they do, a ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1woyh10/sometimes_adding_a_coborrower_completely_changes/",
-   "date": "2026-09-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-24T17:15:04Z"
-  },
-  {
-   "id": "rd:t3_1woxte5",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "five agents, same unit, five different prices. which one is real?",
-   "text": "   i sell in abu dhabi, so weigh all of this with that in mind. this is about how the listing side works, not an offer of anything.   if you have shopped for a resale here you have had this happen. the same apartment, same tower, same floor, reaches you from four or five different people, and every one of them quotes a different price. most buyers read that spread as negotiation. it usually is not.   what is happening most of the time is that one person has the unit and the rest have a screenshot of it. a broker sees it in a group, forwards it on, and prices it at whatever he thinks gets him a",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1woxte5/five_agents_same_unit_five_different_prices_which/",
    "date": "2026-09-24",
    "dateApprox": false,
    "language": "en",
