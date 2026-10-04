@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-04T12:26:25Z",
- "newThisRun": 43,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-04T21:31:59Z",
+ "newThisRun": 7,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 189,
-  "rss": 56
+  "reddit": 188,
+  "rss": 57
  },
  "sources": [
   {
@@ -36,14 +36,14 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 10,
+   "items": 9,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 26,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -66,17 +66,32 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 31,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 23,
+   "items": 18,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1wxn2qn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Need help with home improvement",
+   "text": "   I’m struggling to manage my home as I live in an area a bit far from the metro and I live in an apartment where I am constantly in need of things with no friends who I can ask help from.    Please can you recommend me the most affordable, budget and reliable businesses I could contact for below issues. In tired of blind buying everytime as I can’t even rely on genuine online reviews.    I want places where I can blind buy from knowing they are affordable and I don’t need to compare pricing elsewhere.    I can shop on apps but it seems like they contract from smaller companies so I would rat",
+   "url": "https://www.reddit.com/r/dubai/comments/1wxn2qn/need_help_with_home_improvement/",
+   "date": "2026-10-04",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-04T21:31:24Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d9%87%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%86%d8%af%d9%86-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d8%b3%d9%88%d9%82%d8%a7%d9%8b-%d9%84%d9%84%d9%85/",
    "platform": "RSS",
@@ -916,6 +931,21 @@
    "language": "en",
    "engagement": "23 views",
    "firstSeenAt": "2026-10-02T12:42:07Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMihARBVV95cUxNcDMxRjRlVkVxSFVrVFpZdU9SSXR1eDBueTVhcXlReGJ2aHh3TGxIZGNRZThCUlZPY3VDVERVdnp5T19GdUJlYmhGY2Nac1VJWlkyTEFUZElhU1JMalpxQW1FODJZSjBjeFZNR1JTTGR0YTI1NGZCc0NKOTV6TUhPak1zeEMwemF4aW5falJHUXBXNE1ZUnFESDdqTEl4bG5XQWprTjhTTGVsdmxJQ3ZORHo3UE1jdE4yenB0MVUwWUdhMllsRGdBS01IYWFuSXZhb0ZzRjluMENrZHd1T0diTnV4eDdOS1ZTTUczcXN0cFppc3NHRjEtYjBaUnB1RXozYVFRdERaSjJuUUhyR08tWmZRZ1llRkFxNFVZZ2hmdmdlOVV1SDR4SlEyTEhDVFpGNGRUWHlJWC1NblhYSDJlekJFSHRRWElrR3gxLTlheTNGUU01eDBZaDlHQ01QU0puVUR0UWpNbHN0VUN6ZmdwR00wRFdVaU5rdjAyc2ZyN2RENXpHUGdPS2hQbHNfcV9UZVJpQk5Sd0h1QzNFak83ZmJFNnlUdTRXSDF4WjNyWmNkRmZJVEh1VmlLTnRHQk9qMjIzNFUxYkxkd0haZ2tiei1vZTMyNS1jdkVZaFFad1dKQmJQZXNSZVFyaGEwTzhMWkpyZ01FQmZ5SndIbDVmeWZHZm8?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "1.8 مليار درهم تصرفات عقارات دبي مطلع أكتوبر - صحيفة الخليج",
+   "text": " 1.8 مليار درهم تصرفات عقارات دبي مطلع أكتوبر &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNcDMxRjRlVkVxSFVrVFpZdU9SSXR1eDBueTVhcXlReGJ2aHh3TGxIZGNRZThCUlZPY3VDVERVdnp5T19GdUJlYmhGY2Nac1VJWlkyTEFUZElhU1JMalpxQW1FODJZSjBjeFZNR1JTTGR0YTI1NGZCc0NKOTV6TUhPak1zeEMwemF4aW5falJHUXBXNE1ZUnFESDdqTEl4bG5XQWprTjhTTGVsdmxJQ3ZORHo3UE1jdE4yenB0MVUwWUdhMllsRGdBS01IYWFuSXZhb0ZzRjluMENrZHd1T0diTnV4eDdOS1ZTTUczcXN0cFppc3NHRjEtYjBaUnB1RXozYVFRdERaSjJuUUhyR08tWmZRZ1llRkFxNFVZZ2hmdmdlOVV1SDR4SlEyTEhDVFpGNGRUWHlJWC1NblhYSDJlekJFSHRRWElrR3gxLTlheTNGUU01eDBZaDlHQ01QU0puVUR0UWpNbHN0VUN6ZmdwR00wRFdVaU5rdjAyc2ZyN2RENXpHUGdPS2hQbHNfcV9UZVJpQk5Sd0h1QzNFak83ZmJFNnlUdTRXSDF4WjNyWmNkRmZJVEh1VmlLTnRHQk9qMjIzNFUxYkxkd0haZ2tiei1vZTMyNS1jdkVZaFFad1dKQmJQZXNSZVFyaGEwTzhMWkpyZ01FQmZ5SndIbDVmeWZHZm8?oc=5",
+   "date": "2026-10-01",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-04T21:31:59Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE96ekdzOW43QWU5b1dRT2JSWTJtXzM3cmtsZjZ2ZzhuVFR0ckJQXzVBTGd3WlloQW5vdjF5d2JSdXZ2aTMyakxCV1U5WndQalptMzlOckpMbnM4WDI3d1BMRTFYQVQ3ZlY5aFE?oc=5",
@@ -3791,36 +3821,6 @@
    "title": "4bed townhouse | Nice, Damac Lagoons | AED 2,650,000",
    "text": "   Posting as: Agent  Property type: 4bed townhouse Back to Back  Area/community: Damac Lagoons  Building/project: Nice  Price: AED 2,650,000  Bedrooms: 4  Size (sq ft): 2275  Status: Ready  Images/video:  Additional details: Ready to Move, Close to Lagoon, Vastu     &#32; submitted by &#32;   /u/Nikolis4thwife_       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wq2fo1/4bed_townhouse_nice_damac_lagoons_aed_2650000/",
-   "date": "2026-09-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-26T16:27:02Z"
-  },
-  {
-   "id": "rd:t3_1wq2d8a",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "5bed Townhouse | Costa Brava, Damac Lagoons | AED 3,700,000AED",
-   "text": "   Posting as: Agent  Property type: 5 bed townhouse Single Row  Area/community: Damac Lagoons  Building/project: Costa Brava  Price: AED 3,700,000  Bedrooms: 5  Size (sq ft): 3200  Status: Off-plan  Images/video:  Additional details: Handover Notice Received, Mortgage is applicable     &#32; submitted by &#32;   /u/Nikolis4thwife_       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wq2d8a/5bed_townhouse_costa_brava_damac_lagoons_aed/",
-   "date": "2026-09-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-26T16:27:02Z"
-  },
-  {
-   "id": "rd:t3_1wq2ac3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4bed townhouse | Damac Lagoons, Nice | AED 2,600,000AED",
-   "text": "   Posting as: Agent  Property type: Townhouse Single Row  Area/community: Damac Lagoons  Building/project: Nice  Price: AED 2,600,000  Bedrooms: 4  Size (sq ft): 2275  Status: Off-plan  Images/video:  Additional details: Single Row and Cash Only     &#32; submitted by &#32;   /u/Nikolis4thwife_       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wq2ac3/4bed_townhouse_damac_lagoons_nice_aed_2600000aed/",
    "date": "2026-09-25",
    "dateApprox": false,
    "language": "en",
