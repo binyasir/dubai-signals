@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-06T00:06:17Z",
- "newThisRun": 16,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-06T06:27:04Z",
+ "newThisRun": 7,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 182,
-  "rss": 63
+  "reddit": 183,
+  "rss": 62
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 13,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 8,
+   "items": 9,
    "error": null
   },
   {
@@ -47,26 +47,26 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 5,
-   "error": null
-  },
-  {
-   "source": "r/expats",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "r/expats",
    "ok": true,
-   "items": 8,
+   "items": 2,
    "error": null
+  },
+  {
+   "source": "https://masdarak.com/feed/",
+   "ok": true,
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 23,
    "error": null
   },
   {
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1wysnjr",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Why people don’t like Ejari?!",
+   "text": "   This is my first year trying to list my property without agency and advertising it as monthly payments etc… I got so many inquiries but once they know that I want to rent it out only with Ejari they run away! Ejari is to protect both landlords and tenants, but I am not sure why people are running away from it other than shady purposes… what do you think? Do you prefer Ejari or without Ejari so at anytime you can break the contract and run away? 😁     &#32; submitted by &#32;   /u/InvestigatorNovel410       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wysnjr/why_people_dont_like_ejari/",
+   "date": "2026-10-06",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-06T06:26:28Z"
+  },
+  {
+   "id": "rd:t3_1wysbjw",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Itinerary planning for Dubai",
+   "text": "   Hi, I’m travelling from India and will be in Dubai for 3 days, 7,8,9 November. I need to book an accomodation in Dubai Downtown for 3 days. I need it to be walking distance from the attractions. Doesn’t have to be fancy, would prefer a decent hotel or apartment for a family of 4. Budget could be 400-500 AED per night for 4. Please also let me know if the budget is unrealistic.      &#32; submitted by &#32;   /u/shelocksherdon       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1wysbjw/itinerary_planning_for_dubai/",
+   "date": "2026-10-06",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-06T06:26:28Z"
+  },
+  {
+   "id": "rd:t3_1wy272q",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "55k Euros in France or 150k USD in California",
+   "text": "   Hello y’all   I’m considering moving back to the U.S. eventually and currently work on 55k in France. I’ve been getting some offers in California and other states for 100k-180k a year for my job in Data Centers.   Currently live in middle France. Medium cost of living area. Rent is 825 a month.    Would it make sense to go back eventually. I qualify for permanent residency in 2 years in France. I am a U.S. and Mexican citizen.   I have lived in France 3 years. And in California for 10.     &#32; submitted by &#32;   /u/XxX_Dick_Slayer_XxX       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/expats/comments/1wy272q/55k_euros_in_france_or_150k_usd_in_california/",
+   "date": "2026-10-05",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-06T06:27:01Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTFBWeWVHRTEwZlEwUXIwbjNONHVmN0NnenFuakV0VmprbkY4Y1hDZWV0WnBvOXpQTjh4VzRoUTNkcjE2MDZUNWdUZ0w0cTBrSHVhVlRnZkEzT0ozcnktVWRNdWY1OGJEZHVZcUpvYm40bDc1Z9IBjAFBVV95cUxQM2k5OGlSVXpyMTNpMWpjNmlJSW5sQ0dHN3lJUng5cVNCU1pEdXFLYkFpdGFNeFdjcG5ZUzRtb3lReVV0eUlkUm9YZ1FaZFo1SUVQU0tKRmRfOUhDQXNjeXpfZzRWNkZxNWFHZmFMaG42OUticlNlTmdFRm0xODNoZW42ZG9vVjRKYjJQUA?oc=5",
    "platform": "RSS",
@@ -391,6 +436,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-05T14:46:45Z"
+  },
+  {
+   "id": "rd:t3_1wxc2t7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Escape from Hell",
+   "text": "   I want to leave Bangladesh, but it’s not as simple as packing a bag. There’s money to worry about, aging parents to think about, and an entire life to rebuild.   So I’m wondering: is there any country where a middle-class Bangladeshi can realistically build a 5-year plan to move permanently with family?   UAE Golden Visa, Canada, etc. sound great, but the costs are way beyond what most of us can afford.   If you were in my position, where would you start?     &#32; submitted by &#32;   /u/samiul313       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/expats/comments/1wxc2t7/escape_from_hell/",
+   "date": "2026-10-04",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-06T06:27:01Z"
   },
   {
    "id": "rd:t3_1wxn2qn",
@@ -3766,66 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-09-27T12:07:41Z"
-  },
-  {
-   "id": "rd:t3_1wrickt",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Thoughts on moving to Discovery Gardens?",
-   "text": "   Good evening everyone,  Wanted to get an opinion on living in Discovery gardens st1   I am getting a good price below market and its well connected via metro but want to get a more real understanding of the area and its facilities by folk who have lived there or have a good idea of it   -is the community well maintained and clean?  -what about apartment maintenance, plumber etc  -is it crowded in the mornings and evening with lots of traffic as I have to commute to Business bay  -is it a family friendly area?  -any other things i should be aware of   Thank you!     &#32; submitted by &#32; ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wrickt/thoughts_on_moving_to_discovery_gardens/",
-   "date": "2026-09-27",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-27T12:07:06Z"
-  },
-  {
-   "id": "rd:t3_1wreptc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Questions about Mirdif",
-   "text": "   Hey guys. I’m planning on moving soon and Mirdif is pretty high on our list. We’re looking for a 4-5 bed villa and have viewed a few in the area and we really seem to like it. Our budget allows us to get something bigger than a 3 bed only in Mirdif and Damac communities so we prefer the former.  I have some questions I’m hoping someone from the area can answer:      How’s the traffic situation? I’m currently on the opposite end of dubai around the discovery gardens area. On weekdays I never need to commute past Al Quoz since I work around there. So at best it takes me 25-30 minutes both way",
-   "url": "https://www.reddit.com/r/dubai/comments/1wreptc/questions_about_mirdif/",
-   "date": "2026-09-27",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-27T12:07:06Z"
-  },
-  {
-   "id": "rd:t3_1wre6s0",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Ejari Termination Question",
-   "text": "   I’m planning to terminate my Ejari a few months before the end of the tenancy contract. There is no clause in my contract mentioning any penalty or fee for early termination.  If the contract doesn’t specify an early termination penalty, can the landlord still require me to pay one? If yes, what is the usual or standard penalty in Dubai?  Thanks!     &#32; submitted by &#32;   /u/ExpertProMax       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wre6s0/ejari_termination_question/",
-   "date": "2026-09-27",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-27T12:07:06Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1ARBVV95cUxNcHMzTkR1WWVRNzdUbWl3bXgyaWdxN3FXd2VCZ2gxaFBPMWlKX2NWUUxZRzFOY1E2aEdIeWk2ekFBVXhrWHN0azNLM1YxV1E5UkVxM2FYQ1RVQlpNUW42amlUMkJBWUtNcVcwVFlBY2hRdUtud0Jsa2k3eWdRUHBmbW54Rzdha0g5UGRKLXNTVUdVd2VCbFRuT2x3Vmh1NU5DS2ltS3B6ZU1zaUI3ZHNwQ0JwQVVIWHcyOVlxaXo1SWxJTnRaQ1RoME5YcmkxWVJlcTNsb1NqS1NCTkFBZnktSU5XVFF2RDJwZUtZT016aTQwUTJmVTF0WmlVRkFXUXZ4TVJoNmxWQW51dmJVYUt6MnRLbWFIYW93V1lCSFA4dFhtMnhrYTJjTUpxbFltNHJUbElyNlQxN21GcmlSLXF1NGFSZFF4MmtzeTNpam93eUJBeE9xNDdQeURGSHFpUWJ1RWJDN0pXcTRjZnpLV0RKbDN2dUxaQXNtWXFOVU9OczBMNWVTV3E1SDhyX0JOVHd0N3J2UjhNa0lSbkhwLUM2VDYyS0EwMTVHdmgxekpwR2RfMkkwMUtTZ1BIYkFHSWRtQm9mcjlOU2k3UEVjQllvUERWS0x3eE5MU29zT0c5NHpfRXFZSEtRVTdvbmRKYVBaQWg2N0kteHdkS2tfM3gtNG55RGduaDlBamdvVDYxZjVtYXlIQmZ0Tm9Dd3oyaHY3aXBWOWpwYlozWmpxQXI4UG11d0RENk8yME5sdEJHVEwyWUNYclpaRE9NaDNnZ0lpWDNDVQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "بين المساحة والموقع.. ما الذي يحدد قيمة العقارات في دبي؟ - صحيفة الخليج",
-   "text": " بين المساحة والموقع.. ما الذي يحدد قيمة العقارات في دبي؟ &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxNcHMzTkR1WWVRNzdUbWl3bXgyaWdxN3FXd2VCZ2gxaFBPMWlKX2NWUUxZRzFOY1E2aEdIeWk2ekFBVXhrWHN0azNLM1YxV1E5UkVxM2FYQ1RVQlpNUW42amlUMkJBWUtNcVcwVFlBY2hRdUtud0Jsa2k3eWdRUHBmbW54Rzdha0g5UGRKLXNTVUdVd2VCbFRuT2x3Vmh1NU5DS2ltS3B6ZU1zaUI3ZHNwQ0JwQVVIWHcyOVlxaXo1SWxJTnRaQ1RoME5YcmkxWVJlcTNsb1NqS1NCTkFBZnktSU5XVFF2RDJwZUtZT016aTQwUTJmVTF0WmlVRkFXUXZ4TVJoNmxWQW51dmJVYUt6MnRLbWFIYW93V1lCSFA4dFhtMnhrYTJjTUpxbFltNHJUbElyNlQxN21GcmlSLXF1NGFSZFF4MmtzeTNpam93eUJBeE9xNDdQeURGSHFpUWJ1RWJDN0pXcTRjZnpLV0RKbDN2dUxaQXNtWXFOVU9OczBMNWVTV3E1SDhyX0JOVHd0N3J2UjhNa0lSbkhwLUM2VDYyS0EwMTVHdmgxekpwR2RfMkkwMUtTZ1BIYkFHSWRtQm9mcjlOU2k3UEVjQllvUERWS0x3eE5MU29zT0c5NHpfRXFZSEtRVTdvbmRKYVBaQWg2N0kteHdkS2tfM3gtNG55RGduaDlBamdvVDYxZjVtYXlIQmZ0Tm9Dd3oyaHY3aXBWOWpwYlozWmpxQXI4UG11d0RENk8yME5sdEJHVEwyWUNYclpaRE9NaDNnZ0lpWDNDVQ?oc=5",
-   "date": "2026-09-26",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-09-26T16:27:27Z"
   }
  ]
 }
