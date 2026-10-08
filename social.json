@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-08T06:11:02Z",
- "newThisRun": 3,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-08T13:36:15Z",
+ "newThisRun": 8,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 179,
-  "rss": 67
+  "reddit": 177,
+  "rss": 69
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 13,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 4,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,85 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 26,
+   "items": 24,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVRSZlpWcEl3bVpOR1ZpN0ZrZk45QWNZV19YSjN5UTVobWhSMHZLUlVPdm9NNWdNQ1R5MUw2dGttRkc5OTU5SzEtWEZVODd6QkJDNDYyNW9sSnYtLUZzQlRtemFtaEFWTEtncmhsdjFoMnl3dzQ1S2JpaUQxSzhwS0tyX2UtUUVSTi1YVGVZejI2RUNIRGVSd2pmZWZlMzRuQkV1SjVIY3V1a2t4Z0VZcXN5Z0VlazdEREE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Real Estate Logs 37,429 Sales Worth AED92.9 Billion in Q3 2026 - Realty Plus Magazine",
+   "text": " Dubai Real Estate Logs 37,429 Sales Worth AED92.9 Billion in Q3 2026 &nbsp;&nbsp; Realty Plus Magazine ",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVRSZlpWcEl3bVpOR1ZpN0ZrZk45QWNZV19YSjN5UTVobWhSMHZLUlVPdm9NNWdNQ1R5MUw2dGttRkc5OTU5SzEtWEZVODd6QkJDNDYyNW9sSnYtLUZzQlRtemFtaEFWTEtncmhsdjFoMnl3dzQ1S2JpaUQxSzhwS0tyX2UtUUVSTi1YVGVZejI2RUNIRGVSd2pmZWZlMzRuQkV1SjVIY3V1a2t4Z0VZcXN5Z0VlazdEREE?oc=5",
+   "date": "2026-10-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-08T13:36:14Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d9%84%d9%85/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "السكن المشترك في دبي : الدليل الشامل للمناطق المسموحة وشروط الإيجار والتصاريح",
+   "text": "أصدرت بلدية دبي دليل الاشتراطات التخطيطية والبنائية لتنظيم وإشغال وإدارة السكن المشترك في دبي، ليحدد للملاك وشركات إدارة وتأجير العقارات&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d9%84%d9%85/",
+   "date": "2026-10-08",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-08T13:36:13Z"
+  },
+  {
+   "id": "rd:t3_1x0ovo2",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Why your Dubai mortgage pre-approval is actually stuck right now",
+   "text": "   Most buyers think their mortgage file sits on one underwriter&#39;s desk, but the reality in UAE retail banking is that your folder gets passed around like a hot potato across five separate desks. First, intake runs your AECB credit check and flags any missing salary certificate pages. Then risk underwrites your income, which is where 90% of credit queries hit if you have random bank transfers, undeclared cards, or variable pay that needs written justification. Once you sign Form F, it gets handed over to the valuation team to inspect the physical asset, then to legal compliance to clear ti",
+   "url": "https://www.reddit.com/r/UAE/comments/1x0ovo2/why_your_dubai_mortgage_preapproval_is_actually/",
+   "date": "2026-10-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-08T13:36:01Z"
+  },
+  {
+   "id": "rd:t3_1x0mluy",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Apartment smell",
+   "text": "   Hi guys,   My apartment smells like something wet and rotting before I moved in there was leaking but they fixed it and painted over it but I still smell it I don’t see any visible molding on the walls.   I already got two cleaning companies what could it be?   My landlord is telling me to just get a cleaning company but I already got them twice.   Any advice on this would be helpful thanks!     &#32; submitted by &#32;   /u/CremeOnly8523       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x0mluy/apartment_smell/",
+   "date": "2026-10-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-08T13:35:45Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMivwFBVV95cUxQWERuYWMyWW43UGVxdEN6dHhGUWJVRUZCNDZ6T1ZGTC1xdHVJaUZTWGowZ0JKRXhISFVzcDNObl92Uzd5bVhHTGw5QlBrYTRNYVpYVjVqa0dnSUNySWl6ZjdJcVBRbEF1SVdzQjNpbDVLc2xaUHAyMU43WWF1RXlBYVhvZzhwbkpUa1hiaXVWRWdHZFZCR0g0WkJBNUdMS3Y0VHNneXdnUkhMVzFjUnJHcVpvRldvaXlKTGRfUGdMbw?oc=5",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "Family home decision: Mudon Al Ranim vs South Bay (Residents' experiences please and no agents)?",
    "text": "   Hi all, looking for honest input from people who live in or have viewed these communities. No agents or brokers, please; I won&#39;t respond to DMs.   Us: couple with a 6-month-old, occasionally hosting parents. Wife works from home. I&#39;ll commute to Bur Dubai (BurJuman). End-use home, planning to stay 10+ years, budget around AED 4.2M with a mortgage. Not considering off-plan or long-delivery projects - ready or near-handover only.   Options we&#39;re weighing:      Mudon Al Ranim 6/7 4B1, ready or just handing over. Great community, but the house feels small (~2,470 sqft) and the kitch",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wu2duu/family_home_decision_mudon_al_ranim_vs_south_bay/",
-   "date": "2026-09-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-30T22:19:01Z"
-  },
-  {
-   "id": "rd:t3_1wu22fn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2BR Apartment | Dubai Hills | Budget AED 2.75M",
-   "text": "    Posting as: Agent Property type: Apartment Preferred area: Dubai Hills Budget: AED 2.75M Bedrooms: 2 Preferred size: 1000 sqft Additional requirements: Vacant Hello everyone, I have two end-use customers, a cash and a mortgage for two-bedroom apartments in Dubai Hills. We are only considering these five buildings on the park: Parkside Views, Elvira, Park Horizon, Lime Gardens and Park Field. Mortgage buyer: Budget 2.5M, no preference for the view. Cash Buyer: Budget 2.75M, park view only. Please comment or send a message if you are selling a vacant unit. -----------------------------------",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wu22fn/2br_apartment_dubai_hills_budget_aed_275m/",
-   "date": "2026-09-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-30T22:19:01Z"
-  },
-  {
-   "id": "rd:t3_1wu1sn8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Freehold Offices | DIFC | Budget AED 100 Million",
-   "text": "   Posting as: Agent  Property type: Freehold Offices  Preferred area: DIFC  Budget: AED 100M  Bedrooms: N/A  Preferred size: 1000 sqft and above   Hello everybody,   We are calling on DIFC freehold office owners or their representatives (excluding agents) to contact us directly in case they would like to sell their office.    We have multiple family offices and private investors who are actively looking to invest in this arena.    Our previous purchase in DIFC have netted our investors a 10% ROI on existing multi-year contracts.   Please comment or send a direct message.    ------------------",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wu1sn8/freehold_offices_difc_budget_aed_100_million/",
-   "date": "2026-09-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-30T22:19:01Z"
-  },
-  {
-   "id": "rd:t3_1wu1qo8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Disstress Studio | Azizi Riviera | AED 750,000",
-   "text": "   Posting as: Agent   Property type: Studio   Area/community: Al Merkad, Dubai   Building/project: Azizi Riviera   Price: AED 750,000   Bedrooms: Studio   Size (sq ft): 362.21   Status: Off-plan   Additional details: Original price AED 839, 410.Studio  | Al Merkad, Dubai | AED 750,000     &#32; submitted by &#32;   /u/Ok-Ask8037       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wu1qo8/disstress_studio_azizi_riviera_aed_750000/",
-   "date": "2026-09-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-09-30T22:19:01Z"
-  },
-  {
-   "id": "rd:t3_1wu194p",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Seller is not fulfilling his part of Form F (Going Legal, hear me out)",
-   "text": "   Hello redditors 🫡, I want to share my story with you so please hear me out. I signed Form F on 7/9, Expiry is 30/9 (today), Seller and his POA went completely off the radar on 20/9, no response over email, whatsapp or Calls. The phones are always off. I got another number of the POA but still she is not responding. I did everything from my side, got the manager&#39;s cheque for the full amount of the property and booked an appointment with the trustee office. I wanted to prove that I showed up as the buyer while the seller did not, everything is well documented. The trustee office surprised",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wu194p/seller_is_not_fulfilling_his_part_of_form_f_going/",
    "date": "2026-09-30",
    "dateApprox": false,
    "language": "en",
