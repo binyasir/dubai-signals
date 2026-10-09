@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-09T13:25:56Z",
- "newThisRun": 13,
+ "generatedAt": "2026-10-09T22:42:00Z",
+ "newThisRun": 11,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
-  "reddit": 192,
-  "rss": 55
+  "reddit": 193,
+  "rss": 54
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 11,
+   "items": 8,
    "error": null
   },
   {
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 10,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "error": null
   },
   {
@@ -77,6 +77,81 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGZqcWR4ZXZ5YWNVOUZwVXI2UG00cWMyZTl4bm00QVJYRUdLVG5UbFdXZHhFdGNMemRLT2M5N2E2Y1FMVm1weS1BR3J1X19vZkR5aUhTYjZXeVdWcVAwMVRYeWd6MURhb3VLa0kwNkRGekNCQnZzbloxSnlNWS1LUVhwYVpMd2pNVmVyZW9nY21xdjAxX29yVWJwN2ZHZ1NBeVRaTFJlc0ZIaG5BTGdLSkFUNEM2ZGlwR3c5M18tN2JMTllfeDltS2lGSTJTdjRwMUNz?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Bubble or Boom? Lewis and Carl Allsopp on Where Dubai Property Goes Next - Allsopp & Allsopp",
+   "text": " Bubble or Boom? Lewis and Carl Allsopp on Where Dubai Property Goes Next &nbsp;&nbsp; Allsopp & Allsopp ",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGZqcWR4ZXZ5YWNVOUZwVXI2UG00cWMyZTl4bm00QVJYRUdLVG5UbFdXZHhFdGNMemRLT2M5N2E2Y1FMVm1weS1BR3J1X19vZkR5aUhTYjZXeVdWcVAwMVRYeWd6MURhb3VLa0kwNkRGekNCQnZzbloxSnlNWS1LUVhwYVpMd2pNVmVyZW9nY21xdjAxX29yVWJwN2ZHZ1NBeVRaTFJlc0ZIaG5BTGdLSkFUNEM2ZGlwR3c5M18tN2JMTllfeDltS2lGSTJTdjRwMUNz?oc=5",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T22:42:00Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a3%d8%b2%d9%87%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%82%d8%af%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a8%d8%b1%d8%ac/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أزهى العقارية» تعلن تقدم إنشاءات برج أمواج في عجمان والتسليم 2029",
+   "text": "أعلنت شركة أزهى العقارية Azha Properties تقدم الأعمال الإنشائية في مشروع «برج أمواج» Amwaj Tower السكني على كورنيش عجمان، باستثمارات&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a3%d8%b2%d9%87%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%82%d8%af%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a8%d8%b1%d8%ac/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T22:41:59Z"
+  },
+  {
+   "id": "rd:t3_1x1uc3w",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "gift basket suggestions",
+   "text": "   Gift basket suggestions  Hi everyone!   My dad is currently in Dubai and I would really like to send over a gift basket (preferably chocolates) over to his apartment/place of work.   I&#39;ve looked on Amazon but didn&#39;t really find any good options. Could someone suggest any places I can order from to surprise him?   Thank you!     &#32; submitted by &#32;   /u/Original_Sherbet39       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1uc3w/gift_basket_suggestions/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T22:41:25Z"
+  },
+  {
+   "id": "rd:t3_1x1sd3h",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Car rental company charged AED 4,000 from my debit card through Apple Pay without my approval. What can I do?",
+   "text": "   Hey guys, I’m dealing with a really frustrating situation in Dubai and could use some advice.   I previously rented a car from a rental company and made the original payment through a payment link using Apple Pay.   Now, out of nowhere, the company has charged AED 4,000 directly from my ADCB debit card without sending me another payment link or asking for my approval.   I contacted ADCB, but they told me they couldn’t dispute the transaction because it was processed through Apple Pay. They advised me to contact the police instead.   What’s confusing me is how the rental company was even abl",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1sd3h/car_rental_company_charged_aed_4000_from_my_debit/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T22:41:25Z"
+  },
+  {
+   "id": "rd:t3_1x1oy8u",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Hatta border crossing to Oman",
+   "text": "   Hi everyone,   Earlier in April this year, I wanted to drive from Dubai to Muscat via the Hatta border. I was turned around because my car has a bank mortgage, and i needed an NOC from the bank.   I had done this same road trip several times over the past years, on a mortgaged car, but never encountered this issue. I assume this rule was enforced more strictly in April because the conflict was at its peak then.   I want to try doing the trip again if possible. Has anyone tried this crossing recently? Any experience you can share? Was this always a “rule”? If so then it certainly wasnt being",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1oy8u/hatta_border_crossing_to_oman/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T22:41:25Z"
+  },
   {
    "id": "rd:t3_1x1j7wm",
    "platform": "Reddit",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-03T16:20:25Z"
-  },
-  {
-   "id": "rd:t3_1wwmm4w",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Should I live in the studio I bought, or rent a cheaper studio to save cash?Need advice🙏",
-   "text": "    I recently bought a spacious, high-quality studio in Arjan.    My company gives me a housing allowance of AED 5,200+ per month if I move out of company housing.    there are two options and considering  •  Live in my own studio    Use my AED 5,200+ allowance to cover my mortgage and service charges directly.    •  Rent it out &amp; rent a cheaper studio for myself    Rent out my studio so the tenant’s rent covers my mortgage.      Then, use my allowance to rent a cheaper studio somewhere else for AED 3,000 – 4,000/month,      so I can pocket the extra AED 1,000+ as cash savings.     Curren",
-   "url": "https://www.reddit.com/r/dubai/comments/1wwmm4w/should_i_live_in_the_studio_i_bought_or_rent_a/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T16:20:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMihAVBVV95cUxNbFpFX3pIcXpKLVIyOXFLSHJ4ZW5BdkRHSXZla3lfbjRFWVlCVG0tQWdVOFNvbk5LbWM1dnM2N3RySUVMTmJOckFwU0EyYW9rajBaYnhkUWpWYUJGRnlPMUZWNlZ3T29xQVVlRWR6YUtxWTJkRXd5QlowMEw5VkZ5MWItNjZQaXptaW5BWnRZRzlwRmZRcFB6Ql9zdG94d1c3OG03NzNJb1hJNzR5TDl3bGlyTHB5Z0MxbWNlLTlLQ29fVklMVlVmNFExNVc0b1VMMGVxTUF4S3hubDdCN1g1RFQwMDBXM0JvZU5iODVGSnlfbDZKZ0JGU0s5OVRhdnNabWM2NmpscEJFbDJHYThRYWlrdWhkcUMtSG9LRW9VaEhScmdMU2NOUmRnREMwdTdxLXlLSHVGQlQ0MkRnQlV2cTdEczdOdXZacUFlVzJvb2cwQmlNLUp1WVZETDlEVExmdWpzYlRhaDlXVVFveHY4VktKc3NKSE1iX2RiLTlzdU0tTldCYlp4cjJZSGpjbmtvdy03LXVWNGp1VXhtS0JyQTVfZzJGcWttVzhsaXBwNkdFbzZ6UEdhS3NnS05zWGhiOU5fZ1NHVnJORUYtUDhWV1NzeERhalRJWG5BNnF6aHZ4Q0FpTVRuTzlaNWx5Wll1VGNQV2FlQnRidllDbVRMZ3otalQxUWtEM0J6QmMxTVZzeXV2akl1R2ZDRXFPZVdLOGFyMFVWQncyb1p3aVhhSkhfWTY3bEtTOHNfUEV5THVzSl8xRm5SeFpxejZ0MVFmZGxac3ptT3lPRzFzY0JDbWtENDJMN3MySWlqUTViZ2lBTjlJWFNaanFxMEM3WHZNd0RjRw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "دبي توسّع اقتصاد «الترميز».. من العقارات والمعادن إلى أصول جديدة - صحيفة الخليج",
-   "text": " دبي توسّع اقتصاد «الترميز».. من العقارات والمعادن إلى أصول جديدة &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxNbFpFX3pIcXpKLVIyOXFLSHJ4ZW5BdkRHSXZla3lfbjRFWVlCVG0tQWdVOFNvbk5LbWM1dnM2N3RySUVMTmJOckFwU0EyYW9rajBaYnhkUWpWYUJGRnlPMUZWNlZ3T29xQVVlRWR6YUtxWTJkRXd5QlowMEw5VkZ5MWItNjZQaXptaW5BWnRZRzlwRmZRcFB6Ql9zdG94d1c3OG03NzNJb1hJNzR5TDl3bGlyTHB5Z0MxbWNlLTlLQ29fVklMVlVmNFExNVc0b1VMMGVxTUF4S3hubDdCN1g1RFQwMDBXM0JvZU5iODVGSnlfbDZKZ0JGU0s5OVRhdnNabWM2NmpscEJFbDJHYThRYWlrdWhkcUMtSG9LRW9VaEhScmdMU2NOUmRnREMwdTdxLXlLSHVGQlQ0MkRnQlV2cTdEczdOdXZacUFlVzJvb2cwQmlNLUp1WVZETDlEVExmdWpzYlRhaDlXVVFveHY4VktKc3NKSE1iX2RiLTlzdU0tTldCYlp4cjJZSGpjbmtvdy03LXVWNGp1VXhtS0JyQTVfZzJGcWttVzhsaXBwNkdFbzZ6UEdhS3NnS05zWGhiOU5fZ1NHVnJORUYtUDhWV1NzeERhalRJWG5BNnF6aHZ4Q0FpTVRuTzlaNWx5Wll1VGNQV2FlQnRidllDbVRMZ3otalQxUWtEM0J6QmMxTVZzeXV2akl1R2ZDRXFPZVdLOGFyMFVWQncyb1p3aVhhSkhfWTY3bEtTOHNfUEV5THVzSl8xRm5SeFpxejZ0MVFmZGxac3ptT3lPRzFzY0JDbWtENDJMN3MySWlqUTViZ2lBTjlJWFNaanFxMEM3WHZNd0RjRw?oc=5",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T11:43:47Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OeVhSQWdYenJxSWhFYWlIRGZIeTljTTBmVGNjaDdoWHAwbk1INFRRdmFJUk1BZTByNVB6cGJVTF84amtvTnllNUJ3c2duQjF3eC1z?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 - شبكة تواصل الإخبارية",
-   "text": " عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 &nbsp;&nbsp; شبكة تواصل الإخبارية ",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OeVhSQWdYenJxSWhFYWlIRGZIeTljTTBmVGNjaDdoWHAwbk1INFRRdmFJUk1BZTByNVB6cGJVTF84amtvTnllNUJ3c2duQjF3eC1z?oc=5",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T11:43:47Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeW5mMTZYOEMtdVdQaTg1TzhXZUZYSFh3Z3h6V3QxRlRwZ2VKM3RTY1piNzEtOC1hX0h2Zjl3QUpSSXNZRWJ6c1hGWWIxMHEwSnlmcEtnTGxuYm5DSW92UXdtWDFnMFBFdU9EdjF0QzJKdVpReFpaVWVzX1JyV2FLbnJGeVlxeDhUTXFEckZXc28yUG5yREJYVmkzREhSZV8xY3UtMkwyd0MwTmRldll0YW1IV1d1bkQybGNxMlFRVG1pNlA2aGxRUV90V3RYa1NWVEtFdg?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Within a week.. AED 11.28 billion in Dubai real estate transactions - صوت الإمارات",
-   "text": " Within a week.. AED 11.28 billion in Dubai real estate transactions &nbsp;&nbsp; صوت الإمارات ",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeW5mMTZYOEMtdVdQaTg1TzhXZUZYSFh3Z3h6V3QxRlRwZ2VKM3RTY1piNzEtOC1hX0h2Zjl3QUpSSXNZRWJ6c1hGWWIxMHEwSnlmcEtnTGxuYm5DSW92UXdtWDFnMFBFdU9EdjF0QzJKdVpReFpaVWVzX1JyV2FLbnJGeVlxeDhUTXFEckZXc28yUG5yREJYVmkzREhSZV8xY3UtMkwyd0MwTmRldll0YW1IV1d1bkQybGNxMlFRVG1pNlA2aGxRUV90V3RYa1NWVEtFdg?oc=5",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T11:43:46Z"
-  },
-  {
-   "id": "rd:t3_1wwieez",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "How do i report a Real Estate company repeatidly calling me.",
-   "text": "   Please help me; I want to report these &quot;New Heights&quot; people. Despite repeatedly telling them I have never subscribed, nor am I interested, and to remove my number, almost every other day they are calling me, and I&#39;m now tired of their calls   I did not want to do it, but they left me with no option now     &#32; submitted by &#32;   /u/Possible_Fox_5716       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wwieez/how_do_i_report_a_real_estate_company_repeatidly/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T11:43:11Z"
   }
  ]
 }
