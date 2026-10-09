@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-10-09T06:14:28Z",
- "newThisRun": 43,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-09T13:25:56Z",
+ "newThisRun": 13,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 2,
+  "youtube": 3,
   "reddit": 192,
-  "rss": 56
+  "rss": 55
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 11,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 34,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -66,17 +66,122 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 20,
+   "items": 21,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 25,
+   "items": 29,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1x1j7wm",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Any recommendations for a genuinely good cleaning company in Dubai?",
+   "text": "   I&#39;m getting really frustrated with the usual cleaning companies and looking for some genuine recommendations.   I&#39;ve tried several services, but the cleaning quality is often poor, the pace is ridiculously slow, and some cleaners seem to have an issue with pets (I have cats).   I live in a one-bedroom apartment and usually book 2 hours, which I feel should be reasonable for general cleaning. Yet somehow, they often leave with half the work unfinished, and the attention to detail is practically nonexistent.   I&#39;m not expecting miracles, just someone efficient, thorough, professio",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1j7wm/any_recommendations_for_a_genuinely_good_cleaning/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T13:25:21Z"
+  },
+  {
+   "id": "rd:t3_1x1iyee",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Studio apartment for 1 month",
+   "text": "   Where can I get a decent furnished studio apartment for one month (November) for ~5k AED? Preferably in JVC or barsha etc. I’m trying to find, but can’t come across anything good. Please lmk if you know of a place. A decent hotel would work too.     &#32; submitted by &#32;   /u/Sufficient-Tea-1025       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1iyee/studio_apartment_for_1_month/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T13:25:21Z"
+  },
+  {
+   "id": "rd:t3_1x1hsib",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "How do you actually deposit keys with RDC when the landlord won't take them?",
+   "text": "   Vacated my flat in Dubai, DEWA closed and clearance certificate done. Emailed the landlord and their lawyers to come inspect and collect the keys — no reply. Went to the management office in person with the keys and access cards and they refused to take them. I have a judgment terminating the contract and ordering me to hand the unit back.   So I filed Offer and Deposit to deposit the keys with RDC. The judge approved it and I have the certificate.   Problem is actually handing them over. I went to RDC and was told to go to the Tabligh department. Tabligh said RDC has to assign the order to",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1hsib/how_do_you_actually_deposit_keys_with_rdc_when/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T13:25:21Z"
+  },
+  {
+   "id": "rd:t3_1x1gv93",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Ejari Renewal: Landlord MIA",
+   "text": "   Context:  Requested landlord to renegotiate rent as part of the renewal with an official email sent.  Landlord responded to the request via Whatsapp and agreed to lower rent with stated amount.   Landlord has since ghosted me on all channels when I request for him to sign the new contract.   Seeking advice on what now?     &#32; submitted by &#32;   /u/Irollandtroll       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1gv93/ejari_renewal_landlord_mia/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T13:25:21Z"
+  },
+  {
+   "id": "rd:t3_1x1g33a",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Off-plan developer 22 months past handover date — still no unit, still paying. What are my options?",
+   "text": "   In December 2022 I signed an off-plan Sale &amp; Purchase Agreement for a 1-bedroom unit in Arjan.     Key facts:      Purchase price:  AED 677,397    Payment plan: Down payment of ~AED 101,600 upfront, then monthly installments of  AED 8,467  running until January 2028   Anticipated completion/handover date stated in the contract:  31 December 2024    It is now  October 2026 — nearly 22 months past that date    We have received  no handover, no formal update, and no new completion date  from the developer   We are  still making monthly payments  as per the schedule   We have been to the ap",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1g33a/offplan_developer_22_months_past_handover_date/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T13:25:21Z"
+  },
+  {
+   "id": "rd:t3_1x1dz4f",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Remote control for thermostat",
+   "text": "   Hi all, I live in an apartment, let’s say the AC is a bit erratic- so I have to adjust the temp often and it’s not helpful during meetings- is there anyway to have the thermostat connected to a remote control/ or an alternative? Thanks      &#32; submitted by &#32;   /u/Taurus_R       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x1dz4f/remote_control_for_thermostat/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-09T13:25:21Z"
+  },
+  {
+   "id": "yt:fvFCYDlx9sY",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Bubble or Boom? Where Dubai Property Goes Next with Lewis and Carl Allsopp",
+   "text": "Is Dubai's property market a bubble waiting to burst, or a boom built to last? On the last day of Q3 2026, Lewis and Carl Allsopp take on five question cards each, covering where to invest AED 10 million, the up and coming areas to watch, the biggest mistakes sellers make and the communities set for the strongest growth over the next five years.\n\nThey also discuss the stories shaping the Dubai real estate market this week, including the impact of oil prices on everyday residents, why AI is replacing Google as the first place buyers search, and why for sale boards still outperform property port",
+   "url": "https://www.youtube.com/watch?v=fvFCYDlx9sY",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "139 views",
+   "firstSeenAt": "2026-10-09T13:25:19Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxQbElidUQwekRNbXRQZXUwazZVYXcyRnN4TjJiZHF1WjFINTdCVEVXZk12cU9rU0UyTHVMYjhZS0w0V3FuejZ1QjNfTG90RmNDTzdSX2JqNllfTTF0dGtYNEFFZ2UtWVVhUHVHTUxQZTVqNTA3azRxY2VzSWpOZHpKM19VbXdPMXE4TTBQa1oyOFFDdV9nbjFJV3NLVmI5NHY5SWV5RNIBtwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDQ?oc=5",
    "platform": "RSS",
@@ -3721,111 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-03T11:43:11Z"
-  },
-  {
-   "id": "rd:t3_1wwi9ms",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Cockroaches in our apartment. Can you actually get rid of them for good, or is it a forever thing?",
-   "text": "     Update: They’ve confirmed that the building is in good condition. Therefore, I doubt that the washing machine is the primary source of cockroaches.      Just moved into a new apartment and found German cockroaches in the kitchen, mostly around the sink and the built-in washing machine. Found them inside the washer and the microwave too.   Pest control came two weeks ago. A lot died in the first few days, but they never really went away. Second treatment is tomorrow. My wife is pregnant, so I&#39;m a bit worried.   For anyone who&#39;s dealt with them: did they go away completely, or is it",
-   "url": "https://www.reddit.com/r/dubai/comments/1wwi9ms/cockroaches_in_our_apartment_can_you_actually_get/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T11:43:11Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi7gNBVV95cUxQTDlQSzlVZnp1eXN4T25hOHFZN2hFdjVFelBqZEhVTk5TWXlEUC1lV2VQaWkwdl9IOVNKM3V2MjhEa3ljOFkyZzlKdkwxeHZvY2dSQ0lBeXRwTFBhV3I4ZXlOUHQwUWxJSUhGU1ltOXpxYmVGMENYenB0bVQweFl2dEJicHN2cVhmazdTY01neTBQRjQ2clo2RDNQM3RfRl9qak00YnkxYjlrRGdtWk4tTFIteGtLZ2kyZkV3a3ktVGdqX01HQi1CU1FsUTBMZUNBZkh5UWZvdXZvN081dy1sOEphcElSV0ZOOUxfOUc3TmlaY2UwUVNRM2NxaGpqYWZuMFYwRHl6bVo1UEczcjh3dHE4NVNVZTlpdW5Wdy1naksyRmgtd3ZUV0thMFZiWHlLdGg0THJjYXJMdVdtcVhFSHZhWjQ4d3N6TWJmdnRpdEQ5WGVkdGlVRzA5a2xTMWxXa0p0elRLd0RYQ1B1a3BONjlBZDVNcE1wSDE4UktycG9Lc0k0WHpORXBRck5rbDNVdERrbHd2clNsLWdDTnhLOVlWQTl3ZDF5Z3pzSmN1R0RFRFlpTDRZZGlyVThPQUFyX19aWWFHWWh3N0JaemRjbXBGRVUxVTgtN2NJYWhvUElhUFluRC1LN3FtMWVHUQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "11.3 مليار درهم تصرفات عقارات دبي في أسبوع - صحيفة الخليج",
-   "text": " 11.3 مليار درهم تصرفات عقارات دبي في أسبوع &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQTDlQSzlVZnp1eXN4T25hOHFZN2hFdjVFelBqZEhVTk5TWXlEUC1lV2VQaWkwdl9IOVNKM3V2MjhEa3ljOFkyZzlKdkwxeHZvY2dSQ0lBeXRwTFBhV3I4ZXlOUHQwUWxJSUhGU1ltOXpxYmVGMENYenB0bVQweFl2dEJicHN2cVhmazdTY01neTBQRjQ2clo2RDNQM3RfRl9qak00YnkxYjlrRGdtWk4tTFIteGtLZ2kyZkV3a3ktVGdqX01HQi1CU1FsUTBMZUNBZkh5UWZvdXZvN081dy1sOEphcElSV0ZOOUxfOUc3TmlaY2UwUVNRM2NxaGpqYWZuMFYwRHl6bVo1UEczcjh3dHE4NVNVZTlpdW5Wdy1naksyRmgtd3ZUV0thMFZiWHlLdGg0THJjYXJMdVdtcVhFSHZhWjQ4d3N6TWJmdnRpdEQ5WGVkdGlVRzA5a2xTMWxXa0p0elRLd0RYQ1B1a3BONjlBZDVNcE1wSDE4UktycG9Lc0k0WHpORXBRck5rbDNVdERrbHd2clNsLWdDTnhLOVlWQTl3ZDF5Z3pzSmN1R0RFRFlpTDRZZGlyVThPQUFyX19aWWFHWWh3N0JaemRjbXBGRVUxVTgtN2NJYWhvUElhUFluRC1LN3FtMWVHUQ?oc=5",
-   "date": "2026-10-02",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:28Z"
-  },
-  {
-   "id": "rd:t3_1wvzgzs",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Why are some Dubai real estate agencies hesitant to use AI for their sales ops?",
-   "text": "   I run an AI company here in Dubai, and I&#39;m genuinely trying to understand why some real estate agencies are hesitant about using AI to qualify their leads.   I&#39;m not talking about replacing agents, but simply making their jobs easier by responding to every enquiry within minutes, qualifying leads, and saving agents the time they&#39;d otherwise spend chasing unserious prospects and time-wasters.   I totally get that some agencies have tried chatbots before, and honestly, a lot of them are pretty terrible. Robotic responses, irrelevant answers, and conversations that go nowhere.   Bu",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wvzgzs/why_are_some_dubai_real_estate_agencies_hesitant/",
-   "date": "2026-10-02",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T12:26:00Z"
-  },
-  {
-   "id": "rd:t3_1ww7fce",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Looking for a good gym in Jaddaf",
-   "text": "   Hey everyone, I’m looking for recommendations for a decent gym in Jaddaf.   The gym in my apartment is honestly less than basic — very limited equipment, and some of the machines are already broken. 😅 I’m looking for somewhere with a good range of weights and machines, decent maintenance, and preferably not insanely expensive     &#32; submitted by &#32;   /u/wildnullifier       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1ww7fce/looking_for_a_good_gym_in_jaddaf/",
-   "date": "2026-10-02",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T05:22:25Z"
-  },
-  {
-   "id": "rd:t3_1ww1w42",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Sports city - best buidlings to live and rent",
-   "text": "   Hi there, what are the best buildings in Sport city.   I am looking to rent 1 bedroom with these rules in mind.   1- open view not on the canal (golf view is perfect).   2- Dewa not emicool or empower.     Building quality to be good (thick walls)     Can you please suggest the best buildings you tried and lived in that match these requirement?     &#32; submitted by &#32;   /u/Status_Blacksmith523       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1ww1w42/sports_city_best_buidlings_to_live_and_rent/",
-   "date": "2026-10-02",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-02T22:17:05Z"
-  },
-  {
-   "id": "rd:t3_1wvycvh",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Golden visa through property",
-   "text": "   Hello I bought a house for 4.36M AED with mortgage. How can I check if I am eligible for golden visa ? And how to apply? Is it only through DLD Cube ? all information related to the process is very much welcome ! Thank you      &#32; submitted by &#32;   /u/Green-Tap-7921       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wvycvh/golden_visa_through_property/",
-   "date": "2026-10-02",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-02T22:17:05Z"
-  },
-  {
-   "id": "rd:t3_1wvsgd2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Remodeling contractor",
-   "text": "   I hired a remodeling contractor to do some repair and also do the painting of my property to make it ready for my tenant. They were supposed to finish in 3 days and at the end of the third day they said we are done. I went for inspection and noticed a very very poor job in painting. Even a new painter could do a better job. They also missed few other things they said they will do in the quote. Contractor said it is a touch up work but this touch up work added another whole day to the timeline. I also had to stay with them whole day to supervise them and literally wasted 10 hours of my time ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wvsgd2/remodeling_contractor/",
-   "date": "2026-10-02",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-02T22:17:05Z"
   }
  ]
 }
