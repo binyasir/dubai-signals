@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-10T12:37:16Z",
- "newThisRun": 10,
+ "generatedAt": "2026-10-10T21:48:14Z",
+ "newThisRun": 6,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 3,
    "error": null
   },
   {
@@ -48,7 +48,7 @@
   {
    "source": "r/UAE",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "error": null
   },
   {
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 20,
+   "items": 17,
    "error": null
   },
   {
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1x2gca0",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "25(f) moving to UAE: Dubai or Abu Dhabi?",
+   "text": "   I am a lawyer moving from London, UK to the UAE by myself. I am weighing up job offers but will be earning at least 500K AED per year. I want to save a lot of money while I’m in the UAE but I still want to be able to go out weekly for brunch/dinner and be able to get my hair done, etc. I am fine with a one bedroom apartment.   Where would you suggest that I move to: Dubai or Abu Dhabi? And do you think I’d be earning enough on 500K AED per year to live comfortably as a single woman? Thank you     &#32; submitted by &#32;   /u/Honest-Benefit4227       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1x2gca0/25f_moving_to_uae_dubai_or_abu_dhabi/",
+   "date": "2026-10-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-10T21:48:01Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-30-%d9%84/",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "Understand Dubai's property market before you buy",
    "text": "     &#32; submitted by &#32;   /u/Own-Reaction3510       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wwfsjp/understand_dubais_property_market_before_you_buy/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T12:26:00Z"
-  },
-  {
-   "id": "rd:t3_1wwcr6m",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "We are looking for buyers.",
-   "text": "   I work in sales for the real estate agency Whithewill. We are looking for buyers with purchasing power exceeding one million dollars who are interested in acquiring high-value properties in the Dubai market. If interested, please provide your full name and a contact number; this information will be forwarded to the broker in charge of the properties.     &#32; submitted by &#32;   /u/Sad_Parsnip_9600       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wwcr6m/we_are_looking_for_buyers/",
    "date": "2026-10-03",
    "dateApprox": false,
    "language": "en",
