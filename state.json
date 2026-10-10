@@ -23,8 +23,8 @@
    "modified": null
   },
   "https://masdarak.com/feed/": {
-   "etag": "\"486700105a8267c0d8eeb45dafe4c25d\"",
-   "modified": "Fri, 09 Oct 2026 17:46:56 GMT"
+   "etag": "\"a27bb152cabc3d4e8a4dd54807b76a7f\"",
+   "modified": "Sat, 10 Oct 2026 08:26:18 GMT"
   },
   "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en": {
    "etag": null,
@@ -1299,6 +1299,11 @@
   "rs:https://masdarak.com/projects-updates/%d8%a3%d8%b2%d9%87%d9%89-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d9%84%d9%86-%d8%aa%d9%82%d8%af%d9%85-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a8%d8%b1%d8%ac/": "2026-10-10",
   "rd:t3_1x1uc3w": "2026-10-10",
   "rd:t3_1x1sd3h": "2026-10-10",
-  "rd:t3_1x1oy8u": "2026-10-10"
+  "rd:t3_1x1oy8u": "2026-10-10",
+  "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-30-%d9%84/": "2026-10-10",
+  "rs:https://masdarak.com/home-finance/%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7/": "2026-10-10",
+  "rs:https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b0%d8%a7-%d9%8a%d8%a7%d8%b1%d8%af%d8%b2-%d8%a8%d9%84%d8%a7%d8%b2%d8%a7-%d9%84%d9%84/": "2026-10-10",
+  "rd:t3_1x28np3": "2026-10-10",
+  "rd:t3_1x1sqjm": "2026-10-10"
  }
 }

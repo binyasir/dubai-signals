@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-10T05:57:43Z",
- "newThisRun": 4,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-10T12:37:16Z",
+ "newThisRun": 10,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 5,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,100 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 29,
+   "items": 28,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-30-%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إيجارات الشارقة تسجل زيادات تصل إلى 30% للفلل و 12% للشقق منذ بداية 2026",
+   "text": "ارتفعت متوسطات الإيجارات السنوية المطلوبة للشقق والفلل في المناطق السكنية الثلاثين الأكثر بحثاً في الشارقة منذ بداية عام 2026، مقارنة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-30-%d9%84/",
+   "date": "2026-10-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-10T12:37:15Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/home-finance/%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أبوظبي التجاري» يوفر تمويلاً عقارياً لشراء وحدات في مشروع «بين» بغنتوت",
+   "text": "أبرم بنك أبوظبي التجاري اتفاقية شراكة مع شركة  أورا ديفلوبرز الإمارات ORA Developers لتوفير حلول التمويل العقاري لشراء الوحدات قيد&#8230;",
+   "url": "https://masdarak.com/home-finance/%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7/",
+   "date": "2026-10-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-10T12:37:15Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b0%d8%a7-%d9%8a%d8%a7%d8%b1%d8%af%d8%b2-%d8%a8%d9%84%d8%a7%d8%b2%d8%a7-%d9%84%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«بيوند» تطلق مشروع «ذا ياردز بلازا» للمكاتب في «دبي لاند» والتسليم 2029",
+   "text": "أطلقت شركة بيوند للتطوير العقاري BEYOND Developments ، التابعة لمجموعة أمنيات OMNIYAT، مشروع ذا ياردز بلازا The Yards Plaza، الذي&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b0%d8%a7-%d9%8a%d8%a7%d8%b1%d8%af%d8%b2-%d8%a8%d9%84%d8%a7%d8%b2%d8%a7-%d9%84%d9%84/",
+   "date": "2026-10-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-10T12:37:15Z"
+  },
+  {
+   "id": "rd:t3_1x28np3",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Urgent need of money",
+   "text": "   Hey guys, i know it’s very urgent but please can anybody help me out with earning 1000aed on this weekend? like i’ll do anything possible i just need to earn this by monday evening so I can pay my rent. My condition of life has been really not that great in a while and please help me earn a 1000 AED if possible. Even 500 AED should be great I just wanna start off somewhere. Please don’t get me wrong. It’s just not a good time for me right now.     &#32; submitted by &#32;   /u/Affectionate-Cap1347       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1x28np3/urgent_need_of_money/",
+   "date": "2026-10-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-10T12:37:02Z"
+  },
+  {
+   "id": "rd:t3_1x1sqjm",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Car rental company charged AED 4,000 from my debit card through Apple Pay without my approval. What can I do?",
+   "text": "   Hey guys, I’m dealing with a really frustrating situation in Dubai and could use some advice.   I previously rented a car from a rental company and made the original payment through a payment link using Apple Pay.   Now, out of nowhere, the company has charged AED 4,000 directly from my ADCB debit card without sending me another payment link or asking for my approval.   I contacted ADCB, but they told me they couldn’t dispute the transaction because it was processed through Apple Pay. They advised me to contact the police instead.   What’s confusing me is how the rental company was even abl",
+   "url": "https://www.reddit.com/r/UAE/comments/1x1sqjm/car_rental_company_charged_aed_4000_from_my_debit/",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-10T12:37:02Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGZqcWR4ZXZ5YWNVOUZwVXI2UG00cWMyZTl4bm00QVJYRUdLVG5UbFdXZHhFdGNMemRLT2M5N2E2Y1FMVm1weS1BR3J1X19vZkR5aUhTYjZXeVdWcVAwMVRYeWd6MURhb3VLa0kwNkRGekNCQnZzbloxSnlNWS1LUVhwYVpMd2pNVmVyZW9nY21xdjAxX29yVWJwN2ZHZ1NBeVRaTFJlc0ZIaG5BTGdLSkFUNEM2ZGlwR3c5M18tN2JMTllfeDltS2lGSTJTdjRwMUNz?oc=5",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-04T12:26:00Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d9%87%d9%8a%d9%85%d9%86%d8%aa-%d8%b9%d9%84%d9%89-%d9%85/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "إليكم شركات التطوير العقاري التي تصدرت مبيعات عقارات دبي في الربع الثالث 2026",
-   "text": "تصدرت شركة عزيزي العقارية مبيعات شركات التطوير العقاري في دبي خلال الربع الثالث من عام 2026، بعد أن جاءت في&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d9%87%d9%8a%d9%85%d9%86%d8%aa-%d8%b9%d9%84%d9%89-%d9%85/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T21:21:13Z"
-  },
-  {
-   "id": "rd:t3_1wwwyvb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Accommodation suggestions",
-   "text": "   Hi everyone!   I’ve arrived in Dubai today and was hoping someone could give me some advice.   I am starting my very first Dubai job on Monday, and I need to live somewhere until the New Year when my wife joins me. I also don’t want to commit to a long term accommodation quite yet as who knows how things will go with the new job!   Do you know what the best options are for rental options for only three months? Airbnb seems expensive. My new job is near the Burj Khalifa and I would like to avoid renting a car for now. Something around the 5,000-7,000 AED per month would be ideal. It would on",
-   "url": "https://www.reddit.com/r/dubai/comments/1wwwyvb/accommodation_suggestions/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T21:20:48Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi4wRBVV95cUxQVWQyRjRMV3F4YW1QRmRyUUluWF9Ycm5STE5TZHBaclZHaEFtYjZnRHBhM2RuaTF6QWh6R2FSSXRQdWhLY3pEYWxvU3JXQmEwSHQ4OGhMQzFVVFp0TkxBcDM0dGYyLW9uV2ItRzRFU0tGbXhVbS03Wm5YTnZyTnVhLUV3TThVenVHczRHYlBVY2FoMWZsQm04Qnd2RFViVE9BXzRLSWU4b29MWW50UXo2elpsTzNFYWEtRDlRcEJLVUVveDNqVGJpS3FyQ3AyNnVER1RvOFEzaGg2ZU9JSG5sdi1BdXNIMlNQeXpaeU4tQ3A3RWdfUnRGZ2JZbkNnblk5Y0NPMFc5WnVhOWEtb01iMm9DdnpGamh5aHBVV3MtNDZBVGdnc1VNY1QteG5KV01wMl9XYkc5am5abGs1Z2M0eUpsaWhFNlFKYmJqZkRXdy1BbUV6Z1lQTVlYYUxnTnZqZlhoZFVBeHZNTnhSM015TlItNW9hdlRBNUtZTC00Y1NhSHpjazRXbFhHVFlYNF9IZkVTYTI5ODZiSW5wOTVYdWphOHBKWDZlR2VYUU8tZHAxQUc2TjhyNndOa2cyOXctdk1pN3RxR2JDN2ZBN2xVNlk3U29odXVEeWpIMnpkSjhxQXZDNkxGOTFKSW80QTNvaHJQM3dOMmRwaUNOTE5GY0YtSjhiWE9MT183elp3WUJ3OURKdkM1cHJ1TXdqRmJRVmdLdW1MTGV4T2IxeldKSmlxc2dTUHJWSHV1b0NlZWlOdmlGbHhJa0dOX3hJM1UycEp5dGFpRWdqMU1wdjdicEU3RQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "عقارات دبي في الربع الثالث.. زيادة المعروض تضبط المنافسة - صحيفة الخليج",
-   "text": " عقارات دبي في الربع الثالث.. زيادة المعروض تضبط المنافسة &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQVWQyRjRMV3F4YW1QRmRyUUluWF9Ycm5STE5TZHBaclZHaEFtYjZnRHBhM2RuaTF6QWh6R2FSSXRQdWhLY3pEYWxvU3JXQmEwSHQ4OGhMQzFVVFp0TkxBcDM0dGYyLW9uV2ItRzRFU0tGbXhVbS03Wm5YTnZyTnVhLUV3TThVenVHczRHYlBVY2FoMWZsQm04Qnd2RFViVE9BXzRLSWU4b29MWW50UXo2elpsTzNFYWEtRDlRcEJLVUVveDNqVGJpS3FyQ3AyNnVER1RvOFEzaGg2ZU9JSG5sdi1BdXNIMlNQeXpaeU4tQ3A3RWdfUnRGZ2JZbkNnblk5Y0NPMFc5WnVhOWEtb01iMm9DdnpGamh5aHBVV3MtNDZBVGdnc1VNY1QteG5KV01wMl9XYkc5am5abGs1Z2M0eUpsaWhFNlFKYmJqZkRXdy1BbUV6Z1lQTVlYYUxnTnZqZlhoZFVBeHZNTnhSM015TlItNW9hdlRBNUtZTC00Y1NhSHpjazRXbFhHVFlYNF9IZkVTYTI5ODZiSW5wOTVYdWphOHBKWDZlR2VYUU8tZHAxQUc2TjhyNndOa2cyOXctdk1pN3RxR2JDN2ZBN2xVNlk3U29odXVEeWpIMnpkSjhxQXZDNkxGOTFKSW80QTNvaHJQM3dOMmRwaUNOTE5GY0YtSjhiWE9MT183elp3WUJ3OURKdkM1cHJ1TXdqRmJRVmdLdW1MTGV4T2IxeldKSmlxc2dTUHJWSHV1b0NlZWlOdmlGbHhJa0dOX3hJM1UycEp5dGFpRWdqMU1wdjdicEU3RQ?oc=5",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T16:21:00Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiuwRBVV95cUxOenhYY2swaGJRYnU4YjE1ZHRrVHFIRFlVdTJkVDFhYl83MVY4cjNmREpNVmRrZExOSmxhQVRiQ3FENUxVcU5HLTZjM2k3cFdGdnN1UktkV0R1R0lOdGV5RWEtVnhhZEhRYXE0T283NWR1OTZsMmdLM0JsT0MzR0NmcTJlYWFDQjNZVVBJSG05VTJMVkZ5dkdYa3RveXUyM0JSRzh3akRZN284Wk1iZGxDYVpPVmNWSWhxVDYyZTBoT2tUM0ExSTVPZUp5eWZWOFJ0QVVWODExVWlraVF6YmtScGtITjRNVTBldkJLUEtJUWdESGltRzkxcElJbWFfRFFfczd3dHlVVXdfY1YxNWVBZ3hrWHM1alRkVHJYa2ZKT1hRQUJ4bFRMS2JMSGpRU1N6MUZ3S3NpNDdOaWdqZEtuY2Nkc0dGNkctZHlaemNrTnlNRUZvQ1Z6U2R6RWhkV3c0N1oyTUExV0hQMVdHS2NHLTg3VC1OX2w2NWhfQzhMMVFaYW82U3ZJNFBmS2NUc2hDemU1QWhFZl94UXdQYWJ6NERYQ3pUenFHMXFoMjBKTGpXdjd6OFlESTdXMzJEUUhfbngxclU0NmpDazJNRHI2YkdpaDNtQjlZNzdtMWVIbWZLZUtkX3Jjdk03ZmZtbGRvT2g0UG9VVkpDLThsb1BTdXNtc1BsNTdtZnBleExvUzZqUmZLb09VVURFR1dZZ1ZQNVVrUUd0Nlp2N2psUFlCYU94ZHJGOGRpNUZz?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 - موقع 24",
-   "text": " عقارات دبي وأبوظبي.. 741 ملياراً في 9 أشهر وطريق مفتوح لبلوغ التريليون بنهاية 2026 &nbsp;&nbsp; موقع 24 ",
-   "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxOenhYY2swaGJRYnU4YjE1ZHRrVHFIRFlVdTJkVDFhYl83MVY4cjNmREpNVmRrZExOSmxhQVRiQ3FENUxVcU5HLTZjM2k3cFdGdnN1UktkV0R1R0lOdGV5RWEtVnhhZEhRYXE0T283NWR1OTZsMmdLM0JsT0MzR0NmcTJlYWFDQjNZVVBJSG05VTJMVkZ5dkdYa3RveXUyM0JSRzh3akRZN284Wk1iZGxDYVpPVmNWSWhxVDYyZTBoT2tUM0ExSTVPZUp5eWZWOFJ0QVVWODExVWlraVF6YmtScGtITjRNVTBldkJLUEtJUWdESGltRzkxcElJbWFfRFFfczd3dHlVVXdfY1YxNWVBZ3hrWHM1alRkVHJYa2ZKT1hRQUJ4bFRMS2JMSGpRU1N6MUZ3S3NpNDdOaWdqZEtuY2Nkc0dGNkctZHlaemNrTnlNRUZvQ1Z6U2R6RWhkV3c0N1oyTUExV0hQMVdHS2NHLTg3VC1OX2w2NWhfQzhMMVFaYW82U3ZJNFBmS2NUc2hDemU1QWhFZl94UXdQYWJ6NERYQ3pUenFHMXFoMjBKTGpXdjd6OFlESTdXMzJEUUhfbngxclU0NmpDazJNRHI2YkdpaDNtQjlZNzdtMWVIbWZLZUtkX3Jjdk03ZmZtbGRvT2g0UG9VVkpDLThsb1BTdXNtc1BsNTdtZnBleExvUzZqUmZLb09VVURFR1dZZ1ZQNVVrUUd0Nlp2N2psUFlCYU94ZHJGOGRpNUZz?oc=5",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T16:21:00Z"
-  },
-  {
-   "id": "rd:t3_1wwmu3r",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Renting with no Emirates ID",
-   "text": "   I’m frequently in Dubai but will be living there full time in November.    I’ve gone apartment hunting a couple times. My question is how does one rent with no EID?   When I move I’ll enter on an Entry Permit for then I’ll go apply for the residency visa and EID but that takes time to process.    I want to line my apartment up and pay for it so when I arrive I can go there but seems I can’t without an EID.    How do I do this? Thanks 🙏🏼      &#32; submitted by &#32;   /u/The_Dao_Father       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wwmu3r/renting_with_no_emirates_id/",
-   "date": "2026-10-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-03T16:20:25Z"
   }
  ]
 }
