@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-10-11T05:52:27Z",
- "newThisRun": 37,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-11T12:56:16Z",
+ "newThisRun": 9,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
-  "reddit": 195,
-  "rss": 52
+  "reddit": 197,
+  "rss": 50
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -41,15 +41,15 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 33,
-   "error": null
-  },
-  {
-   "source": "r/UAE",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
+  },
+  {
+   "source": "r/UAE",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,85 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%b3%d8%a8%d8%aa%d9%85%d8%a8%d8%b1-2026-%d8%a5%d9%84%d9%89-%d8%a3%d9%8a%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أسعار العقارات في دبي سبتمبر  2026 .. إلى أين وصلت أسعار الشقق والفلل ؟",
+   "text": "أظهرت أحدث بيانات أسعار العقارات في دبي خلال سبتمبر 2026 تراجع السعر الوسيط للشقق السكنية بنسبة 8.3% على أساس سنوي،&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%b3%d8%a8%d8%aa%d9%85%d8%a8%d8%b1-2026-%d8%a5%d9%84%d9%89-%d8%a3%d9%8a%d9%86/",
+   "date": "2026-10-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T12:56:15Z"
+  },
+  {
+   "id": "rd:t3_1x33sjh",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Ajman landlord gave me only 47 days’ notice to vacate for personal use — is this legal? Urgent advice needed",
+   "text": "   Hi everyone,  I’m looking for advice from anyone familiar with tenancy laws in Ajman, UAE, especially anyone who has dealt with a similar situation.  My tenancy contract for a villa in Al Yasmeen, Ajman, expires on 24 November 2026.  On 8 October 2026, I received a letter titled “Notice of Non-Renewal of Tenancy Agreement.” The landlord says the property is required for the owner’s personal residential use and has instructed me to vacate and hand over the villa on or before 24 November 2026.  This gives me approximately 47 days’ notice.  This is the first notice I have received. I have neve",
+   "url": "https://www.reddit.com/r/UAE/comments/1x33sjh/ajman_landlord_gave_me_only_47_days_notice_to/",
+   "date": "2026-10-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T12:56:02Z"
+  },
+  {
+   "id": "rd:t3_1x33g83",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "As a 1st time buyer, what are the best places in dubai to buy a ready 2bhk apartment on townhouse?",
+   "text": "&#32; submitted by &#32;   /u/Odd_Regret_6705       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1x33g83/as_a_1st_time_buyer_what_are_the_best_places_in/",
+   "date": "2026-10-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T12:56:02Z"
+  },
+  {
+   "id": "rd:t3_1x31hid",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Subletting vs sharing house in Dubai in face of new Law",
+   "text": "   Hi all, in the face of the new subletting laws with fines being implemented after a 1 year grace period somewhere from August 2027, how are you dealing with sharing an apartment or villa with friends. i.e. in the house yourself with others to reduce the cost of living and splitting the bills? Is the law meant to only tackle the people subletting and overcrowding apartments with bed spaces or also people who share a place with each their own room just to reduce cost? There are still tonnes of ads on Dubizzle for rooms to rent in apartments or villas, like nothing has changed. But certain tha",
+   "url": "https://www.reddit.com/r/dubai/comments/1x31hid/subletting_vs_sharing_house_in_dubai_in_face_of/",
+   "date": "2026-10-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T12:55:46Z"
+  },
   {
    "id": "rd:t3_1x308qh",
    "platform": "Reddit",
@@ -556,6 +616,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-10T12:37:02Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDTSAbcBQVVfeXFMUFlsdXNFRzczWGxjRG5OTi1GUF91SDNmS05ZYUNNMks3X0NES2ZGVkxaU1VfT1gxSnJvbTBhTmxMaWhIQUxqNXI2MFpieHRVX0xUaDNQWHV1cHNreG51X0wzd1NxeVZWRDdhaERfVXhWU3hNSURldFhQeHFWUlgtLWc2MWlmMlpSRXh0NWI5Rm81RS1HaDZFanNHMkxYVW9aak5xbVVraUNVcEJTX0xLTnZTXzJleTQ0?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property buyers get keys months ahead of time - Gulf News",
+   "text": " Dubai property buyers get keys months ahead of time &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDTSAbcBQVVfeXFMUFlsdXNFRzczWGxjRG5OTi1GUF91SDNmS05ZYUNNMks3X0NES2ZGVkxaU1VfT1gxSnJvbTBhTmxMaWhIQUxqNXI2MFpieHRVX0xUaDNQWHV1cHNreG51X0wzd1NxeVZWRDdhaERfVXhWU3hNSURldFhQeHFWUlgtLWc2MWlmMlpSRXh0NWI5Rm81RS1HaDZFanNHMkxYVW9aak5xbVVraUNVcEJTX0xLTnZTXzJleTQ0?oc=5",
+   "date": "2026-10-09",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T12:56:16Z"
   },
   {
    "id": "rd:t3_1x20g8m",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-06T06:27:01Z"
-  },
-  {
-   "id": "rd:t3_1wxn2qn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Need help with home improvement",
-   "text": "   I’m struggling to manage my home as I live in an area a bit far from the metro and I live in an apartment where I am constantly in need of things with no friends who I can ask help from.    Please can you recommend me the most affordable, budget and reliable businesses I could contact for below issues. In tired of blind buying everytime as I can’t even rely on genuine online reviews.    I want places where I can blind buy from knowing they are affordable and I don’t need to compare pricing elsewhere.    I can shop on apps but it seems like they contract from smaller companies so I would rat",
-   "url": "https://www.reddit.com/r/dubai/comments/1wxn2qn/need_help_with_home_improvement/",
-   "date": "2026-10-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T21:31:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%87%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%86%d8%af%d9%86-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d8%b3%d9%88%d9%82%d8%a7%d9%8b-%d9%84%d9%84%d9%85/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "هل أصبحت عقارات لندن الفاخرة سوقاً للمشترين الخليجيين؟",
-   "text": "تتزايد المؤشرات على تحول سوق العقارات الفاخرة في لندن لمصلحة المشترين، مع اتساع الخصومات على الأسعار المطلوبة وارتفاع المدة اللازمة&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%87%d9%84-%d8%a3%d8%b5%d8%a8%d8%ad%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%86%d8%af%d9%86-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d8%b3%d9%88%d9%82%d8%a7%d9%8b-%d9%84%d9%84%d9%85/",
-   "date": "2026-10-04",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T12:26:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%b4%d9%88%d8%a8%d8%a7-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-600-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-700-%d9%85%d9%86%d8%b2/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«شوبا» تستثمر 600 مليون دولار لتطوير 700 منزل في أميركا وتتوسع بأستراليا",
-   "text": "تعتزم «شوبا العقارية» Sobha Realty ، شركة التطوير العقاري ومقرها دبي، استثمار نحو 600 مليون دولار لتطوير نحو 700 منزل&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%b4%d9%88%d8%a8%d8%a7-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-600-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-700-%d9%85%d9%86%d8%b2/",
-   "date": "2026-10-04",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T12:26:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d9%85%d8%af%d9%86-%d8%aa%d8%b7%d9%84%d9%82-%d9%81%d9%84%d9%84-%d9%88%d8%af%d9%8a%d9%85-%d8%ba%d8%a7%d8%b1%d8%af%d9%86%d8%b2-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«مدن» تطلق فلل «وديم غاردنز» في جزيرة الحديريات بأبوظبي بتمويل عقاري يصل إلى 75%",
-   "text": "أطلقت مجموعة مدن Modon المرحلة الأولى من مشروع «وديم غاردنز» Wadeem Gardens، أحدث مجتمعات الفلل ضمن المخطط الرئيسي لمشروع «وديم»&#8230;",
-   "url": "https://masdarak.com/new-projects/%d9%85%d8%af%d9%86-%d8%aa%d8%b7%d9%84%d9%82-%d9%81%d9%84%d9%84-%d9%88%d8%af%d9%8a%d9%85-%d8%ba%d8%a7%d8%b1%d8%af%d9%86%d8%b2-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7/",
-   "date": "2026-10-04",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T12:26:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d9%85%d8%a8%d8%a7%d8%af%d9%84%d8%a9-%d9%88%d8%aa%d8%b1%d9%81-%d8%aa%d9%88%d8%b3%d8%b9%d8%a7%d9%86-%d8%b4%d8%b1%d8%a7%d9%83%d8%aa%d9%87%d9%85%d8%a7-%d8%a7%d9%84%d8%b9%d9%82/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«مبادلة» و«ترف» توسعان شراكتهما العقارية في جزيرتي المارية والريم بأبوظبي",
-   "text": "وسّعت «مبادلة للاستثمار»، شركة الاستثمار السيادي في أبوظبي، و  ترف العقارية TARAF، الذراع العقارية لمجموعة ياس القابضة، شراكتهما في القطاع&#8230;",
-   "url": "https://masdarak.com/new-projects/%d9%85%d8%a8%d8%a7%d8%af%d9%84%d8%a9-%d9%88%d8%aa%d8%b1%d9%81-%d8%aa%d9%88%d8%b3%d8%b9%d8%a7%d9%86-%d8%b4%d8%b1%d8%a7%d9%83%d8%aa%d9%87%d9%85%d8%a7-%d8%a7%d9%84%d8%b9%d9%82/",
-   "date": "2026-10-04",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-04T12:26:24Z"
   }
  ]
 }
