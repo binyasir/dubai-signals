@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-11T12:56:16Z",
- "newThisRun": 9,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-11T22:01:56Z",
+ "newThisRun": 6,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
-  "reddit": 197,
-  "rss": 50
+  "reddit": 196,
+  "rss": 51
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,36 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSkFpZXBJRjVFUEhLallLVVBVS0NfTTBUZzkwQnNFamtBSHlOMTVlcTRlSVVLUU1QeXlRYnFOcnhRV1FRalJDekRjald4UkZKMlplcdIBVEFVX3lxTFBwSkFpZXBJRjVFUEhLallLVVBVS0NfTTBUZzkwQnNFamtBSHlOMTVlcTRlSVVLUU1QeXlRYnFOcnhRV1FRalJDekRjald4UkZKMlplcQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "«علاوة المواصلات» تعيد تسعير عقارات دبي - البيان",
+   "text": " «علاوة المواصلات» تعيد تسعير عقارات دبي &nbsp;&nbsp; البيان ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSkFpZXBJRjVFUEhLallLVVBVS0NfTTBUZzkwQnNFamtBSHlOMTVlcTRlSVVLUU1QeXlRYnFOcnhRV1FRalJDekRjald4UkZKMlplcdIBVEFVX3lxTFBwSkFpZXBJRjVFUEhLallLVVBVS0NfTTBUZzkwQnNFamtBSHlOMTVlcTRlSVVLUU1QeXlRYnFOcnhRV1FRalJDekRjald4UkZKMlplcQ?oc=5",
+   "date": "2026-10-11",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T22:01:56Z"
+  },
+  {
+   "id": "rd:t3_1x38kn0",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Need to rent an apartment for me and my wife quiet with no noise, any suggestions? Feel overwhelmed",
+   "text": "   viewed quite a lot of places in the last weeks while getting emirates ID, I will get it soon but still not really sure what to take, my budget is up to 300k AED, a lot of places I viewed are very new and I worry about the noise from neighbors moving in etc, any suggestions? top priority for me is getting good sleep, no noise, less traffic is better. Looking for a 2BR. Would prefer lower rise.   Dubai hills   City walk   Bluewaters   These are the main areas I&#39;m considering, are these the best?     &#32; submitted by &#32;   /u/NobilityLancer       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x38kn0/need_to_rent_an_apartment_for_me_and_my_wife/",
+   "date": "2026-10-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-11T22:01:21Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%b3%d8%a8%d8%aa%d9%85%d8%a8%d8%b1-2026-%d8%a5%d9%84%d9%89-%d8%a3%d9%8a%d9%86/",
    "platform": "RSS",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wy28zx",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Please Advice regarding Rental of Apartment (1BHK) in Tiger Al Yarmook Building in Al Nahda Sharjah",
-   "text": "   Hello fellow redditers,   I am planning to rent a one bhk apartment in al yarmook in al nahda sharjah, they currently give good price, 28k for one bhk for a year. they are saying they will increase the price next year, this price is only for one year, even then, i am so confused right now regarding the terms, as this is my first time renting an apartment in UAE. so i have no idea about the charges i am looking at. also I am seeing mixed reviews about the Yarmook building B block as the maintanance is poor, the lift is out of order most of the time. I work in dubai and my office location cha",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy28zx/please_advice_regarding_rental_of_apartment_1bhk/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wxc2t7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Escape from Hell",
-   "text": "   I want to leave Bangladesh, but it’s not as simple as packing a bag. There’s money to worry about, aging parents to think about, and an entire life to rebuild.   So I’m wondering: is there any country where a middle-class Bangladeshi can realistically build a 5-year plan to move permanently with family?   UAE Golden Visa, Canada, etc. sound great, but the costs are way beyond what most of us can afford.   If you were in my position, where would you start?     &#32; submitted by &#32;   /u/samiul313       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/expats/comments/1wxc2t7/escape_from_hell/",
-   "date": "2026-10-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-06T06:27:01Z"
   }
  ]
 }
