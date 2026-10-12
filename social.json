@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-12T06:04:00Z",
- "newThisRun": 4,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-12T15:33:38Z",
+ "newThisRun": 13,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
-  "reddit": 196,
-  "rss": 51
+  "reddit": 193,
+  "rss": 54
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,141 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3NaT1FIWnJVMDJKN2VkZkMyRmVIRDZwUXNGMFdDbnplejVUa2gteU1WTG5SYzdhM1A1SFZGZE4xUlo4UDNDWDRDZXdhMS1JUzZKS1pDQ0ttU05XVDNnUDF6QkR3bms5bjEwam9lU3BaWXpZTGRBZWRTRXEzajZ2dkU4TW9LdFdPSnd4SDJYLTZSVXlDNEtNalVzckZMX2pBX2djMkw2VWtwelFt?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Karim Benzema Leads Growing Wave of Football Stars Investing in Dubai Real Estate - Egypt Today",
+   "text": " Karim Benzema Leads Growing Wave of Football Stars Investing in Dubai Real Estate &nbsp;&nbsp; Egypt Today ",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3NaT1FIWnJVMDJKN2VkZkMyRmVIRDZwUXNGMFdDbnplejVUa2gteU1WTG5SYzdhM1A1SFZGZE4xUlo4UDNDWDRDZXdhMS1JUzZKS1pDQ0ttU05XVDNnUDF6QkR3bms5bjEwam9lU3BaWXpZTGRBZWRTRXEzajZ2dkU4TW9LdFdPSnd4SDJYLTZSVXlDNEtNalVzckZMX2pBX2djMkw2VWtwelFt?oc=5",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:38Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRTFCSXltYkFra0pudnpvS0ZQbnFNVmRUQnRmUTFwbW51NXVLVDZ1b1lyRUJldDlEeEV4dkRtSzhSLU5jRU9KQXJCRUFobnVHb1BzRXFaQXk4Zmt1SWRLTkNiTHpYUG1oNVRfR1paSlJfTFRhVlpYb2hiMlU1T29JcmVQM29CRkhZUkk0cy04bjJjSHczUVZoTHdTdHJXVkpOcWJUWE1vdVlBaVl2b29oRGJpaFp1UWhsa0tNeThlNklFckJtd0dfelNPODdZVW5PUEgzZW1KSENEN2FJUnhOdm1BZjliWVBjb2t1SHItUVFqQ2pjNW9XcUFR?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "W Capital: Multi-billion-dirham infrastructure projects reshape Dubai’s real estate investment landscape - Zawya",
+   "text": " W Capital: Multi-billion-dirham infrastructure projects reshape Dubai’s real estate investment landscape &nbsp;&nbsp; Zawya ",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRTFCSXltYkFra0pudnpvS0ZQbnFNVmRUQnRmUTFwbW51NXVLVDZ1b1lyRUJldDlEeEV4dkRtSzhSLU5jRU9KQXJCRUFobnVHb1BzRXFaQXk4Zmt1SWRLTkNiTHpYUG1oNVRfR1paSlJfTFRhVlpYb2hiMlU1T29JcmVQM29CRkhZUkk0cy04bjJjSHczUVZoTHdTdHJXVkpOcWJUWE1vdVlBaVl2b29oRGJpaFp1UWhsa0tNeThlNklFckJtd0dfelNPODdZVW5PUEgzZW1KSENEN2FJUnhOdm1BZjliWVBjb2t1SHItUVFqQ2pjNW9XcUFR?oc=5",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:38Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-4-%d8%ae%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أسعار العقارات الفاخرة في دبي ترتفع 4% خلال الربع الثالث 2026",
+   "text": "أظهر تقرير حديث لشركة الاستشارات العقارية العالمية «سافيلز» Savills ارتفاع متوسط أسعار الشقق الفاخرة في دبي بنسبة 4% على أساس&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-4-%d8%ae%d9%84/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:37Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%8a%d8%a7%d8%b3-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d9%87%d8%a7%d9%84%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "مشروع \"مانشستر سيتي ياس\" في أبوظبي .. هالاند يشتري فيلا وطرح وحدات جديدة للبيع",
+   "text": "اشترى النجم النرويجي إيرلينغ هالاند، مهاجم نادي مانشستر سيتي الإنجليزي، فيلا مكونة من 5 غرف نوم في مشروع «مانشستر سيتي&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%8a%d8%a7%d8%b3-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d9%87%d8%a7%d9%84%d8%a7/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:37Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%85%d8%ad%d9%88%d8%b1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-5-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af%d8%a9-%d9%88%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "المحور الرابع في دبي.. 5 مناطق مستفيدة وتوقعات بارتفاع أسعار بعض العقارات 20%",
+   "text": "توقع مسؤولو شركات تطوير عقاري في دبي ومستشارون عقاريون أن يسهم مشروع «المحور الرابع» الجديد في دبي في تعزيز الطلب&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%85%d8%ad%d9%88%d8%b1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-5-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d9%85%d8%b3%d8%aa%d9%81%d9%8a%d8%af%d8%a9-%d9%88%d8%aa/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:37Z"
+  },
+  {
+   "id": "rd:t3_1x3yk25",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Recommendations for car rentals",
+   "text": "   Hello Dubai, I am looking for recommendations for a car rentals. Upon reading reviews on reddit, I used thrifty UAE until last year. Until recently, the charges for rental were about 80 dhs per day and now recently I feel that the rentals have increased by up to 124 dhs per day so i&#39;m looking for other reliable car rentals which kind of fall in my budget. Also I live in Al Nahda, so any rentals nearby or the ones that would deliver there for a nominal fee would be appreciated. Thanks.     &#32; submitted by &#32;   /u/bytebytebum       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x3yk25/recommendations_for_car_rentals/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:02Z"
+  },
+  {
+   "id": "rd:t3_1x3xbiu",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "New to UAE",
+   "text": "   Good day all   My spouse received an offer from EGA as a technician.    He is definitely going to take it.    We are a family of 4, with 2 kids in primary school. I will be homeschooling them with our home country curriculum due to expenses.    My questions to the community      How is EGA as a company to work for? Especially as an expat?     What residential areas are close to EGA? A 1 or 2 bedroom apartment.      I&#39;m aware that dubai is not the glamorous life for expats. Its expensive and hot!   Thank you in advance. Im sure ill have more queries as the days go by     &#32; submitted ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x3xbiu/new_to_uae/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:02Z"
+  },
+  {
+   "id": "rd:t3_1x3u804",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Hogging weight in shared gym",
+   "text": "   In my shared gym for my apartment we have one set of each dumbbell weight.   Is it then okay for 3 individuals to take 2 sets of dumbbells and 2 sets of plates upstairs in the gym to do what I think is a class with an instructor? One ladies seems to be teaching two people.   They have been using the weights for around 10/15 minutes and then when I go to ask them will they finish soon they say they will be another 25 to 30 minutes!   Should I be a Karen and report them to security? I dont believe it’s allowed for personal trainers or instructors to use the gym for commercial reasons…     &#3",
+   "url": "https://www.reddit.com/r/dubai/comments/1x3u804/hogging_weight_in_shared_gym/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:02Z"
+  },
+  {
+   "id": "rd:t3_1x3scpo",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Pest Control Scam",
+   "text": "   Thought a few times before posting this but now I have enough validation to.    I have been living in the same apartment now for the past 6 years, and it has been a routine to do a pest control every 2-3 months. What I have been noticing is that, every time a little business card (paper) is dropped near the door advertising of a pest control company, there is also a tiny cockroach or two around the door as well. At first I was thinking it was coincidence but the amount of times I’ve seen the same thing makes me think it’s not.    Are these companies literally making the problem and then sel",
+   "url": "https://www.reddit.com/r/dubai/comments/1x3scpo/pest_control_scam/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T15:33:02Z"
+  },
   {
    "id": "rd:t3_1x3ra5c",
    "platform": "Reddit",
@@ -3691,141 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-06T00:05:41Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMigAJBVV95cUxQYU1UTkN2anptNVF5ZEZEWWtwZzBYd1YwQV9uTGRpS01QNDI5RTVIbm1mNzJ1LS1RU3RaakRCRUt6bTBMQm1OcE1halo1clE4OW5Gd0J3SlkyNWRRRmJOanBIU0lDV1c3cUZJM292a3NaYzlJYVJ6bTExZmhOSlg0YTZTMC1NWDVyTEIzRHBuU2hLR2ZLTFBzZ2dHU21mWHBLUWZ4S0N5eHdPd2ljUTdxNHRiNno3NWtEd2RGMXZEY3JyVWR1ZFd5NlA2dW5kU2RxZ3A3QVdId0w1UGgyZU1UUlpLRGZNQkRyeUVWNVFVLXFHc0VVQXl0bWpIYVNTb2ho?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate transactions reach AED 90.62bln in Q3 as off-plan remains the largest residential segment - Zawya",
-   "text": " Dubai real estate transactions reach AED 90.62bln in Q3 as off-plan remains the largest residential segment &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYU1UTkN2anptNVF5ZEZEWWtwZzBYd1YwQV9uTGRpS01QNDI5RTVIbm1mNzJ1LS1RU3RaakRCRUt6bTBMQm1OcE1halo1clE4OW5Gd0J3SlkyNWRRRmJOanBIU0lDV1c3cUZJM292a3NaYzlJYVJ6bTExZmhOSlg0YTZTMC1NWDVyTEIzRHBuU2hLR2ZLTFBzZ2dHU21mWHBLUWZ4S0N5eHdPd2ljUTdxNHRiNno3NWtEd2RGMXZEY3JyVWR1ZFd5NlA2dW5kU2RxZ3A3QVdId0w1UGgyZU1UUlpLRGZNQkRyeUVWNVFVLXFHc0VVQXl0bWpIYVNTb2ho?oc=5",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:47:14Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%88%d8%b3%d9%91%d8%b9-%d8%ae%d9%8a%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "زيادة المعروض العقاري في دبي توسّع خيارات استئجار الشقق والفلل",
-   "text": "ساهم ارتفاع المعروض العقاري في دبي باتساع خيارات المستأجرين الباحثين عن الشقق والفلل في الإمارة خلال الربع الثالث من 2026،&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%88%d8%b3%d9%91%d8%b9-%d8%ae%d9%8a%d8%a7/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:47:13Z"
-  },
-  {
-   "id": "rd:t3_1wy90mc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Low rent studio apartments",
-   "text": "                 I&#39;m looking to move and I want a small place with an attached bathroom, fully furnished and with free wifi dewa etc. I don&#39;t need a balcony or cable tv, I just want a private place for myself and safe for a woman to live alone and with the public transport and shops easily accessible.    P.S.- Saw this from a reel and it fits to what I&#39;d like but I&#39;m okay with anything. I only want one for 3 months for now so hopefully no security deposit and w monthly payment. Any sites you would recommend than dubizzle or how to find this exact layout or in general possibly? ",
-   "url": "https://www.reddit.com/r/UAE/comments/1wy90mc/low_rent_studio_apartments/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:47:01Z"
-  },
-  {
-   "id": "rd:t3_1wy7jln",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Du Home Internet Scam? What to do?",
-   "text": "   We moved into our first rental here in the UAE recently and took du home WiFi from one of the agents who advertised us home wifi for AED 166 per month for a year. However, for past 3 months the bill has come to AED 266.    Everytime we contact the agent when we get the new bill, we are told discount will apply for next month, that it was a technical glitch, etc and to need internet we end up paying right before internet gets disconnected. And in this way 3 months have passed after we raised issue when recieving a higher bill. Now we have just requested for cancellation as we don’t think we ",
-   "url": "https://www.reddit.com/r/UAE/comments/1wy7jln/du_home_internet_scam_what_to_do/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:47:01Z"
-  },
-  {
-   "id": "rd:t3_1wy96e1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Apartment in / near dubai internet city",
-   "text": "   Hi everyone I am a single female looking to move into areas where I could have daily commute to Dubai Internet City.   I dont drive so anyplace where there is public transport / walking distance would be ideal.   Any recommendations of a good building? Or any buildings you wouldnt recommend?   Maximum budget is 10k AED / month.     &#32; submitted by &#32;   /u/snowsnegu       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy96e1/apartment_in_near_dubai_internet_city/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wy8tmq",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Is there any Tenancy scheme which i can pay monthly rent by credit card or debit card in dubai without these cheques and huge initial pay.",
-   "text": "   Is there any Tenancy scheme which i can pay monthly rent by credit card or debit card in dubai without these cheques and huge initial pay. I cant afford this high initial payments for these tenancy contracts. Me and my wife are looking for a good flat with year contract and call it our home instead of this temporary rooms of subletting people.     &#32; submitted by &#32;   /u/According-Paper8792       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy8tmq/is_there_any_tenancy_scheme_which_i_can_pay/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wy7ve4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Dubai Golden Card Perks?",
-   "text": "   Hello,   I recently got my Emirates ID and it&#39;s based on a golden UAE thing (real estate)   I am wondering if outside of the obvious perks (10 year visa, 0 day in UAE to maintain, consulate, etc) - are the any hidden perks on it?   I know back in 2023 -&gt; esaad gold card was avaliable.   Is there anything else like that?     &#32; submitted by &#32;   /u/Queasy-Instance8457       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy7ve4/dubai_golden_card_perks/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wy7grb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Du Home Internet Scam? What to do?",
-   "text": "   We moved into our first rental here in the UAE recently and took du home WiFi from one of the agents who advertised us home wifi for AED 166 per month for a year. However, for past 3 months the bill has come to AED 266.    Everytime we contact the agent when we get the new bill, we are told discount will apply for next month, that it was a technical glitch, etc and to need internet we end up paying right before internet gets disconnected. And in this way 3 months have passed after we raised issue when recieving a higher bill. Now we have just requested for cancellation as we don’t think we ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy7grb/du_home_internet_scam_what_to_do/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wy56s5",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Anyone living in Matrix Tower — is this AC bill normal for a 1BR?",
-   "text": "   Hi everyone,   I’m living in a  1-bedroom apartment in Matrix Tower sport city , and I’m having an issue with my AC/cooling bill.   Last month, I paid around  AED 376 . This month, I was surprised to receive a bill of around  AED 650 , almost double.   When I contacted them, they told me part of the amount is related to the  previous month because I supposedly didn’t pay the full amount . However, I did pay my previous bill, so I’m trying to understand where this additional amount is coming from.   I’m also concerned about the actual AC consumption. I really don’t feel that I’ve used enough",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy56s5/anyone_living_in_matrix_tower_is_this_ac_bill/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
   }
  ]
 }
