@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-11T22:01:56Z",
- "newThisRun": 6,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-12T06:04:00Z",
+ "newThisRun": 4,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
@@ -66,17 +66,32 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 19,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1x3ra5c",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Storage Container Job Lot SALE",
+   "text": "   Looking for some help, a friend has contents of 4 bed villa(kitchen, living room, bedrooms etc), in a storage unit.    She wants to sell/get rid of the full lot in one shot without having to list separately, as she doesn’t have individual pics of everything as in storage.    Is there such a place that will come to storage unit check contents and buy in one shot? She would like to get something for it at least.    Any help or direction would be greatly appreciated.      &#32; submitted by &#32;   /u/abloodymess95       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x3ra5c/storage_container_job_lot_sale/",
+   "date": "2026-10-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-12T06:03:24Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSkFpZXBJRjVFUEhLallLVVBVS0NfTTBUZzkwQnNFamtBSHlOMTVlcTRlSVVLUU1QeXlRYnFOcnhRV1FRalJDekRjald4UkZKMlplcdIBVEFVX3lxTFBwSkFpZXBJRjVFUEhLallLVVBVS0NfTTBUZzkwQnNFamtBSHlOMTVlcTRlSVVLUU1QeXlRYnFOcnhRV1FRalJDekRjald4UkZKMlplcQ?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "Anyone living in Matrix Tower — is this AC bill normal for a 1BR?",
    "text": "   Hi everyone,   I’m living in a  1-bedroom apartment in Matrix Tower sport city , and I’m having an issue with my AC/cooling bill.   Last month, I paid around  AED 376 . This month, I was surprised to receive a bill of around  AED 650 , almost double.   When I contacted them, they told me part of the amount is related to the  previous month because I supposedly didn’t pay the full amount . However, I did pay my previous bill, so I’m trying to understand where this additional amount is coming from.   I’m also concerned about the actual AC consumption. I really don’t feel that I’ve used enough",
    "url": "https://www.reddit.com/r/dubai/comments/1wy56s5/anyone_living_in_matrix_tower_is_this_ac_bill/",
-   "date": "2026-10-05",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-05T14:46:45Z"
-  },
-  {
-   "id": "rd:t3_1wy4kwr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Jumeirah Village Triangle (JVT)",
-   "text": "   I have been to Dubai many times on conferences or exhibitions. And every time my route was never outside Downtown, Business Bay or Marina.  I am planning to buy or rent in a decent district. I was advised JVC but as I have been looking at Google maps, the on and off highway roads are red from 6:00 to 21:00 every single day. And I think with thousands of apartments to finish soon the place will be chaos.  So a friend of mine proposed JVT. They will soon open 3rd biggest mall in Dubai I think - Al Khail mall. The district shall be quite cause all the residentials are villas or townhouses. The",
-   "url": "https://www.reddit.com/r/dubai/comments/1wy4kwr/jumeirah_village_triangle_jvt/",
    "date": "2026-10-05",
    "dateApprox": false,
    "language": "en",
