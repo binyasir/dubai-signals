@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-14T17:15:51Z",
- "newThisRun": 11,
+ "generatedAt": "2026-10-14T21:44:38Z",
+ "newThisRun": 6,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 179,
-  "rss": 67
+  "reddit": 180,
+  "rss": 66
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 6,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,56 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 30,
+   "items": 22,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMijARBVV95cUxOUU13YzBBNzZqQ21LZlVDRU1oUC02Q1BVWmxrUXZXaWdoenNSbV91Tk5XN0dZMGJ5M29pZ3g0QjdVbml1MGRjcFdHX05QMERlQzhmT1Z3aDFYRm1jNC1hcEl4bXU3bEZZaGpqcWFRZWNvdnozRjdzNC0wNGtMVmpxU1cxLThMSVVQY1ViYlVtMTBIT2g0R0J2TGdIMU5iSEtkY3NlMGc0WGQwbGhGZGlxVENwN0xCUEsxcnk4LVVRbkRvSEU3WHVYXzdKVFlMT2U5UVgzT3FNYmpfVkZYX3J2R0loWlhTUlZRWC05cHpzSFR2cFVuV3NWdi1CcGpWX01yMmtRTEh2dFBkaWZKY0ZwWXJUWkxXVnVjUGRTb3dxUHlZaWtaZFdxWVp6VnlLWFNlVDd2VkpsTmlWX1U1R0VwQk84bElfOWRCU2QzQUc0ekxuUnRzN2dFTEo5enYzX05IQ3FFbmRxVnQ2UXZtRUhVNnhDNTF5b2pQY3I1QnBfZ01wNl83N1E3dko1QzZ4Ml9ZVjljWnhvZTI4M24yNXFMcmtDZ3JRTWg3T1JMc0ZJMGp5YllEbTJGYTljZ3d0ck9HeVdBS1JKZHQxX2tPcjVGanEwd0VPaC1hNDlHNWJTZDRhazVfNWFUQks0VkRaUjQ1SUhSeDF2SGhDMnZidUJ2c1JvZlQ5WklESG01Nw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "193 ألف مستثمر يضخون 680 مليار درهم في عقارات دبي - صحيفة الخليج",
+   "text": " 193 ألف مستثمر يضخون 680 مليار درهم في عقارات دبي &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOUU13YzBBNzZqQ21LZlVDRU1oUC02Q1BVWmxrUXZXaWdoenNSbV91Tk5XN0dZMGJ5M29pZ3g0QjdVbml1MGRjcFdHX05QMERlQzhmT1Z3aDFYRm1jNC1hcEl4bXU3bEZZaGpqcWFRZWNvdnozRjdzNC0wNGtMVmpxU1cxLThMSVVQY1ViYlVtMTBIT2g0R0J2TGdIMU5iSEtkY3NlMGc0WGQwbGhGZGlxVENwN0xCUEsxcnk4LVVRbkRvSEU3WHVYXzdKVFlMT2U5UVgzT3FNYmpfVkZYX3J2R0loWlhTUlZRWC05cHpzSFR2cFVuV3NWdi1CcGpWX01yMmtRTEh2dFBkaWZKY0ZwWXJUWkxXVnVjUGRTb3dxUHlZaWtaZFdxWVp6VnlLWFNlVDd2VkpsTmlWX1U1R0VwQk84bElfOWRCU2QzQUc0ekxuUnRzN2dFTEo5enYzX05IQ3FFbmRxVnQ2UXZtRUhVNnhDNTF5b2pQY3I1QnBfZ01wNl83N1E3dko1QzZ4Ml9ZVjljWnhvZTI4M24yNXFMcmtDZ3JRTWg3T1JMc0ZJMGp5YllEbTJGYTljZ3d0ck9HeVdBS1JKZHQxX2tPcjVGanEwd0VPaC1hNDlHNWJTZDRhazVfNWFUQks0VkRaUjQ1SUhSeDF2SGhDMnZidUJ2c1JvZlQ5WklESG01Nw?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T21:44:38Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMicEFVX3lxTFA3MDBXWlBPdXk2cjlDcnBvSmVGcXYtMXlMYkotVlpyc211YVY3RFFxeDVWdGpsWnl5WkNmMThnV0ZMU1BBczJDOHp0YlB2QWtYX21DYVB6blFKckl1Q2IzWHRsdTZHcl9CUzZ2b3JZRm7SAXBBVV95cUxQNzAwV1pQT3V5NnI5Q3Jwb0plRnF2LTF5TGJKLVZacnNtdWFWN0RRcXg1VnRqbFp5eVpDZjE4Z1dGTFNQQXMyQzh6dGJQdkFrWF9tQ2FQem5RSnJJdUNiM1h0bHU2R3JfQlM2dm9yWUZu?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "استثمارات آسيا وأوروبا في عقارات دبي تقفز39 % إلى 496 مليار درهم - البيان",
+   "text": " استثمارات آسيا وأوروبا في عقارات دبي تقفز39 % إلى 496 مليار درهم &nbsp;&nbsp; البيان ",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3MDBXWlBPdXk2cjlDcnBvSmVGcXYtMXlMYkotVlpyc211YVY3RFFxeDVWdGpsWnl5WkNmMThnV0ZMU1BBczJDOHp0YlB2QWtYX21DYVB6blFKckl1Q2IzWHRsdTZHcl9CUzZ2b3JZRm7SAXBBVV95cUxQNzAwV1pQT3V5NnI5Q3Jwb0plRnF2LTF5TGJKLVZacnNtdWFWN0RRcXg1VnRqbFp5eVpDZjE4Z1dGTFNQQXMyQzh6dGJQdkFrWF9tQ2FQem5RSnJJdUNiM1h0bHU2R3JfQlM2dm9yWUZu?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T21:44:38Z"
+  },
+  {
+   "id": "rd:t3_1x5xhup",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "This BS with real estate agents is really getting out of hand",
+   "text": "   Hey everyone, it&#39;s so frustrating to find a property in Dubai. I&#39;ve been looking to rent a studio for just 3 months. Everything displayed is either unavailable, though it&#39;s just recently posted, or they mention monthly, but it&#39;s a yearly contract paid in monthly instalments.   When can we get some integrity in the real estate market? No one actually sticks to what they promise or write in posts, and apparently they just keep doing it without any consequences, wasting everyone&#39;s time.      &#32; submitted by &#32;   /u/Mob911       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x5xhup/this_bs_with_real_estate_agents_is_really_getting/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T21:44:03Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxPYS1fMERVZGRqamhrdkxaX2FsWEdOQzJUU01SV1BpX05FV2N4RDVNWll2Qm41OUVWRjQyOV9MXzNBMHhsNXNTdHdmN25WTXZ4RkZwaTdQS2tTUWR6dVQtSklqdktiTE82VHBzcndheXl3UEtZbHo2UW5GNFhOWnQxcjRobW9ERk5CaEtyb0NtYUNubHdQMk01NHhId180VTdRSWdmbWl6T1hqZzNhODNaSDVLbjdnTFXSAbwBQVVfeXFMT2dWNGFyRGZfME0tNjRha1lTaXZZS195akRfY0NKM3dGbjBDUlo2dHJMTmhTQnFhRTFNaVJQaUhuTWFBenhBY1Blbkt0LU05aU1TbUNKY3pnYWFTamI5eHlZSXAxQzc2TGVKR0p1N1lhVVpSYklTdWtlUWZyaEUzOThRc2J3NjhJSnM3Z2ZZeWRMV2VPWnhNVEpFd1pMcDNRaC05QlRVYkhaaGZsanl3NzNBM3ZOdE1WRW1OeGo?oc=5",
    "platform": "RSS",
@@ -3779,51 +3824,6 @@
    "date": "2026-10-07",
    "dateApprox": false,
    "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T13:30:05Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMnVnNFBxdkdQTy10b0UxX2w1QmJKV0l6X0hsaHpWMUNWb1BCTmJ4dHJ1WXBRdkVHX0lvT1M4dW9KS2dTLXI3MnN3NGEwbEHSAVRBVV95cUxOUDkwSTdORUJTb2tzOWpfT1hQLVBaWkpDSFUtd1J3b1RmS0JJNlFoemxaMURYM1Nsa0s3VmpLTTBtbzJral8zZHJxV3B6YWZ2RG1PdzQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "«إس آند بي»: قوة المطورين ومتانة الاقتصاد تعززان مرونة عقارات دبي - البيان",
-   "text": " «إس آند بي»: قوة المطورين ومتانة الاقتصاد تعززان مرونة عقارات دبي &nbsp;&nbsp; البيان ",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DMnVnNFBxdkdQTy10b0UxX2w1QmJKV0l6X0hsaHpWMUNWb1BCTmJ4dHJ1WXBRdkVHX0lvT1M4dW9KS2dTLXI3MnN3NGEwbEHSAVRBVV95cUxOUDkwSTdORUJTb2tzOWpfT1hQLVBaWkpDSFUtd1J3b1RmS0JJNlFoemxaMURYM1Nsa0s3VmpLTTBtbzJral8zZHJxV3B6YWZ2RG1PdzQ?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T13:30:05Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYTJfNGhBWmU0M3NUenEtVUtTVkpTVEZVWFVUaFFfcHBJY0UyRzRhdkgteGJvU2FzQWhTV3Z2cHItR2s2SmtsZUw5VTZGMnpMSG9UNEI2R1d3UkdDa3NqWGZ0eFF0WUJEXzI2eXcyY3kzMmhaelVSbFV1Q0lPOUtRY29pcmsyckstWlBBRUhvSmdjd0JPeGhNbjFfX1l0QXFUc1NDenNfdnJOY2dxRFUxcDYxTHVHeGhscU5nOFV1cnBnZHhkdGNFLWUtMEY3SXZDSG11c3VBX0xBVDJPbUF6aGEzdm1ZMzNheGRoQkFFeFJoY18yeGV3Y3ktMkx4VlU3SjVRTGwybk5icjhKQUZYd25ma2hJd1EwZmZmYUplcFYtTHdrc3QzbmhBSDlYQm5hTm91YU5kOEZ2S3hzbXI1UjF1cG5WZFZJRjZBTTZSYV9LckpIbmNSejdDUW8zc0ozbmQ4cE53?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "\"إس آند بي\": أسس قوية تدعم سوق عقارات دبي في 2027 - معلومات مباشر",
-   "text": " \"إس آند بي\": أسس قوية تدعم سوق عقارات دبي في 2027 &nbsp;&nbsp; معلومات مباشر ",
-   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYTJfNGhBWmU0M3NUenEtVUtTVkpTVEZVWFVUaFFfcHBJY0UyRzRhdkgteGJvU2FzQWhTV3Z2cHItR2s2SmtsZUw5VTZGMnpMSG9UNEI2R1d3UkdDa3NqWGZ0eFF0WUJEXzI2eXcyY3kzMmhaelVSbFV1Q0lPOUtRY29pcmsyckstWlBBRUhvSmdjd0JPeGhNbjFfX1l0QXFUc1NDenNfdnJOY2dxRFUxcDYxTHVHeGhscU5nOFV1cnBnZHhkdGNFLWUtMEY3SXZDSG11c3VBX0xBVDJPbUF6aGEzdm1ZMzNheGRoQkFFeFJoY18yeGV3Y3ktMkx4VlU3SjVRTGwybk5icjhKQUZYd25ma2hJd1EwZmZmYUplcFYtTHdrc3QzbmhBSDlYQm5hTm91YU5kOEZ2S3hzbXI1UjF1cG5WZFZJRjZBTTZSYV9LckpIbmNSejdDUW8zc0ozbmQ4cE53?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T13:30:05Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMitwRBVV95cUxPcDEwbmFBeUlPdmVhRFFUR0F3M0NTb21MZXFrOGJnVkpGQjJnQ2NELWlQMVN5alpwaEdwaGc5X2doWG5JOXJZQ3RBY3B6SHh2bHZYYXhHUFhHcENuaUh1bzVyLU9ERGRtZGk2Q0dHbXU5QWlxcmFVTzJBZFNiRm1HZV9qTERBSDBMWXQyZWtnOS04R2x4Z1M2clE0ZjRFS1NqY0VOSDRHRTdBSE9BaTNPaW81cnUyQ01GWjU1UVJ0dXBSTEs2UXRlek11bjZKWTJlRF95ZE8xR3BPb04yTEVyOU5RMFhtamtUYXJ6T2JhREtjbHA3MmEtVlZrSmdTYmUzLWNtUjdDUE45ZnNzWmlCanZqMThIdHF1eTZiYUNYR2NIRFBQVTN1SldmYmQ0ZmtfenotLV9iQVU1aFpyN2k5YVVxV1lUeTZ5RU1xd0tHeG5xRVktc2c4NGNiWnFhbzRxTjBGWUNuZ1JCYmRhbE1oTE1HYXUzNGUzM3Vjek45aFVCLXhRWmh4NmduRDhwYk8zVnNtdDlwZG1KT3JsQmNGUjdDbUZXMXIwLW81YTk1d1R2Wjl5M3Y5dkhDYkNDZEpZRGNsY1ZfZjdyWjduazZkZ3pfcmZOTGduaEhmdWpsZ2lNbmZ0Q1NGU2hybXhlbFNxaDQyWV9wc2huaVhmLUtNbWUtYW9oT3Rya2FkN3M0NmtzUnQyVkNmQUg5QlgzdXdQZmdZYWllRlBWdXJzakJxY0hBR3IwZzQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "20 مليار دولار مبيعات العقارات في دبي خلال الربع الثالث منها 65% على الخارطة - annahar.com",
-   "text": " 20 مليار دولار مبيعات العقارات في دبي خلال الربع الثالث منها 65% على الخارطة &nbsp;&nbsp; annahar.com ",
-   "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPcDEwbmFBeUlPdmVhRFFUR0F3M0NTb21MZXFrOGJnVkpGQjJnQ2NELWlQMVN5alpwaEdwaGc5X2doWG5JOXJZQ3RBY3B6SHh2bHZYYXhHUFhHcENuaUh1bzVyLU9ERGRtZGk2Q0dHbXU5QWlxcmFVTzJBZFNiRm1HZV9qTERBSDBMWXQyZWtnOS04R2x4Z1M2clE0ZjRFS1NqY0VOSDRHRTdBSE9BaTNPaW81cnUyQ01GWjU1UVJ0dXBSTEs2UXRlek11bjZKWTJlRF95ZE8xR3BPb04yTEVyOU5RMFhtamtUYXJ6T2JhREtjbHA3MmEtVlZrSmdTYmUzLWNtUjdDUE45ZnNzWmlCanZqMThIdHF1eTZiYUNYR2NIRFBQVTN1SldmYmQ0ZmtfenotLV9iQVU1aFpyN2k5YVVxV1lUeTZ5RU1xd0tHeG5xRVktc2c4NGNiWnFhbzRxTjBGWUNuZ1JCYmRhbE1oTE1HYXUzNGUzM3Vjek45aFVCLXhRWmh4NmduRDhwYk8zVnNtdDlwZG1KT3JsQmNGUjdDbUZXMXIwLW81YTk1d1R2Wjl5M3Y5dkhDYkNDZEpZRGNsY1ZfZjdyWjduazZkZ3pfcmZOTGduaEhmdWpsZ2lNbmZ0Q1NGU2hybXhlbFNxaDQyWV9wc2huaVhmLUtNbWUtYW9oT3Rya2FkN3M0NmtzUnQyVkNmQUg5QlgzdXdQZmdZYWllRlBWdXJzakJxY0hBR3IwZzQ?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-07T13:30:05Z"
   }
