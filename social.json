@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-10-14T04:58:51Z",
- "newThisRun": 4,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-14T11:58:41Z",
+ "newThisRun": 10,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 4,
-  "reddit": 187,
-  "rss": 59
+  "youtube": 6,
+  "reddit": 182,
+  "rss": 62
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -60,23 +60,128 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 22,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 19,
+   "items": 28,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnZvUEplMkFSaHgyRnFaejUyTnhRS19peEZDeHFwYmdCSTdGaF8xSFlULUM5aGJUaWlzSUdLekpoc0xlaU81SzhXRmhnZVdIaGZZVWFhZXgxZ0pRdm9IcnZXd3VXZTNXbHZJbi1YbG8temtLb2NjY1BFRTk5U1cxQWROQW55RkpKd3JKNE1GSlVPTExoLXBRX0w5ajRzNVB5alVaaHc0LXBoeFJrWGhiQWRBT1JORkU1TjR4V3JvOWw0UEQwWGV0bTVfaXR2VGhPVmFyNjJKMk1DbklfSzYw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property investors turn to smaller offices as sales value slumps - TradingView",
+   "text": " Dubai property investors turn to smaller offices as sales value slumps &nbsp;&nbsp; TradingView ",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnZvUEplMkFSaHgyRnFaejUyTnhRS19peEZDeHFwYmdCSTdGaF8xSFlULUM5aGJUaWlzSUdLekpoc0xlaU81SzhXRmhnZVdIaGZZVWFhZXgxZ0pRdm9IcnZXd3VXZTNXbHZJbi1YbG8temtLb2NjY1BFRTk5U1cxQWROQW55RkpKd3JKNE1GSlVPTExoLXBRX0w5ajRzNVB5alVaaHc0LXBoeFJrWGhiQWRBT1JORkU1TjR4V3JvOWw0UEQwWGV0bTVfaXR2VGhPVmFyNjJKMk1DbklfSzYw?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T11:58:41Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMinAFBVV95cUxOX19ZQXE0ampKSTBVb1FhRmYxOWhFaFhOSUxndWV6NTdvM2trRU9KSldkQVQxOHlocWdnVGxYSVQyVGZGR3lodElDSFljV01YNS0yNUNWTFFVbjVmNHhOUEdXQl9YWG9BUVBPa1lEd0xSYnNLS1VGZVhfbk01RVdiSW5GZ3VQR3BZcTd3ei1OWXBqLU5CV2YwTE1ReEY?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Austin Albert Makes History With Dubai Real Estate Award - THISDAYLIVE",
+   "text": " Austin Albert Makes History With Dubai Real Estate Award &nbsp;&nbsp; THISDAYLIVE ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX19ZQXE0ampKSTBVb1FhRmYxOWhFaFhOSUxndWV6NTdvM2trRU9KSldkQVQxOHlocWdnVGxYSVQyVGZGR3lodElDSFljV01YNS0yNUNWTFFVbjVmNHhOUEdXQl9YWG9BUVBPa1lEd0xSYnNLS1VGZVhfbk01RVdiSW5GZ3VQR3BZcTd3ei1OWXBqLU5CV2YwTE1ReEY?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T11:58:41Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVdXWHZOT2RqdWNFeWRzeWx3bHhrMjZ1QlA4M2tYekNQYWIzWW1oZ1J5NHJIbW5pQ2o2Z0tDY2w0TDFub0p1dVVJblVCU3o4SXJ1cUM4M0dTemF6M1psVXd1UDhpejY2TTlHRmxsOUVyWHo1ZWtPS29WMll1dE9yMXlDWTl4NWNGZEtEckE1OGxXcFBRd2lMNnQ5YVdmVWl2cVRQZF8wS1ZTd0RXaVpFU19BNG1rYTJmeGEzclNYc0NmZ0pU?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property rentals: Tenant enquiries reach record levels as leasing rate climbs - Arabian Business",
+   "text": " Dubai property rentals: Tenant enquiries reach record levels as leasing rate climbs &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVdXWHZOT2RqdWNFeWRzeWx3bHhrMjZ1QlA4M2tYekNQYWIzWW1oZ1J5NHJIbW5pQ2o2Z0tDY2w0TDFub0p1dVVJblVCU3o4SXJ1cUM4M0dTemF6M1psVXd1UDhpejY2TTlHRmxsOUVyWHo1ZWtPS29WMll1dE9yMXlDWTl4NWNGZEtEckE1OGxXcFBRd2lMNnQ5YVdmVWl2cVRQZF8wS1ZTd0RXaVpFU19BNG1rYTJmeGEzclNYc0NmZ0pU?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T11:58:41Z"
+  },
+  {
+   "id": "rd:t3_1x5opc1",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Air Conditioning",
+   "text": "   Has anyone in Dubai moved from VRF air conditioning to a chilled water system and noticed a big increase in their cooling bill?   My previous apartment used VRF, and my summer cooling bill was around AED 200 a month. My current apartment uses chilled water with a BTU meter, and my August bill was nearly AED 800.   Both apartments are a similar size, two bedrooms, and I use the AC day and night. The provider says the systems measure and bill consumption differently. They also inspected the current meter and said it’s working properly.   Has anyone experienced a similar difference? Is chilled",
+   "url": "https://www.reddit.com/r/dubai/comments/1x5opc1/air_conditioning/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T11:58:06Z"
+  },
+  {
+   "id": "rd:t3_1x5lbro",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Warning to Dubai residents: Parkonic has been draining my Salik balance for months because of a lapsed Ejari",
+   "text": "   Hey  r/dubai ,   I wanted to share my recent nightmare experience with Parkonic to warn anyone else living in a community managed by them (like Discovery Gardens).   My Ejari renewed a while back, but because I didn’t manually re-upload the updated certificate into Parkonic&#39;s portal right away, their automated system completely downgraded my profile to &quot;visitor&quot; status without sending a single email, notification, or warning.   Since June 29, 2026, their cameras have been scanning my plate and treating my car as a visitor. Because they have a direct automated integration with ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x5lbro/warning_to_dubai_residents_parkonic_has_been/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T11:58:06Z"
+  },
+  {
+   "id": "yt:Jm-kVcNE9Us",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Five Bedroom Mansion for Sale in Wildflower, Jumeirah Golf Estates | Golf Course Views",
+   "text": "Discover this brand-new, fully furnished turnkey villa in Wildflower, Jumeirah Golf Estates, overlooking the Earth Golf Course.\n\nSet on a 7,639 sq. ft. plot with a built-up area of 6,898 sq. ft., this impressive home features five spacious bedrooms, multiple reception areas, a designer Hacker kitchen with Miele appliances, a private study, and dedicated maids’ and drivers’ rooms.\n\nUpstairs, four en-suite bedrooms are complemented by a large family room and a terrace with beautiful golf course views. Outside, enjoy landscaped gardens, a private swimming pool, and a double garage.\nLocated in one",
+   "url": "https://www.youtube.com/watch?v=Jm-kVcNE9Us",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "55 views",
+   "firstSeenAt": "2026-10-14T11:58:05Z"
+  },
+  {
+   "id": "yt:RLMGlpS5mMo",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Four Bedroom Villa for Sale in Garden Homes Frond L, Palm Jumeirah",
+   "text": "Beautifully renovated Garden Home Villa Serenity, presented by Allsopp & Allsopp, offers 7,300 sq. ft. of built-up area, featuring 4 bedrooms and 6 bathrooms. The villa boasts spectacular sunset views across the water, with stunning views of Atlantis The Royal and Atlantis The Palm, alongside private beach access.\n\nThe home features floor-to-ceiling glass windows, elegant Italian marble flooring, and a bespoke Italian kitchen with beautiful marble finishes. Outside, a temperature-controlled infinity pool overlooks the water, complemented by a dedicated BBQ area, perfect for relaxing and entert",
+   "url": "https://www.youtube.com/watch?v=RLMGlpS5mMo",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "49 views",
+   "firstSeenAt": "2026-10-14T11:58:05Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%b9%d9%8f%d9%85%d8%b1%d8%a7%d9%86-%d9%88%d8%ad%d8%b3%d9%86-%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d9%86-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9/",
    "platform": "RSS",
@@ -3721,111 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-07T06:05:23Z"
-  },
-  {
-   "id": "rd:t3_1wzouum",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For sale",
-   "text": "   🔥 DIRECT OWNER PROPERTIES FOR SALE | DUBAI &amp; SHARJAH   I currently have 2 attractive properties available for sale. Serious buyers and genuine agents are welcome.   🏡 1. DAMAC Hills 2 – Violet 2, Dubai   • 4 Bedroom + Study  • Handover: February 2027  • Asking Price: AED 1.95 Million  • Ideal for end users or investors   🏢 2. Arada Aljada – Nesba 3, Sharjah   • 3 Bedroom + Maid Room  • Approx. 2,252 Sq. Ft.  • Purchased Price: AED 2.45 Million  • Located in Aljada, Sharjah  • Great opportunity for end users or investors   📩 Serious buyers / direct clients and genuine agents are welcome.",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzouum/for_sale/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:05:00Z"
-  },
-  {
-   "id": "rd:t3_1wzota2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Move now or wait?",
-   "text": "   Hi everyone   Before I begin, I make points to AND against investing at the moment. I’m open to arguments but let’s not argue for the sake of arguing (:    I’m an agent, for both buyers and sellers,  But first I’m an advisor. If you have any questions regarding the purchase or sale of a unit, feel free to ask me either down here or via DM’s   Cavendish Maxwell’s H1 2026 (keep reading, don’t jump just yet) report shows fresh off-plan sales barely dipped, down just 1.5% year-on-year, even through a genuinely rough six months for the wider market. Developer sales made up over 92% of all off-pl",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzota2/move_now_or_wait/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:05:00Z"
-  },
-  {
-   "id": "rd:t3_1wzosbc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Listings?",
-   "text": "   Hi    I&#39;m a real estate advisor working with both buyers and sellers.   If you&#39;re looking to sell a unit, whether it&#39;s ready or off-plan, priced below original price, distressed, or a standard listing at a premium, feel free to message me. I can help you decide whether to hold or sell.   If you have questions about current market conditions, for buyers or sellers, send me a message or comment below and I&#39;ll respond.   I also do have my own listings that are below market or OP. Dm me if you’d be interested in those    Wishing everyone well.     &#32; submitted by &#32;   /u/E",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzosbc/listings/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:05:00Z"
-  },
-  {
-   "id": "rd:t3_1wzo7d1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "5 bedroom mansion | Jumeirah Islands | AED 31,000,000",
-   "text": "   Posting as: Agent Property type: Mansion Area/community: Jumeirah Islands Building/project: Jumeirah Islands Price: AED 31,000,000 Bedrooms: 5 Size (sq ft): 14,000 Status: Ready Images/video: available upon request Additional details: distressed 6m below the market price     &#32; submitted by &#32;   /u/Available_Yogurt_50       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzo7d1/5_bedroom_mansion_jumeirah_islands_aed_31000000/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:05:00Z"
-  },
-  {
-   "id": "rd:t3_1wzmsan",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Bought several properties in Dubai after making money in crypto. Then Feb 28 happened.",
-   "text": "   *I&#39;ve been on roughly a 1-year journey trying to turn some crypto gains into actual wealth.*  *Me and a few friends had made a decent amount from crypto, including a sizeable position in XMR. We got into it relatively early and eventually sold after the big run, so we ended up with several times what we&#39;d originally put in.*  *The next problem was actually getting the money into the banking system.*  *We were looking at the UAE because we wanted to eventually buy property in Dubai. The difficult part was source of funds. Once crypto has gone through XMR and then back into USDT, prov",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzmsan/bought_several_properties_in_dubai_after_making/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:05:00Z"
-  },
-  {
-   "id": "rd:t3_1wzm3tv",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "The 2027 Handover Window: Why Near-Term Off-Plan Completion is Shaping Dubai’s Yield Strategy.",
-   "text": "   In the current Dubai real estate landscape, newly launched off-plan projects are increasingly pushing handover timelines to 2029 and 2030. For institutional and private portfolios, this extended timeline introduces a significant macro risk: locking up heavy capital for years with zero immediate rental yield, while absorbing potential market cycle fluctuations.   .   This is why tactical investors are shifting their focus to the near-term off-plan window—specifically assets completing within the next few months. Analyzing a premium 37-story vertical development currently finishing constructi",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzm3tv/the_2027_handover_window_why_nearterm_offplan/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:05:00Z"
-  },
-  {
-   "id": "rd:t3_1wzn7nl",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Is there any apartment that still costs 30-35k in Dubai?",
-   "text": "   Hi, we are currently living in Silicon Oasis which is a Chiller free building, however, we are thinking of moving out to a cheaper apartment. Is there any apartment that still costs 30-35k in Silicon Oasis?    Thank you!      &#32; submitted by &#32;   /u/jjjjjj07       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wzn7nl/is_there_any_apartment_that_still_costs_3035k_in/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T06:04:55Z"
   }
  ]
 }
