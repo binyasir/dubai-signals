@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-13T22:49:03Z",
- "newThisRun": 9,
+ "generatedAt": "2026-10-14T04:58:51Z",
+ "newThisRun": 4,
  "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -60,13 +60,13 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 9,
+   "items": 8,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 22,
+   "items": 21,
    "error": null
   },
   {
@@ -77,6 +77,36 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%b9%d9%8f%d9%85%d8%b1%d8%a7%d9%86-%d9%88%d8%ad%d8%b3%d9%86-%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d9%86-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"عُمران\" و\"حسن علام\" تطوران مشاريع سكنية في مدينة العرفان بمسقط",
+   "text": "وقّعت الشركة العُمانية للتنمية السياحية «مجموعة عُمران» اتفاقيتي تطوير مع جروفا للتطوير العقاري Grova Developments، الذراع العقارية لمجموعة حسن علام&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%b9%d9%8f%d9%85%d8%b1%d8%a7%d9%86-%d9%88%d8%ad%d8%b3%d9%86-%d8%b9%d9%84%d8%a7%d9%85-%d8%aa%d8%b7%d9%88%d8%b1%d8%a7%d9%86-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T04:58:50Z"
+  },
+  {
+   "id": "rd:t3_1x5hguz",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Won AED 40K+ in MOHRE Labour Settlements, but Employer Still Hasn't Paid – Dubai Courts Execution Delayed. Need Advice.",
+   "text": "   Hi everyone,   I&#39;m looking for advice from anyone who has experienced a similar labour dispute in Dubai.   I worked for an electromechanical contracting company in Dubai for approximately  1 year and 9 months . Due to repeated salary delays, I resigned in July 2026 and completed my notice period, with my last working day being 7 August 2026. I completed all handover formalities, but the company failed to clear my outstanding salaries and final settlement.    1. MOHRE Complaints – AED 40,216    After several unsuccessful follow-ups with the company, I approached MOHRE.      21 August 202",
+   "url": "https://www.reddit.com/r/dubai/comments/1x5hguz/won_aed_40k_in_mohre_labour_settlements_but/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-14T04:58:17Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcXpfZjd3cU96NS1fMm9JLU56Mnl3OTBodlRwVlVMeVdhTkM2Rlo4NDA0VzVhbVFidXNxcjg5elpzSDBrQTFSbTZiNWdodXlfdTV3SXJOOTlheW9zeG54Zy1qdmFfTlF3dHRn0gFwQVVfeXFMT2pwOVp6dlhleDJEb3RWUTkwVWtLNkdNVGZfWUpyU1o2WTZIUDh4MXJCMHhqdUhGR0lZRU91djVnNDVFckNRUEloMWJlckt4aEZhOWVqUWliY1lRYXpwYVlnS2l1TTRXaWtIMko3TmlpTA?oc=5",
    "platform": "RSS",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-07T06:04:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMia0FVX3lxTE1rdU5LUE53NHhxdFdvaHkzWHRWZ3BWNE9IVUQxV21DX0dmWjZmQl93bmdiRE81Ym80V3lBZE54ZDc4c2ZNb3ZpSU0tVG5KVWJLcjZNdktWQ29VUkljQU9ZTlVjNXVMS0RrN1ZV0gFwQVVfeXFMT1BVVkJMQzVZenRwRWN4bVpHV2dNR015SWpjNWszM2U1N3l6TTZwY2p3Qk1CS1NQbDd3dnh0SWItYVA0NHFZczkzODVhZ3RTbEJXR0JtNVRCYlpyb1o2OXprWjBnTTVib19WUUtxbE9PUg?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "عقارات دبي تواصل الزخم.. والإيجارات تقترب من رقم قياسي تاريخي - البيان",
-   "text": " عقارات دبي تواصل الزخم.. والإيجارات تقترب من رقم قياسي تاريخي &nbsp;&nbsp; البيان ",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rdU5LUE53NHhxdFdvaHkzWHRWZ3BWNE9IVUQxV21DX0dmWjZmQl93bmdiRE81Ym80V3lBZE54ZDc4c2ZNb3ZpSU0tVG5KVWJLcjZNdktWQ29VUkljQU9ZTlVjNXVMS0RrN1ZV0gFwQVVfeXFMT1BVVkJMQzVZenRwRWN4bVpHV2dNR015SWpjNWszM2U1N3l6TTZwY2p3Qk1CS1NQbDd3dnh0SWItYVA0NHFZczkzODVhZ3RTbEJXR0JtNVRCYlpyb1o2OXprWjBnTTVib19WUUtxbE9PUg?oc=5",
-   "date": "2026-10-06",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:28Z"
-  },
-  {
-   "id": "rd:t3_1wywkq2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Residence permits for the unmarried non-EU partners of Italian citizens.",
-   "text": "   Situation:  - UK citizen  - My partner is an Italian citizen. We have been together for 7+ years. We lived together for the last 3-4 years. She moved back to Italy about a year ago to get re-settled.  - We&#39;re not married. I&#39;d like to join her in Italy, planning to arrive around September 2027.  - We have documents showing our shared life, including our partnership visa for Australia, rental leases, car insurance and holiday flights etc.    My questions:  1. Can I apply for a permit as the unmarried partner of an Italian citizen, and can I start before getting to Italy, or only after",
-   "url": "https://www.reddit.com/r/expats/comments/1wywkq2/residence_permits_for_the_unmarried_noneu/",
-   "date": "2026-10-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T13:30:02Z"
   }
  ]
 }
