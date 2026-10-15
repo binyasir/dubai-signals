@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-15T11:35:14Z",
- "newThisRun": 13,
+ "generatedAt": "2026-10-15T17:05:14Z",
+ "newThisRun": 7,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 173,
-  "rss": 73
+  "reddit": 172,
+  "rss": 74
  },
  "sources": [
   {
@@ -48,7 +48,7 @@
   {
    "source": "r/UAE",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "error": null
   },
   {
@@ -66,17 +66,77 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 28,
+   "items": 20,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%aa%d8%b4-%d8%a2%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d9%8b-%d9%84%d9%84%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d9%88%d8%a7%d9%84%d8%b3/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إتش آند إتش» تطلق مجمعاً للمكاتب والسكن مع مرافق فندقية وتجارية في مركز دبي المالي العالمي",
+   "text": "أطلقت شركة  إتش آند إتش للتطوير العقاري H&#38;H Development  مشروع «ووتر جاردنز» Water Gardens في مركز دبي المالي العالمي، والذي&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a5%d8%aa%d8%b4-%d8%a2%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d9%8b-%d9%84%d9%84%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d9%88%d8%a7%d9%84%d8%b3/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T17:05:13Z"
+  },
+  {
+   "id": "rd:t3_1x6nnib",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "End of service gratuity by cheque instead of bank transfer?",
+   "text": "   A family member recently lost his job at a government entity due to visa issues. They have an outstanding bank loan, and the bank automatically deducts the loan payment as soon as their salary is deposited.  They have always kept up with their loan payments, but they urgently need their end-of-service gratuity to cover rent and support their family while regularizing their visa status.  Is it legally possible to request the gratuity by cheque instead of having it transferred to their bank account? Has anyone dealt with a similar situation?  Thanks in advance!     &#32; submitted by &#32;   ",
+   "url": "https://www.reddit.com/r/UAE/comments/1x6nnib/end_of_service_gratuity_by_cheque_instead_of_bank/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T17:05:01Z"
+  },
+  {
+   "id": "rd:t3_1x6qved",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Rental agreement renewal/termination",
+   "text": "                 Hi everyone, i seek advice. I missed the date of informing my non-renewal decision (50 days remain, against the 2 months in notice and contract).   What if i were to give a notice right now. In case the landlord does not agree to waive of notice period - what penalty can they apply?   Also since RERA rental index shows no increase (realistic rents are lower by 15%) can the landlord enfore the same rent? I want to negotiate and can possibly renew if landlord gives me a fair rental quote.     &#32; submitted by &#32;   /u/EonSonet       [link]   &#32;   [comments]      ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x6qved/rental_agreement_renewaltermination/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T17:04:48Z"
+  },
+  {
+   "id": "rd:t3_1x6np47",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "End of service gratuity by cheque instead of bank transfer?",
+   "text": "   A family member recently lost his job at a government entity due to visa issues. They have an outstanding bank loan, and the bank automatically deducts the loan payment as soon as their salary is deposited.  They have always kept up with their loan payments, but they urgently need their end-of-service gratuity to cover rent and support their family while regularizing their visa status.  Is it legally possible to request the gratuity by cheque instead of having it transferred to their bank account? Has anyone dealt with a similar situation?  Thanks in advance!     &#32; submitted by &#32;   ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x6np47/end_of_service_gratuity_by_cheque_instead_of_bank/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T17:04:48Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a8%d8%b4%d8%b1%d8%a7/",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "Looking to buy a ready 2 BR townhouse in Masaar, Sharjah",
    "text": "   Hey everyone, I have a client looking to buy a 2 BR townhouse in Masaar.   He wants a ready property. Very motivated buyer, looking to close asap.   Please DM if you have any options.     &#32; submitted by &#32;   /u/plot-twist-dxb       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1wzy3gi/looking_to_buy_a_ready_2_br_townhouse_in_masaar/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzxxrs",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Imagine waking up to this view every morning. (Jumeirah Golf Estates)",
-   "text": "   Imagine waking up to this view every morning. 🌿⛳️   There are some really interesting opportunities in  Jumeirah Golf Estates  right now especially for buyers who see the value in renovating rather than paying a premium for an already-finished villa.   I’m currently working with several villas and larger mansions in JGE, including:   • Renovation opportunities with strong upside  • Fully renovated luxury villas  • Turnkey homes for end users  • Properties suitable for investors looking to renovate and resell   One current investment example has a target resale value of around AED 33M after ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzxxrs/imagine_waking_up_to_this_view_every_morning/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzxmtz",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Why Is Azizi Mina on the Palm Cheaper? Can Current Residents Share Their Experience?",
-   "text": "   I currently live in my own apartment in Sports City, but I’m looking for an area that is more upscale, holds its value well in the future, and has good places to walk around and explore in general. I have a 1.5-year-old daughter and my wife, so being family-friendly and having a nice walking environment and a sea view is important to me.   A 1 BHK is perfectly fine. I’ve come across a 1-bedroom apartment with a sea view listed at around AED 1,950,000. Compared with other buildings in the area, it seems to be on the lower end price-wise, but it has the view, layout, and size that I’m looking",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzxmtz/why_is_azizi_mina_on_the_palm_cheaper_can_current/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzxb8p",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai apartment owners – who pays when private AC pipes require opening common areas?",
-   "text": "   Has anyone dealt with this before?  My apartment’s AC refrigerant pipes serve only my unit but run around 40m through the building riser/common areas to the rooftop.  Replacing them requires opening the riser, cutting common corridor ceilings in 3–4 locations, rooftop access, and reinstating/painting the common areas afterward.  Building management says the entire cost is mine because the pipes serve only my apartment. They will provide access/approval to the common areas.  I’m fine with paying for anything that is genuinely my unit’s responsibility. My concern is where responsibility/liabi",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzxb8p/dubai_apartment_owners_who_pays_when_private_ac/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzwusv",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Damac Lagoons 4 bedrooms",
-   "text": "   Damac Lagoons  Costa Brava Cluster  4 bedroom townhouse  Handover notice received  Plot 1550 sq.ft  BUA 2273 sq.ft  Price 2.675m aed ( mortgage buyers are welcome)      &#32; submitted by &#32;   /u/Slow_Door5305       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzwusv/damac_lagoons_4_bedrooms/",
    "date": "2026-10-07",
    "dateApprox": false,
    "language": "en",
