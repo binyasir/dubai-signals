@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-15T17:05:14Z",
- "newThisRun": 7,
+ "generatedAt": "2026-10-15T21:27:07Z",
+ "newThisRun": 10,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 172,
-  "rss": 74
+  "reddit": 169,
+  "rss": 77
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
@@ -47,26 +47,26 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 1,
-   "error": null
-  },
-  {
-   "source": "r/expats",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
   },
   {
+   "source": "r/expats",
+   "ok": true,
+   "items": 2,
+   "error": null
+  },
+  {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 8,
+   "items": 9,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 24,
    "error": null
   },
   {
@@ -77,6 +77,81 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWJSamtPN0IzSFFNLWxIbHBwcUwzTHRmNHVrel9nME1DMlBrUVhha0RsSEZKa0RsaVJWbGtaUC1ScUNpd3FnSjBzaUFKMHdVSXVzVGtCNTVpOEVvcGFtSzhhRk0wQUZxdnRxeE5HT3NfalRlZUpJSEtLTFlIN041bmwyMVpUdFdsUkpKRWdMdGk5RWdIb2VCRFltU1hlemhiaDdyc2VRcjdyUUI2ckpGUjZDX2ZpTngzRWdXOHBZay1vaTNVdlpZajU4dXRJa2taNmtib2RrUFVzemxVMEZZcFdsNDNkb1JN?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market Thursday: Dh2.8 billion across 744 deals - Sobha Hartland land mortgage tops at Dh172 million - Emirates 24|7",
+   "text": " Dubai property market Thursday: Dh2.8 billion across 744 deals - Sobha Hartland land mortgage tops at Dh172 million &nbsp;&nbsp; Emirates 24|7 ",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWJSamtPN0IzSFFNLWxIbHBwcUwzTHRmNHVrel9nME1DMlBrUVhha0RsSEZKa0RsaVJWbGtaUC1ScUNpd3FnSjBzaUFKMHdVSXVzVGtCNTVpOEVvcGFtSzhhRk0wQUZxdnRxeE5HT3NfalRlZUpJSEtLTFlIN041bmwyMVpUdFdsUkpKRWdMdGk5RWdIb2VCRFltU1hlemhiaDdyc2VRcjdyUUI2ckpGUjZDX2ZpTngzRWdXOHBZay1vaTNVdlpZajU4dXRJa2taNmtib2RrUFVzemxVMEZZcFdsNDNkb1JN?oc=5",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:27:07Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/1-4-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%82%d9%8a%d9%85%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%88%d9%88%d8%aa%d8%b1-%d8%ac%d8%a7%d8%b1%d8%af%d9%86%d8%b2/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "1.4 مليار دولار قيمة مشروع «ووتر جاردنز» الجديد من \"إتش آند إتش\"بمركز دبي المالي العالمي",
+   "text": "تبلغ تكلفة تطوير مشروع «ووتر جاردنز» Water Gardens، الذي تنفذه شركة «إتش آند إتش للتطوير العقاري» H&#38;H Development في مركز&#8230;",
+   "url": "https://masdarak.com/new-projects/1-4-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%82%d9%8a%d9%85%d8%a9-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%88%d9%88%d8%aa%d8%b1-%d8%ac%d8%a7%d8%b1%d8%af%d9%86%d8%b2/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:27:06Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%b3%d9%85%d8%a7%d9%86%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%ac%d9%85%d8%b9-%d8%b3%d9%83%d9%86%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d8%b1-%d8%a7%d9%84%d8%b9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«سمانا» تطلق مشروع مجمع سكني في جزر العالم بدبي بقيمة 1.1 مليار دولار",
+   "text": "https://masdarak.com/tag/samana-developers/أعلنت شركة سمانا للتطوير العقاري SAMANA Developers إطلاق علامتها العقارية الجديدة «سمانا كوليكتا» SAMANA COLLECTA، المتخصصة في تطوير المشاريع السكنية&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%b3%d9%85%d8%a7%d9%86%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%ac%d9%85%d8%b9-%d8%b3%d9%83%d9%86%d9%8a-%d9%81%d9%8a-%d8%ac%d8%b2%d8%b1-%d8%a7%d9%84%d8%b9/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:27:06Z"
+  },
+  {
+   "id": "rd:t3_1x6w985",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Landlord refusing to refund AED 16,000 deposit over disputed tenancy terms—police referred me to Al Adheed",
+   "text": "   Hi everyone, looking for advice from anyone who has dealt with a similar situation in Dubai.   I recently transferred AED 16,000 to a landlord as a security deposit, plus AED 8,400 to the agency. Before payment, I had clearly communicated to the agent that my agreed terms were  12 November start date, AED 160,000 annual rent, payable in two cheques .   The landlord subsequently said he had instructed the agent, before my payment, that the tenancy must start immediately. He says the agent failed to communicate his condition. We therefore appear to have been given different information.   The",
+   "url": "https://www.reddit.com/r/dubai/comments/1x6w985/landlord_refusing_to_refund_aed_16000_deposit/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:26:32Z"
+  },
+  {
+   "id": "rd:t3_1x6u7nb",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "This is Al Khail Gate. Every. Single. Night.",
+   "text": "                 Imagine you’re me. You’re coming home from work after an evening shift. You’re tapped out. You wanna see your family and relax - maybe even have dinner at the appropriate time. But you drive to your community and it’s nothing short of parking pandemonium.   Cars using the sidewalks as additional parking. Strewn out haphazardly. Some of the ones who get home earlier hog the slots meant for  paying tenants  so if you’re a tenant you’re entitled to a slot but it’s first come first served so you’re always getting screwed over by either a) the people who get home around 6-7ish b) f",
+   "url": "https://www.reddit.com/r/dubai/comments/1x6u7nb/this_is_al_khail_gate_every_single_night/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:26:32Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%aa%d8%b4-%d8%a2%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d9%8b-%d9%84%d9%84%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d9%88%d8%a7%d9%84%d8%b3/",
    "platform": "RSS",
@@ -301,6 +376,36 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-15T04:45:46Z"
+  },
+  {
+   "id": "rd:t3_1x63s3m",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "American in London weighing a move to Singapore",
+   "text": "   Hi hi, I&#39;m an American in London (mid 20s no children) working in finance, and I’m considering an offer for a trading job in Singapore. Still pretty junior, but I&#39;d be on an Employment Pass. Would love to hear from anyone who&#39;s done London to Singapore, or any Americans who have made the move   Current setup: £80-100k comp, sharing a spacious 2-bed with a friend. I’m pretty comfortable, but not a glamorous lifestyle   What I&#39;m trying to work out:  What SGD base would give me an equivalent lifestyle? Is S$175k about right, or do I need more?  I’m aware rent will probably be a",
+   "url": "https://www.reddit.com/r/expats/comments/1x63s3m/american_in_london_weighing_a_move_to_singapore/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:27:04Z"
+  },
+  {
+   "id": "rd:t3_1x5dhiz",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "42M, Ukrainian refugee. Four years after fleeing the war, I still don't know where to call home. How did you rebuild your life abroad?",
+   "text": "   Hey. I’m not sure whether I’m looking for advice or whether I just have no one to talk to and need to get some things off my chest.   I recently turned 42. I’m a man from Ukraine who fled the war right when it started. At the time, I lost pretty much everything I’d saved, except for a small apartment in Kharkiv and a car. When the war began, I had a job and $18,000 in savings. Back then, we all thought it wouldn’t last long… Then came a lot of depression and some really dark times.   Now I’m trying to find a new home. Somewhere I can finally settle down and build a life. I don’t have a fami",
+   "url": "https://www.reddit.com/r/expats/comments/1x5dhiz/42m_ukrainian_refugee_four_years_after_fleeing/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T21:27:04Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1pQNlZsMFlLaVF3bjU5R1pHQ3ZaVUItVF9qdGdYbFJ4Q2g5MWhTQzIxSko5NFJmNkhXX2ZiZWF3NEN4NVJ2QlcxTDBpak0yVnhYbWJscTZOdzQ1cnhMNjVYYkI5bEJBTGxqZWNmbTRUa2VqNXRHNVBMQWhEYWdRdGlNeGJZd3huZ0oyNDlaQndHd1Q2VnNIaThpcEFJY0pHSWVsZzVWUUIxdUg2NlZmV2FR0gG6AUFVX3lxTE5uSnJmVWM0dm5KeDFzN0lneWNaUzlnc0hycHBUOXVrZ011X3BoczZDcmd1LVExcXMwdTU3V2VvWHFZTFB2NHNPUjF5UnlWNzRuZ1NqNkh5NWh1UGYtVmd2ZFMxaXlybUVuT3k5N2liVVROYzljRTBmN2NfVWR6QVVwUVF4aHAyV2dsRDVYODRMZFRtc1M0djRWRjNsU2VPWjV0Z0pyU1doOUg4VUh6NmJfT0R6VC1UTDRBUQ?oc=5",
@@ -3716,111 +3821,6 @@
    "title": "BELOW-OP DEAL | MYKONOS DAMAC LAGOONS 2.35M",
    "text": "   4 Bedrooms   Selling Price: AED 2.35M   Original Price (OP): AED 2.47M   AED 125K BELOW OP   Handover: January 2027   Close to the upcoming Mall &amp; School   Attractive below-OP resale opportunity   Strong investment potential   Ideal for end-users or investors   DM me for full details, payment plan     &#32; submitted by &#32;   /u/Top_Percentage6046       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1x01y2e/belowop_deal_mykonos_damac_lagoons_235m/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1x015r6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking for plots in Jaddaf & DLRC ?",
-   "text": "   Hello everyone,  We currently have direct access to a portfolio of residential and mixed use development plots across key Dubai locations:    Al Jaddaf / Waterfront:  Multiple plots | Buildable areas (GFA) from 31,000 to 165,000+ sqft.   Dubai Islands:  Prime waterfront residential plots | ~90,000+ sqft. GFA  •  DLRC &amp; IMPZ:  Mid to high-density residential plots | 95,000 to 250,000+ sqft. GFA   Barsha Heights (TECOM):  Rare main road plot | 110,000+ sqft. GFA  Suitable for mid-rise to high-rise towers (G+7 up to G+17).  Both Freehold and GCC options are available.   Open to collaborati",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x015r6/looking_for_plots_in_jaddaf_dlrc/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1x012dr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Is real estate the only business left in Dubai",
-   "text": "   Is everyone in Dubai doing only real estate.  Talking all the time about real estate.  Act as if there is no other business left to do.  Pretend as if land and real estate investment in DXB is the only place to invest and grow your money.  Honestly the way brokers sell here it seems land and apartments and villas only exist here and no where else in the world.  All across the world people compare evaluate and assess the risk return and liquidity of assets. Ever heard of S&amp;P, Nasdaq, Mutual Funds, Bonds, Gold.!!   Honestly tired of the overhang of real estate everywhere from radio to soc",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x012dr/is_real_estate_the_only_business_left_in_dubai/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1x00j7q",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Annual lease now, or short-term rentals until late February?",
-   "text": "   I’m looking for a furnished one-bedroom in Dubai, preferably Marina. I found a place I like for AED 90,000/year in four cheques, starting around mid-October.  However, I’ll be abroad for at least three weeks between then and New Year, and again from mid-January until the end of February. I travel regularly for work and don’t have many belongings, so paying for an empty apartment feels wasteful.   I’ve found furnished short-term  studios  on Property Finder for AED 6,000–8,000/month, with bills and fees included according to the descriptions. These would be a temporary compromise—the annual ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x00j7q/annual_lease_now_or_shortterm_rentals_until_late/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzzq9j",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "What's wrong with this market?",
-   "text": "   People talk about the agents in this market but why aren&#39;t we talking about the buyers and tenants   I&#39;m beginning to understand why some agents are the way they are, treat others how you expect to be treated   Turn up late without notice, last minute cancellation after &quot;desperately&quot; wanting to see a property    Don&#39;t get me started on the blunt replies and lack of chat. How do you expect us to present you with the most suitable options, if you can&#39;t take one minute to jump on a call or copy paste your exact requirements.    Before you say &quot;if I enquire it mea",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzzq9j/whats_wrong_with_this_market/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzzo5i",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "3000+ Sq ft Warehouse | DIP 1 or DIP 2 | Budget AED 350K/year appx <50AED per sq ft",
-   "text": "   Shifting my car shop from qusais to DIP and I&#39;m looking for good deals on warehouse that have enough parking in front and is facing the road side.   Posting as: Buyer   Property type: Warehouse   Preferred area: DIP   Budget: AED 350K Approx   Bedrooms: None   Preferred size: 3000Sq ft +   Timeline: 2 weeks   Additional requirements: Front facing with parking area in front     &#32; submitted by &#32;   /u/psytrance-gasm       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzzo5i/3000_sq_ft_warehouse_dip_1_or_dip_2_budget_aed/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzzke7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Thinking of buying a property in Dubai? Send me what you're considering and I'll give you my opinion.",
-   "text": "   I work in Dubai real estate, mainly advising overseas buyers and investors, and I&#39;ve noticed how difficult it can be to get an unbiased opinion once you&#39;ve started speaking to agents.   If you&#39;re currently considering a property, feel free to send me the project/unit, price and what you&#39;re trying to achieve from the purchase.   I&#39;ll happily give you my thoughts on it.   I&#39;d look at things such as:     whether the price actually makes sense against comparable properties   the area and future supply   developer and project   payment plan   rental potential vs capital g",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzzke7/thinking_of_buying_a_property_in_dubai_send_me/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzy3gi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking to buy a ready 2 BR townhouse in Masaar, Sharjah",
-   "text": "   Hey everyone, I have a client looking to buy a 2 BR townhouse in Masaar.   He wants a ready property. Very motivated buyer, looking to close asap.   Please DM if you have any options.     &#32; submitted by &#32;   /u/plot-twist-dxb       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzy3gi/looking_to_buy_a_ready_2_br_townhouse_in_masaar/",
    "date": "2026-10-07",
    "dateApprox": false,
    "language": "en",
