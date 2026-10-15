@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-14T21:44:38Z",
- "newThisRun": 6,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-15T04:45:47Z",
+ "newThisRun": 7,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 180,
-  "rss": 66
+  "reddit": 178,
+  "rss": 68
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "error": null
   },
   {
@@ -58,25 +58,100 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 22,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 22,
+   "items": 21,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a8%d8%b1%d9%88%d8%a8%d8%b1%d8%aa%d9%8a-%d9%81%d8%a7%d9%8a%d9%86%d8%af%d8%b1-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b3%d8%ac%d9%84-31-2-%d8%a3%d9%84%d9%81-%d8%b9%d9%82%d8%af-%d8%a5%d9%8a%d8%ac/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«بروبرتي فايندر» : دبي تسجل 31.2 ألف عقد إيجار سكني جديد في سبتمبر 2026",
+   "text": "سجلت دبي 31.2 ألف عقد إيجار سكني جديد خلال سبتمبر 2026 ، في ظل ارتفاع الطلب على استئجار العقارات السكنية،&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a8%d8%b1%d9%88%d8%a8%d8%b1%d8%aa%d9%8a-%d9%81%d8%a7%d9%8a%d9%86%d8%af%d8%b1-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b3%d8%ac%d9%84-31-2-%d8%a3%d9%84%d9%81-%d8%b9%d9%82%d8%af-%d8%a5%d9%8a%d8%ac/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T04:45:46Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1pQNlZsMFlLaVF3bjU5R1pHQ3ZaVUItVF9qdGdYbFJ4Q2g5MWhTQzIxSko5NFJmNkhXX2ZiZWF3NEN4NVJ2QlcxTDBpak0yVnhYbWJscTZOdzQ1cnhMNjVYYkI5bEJBTGxqZWNmbTRUa2VqNXRHNVBMQWhEYWdRdGlNeGJZd3huZ0oyNDlaQndHd1Q2VnNIaThpcEFJY0pHSWVsZzVWUUIxdUg2NlZmV2FR0gG6AUFVX3lxTE5uSnJmVWM0dm5KeDFzN0lneWNaUzlnc0hycHBUOXVrZ011X3BoczZDcmd1LVExcXMwdTU3V2VvWHFZTFB2NHNPUjF5UnlWNzRuZ1NqNkh5NWh1UGYtVmd2ZFMxaXlybUVuT3k5N2liVVROYzljRTBmN2NfVWR6QVVwUVF4aHAyV2dsRDVYODRMZFRtc1M0djRWRjNsU2VPWjV0Z0pyU1doOUg4VUh6NmJfT0R6VC1UTDRBUQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property draws more US investors seeking global real estate exposure - Khaleej Times",
+   "text": " Dubai property draws more US investors seeking global real estate exposure &nbsp;&nbsp; Khaleej Times ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1pQNlZsMFlLaVF3bjU5R1pHQ3ZaVUItVF9qdGdYbFJ4Q2g5MWhTQzIxSko5NFJmNkhXX2ZiZWF3NEN4NVJ2QlcxTDBpak0yVnhYbWJscTZOdzQ1cnhMNjVYYkI5bEJBTGxqZWNmbTRUa2VqNXRHNVBMQWhEYWdRdGlNeGJZd3huZ0oyNDlaQndHd1Q2VnNIaThpcEFJY0pHSWVsZzVWUUIxdUg2NlZmV2FR0gG6AUFVX3lxTE5uSnJmVWM0dm5KeDFzN0lneWNaUzlnc0hycHBUOXVrZ011X3BoczZDcmd1LVExcXMwdTU3V2VvWHFZTFB2NHNPUjF5UnlWNzRuZ1NqNkh5NWh1UGYtVmd2ZFMxaXlybUVuT3k5N2liVVROYzljRTBmN2NfVWR6QVVwUVF4aHAyV2dsRDVYODRMZFRtc1M0djRWRjNsU2VPWjV0Z0pyU1doOUg4VUh6NmJfT0R6VC1UTDRBUQ?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T04:45:47Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlQLUpCZXNBWUo2WVhkTV9JSktvS05NUUtWSW02MDJtcWV2V3dYQWpMSVRFMW04Uk1XS3pYT25JRkNVaDNIU0hRVjBSTDhHenFrc2cxSnNodlVKRDRrUkc0bTNWNGlxVzVrNDhOZVp6WDVKOUZyT3UzN1JFY1U4TmZYZ2hzSkRtOV9xdVhGZ2F6UDJIMHBpNk1HMNIBoAFBVV95cUxNM2dWSUVHVEZXV3VObHNVa0NReVBwNHpPMDRmQ1JIVG12RXJfT2NvNnpLV2lsRjQwZURDWndXV0lHUUpKLUlTNHZRcEI0N1NKYkdGdU9FM0JFWWRUQVAxTnM5Ykh4M3RoaFN3VXIybnJxQ1pWenJpQ0FJdVR1b1FFcnRZY3F2eHAxREJtUkZTWDJYMzZFbDZSTWQySDhFM0Ux?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Nigerian entrepreneur makes history with Dubai real estate award - The Nation Newspaper",
+   "text": " Nigerian entrepreneur makes history with Dubai real estate award &nbsp;&nbsp; The Nation Newspaper ",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWlQLUpCZXNBWUo2WVhkTV9JSktvS05NUUtWSW02MDJtcWV2V3dYQWpMSVRFMW04Uk1XS3pYT25JRkNVaDNIU0hRVjBSTDhHenFrc2cxSnNodlVKRDRrUkc0bTNWNGlxVzVrNDhOZVp6WDVKOUZyT3UzN1JFY1U4TmZYZ2hzSkRtOV9xdVhGZ2F6UDJIMHBpNk1HMNIBoAFBVV95cUxNM2dWSUVHVEZXV3VObHNVa0NReVBwNHpPMDRmQ1JIVG12RXJfT2NvNnpLV2lsRjQwZURDWndXV0lHUUpKLUlTNHZRcEI0N1NKYkdGdU9FM0JFWWRUQVAxTnM5Ykh4M3RoaFN3VXIybnJxQ1pWenJpQ0FJdVR1b1FFcnRZY3F2eHAxREJtUkZTWDJYMzZFbDZSTWQySDhFM0Ux?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T04:45:47Z"
+  },
+  {
+   "id": "rd:t3_1x64iv7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Leave it all behind? Or take everything?",
+   "text": "   Hey guys - looks like I&#39;ll have to relocate soon.   Planning on relocating to bangalore.   I&#39;ve got a one bedroom apartment worth of stuff - nothing fancy - just 30 years of stuff i&#39;ve been trying to sort through - books, clothes, tv, refrigerator, etc - my question is -   is sea freight open now - to take everything - is it even worth taking or is it just going to be expensive that I might as well replace my items there?     &#32; submitted by &#32;   /u/fufuski       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x64iv7/leave_it_all_behind_or_take_everything/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T04:45:13Z"
+  },
+  {
+   "id": "rd:t3_1x61mbd",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Landlord wants me to pay service charge",
+   "text": "   Agreed a rent on a property. Unfortunately cannot get Ejari as DLD has blocked it due to unpaid service charge.    Landlord wants me to pay the service charge and deduct it from my rent which will be paid after. Is this a red flag. I’ve heard this is quite common but wanted to know if this is a red flag and does this show that the landlord will not be a good landlord?     &#32; submitted by &#32;   /u/Aggressive_Ice_946       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x61mbd/landlord_wants_me_to_pay_service_charge/",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-15T04:45:13Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMijARBVV95cUxOUU13YzBBNzZqQ21LZlVDRU1oUC02Q1BVWmxrUXZXaWdoenNSbV91Tk5XN0dZMGJ5M29pZ3g0QjdVbml1MGRjcFdHX05QMERlQzhmT1Z3aDFYRm1jNC1hcEl4bXU3bEZZaGpqcWFRZWNvdnozRjdzNC0wNGtMVmpxU1cxLThMSVVQY1ViYlVtMTBIT2g0R0J2TGdIMU5iSEtkY3NlMGc0WGQwbGhGZGlxVENwN0xCUEsxcnk4LVVRbkRvSEU3WHVYXzdKVFlMT2U5UVgzT3FNYmpfVkZYX3J2R0loWlhTUlZRWC05cHpzSFR2cFVuV3NWdi1CcGpWX01yMmtRTEh2dFBkaWZKY0ZwWXJUWkxXVnVjUGRTb3dxUHlZaWtaZFdxWVp6VnlLWFNlVDd2VkpsTmlWX1U1R0VwQk84bElfOWRCU2QzQUc0ekxuUnRzN2dFTEo5enYzX05IQ3FFbmRxVnQ2UXZtRUhVNnhDNTF5b2pQY3I1QnBfZ01wNl83N1E3dko1QzZ4Ml9ZVjljWnhvZTI4M24yNXFMcmtDZ3JRTWg3T1JMc0ZJMGp5YllEbTJGYTljZ3d0ck9HeVdBS1JKZHQxX2tPcjVGanEwd0VPaC1hNDlHNWJTZDRhazVfNWFUQks0VkRaUjQ1SUhSeDF2SGhDMnZidUJ2c1JvZlQ5WklESG01Nw?oc=5",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzra06",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Anyone Looking for Ready-to-Move-In Units in MBR District 11?",
-   "text": "   Came across a few remaining units in  The Sparks, Meydan South (District 11) .   - Boutique G+5 building with only 49 units  - Ready for immediate occupancy (Brand new)  - Direct developer inventory  - Quick access to Al Ain Road &amp; MBZ Road   Current availability:    1BR | 670 sqft | AED 1.35M    1BR + Study | 844 sqft | AED 1.417M    2BR | 955 sqft | AED 1.60M    2BR | 849 sqft | AED 1.87M     All bedrooms with ensuite bathrooms    Practical layout (No big balconies)    Interesting option for buyers looking for a quieter community within MBR City     &#32; submitted by &#32;   /u/Real-",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzra06/anyone_looking_for_readytomovein_units_in_mbr/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1wzr3lc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Ritz-Carlton Residences by SAAS | Al Maryah Island",
-   "text": "   • EOI: AED 100,000  • 1–4 Bedroom Residences  • Handover: 2030  • Payment Plan: 40/60  • 10% Down Payment  • 5% every 6 months × 6  • 60% on Handover   Starting Prices  • 1BR From AED 4.5M  • 2BR From AED 7.5M  • 2BR Duplex  • 3BR From AED 12M | Simplex &amp; Duplex  • 4BR Duplex - TBC   • Ritz-Carlton branded residences  • Canal-front location on Al Maryah Island  • Fully furnished and fully fitted  • Confirmed underground, air-conditioned access to One Maryah  • Connected onward to The Galleria, ADGM, Cleveland Clinic and the show fountain   //////////////////   • EOI: AED 100,000  • 1–4 ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1wzr3lc/ritzcarlton_residences_by_saas_al_maryah_island/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1x085s3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Move out permit blocked | Landlord on a trip to Bahamas with no internet",
-   "text": "   I’ve rented an apartment in Town Square for three years and am moving out. My deposit is AED 2,500. The landlord and I had already agreed that AED 1,400 would be deducted for maintenance and cleaning.   There’s around AED 1,000 due on the chiller account(account under his name and i transfer to him monthly). I asked the landlord to deduct that from my deposit too, so the bill is cleared and we can settle everything together and apply for move out. However, Nshama requires the chiller to be cleared for move-out.   He disappearred for 2 days now (my contract ending in 2 days). And just now ha",
-   "url": "https://www.reddit.com/r/dubai/comments/1x085s3/move_out_permit_blocked_landlord_on_a_trip_to/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:07:53Z"
-  },
-  {
-   "id": "rd:t3_1wztduf",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Golden visa mainland company",
-   "text": "   Has anyone working in a mainland company with less than 20 employees managed to get the golden visa? (And they’ve already met all the other requirements like minimum salary, 2 years etc)   Had applied for golden visa and GDRFA responded saying that there’s a 20 people minimum now so wondering where that rule came into effect as I thought it was always 10    Ps: anyone planning to apply now, please do your research. Amer is still saying 10 is the minimum which is not the case for mainland.      &#32; submitted by &#32;   /u/Commercial_Goose_968       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1wztduf/golden_visa_mainland_company/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:07:53Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaVJxTGVQeEdZaEUwMnlvNFdtMmUyRjVmNEVVS1Q4RnA2V2Y2dzZ1MTBmTEd3dm1DVUU1UE12Z0lWVkpadjVkcENlb0o3ODluaEQ3UWxmY2VMbDZFZGpUR0lrZklUUElsS1JDeWxQcS1PTGVoelVHX0huXzdhSFpmMjg0Q0JRa1c4bXlITHgzZnd0YkkzMnE1azV4OXdGNXJhUnlqWVVkQll2cFNpdmJwaUtLTnhMeHdnbWlYVHBsRFNFLVJDOVRLRGR1aUhRa0Y0WGI1dHJUTy1kcDQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Karim Benzema leads growing wave of football stars investing in Dubai real estate - Zawya",
-   "text": " Karim Benzema leads growing wave of football stars investing in Dubai real estate &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaVJxTGVQeEdZaEUwMnlvNFdtMmUyRjVmNEVVS1Q4RnA2V2Y2dzZ1MTBmTEd3dm1DVUU1UE12Z0lWVkpadjVkcENlb0o3ODluaEQ3UWxmY2VMbDZFZGpUR0lrZklUUElsS1JDeWxQcS1PTGVoelVHX0huXzdhSFpmMjg0Q0JRa1c4bXlITHgzZnd0YkkzMnE1azV4OXdGNXJhUnlqWVVkQll2cFNpdmJwaUtLTnhMeHdnbWlYVHBsRFNFLVJDOVRLRGR1aUhRa0Y0WGI1dHJUTy1kcDQ?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T13:30:05Z"
   }
  ]
 }
