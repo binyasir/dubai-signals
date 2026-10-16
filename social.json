@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-16T11:29:42Z",
- "newThisRun": 15,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-16T16:43:03Z",
+ "newThisRun": 6,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 4,
-  "reddit": 166,
-  "rss": 80
+  "youtube": 5,
+  "reddit": 168,
+  "rss": 77
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
@@ -53,15 +53,15 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1x79rty",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "How did you vet your real estate agent in Costa Rica?",
+   "text": "   If you bought in Costa Rica, what actually made you trust your agent? Not just getting along with them, but feeling they knew their stuff. Was there a question they handled well, something they caught, or a past client you spoke to? also curious about anyone who switched agents. What made you go, nope, this isn’t working?      &#32; submitted by &#32;   /u/Separate_Pan       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/expats/comments/1x79rty/how_did_you_vet_your_real_estate_agent_in_costa/",
+   "date": "2026-10-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-16T16:43:00Z"
+  },
+  {
+   "id": "rd:t3_1x7l53e",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Can someone help me understand what’s the situation with my bathroom ceiling?",
+   "text": "                 Context: just moved in 2-3 weeks ago and the bathroom ceiling leaks when the AC is switched off.  Today the corner had some little bit of running water for a minute suddenly.  The building maintenance tells me that the yellow pipe needs to be put away and that black tray is a makeshift situation.  I’m not sure how to explain to my landlord.  The water dripping he said is normal.  Please help :(     &#32; submitted by &#32;   /u/phonephetish       [link]   &#32;   [comments]      ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x7l53e/can_someone_help_me_understand_whats_the/",
+   "date": "2026-10-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-16T16:42:34Z"
+  },
+  {
+   "id": "yt:StthsJj8AWs",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Dubai Real Estate Q3 2026 Report | What Our Data Really Shows",
+   "text": "How has the Dubai property market really performed in Q3 2026? Lewis and Carl Allsopp break down Allsopp & Allsopp’s latest quarterly data, from sales prices and transaction volumes to record rental deals, and share what they expect for secondary sales, rentals, commercial and off-plan in Q4.\n\nThey also explain why off-plan launches have slowed so sharply since August, why ready property is proving more resilient, what developer handover delays could mean for prices, and why some of the world’s largest investment firms remain confident in Dubai.\nSubscribe for regular Dubai property market upda",
+   "url": "https://www.youtube.com/watch?v=StthsJj8AWs",
+   "date": "2026-10-16",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "61 views",
+   "firstSeenAt": "2026-10-16T16:42:32Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNsYzVIMEE4cXZHVmJjUUUwNUpzV1RlMlQ1TTY5VDFHQVA5X3lkTGU2Y2dTM3Z6WVpSQzB2NXZjay1hTmVvbVd6c1JFT2N3MWxzOFB6QVdkUk1Oa2xHanRVSzh1V2ZyMVFFS2xYUmJMWTF3aVBVVHV3Y2ZDcWJialhBREZqekNjcC1mVG1UQkRSNGZZeTloaGRzbF9yRDd1SnVMV1hLaHIxVi1OanJWMw?oc=5",
    "platform": "RSS",
@@ -3776,51 +3821,6 @@
    "title": "عقارات دبي.. قوة مرتكزة على إصلاحات الدولة 2027 - صحيفة الخليج",
    "text": " عقارات دبي.. قوة مرتكزة على إصلاحات الدولة 2027 &nbsp;&nbsp; صحيفة الخليج ",
    "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPdzNRTjhMU2JhcExFWUs2bWJnNm8za0FSOTNaTjRqZnhGRV9EU0VBMGttelJvYmFQeHFwNk04SUlfVjV2b0pzMHRGeUpFaUI0OExnSEVncktuTWJrYVFZNVhQcHVuT2pRdTdFT0VDM1lJb2k4TVI0YmswTWF0VXNleDRlbHdHTXYtREI1MTJfNlNpbUNlNTRvaXo5em5TRXJOYkNIX3hWekVXTzJxZHNwaVd0TXprYTZyOXRnTmRNdllxYTZIMnRYdDRTOE9UVGZuekVjZWhuN3pHQUwyZHBTT3lwbk1laEtISTc3eGxwZGJlMlJZWkpDeFVDanRWQUs0Z3NQSnlueWh3MUtrWlFnTlJFdUdvMzRxekJxcFVaTWc5MFBFMzJCX21VbEVqeVV0OFVrQ1dBSDh4YkpyVU53b2tSbm9ta01DbndYNllfRHhNbGRIdmE2VUFDTkpUbkFkWEszQkY4eTRrYmFScnJWc1owb2I5UG54bV9sS2ctWlM4VnMwNkQ0TzhqZkZqUVZmSERDVFFOY3VPNFdRbnkwWXk5c3hyQVNmYk5RU1BudFFaZjJRVEhlYXpHUWNVTllDdnZZSERtSE1HV3JKYXdaSVZQU2RXSk0yLUdaZkdpT3Y0NG4yN1FEYkllM0w5Y3VSR2s5MnJIR2t1OVAzcHFUNmlsaTU4SHM?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:28Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QOTBJN05FQlNva3M5al9PWFAtUFpaSkNIVS13UndvVGZLQkk2UWh6bFoxRFgzU2xrSzdWaktNMG1vMmtqXzNkcnFXcHphZnZEbU93NNIBVEFVX3lxTE5QOTBJN05FQlNva3M5al9PWFAtUFpaSkNIVS13UndvVGZLQkk2UWh6bFoxRFgzU2xrSzdWaktNMG1vMmtqXzNkcnFXcHphZnZEbU93NA?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "«إس آند بي»: قوة المطورين ومتانة الاقتصاد تعززان مرونة عقارات دبي - البيان",
-   "text": " «إس آند بي»: قوة المطورين ومتانة الاقتصاد تعززان مرونة عقارات دبي &nbsp;&nbsp; البيان ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QOTBJN05FQlNva3M5al9PWFAtUFpaSkNIVS13UndvVGZLQkk2UWh6bFoxRFgzU2xrSzdWaktNMG1vMmtqXzNkcnFXcHphZnZEbU93NNIBVEFVX3lxTE5QOTBJN05FQlNva3M5al9PWFAtUFpaSkNIVS13UndvVGZLQkk2UWh6bFoxRFgzU2xrSzdWaktNMG1vMmtqXzNkcnFXcHphZnZEbU93NA?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:28Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1VFbjc0ZUpDYnlXaWF6OWRMNnlwZW9FeERoS3hZeXo1MXZzaDdpbExNTXBINHZEMHI4aGUzZE9XZlVKSjZLaVZfSGpPT1NLTGtyQ0FtVms1OE1ncGlkS3E0QW9Nb2ZwQTRLWndTeEl0bV9tdTlDanZYMGl3bGZVTkNsVE14cEQtR2hRYW1ORE0yaFRUaWluN2RUc2Z5TzB0SVNZUWhvUDBIME9udjhxclBZWDlXWWptTkcyZTNXN3ZXOVE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "عقارات دبي: انخفاض المعاملات وتصحيح الأسعار وسط الحرب في الشرق الأوسط - الأخبار والإحصاءات - IndexBox",
-   "text": " عقارات دبي: انخفاض المعاملات وتصحيح الأسعار وسط الحرب في الشرق الأوسط - الأخبار والإحصاءات &nbsp;&nbsp; IndexBox ",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1VFbjc0ZUpDYnlXaWF6OWRMNnlwZW9FeERoS3hZeXo1MXZzaDdpbExNTXBINHZEMHI4aGUzZE9XZlVKSjZLaVZfSGpPT1NLTGtyQ0FtVms1OE1ncGlkS3E0QW9Nb2ZwQTRLWndTeEl0bV9tdTlDanZYMGl3bGZVTkNsVE14cEQtR2hRYW1ORE0yaFRUaWluN2RUc2Z5TzB0SVNZUWhvUDBIME9udjhxclBZWDlXWWptTkcyZTNXN3ZXOVE?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:28Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipwNBVV95cUxOYTY3Z0UwT3pGc2JJMjkyRDljSmpXYXdJdzFnckF5M2lWOXdiVV9YNHZ5TlhpQWdvSFhSR010Y29aSGpGYXBTeTRRRWoyT3JEeHpTVi05aUNTdThlWTFuVDVtSGtQNzl3Y3ZRQ2tXRF8wcjliTXd3Qnc1OGJFdllzTDc3Q0xlQWI5cmF2MFNhTXJGS1lMb1RaZUNPVFJ1ZWdPbVdoSjZuOU90X0ExeWxybGltNk1ERFhXNTQ0VHlQMUFLRmxoYXowUThUQWtXVE1JQVFEVjhIdUpXZXNySmF4STBIMmV3THR3Szlsd01OVkxnUEpDZThDRHl0X09UbUtoTUJuNnBPWlpfZXlnVVliRzNCRENJdE5FeHA4eWdadlJOcGVsT2xXdGpPOTVPelJMdDNnVjFqNTZGRW8yVDQ3Q0NfNmVCVGQ1VTdRU0VaS2VZUlpXQkMtU1pLc3NfWVZ4RHZ6MlRpNGZlVEJTbVlOLUN3eDZmaHZkWDVlQjYzMlg3ZTFpVjdoN0xnNEJidDZoc1BtZjdZNzBTTk0tcVVZd1owREt5WTg?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "S&P: عقارات دبي أمام تصحيح أسرع للأسعار العام المقبل - الشرق بلومبرغ",
-   "text": " S&P: عقارات دبي أمام تصحيح أسرع للأسعار العام المقبل &nbsp;&nbsp; الشرق بلومبرغ ",
-   "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOYTY3Z0UwT3pGc2JJMjkyRDljSmpXYXdJdzFnckF5M2lWOXdiVV9YNHZ5TlhpQWdvSFhSR010Y29aSGpGYXBTeTRRRWoyT3JEeHpTVi05aUNTdThlWTFuVDVtSGtQNzl3Y3ZRQ2tXRF8wcjliTXd3Qnc1OGJFdllzTDc3Q0xlQWI5cmF2MFNhTXJGS1lMb1RaZUNPVFJ1ZWdPbVdoSjZuOU90X0ExeWxybGltNk1ERFhXNTQ0VHlQMUFLRmxoYXowUThUQWtXVE1JQVFEVjhIdUpXZXNySmF4STBIMmV3THR3Szlsd01OVkxnUEpDZThDRHl0X09UbUtoTUJuNnBPWlpfZXlnVVliRzNCRENJdE5FeHA4eWdadlJOcGVsT2xXdGpPOTVPelJMdDNnVjFqNTZGRW8yVDQ3Q0NfNmVCVGQ1VTdRU0VaS2VZUlpXQkMtU1pLc3NfWVZ4RHZ6MlRpNGZlVEJTbVlOLUN3eDZmaHZkWDVlQjYzMlg3ZTFpVjdoN0xnNEJidDZoc1BtZjdZNzBTTk0tcVVZd1owREt5WTg?oc=5",
    "date": "2026-10-07",
    "dateApprox": false,
    "language": "ar",
