@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-15T21:27:07Z",
- "newThisRun": 10,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-16T04:37:16Z",
+ "newThisRun": 1,
+ "sourcesOk": 2,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
@@ -53,30 +53,45 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
-   "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "ok": true,
-   "items": 24,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
-   "source": "\"سوق العقارات في دبي\" - أخبار Google",
-   "ok": true,
-   "items": 20,
-   "error": null
+   "source": "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1x6z6tn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Help fix a wrongful termination?",
+   "text": "   There’s a night front desk/door man at our apartment who is absolutely wonderful. We’ve spoken to him many times to become pretty acquainted and recently haven’t seen him at work.   One of the other front desk employees just informed us that he is currently being terminated due to accepting a 20dhs tip from someone - which is shocking to say the least. Because if someone usually tips you, it means you’ve done such a great service. And to be let go for something so small is baffling to me. (Especially if Emaar’s “core values” is customer first.)   I’m asking here if anyone knows if there’s s",
+   "url": "https://www.reddit.com/r/dubai/comments/1x6z6tn/help_fix_a_wrongful_termination/",
+   "date": "2026-10-15",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-16T04:36:21Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWJSamtPN0IzSFFNLWxIbHBwcUwzTHRmNHVrel9nME1DMlBrUVhha0RsSEZKa0RsaVJWbGtaUC1ScUNpd3FnSjBzaUFKMHdVSXVzVGtCNTVpOEVvcGFtSzhhRk0wQUZxdnRxeE5HT3NfalRlZUpJSEtLTFlIN041bmwyMVpUdFdsUkpKRWdMdGk5RWdIb2VCRFltU1hlemhiaDdyc2VRcjdyUUI2ckpGUjZDX2ZpTngzRWdXOHBZay1vaTNVdlpZajU4dXRJa2taNmtib2RrUFVzemxVMEZZcFdsNDNkb1JN?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "The unspoken math behind commercial-to-residential mortgage conversions in Dubai",
    "text": "   Most investors assume buying a warehouse, office, or retail unit in places like Business Bay or JLT follows standard residential gearing, but commercial assets cap out at 60% LTV under Central Bank guidelines while carrying higher base interest margins. The real arbitrage happens on conversion plays: when an investor retrofits or reclassifies eligible commercial space into residential or mixed-use units, they move the asset into the primary residential bracket where LTV caps lift up to 80% for local residents and 75% for equity release top-ups. That 15% to 20% leverage gap, combined with th",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1x02wny/the_unspoken_math_behind_commercialtoresidential/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:04Z"
-  },
-  {
-   "id": "rd:t3_1x01y2e",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "BELOW-OP DEAL | MYKONOS DAMAC LAGOONS 2.35M",
-   "text": "   4 Bedrooms   Selling Price: AED 2.35M   Original Price (OP): AED 2.47M   AED 125K BELOW OP   Handover: January 2027   Close to the upcoming Mall &amp; School   Attractive below-OP resale opportunity   Strong investment potential   Ideal for end-users or investors   DM me for full details, payment plan     &#32; submitted by &#32;   /u/Top_Percentage6046       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x01y2e/belowop_deal_mykonos_damac_lagoons_235m/",
    "date": "2026-10-07",
    "dateApprox": false,
    "language": "en",
