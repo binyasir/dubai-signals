@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-16T16:43:03Z",
- "newThisRun": 6,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-16T21:14:35Z",
+ "newThisRun": 5,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 168,
-  "rss": 77
+  "reddit": 167,
+  "rss": 78
  },
  "sources": [
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -66,13 +66,13 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 22,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "error": null
   }
  ],
@@ -616,6 +616,21 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-15T04:45:46Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlpvOWZOemh5Z2NtV0V4S0pkallzcTV4NWJkOXpvaFNXMkJYT0tzbi1fa25NdXowQmREanY3UVliRDZEMWlIX3BYRkUtTXYwNzJiQndxMjNyS042UUxpamlRX20xOXdrMHVYSDNvUldVc04wQ2Fkd3d3WV9PMkdRQm8zR3M2RGs?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate: ‘it’s a buyer’s market now’ - The Morning Context",
+   "text": " Dubai real estate: ‘it’s a buyer’s market now’ &nbsp;&nbsp; The Morning Context ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlpvOWZOemh5Z2NtV0V4S0pkallzcTV4NWJkOXpvaFNXMkJYT0tzbi1fa25NdXowQmREanY3UVliRDZEMWlIX3BYRkUtTXYwNzJiQndxMjNyS042UUxpamlRX20xOXdrMHVYSDNvUldVc04wQ2Fkd3d3WV9PMkdRQm8zR3M2RGs?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-16T21:14:35Z"
   },
   {
    "id": "rd:t3_1x63s3m",
@@ -2313,6 +2328,21 @@
    "firstSeenAt": "2026-10-11T05:52:02Z"
   },
   {
+   "id": "rs:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41N3gxb1VBck4td05XSGZ0TmhpX2JFaWdMdmZzS3hBSFlpYjgxejFIN3d0VGQ0WG5IaEw3R213alhaYnFTT0xGSEZJZUpZV3cyTWNqdUY3QV84N05oeHU3S3h3NDdpU0E?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "From Dubai Property to Tankers: TOP Ships Signs Four-Ship GSI Deal - Xinde Maritime News",
+   "text": " From Dubai Property to Tankers: TOP Ships Signs Four-Ship GSI Deal &nbsp;&nbsp; Xinde Maritime News ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41N3gxb1VBck4td05XSGZ0TmhpX2JFaWdMdmZzS3hBSFlpYjgxejFIN3d0VGQ0WG5IaEw3R213alhaYnFTT0xGSEZJZUpZV3cyTWNqdUY3QV84N05oeHU3S3h3NDdpU0E?oc=5",
+   "date": "2026-10-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-16T21:14:35Z"
+  },
+  {
    "id": "rs:https://news.google.com/rss/articles/CBMiYkFVX3lxTE83ZDNlUWRCR2RXUjF2T0d0SWg1SHdqNVRiWTNRbTltRFpzdExRTl92VklOcFF1X3JiWlVmekFEbGx6TTBUem95QXZGX2xySnp0TEhwMV9vYWRnNm04YVM3M3R3?oc=5",
    "platform": "RSS",
    "channel": "News",
@@ -3796,36 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-08T23:24:08Z"
-  },
-  {
-   "id": "rd:t3_1x03bm7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Company is offering relocation to various European offices from the US. Should I consider it?",
-   "text": "   Hi all,   I work for a very large multinational European company with a large presence in the US. I work out of our office in the Bay Area, California. Currently I live in San Francisco. Recently my manager asked me if I&#39;d consider moving to one of our offices in Europe to reduce capex spending. Here&#39;s the situation and I&#39;d like some advice from locals if I should take it or not:   My wife and I are in our early 30s. No kids yet but we do want in the next few years. We have a condo in San Francisco which we could rent out (prefer not to sell because of how expensive real estate ",
-   "url": "https://www.reddit.com/r/expats/comments/1x03bm7/company_is_offering_relocation_to_various/",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-08T23:24:05Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMihwRBVV95cUxPdzNRTjhMU2JhcExFWUs2bWJnNm8za0FSOTNaTjRqZnhGRV9EU0VBMGttelJvYmFQeHFwNk04SUlfVjV2b0pzMHRGeUpFaUI0OExnSEVncktuTWJrYVFZNVhQcHVuT2pRdTdFT0VDM1lJb2k4TVI0YmswTWF0VXNleDRlbHdHTXYtREI1MTJfNlNpbUNlNTRvaXo5em5TRXJOYkNIX3hWekVXTzJxZHNwaVd0TXprYTZyOXRnTmRNdllxYTZIMnRYdDRTOE9UVGZuekVjZWhuN3pHQUwyZHBTT3lwbk1laEtISTc3eGxwZGJlMlJZWkpDeFVDanRWQUs0Z3NQSnlueWh3MUtrWlFnTlJFdUdvMzRxekJxcFVaTWc5MFBFMzJCX21VbEVqeVV0OFVrQ1dBSDh4YkpyVU53b2tSbm9ta01DbndYNllfRHhNbGRIdmE2VUFDTkpUbkFkWEszQkY4eTRrYmFScnJWc1owb2I5UG54bV9sS2ctWlM4VnMwNkQ0TzhqZkZqUVZmSERDVFFOY3VPNFdRbnkwWXk5c3hyQVNmYk5RU1BudFFaZjJRVEhlYXpHUWNVTllDdnZZSERtSE1HV3JKYXdaSVZQU2RXSk0yLUdaZkdpT3Y0NG4yN1FEYkllM0w5Y3VSR2s5MnJIR2t1OVAzcHFUNmlsaTU4SHM?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "عقارات دبي.. قوة مرتكزة على إصلاحات الدولة 2027 - صحيفة الخليج",
-   "text": " عقارات دبي.. قوة مرتكزة على إصلاحات الدولة 2027 &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPdzNRTjhMU2JhcExFWUs2bWJnNm8za0FSOTNaTjRqZnhGRV9EU0VBMGttelJvYmFQeHFwNk04SUlfVjV2b0pzMHRGeUpFaUI0OExnSEVncktuTWJrYVFZNVhQcHVuT2pRdTdFT0VDM1lJb2k4TVI0YmswTWF0VXNleDRlbHdHTXYtREI1MTJfNlNpbUNlNTRvaXo5em5TRXJOYkNIX3hWekVXTzJxZHNwaVd0TXprYTZyOXRnTmRNdllxYTZIMnRYdDRTOE9UVGZuekVjZWhuN3pHQUwyZHBTT3lwbk1laEtISTc3eGxwZGJlMlJZWkpDeFVDanRWQUs0Z3NQSnlueWh3MUtrWlFnTlJFdUdvMzRxekJxcFVaTWc5MFBFMzJCX21VbEVqeVV0OFVrQ1dBSDh4YkpyVU53b2tSbm9ta01DbndYNllfRHhNbGRIdmE2VUFDTkpUbkFkWEszQkY4eTRrYmFScnJWc1owb2I5UG54bV9sS2ctWlM4VnMwNkQ0TzhqZkZqUVZmSERDVFFOY3VPNFdRbnkwWXk5c3hyQVNmYk5RU1BudFFaZjJRVEhlYXpHUWNVTllDdnZZSERtSE1HV3JKYXdaSVZQU2RXSk0yLUdaZkdpT3Y0NG4yN1FEYkllM0w5Y3VSR2s5MnJIR2t1OVAzcHFUNmlsaTU4SHM?oc=5",
-   "date": "2026-10-07",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-07T23:08:28Z"
   }
  ]
 }
