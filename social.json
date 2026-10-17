@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-17T04:33:08Z",
- "newThisRun": 2,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-17T10:49:39Z",
+ "newThisRun": 6,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 23,
    "error": null
   },
   {
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMigwJBVV95cUxOTTRza2N2LWZxNVhleG92eW9EdW9kWVRyVmVMeHpVVmFtUE51TG9iTjF0N29BUWFZdVJMX2VuNVZldWhWdGlJX2tQdVZuV3Y0VkR0Ty0zUzV4SzFUM3Z5V0ZFclpSNnp1Sk5pQVIyY0lIak5xVzExVXhuM1FRSmV5cGNzSUstUG1rbFZ2Q1NQblB4dE9yY2hQQXhTUVh1eW5xN0xTdjAtRXZjeDkxWC13OThFTmtpenBNRWRZOUhSMGNlQWdYbmFzMm1VSy1YbVBHcnhPbFZDLWx1VWExYTZabzZjWDlOSFc1ZTVRbjBXTEJpOVFBVWpBekRCaGl2bkhRLTU0?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Sales worth AED 8.59 billion. Dubai real estate transactions amounted to AED 13.47 billion during the week - صوت الإمارات",
+   "text": " Sales worth AED 8.59 billion. Dubai real estate transactions amounted to AED 13.47 billion during the week &nbsp;&nbsp; صوت الإمارات ",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTTRza2N2LWZxNVhleG92eW9EdW9kWVRyVmVMeHpVVmFtUE51TG9iTjF0N29BUWFZdVJMX2VuNVZldWhWdGlJX2tQdVZuV3Y0VkR0Ty0zUzV4SzFUM3Z5V0ZFclpSNnp1Sk5pQVIyY0lIak5xVzExVXhuM1FRSmV5cGNzSUstUG1rbFZ2Q1NQblB4dE9yY2hQQXhTUVh1eW5xN0xTdjAtRXZjeDkxWC13OThFTmtpenBNRWRZOUhSMGNlQWdYbmFzMm1VSy1YbVBHcnhPbFZDLWx1VWExYTZabzZjWDlOSFc1ZTVRbjBXTEJpOVFBVWpBekRCaGl2bkhRLTU0?oc=5",
+   "date": "2026-10-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-17T10:49:38Z"
+  },
+  {
+   "id": "rd:t3_1x86m7d",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Landlord is keeping my deposit, what are my options?(im outside the country)",
+   "text": "   Earlier this year I moved into a shared student dorm as a working woman.    Rent was 3000 aed and the deposit for the first month was 500 aed.    I stayed there from jan 25th till march 7th.  For the second month i paid 3000 rent and 500 deposit again.   Once I left, I asked about my deposit and they said it would be returned in 21 days.   after waiting I asked about it again and they said they will send it during aug/sep.   When I asked in August they said September second week.   During September second week they said after September.   At this point I was completely over the whole situat",
+   "url": "https://www.reddit.com/r/dubai/comments/1x86m7d/landlord_is_keeping_my_deposit_what_are_my/",
+   "date": "2026-10-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-17T10:49:03Z"
+  },
+  {
+   "id": "rd:t3_1x84uop",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Al Furjan - Public road safety- Master developer contacts or guidance?",
+   "text": "   Trying to seek if someone knows someone with the 6 degree of separation on who can help with the potential increase of accidents happening in the Furjan area with many news buildings but internal roads not having speed breakers or good visibility of cars coming out of buildings.   Who can I:  1) Reach out to or does anyone having experience solving this problem?  2) I had seen an accident and cannot get it out of my head which could’ve been easily avoided  3) RTA informed but they mention it’s master developer Nakheel  4) Master developer says roads are as per master plan but not investigat",
+   "url": "https://www.reddit.com/r/dubai/comments/1x84uop/al_furjan_public_road_safety_master_developer/",
+   "date": "2026-10-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-17T10:49:03Z"
+  },
   {
    "id": "rd:t3_1x7x3zx",
    "platform": "Reddit",
@@ -3781,51 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-08T13:36:13Z"
-  },
-  {
-   "id": "rd:t3_1x0ovo2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Why your Dubai mortgage pre-approval is actually stuck right now",
-   "text": "   Most buyers think their mortgage file sits on one underwriter&#39;s desk, but the reality in UAE retail banking is that your folder gets passed around like a hot potato across five separate desks. First, intake runs your AECB credit check and flags any missing salary certificate pages. Then risk underwrites your income, which is where 90% of credit queries hit if you have random bank transfers, undeclared cards, or variable pay that needs written justification. Once you sign Form F, it gets handed over to the valuation team to inspect the physical asset, then to legal compliance to clear ti",
-   "url": "https://www.reddit.com/r/UAE/comments/1x0ovo2/why_your_dubai_mortgage_preapproval_is_actually/",
-   "date": "2026-10-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-08T13:36:01Z"
-  },
-  {
-   "id": "rd:t3_1x0mluy",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Apartment smell",
-   "text": "   Hi guys,   My apartment smells like something wet and rotting before I moved in there was leaking but they fixed it and painted over it but I still smell it I don’t see any visible molding on the walls.   I already got two cleaning companies what could it be?   My landlord is telling me to just get a cleaning company but I already got them twice.   Any advice on this would be helpful thanks!     &#32; submitted by &#32;   /u/CremeOnly8523       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x0mluy/apartment_smell/",
-   "date": "2026-10-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-08T13:35:45Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMivwFBVV95cUxQWERuYWMyWW43UGVxdEN6dHhGUWJVRUZCNDZ6T1ZGTC1xdHVJaUZTWGowZ0JKRXhISFVzcDNObl92Uzd5bVhHTGw5QlBrYTRNYVpYVjVqa0dnSUNySWl6ZjdJcVBRbEF1SVdzQjNpbDVLc2xaUHAyMU43WWF1RXlBYVhvZzhwbkpUa1hiaXVWRWdHZFZCR0g0WkJBNUdMS3Y0VHNneXdnUkhMVzFjUnJHcVpvRldvaXlKTGRfUGdMbw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "S&P assesses impact of Middle East war on Dubai property market - Zawya",
-   "text": " S&P assesses impact of Middle East war on Dubai property market &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWERuYWMyWW43UGVxdEN6dHhGUWJVRUZCNDZ6T1ZGTC1xdHVJaUZTWGowZ0JKRXhISFVzcDNObl92Uzd5bVhHTGw5QlBrYTRNYVpYVjVqa0dnSUNySWl6ZjdJcVBRbEF1SVdzQjNpbDVLc2xaUHAyMU43WWF1RXlBYVhvZzhwbkpUa1hiaXVWRWdHZFZCR0g0WkJBNUdMS3Y0VHNneXdnUkhMVzFjUnJHcVpvRldvaXlKTGRfUGdMbw?oc=5",
-   "date": "2026-10-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-08T06:11:02Z"
   }
  ]
 }
