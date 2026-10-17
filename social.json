@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-17T15:39:37Z",
- "newThisRun": 5,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-17T20:40:00Z",
+ "newThisRun": 4,
+ "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 169,
-  "rss": 76
+  "reddit": 168,
+  "rss": 77
  },
  "sources": [
   {
@@ -35,9 +35,9 @@
   },
   {
    "source": "r/dubai",
-   "ok": true,
-   "items": 6,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/DubaiRealEstate",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 16,
    "error": null
   },
   {
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2VCamxaRTIxd08wN01vamlaQjZnUEczU0lYcVJSankzSnM5bGxBZGtCV3Y5NkI3Q2ZfQm96djZNUXFRVDlhOXJPeW5LdzEzYXpZQ005X1BwZVZZU3pwek9lVzNxS01rb1B2dW1ibC1PSWx5NHZwanBZVXl4ZC1ES0xJLXFtbEt2VDFINWZ0bTJGMGI2WEVvMXNlcm5sSjJDSEdBMFN2YzhLWENmeFRaZmJ5bzBjT2lSN2dZRlA2R1dlTVdYZHY5MGRoVi1lVEVsbk1NTkdKTk5LYnlnSlozNE5QRQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate sector recorded $3.7bn of transactions last week, including $14.6m Palm Jumeirah apartment - Arabian Business",
+   "text": " Dubai real estate sector recorded $3.7bn of transactions last week, including $14.6m Palm Jumeirah apartment &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2VCamxaRTIxd08wN01vamlaQjZnUEczU0lYcVJSankzSnM5bGxBZGtCV3Y5NkI3Q2ZfQm96djZNUXFRVDlhOXJPeW5LdzEzYXpZQ005X1BwZVZZU3pwek9lVzNxS01rb1B2dW1ibC1PSWx5NHZwanBZVXl4ZC1ES0xJLXFtbEt2VDFINWZ0bTJGMGI2WEVvMXNlcm5sSjJDSEdBMFN2YzhLWENmeFRaZmJ5bzBjT2lSN2dZRlA2R1dlTVdYZHY5MGRoVi1lVEVsbk1NTkdKTk5LYnlnSlozNE5QRQ?oc=5",
+   "date": "2026-10-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-17T20:40:00Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVlUzTUdoZ3Z6TDQ2eVhXU0ZEa2plUmtVaVdSa0hsYVVRTVd1MThGNE90RzJRYUdiU1JGTzcwSDlYaVdxZk9BQ1VnVjhCSFNwMUNWSHh0UzdGRl93bEMzZXlTWm9lczZBUXZzaU16eEhqVW9QSzk4dklmUEJfelYyWnl3eHVGNTZZTG1DT005ZEpVUkZ1RmhUVU9zVmxoa1BONzNlOTdtUU1INnBpbG8xbUR1a1lWN3RsbG1VRWJ0N2p4NDR3VjB0SzFxcF9uc3JkSWdNZnlFXzBGdEZJcmpXOdIB5gFBVV95cUxPR3BscmlNbUJIald5S3hRTkJ4YUJNbmdaTFpZZDYwcGUtcmR2UWhKX0RUQ2FCd0doV0llVi02Tzc0Ml8tQm5tZC02em5md05KVnRVYU9vWFBwbDV6eHhhUjgwNWVfWWRGeDlKdjJONUhUQWVRTkZKWldFRjFYMl9EM2hyS0tXOWNvVTJpQUlQUkhsSWVodENBR1FMcDkxTVphQmt4Z1AtVTRqWVktWXNfbW1wQzdBb09FZFA3VzFLdU82RkZTdjgwX29rM2l3LXBNWFFFX21kT2E5NHFXbl9lSVZ5UHZKUQ?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "Drummers, do you know anywhere that has test kits with evan’s db one heads and cymbals?",
    "text": "   I’m wanting to set up an acoustic kit with evan’s db one heads and cymbals but need to gauge the volume, if anyone knows where i can try out a set up like that let me know. i’m in a connected wall mirdif villa if that helps with any advice.      &#32; submitted by &#32;   /u/Normal-Muscle-6031       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubai/comments/1x0yth0/drummers_do_you_know_anywhere_that_has_test_kits/",
-   "date": "2026-10-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-08T23:23:32Z"
-  },
-  {
-   "id": "rd:t3_1x0x6u8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Dubai bans mixing families and individuals in shared housing units",
-   "text": "   Dubai’s new shared housing rules under Law No. 4 of 2026 include the following, according to Gulf News:   Families and individuals cannot share the same residential unit. Each shared housing building or villa must also cater exclusively to one category.   Shared housing for individuals is prohibited on certain major roads, including Sheikh Zayed Road, Baniyas Road, Jumeirah Road and Al Wasl Road. Shared accommodation there is limited to families.   Each resident needs at least 5 sqm of bedroom space, with one complete bathroom for every four residents. Each family must have a separate bedro",
-   "url": "https://www.reddit.com/r/dubai/comments/1x0x6u8/dubai_bans_mixing_families_and_individuals_in/",
    "date": "2026-10-08",
    "dateApprox": false,
    "language": "en",
