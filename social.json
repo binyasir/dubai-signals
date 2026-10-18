@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-18T11:12:57Z",
- "newThisRun": 5,
+ "generatedAt": "2026-10-18T15:54:53Z",
+ "newThisRun": 10,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 5,
+  "youtube": 4,
   "reddit": 170,
-  "rss": 75
+  "rss": 76
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 9,
    "error": null
   },
   {
@@ -60,23 +60,128 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 23,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أسعار العقارات والإيجارات في دبي خلال العام 2025 وفق البيانات الرسمية",
+   "text": "كشفت البيانات الرسمية حول أسعار العقارات في دبي خلال عام 2025 عن ارتفاع متوسط أسعار بيع الوحدات السكنية والفلل والعقارات&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:52Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a-%d8%aa%d9%86%d8%b4%d8%a6-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84-%d8%aa%d8%b3%d8%aa%d9%88%d8%b9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«عزيزي» تنشئ مجمعات لسكن العمال تستوعب أكثر من 31 ألف عامل في دبي والشارقة",
+   "text": "أعلنت شركة عزيزي للتطوير العقاري بدء تنفيذ مشاريع سكنية مخصصة للعمال في دبي والشارقة، بطاقة استيعابية تتجاوز 31 ألف عامل&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a-%d8%aa%d9%86%d8%b4%d8%a6-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d8%aa-%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84-%d8%aa%d8%b3%d8%aa%d9%88%d8%b9/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:52Z"
+  },
+  {
+   "id": "rd:t3_1x94hqi",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "My employer asking for owner ejari or dewa bill, i stay in shared accommodation",
+   "text": "   I stay in a shared accommodation, my employer is asking me to provide owner ejari or dewa bill for adress verification. I already shared an Noc with the same.   Now they say its from MOHRE and they need it for MOHRE compliance, what should i do.  Also when i said i stay in shared accommodation he said it is not allowed to stay in shared accommodation      &#32; submitted by &#32;   /u/Impressive_Page1865       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x94hqi/my_employer_asking_for_owner_ejari_or_dewa_bill_i/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:18Z"
+  },
+  {
+   "id": "rd:t3_1x9194a",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "How do i get out of Emicool?",
+   "text": "   I&#39;m moving from my apartment and the Ejari is now on another tenant&#39;s name. DEWA is ok but this Emicool i dont see any options to move out?     &#32; submitted by &#32;   /u/Significant_Cost       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x9194a/how_do_i_get_out_of_emicool/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:18Z"
+  },
+  {
+   "id": "rd:t3_1x8zktv",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dubai International City Parking Problem Solved?",
+   "text": "   I am planning to rent a Studio in International City because the rents are cheap and the apartments are larger compared to other places, but I am worried about parking and am not sure which cluster to consider for a family. Which cluster should I consider as I heard that there are no parking available after 7 pm? Also, are there any other places with a similar rent range?      &#32; submitted by &#32;   /u/thunderstrom0507       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1x8zktv/dubai_international_city_parking_problem_solved/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:18Z"
+  },
+  {
+   "id": "rd:t3_1x8y8ej",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Are the apartments in Dubai South good? Anything to consider, please help",
+   "text": "   Hi guys!    I’m finally thinking about getting my own place after 9 years of living with other people! Now that I’m in a position where I can afford it, I feel like it’s time to have a space of my own.    I’m single, and my office is in DIP 2. I’ve been looking around for a while, and Dubai South has caught my eye because the rent for furnished apartments seems pretty reasonable. Plus, it’s only around 15–20 minutes away from my office, which is a big plus!  Before I take the plunge, I’d love to do a little research and hear from people who live in or know the area.   How’s the community? I",
+   "url": "https://www.reddit.com/r/dubai/comments/1x8y8ej/are_the_apartments_in_dubai_south_good_anything/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:18Z"
+  },
+  {
+   "id": "rd:t3_1x8twp2",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "I never knew that moving could be this stressful thing.",
+   "text": "   I found a really nice apartment that wasn’t even listed by the agency yet, and I loved it so much that I decided to sign the contract.  Little did I know, the landlord had outstanding service charges, which prevented us from getting the Ejari registered. Because of this, we had to postpone our moving date.  And honestly, dealing with the agency has been a nightmare.  They keep trying to move things forward without properly informing me or getting my consent. I constantly have to chase them for updates, and somehow, even the most basic things I’ve requested, like AC cleaning and general main",
+   "url": "https://www.reddit.com/r/dubai/comments/1x8twp2/i_never_knew_that_moving_could_be_this_stressful/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T15:54:18Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%82%d9%8a%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b6%d8%a7%d9%81%d8%a9-%d9%84%d9%84%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa/",
    "platform": "RSS",
@@ -3721,111 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-09T13:25:21Z"
-  },
-  {
-   "id": "rd:t3_1x1dz4f",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Remote control for thermostat",
-   "text": "   Hi all, I live in an apartment, let’s say the AC is a bit erratic- so I have to adjust the temp often and it’s not helpful during meetings- is there anyway to have the thermostat connected to a remote control/ or an alternative? Thanks      &#32; submitted by &#32;   /u/Taurus_R       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1dz4f/remote_control_for_thermostat/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T13:25:21Z"
-  },
-  {
-   "id": "yt:fvFCYDlx9sY",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "Allsopp & Allsopp",
-   "title": "Bubble or Boom? Where Dubai Property Goes Next with Lewis and Carl Allsopp",
-   "text": "Is Dubai's property market a bubble waiting to burst, or a boom built to last? On the last day of Q3 2026, Lewis and Carl Allsopp take on five question cards each, covering where to invest AED 10 million, the up and coming areas to watch, the biggest mistakes sellers make and the communities set for the strongest growth over the next five years.\n\nThey also discuss the stories shaping the Dubai real estate market this week, including the impact of oil prices on everyday residents, why AI is replacing Google as the first place buyers search, and why for sale boards still outperform property port",
-   "url": "https://www.youtube.com/watch?v=fvFCYDlx9sY",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "139 views",
-   "firstSeenAt": "2026-10-09T13:25:19Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxQbElidUQwekRNbXRQZXUwazZVYXcyRnN4TjJiZHF1WjFINTdCVEVXZk12cU9rU0UyTHVMYjhZS0w0V3FuejZ1QjNfTG90RmNDTzdSX2JqNllfTTF0dGtYNEFFZ2UtWVVhUHVHTUxQZTVqNTA3azRxY2VzSWpOZHpKM19VbXdPMXE4TTBQa1oyOFFDdV9nbjFJV3NLVmI5NHY5SWV5RNIBtwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property buyers get keys months ahead of time - Gulf News",
-   "text": " Dubai property buyers get keys months ahead of time &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbElidUQwekRNbXRQZXUwazZVYXcyRnN4TjJiZHF1WjFINTdCVEVXZk12cU9rU0UyTHVMYjhZS0w0V3FuejZ1QjNfTG90RmNDTzdSX2JqNllfTTF0dGtYNEFFZ2UtWVVhUHVHTUxQZTVqNTA3azRxY2VzSWpOZHpKM19VbXdPMXE4TTBQa1oyOFFDdV9nbjFJV3NLVmI5NHY5SWV5RNIBtwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDQ?oc=5",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:27Z"
-  },
-  {
-   "id": "rd:t3_1x1d7l0",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "23 and starting in Dubai real estate. How do I begin?",
-   "text": "   Hi everyone,   I&#39;m 23 and want to become a real estate agent in Dubai. I plan to start with rentals and move into sales as I gain experience.   I want to learn from agents who started where I am. My questions:  • How did you get started in this industry?   • Which brokerages train new agents well?   • What does licensing cost, and how long does the process take?   • How do new agents land their first leads?   • Do brokerages offer commission-only or referral-based roles to new agents?   I&#39;m open to a referral split, where I earn a percentage of the commission while I build experienc",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1d7l0/23_and_starting_in_dubai_real_estate_how_do_i/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:03Z"
-  },
-  {
-   "id": "rd:t3_1x1cuec",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "How to sell a property? Al Sufouh 1 case. 2BR. Above 2.2M AED. Any advice?",
-   "text": "   I want sell a property in Al Sufouh 1. Questions:   1- What is the best way? Platform? Agent? Both?   I want to control the process so i don&#39;t want to spend time witb endless visits and calls.   2-I want to filter the curious buyer and want really the willing buyer to come and check out.   Is this too much to ask?   3-Also i don&#39;t want want give exclusivity. If a agent get a client, that&#39;s it. I put a base price and anything above its for the agent. Is this a common pratice? Or agents work on % total value?     &#32; submitted by &#32;   /u/katwithamnesia       [link]   &#32;   ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1cuec/how_to_sell_a_property_al_sufouh_1_case_2br_above/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:03Z"
-  },
-  {
-   "id": "rd:t3_1x1bux6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Joint ownership sale, if one owner is abroad or not cooperating",
-   "text": "   If property is jointly owned, both owners must be present at trustee or have valid POA. One owner cannot sell share without other’s consent at DLD. If one is abroad, POA route is required. We see delays when this is not planned early.     &#32; submitted by &#32;   /u/aarika_real_estate       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1bux6/joint_ownership_sale_if_one_owner_is_abroad_or/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:03Z"
-  },
-  {
-   "id": "rd:t3_1x1ao2j",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "[Villa Plot ] [GCC Only ] [Nad Al Hammar]",
-   "text": "   Posting as: Agent  Size: 20,000 sq ft  G+1  Price: AED 7,800,000  FYI: Owner rejected AED 7,550,000     &#32; submitted by &#32;   /u/EquivalentHawk8458       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1ao2j/villa_plot_gcc_only_nad_al_hammar/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:03Z"
   }
  ]
 }
