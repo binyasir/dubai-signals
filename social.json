@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-10-18T04:39:25Z",
- "newThisRun": 38,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-18T11:12:57Z",
+ "newThisRun": 5,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 172,
-  "rss": 73
+  "reddit": 170,
+  "rss": 75
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 32,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -58,25 +58,55 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 24,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%82%d9%8a%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b6%d8%a7%d9%81%d8%a9-%d9%84%d9%84%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "القيمة المضافة للقطاع العقاري في دبي تنمو 5.4% إلى 17.7 مليار دولار بالنصف الأول 2026",
+   "text": "سجلت القيمة المضافة للقطاع العقاري في دبي نحو 17.7 مليار دولار (65.1 مليار درهم) خلال النصف الأول من عام 2026،&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%82%d9%8a%d9%85%d8%a9-%d8%a7%d9%84%d9%85%d8%b6%d8%a7%d9%81%d8%a9-%d9%84%d9%84%d9%82%d8%b7%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T11:12:56Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMixgFBVV95cUxOQURKMjQzYXBEbzB2NUVrWkVuRlZJV3BJNnFZbkVaSnNUZ1JKNzRkVUN0cERVekFvdElVNUhHcTctamJCLUhHeVRMUjM0dS1ObjFlejQ3ZnZTV0RyV3BvYUEyU2JLejJjRG5qNEp3a3lfM2RPRkhwTHVxSzdObnNucnZXblhoZTRCUmhNeGUyTEpHaXM4Zjhaa0prM3F1MzlnQWRLSGt5c2dhcVIyVURFTlV1RzdCeE5SUXRSekNhNVBJQTU1M0E?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai rental contracts cross 1 million for the first time, reaching Dh127.4 billion - Gulf News",
+   "text": " Dubai rental contracts cross 1 million for the first time, reaching Dh127.4 billion &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQURKMjQzYXBEbzB2NUVrWkVuRlZJV3BJNnFZbkVaSnNUZ1JKNzRkVUN0cERVekFvdElVNUhHcTctamJCLUhHeVRMUjM0dS1ObjFlejQ3ZnZTV0RyV3BvYUEyU2JLejJjRG5qNEp3a3lfM2RPRkhwTHVxSzdObnNucnZXblhoZTRCUmhNeGUyTEpHaXM4Zjhaa0prM3F1MzlnQWRLSGt5c2dhcVIyVURFTlV1RzdCeE5SUXRSekNhNVBJQTU1M0E?oc=5",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T11:12:56Z"
+  },
   {
    "id": "rd:t3_1x8u6ah",
    "platform": "Reddit",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-09T06:14:03Z"
-  },
-  {
-   "id": "rd:t3_1x17scb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "What should you check before applying for a mortgage in Dubai?",
-   "text": "   I work in mortgage financing in Dubai and often see buyers start looking for a property before understanding how much financing they may actually qualify for.  For anyone planning to buy with a mortgage, getting an idea of your eligibility and potential borrowing capacity before committing to a property can save a lot of time.  This can be especially important for self-employed buyers, non-residents, people with overseas income, or anyone who has already received a lower approval than expected.  Happy to answer general mortgage questions here if it helps anyone navigating the process.     &",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x17scb/what_should_you_check_before_applying_for_a/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:14:03Z"
-  },
-  {
-   "id": "rd:t3_1x1cp6f",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Electricity bill",
-   "text": "   Has anyone else’s electricity bills for September been higher this year versus last year? Villa.     &#32; submitted by &#32;   /u/mumof2yoanddog       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1cp6f/electricity_bill/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T06:13:58Z"
   }
  ]
 }
