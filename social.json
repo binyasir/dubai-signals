@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-18T15:54:53Z",
- "newThisRun": 10,
+ "generatedAt": "2026-10-18T20:48:55Z",
+ "newThisRun": 4,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 170,
-  "rss": 76
+  "reddit": 168,
+  "rss": 78
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 9,
+   "items": 6,
    "error": null
   },
   {
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 23,
+   "items": 25,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 18,
+   "items": 24,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%aa%d9%88%d9%85%d9%88%d8%b1%d9%88-%d9%88%d9%88%d8%b1%d9%84%d8%af-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d9%80-132-%d8%b4/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"تومورو وورلد\" تكشف عن مشروع جديدة بـ 132 شقة بتصاميم \"ميسوني\" في جزر دبي",
+   "text": "كشفت شركة تومورو وورلد بروبرتيز Tomorrow World Properties، المطور العقاري الذي يتخذ من دبي مقراً له، عن مشروع ذا باي&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%aa%d9%88%d9%85%d9%88%d8%b1%d9%88-%d9%88%d9%88%d8%b1%d9%84%d8%af-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d9%80-132-%d8%b4/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T20:48:54Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%ad/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "ارتفاع أسعار العقارات المطلة على البحر في أبوظبي يتجاوز دبي والشارقة ورأس الخيمة",
+   "text": "ارتفعت أسعار البيع المطلوبة للعقارات المطلة على البحر في أبوظبي بنسبة 21% على أساس سنوي خلال سبتمبر 2026، مسجلة أعلى&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b7%d9%84%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a8%d8%ad/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-18T20:48:54Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84/",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "How do you actually deposit keys with RDC when the landlord won't take them?",
    "text": "   Vacated my flat in Dubai, DEWA closed and clearance certificate done. Emailed the landlord and their lawyers to come inspect and collect the keys — no reply. Went to the management office in person with the keys and access cards and they refused to take them. I have a judgment terminating the contract and ordering me to hand the unit back.   So I filed Offer and Deposit to deposit the keys with RDC. The judge approved it and I have the certificate.   Problem is actually handing them over. I went to RDC and was told to go to the Tabligh department. Tabligh said RDC has to assign the order to",
    "url": "https://www.reddit.com/r/dubai/comments/1x1hsib/how_do_you_actually_deposit_keys_with_rdc_when/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T13:25:21Z"
-  },
-  {
-   "id": "rd:t3_1x1gv93",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Ejari Renewal: Landlord MIA",
-   "text": "   Context:  Requested landlord to renegotiate rent as part of the renewal with an official email sent.  Landlord responded to the request via Whatsapp and agreed to lower rent with stated amount.   Landlord has since ghosted me on all channels when I request for him to sign the new contract.   Seeking advice on what now?     &#32; submitted by &#32;   /u/Irollandtroll       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1gv93/ejari_renewal_landlord_mia/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T13:25:21Z"
-  },
-  {
-   "id": "rd:t3_1x1g33a",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Off-plan developer 22 months past handover date — still no unit, still paying. What are my options?",
-   "text": "   In December 2022 I signed an off-plan Sale &amp; Purchase Agreement for a 1-bedroom unit in Arjan.     Key facts:      Purchase price:  AED 677,397    Payment plan: Down payment of ~AED 101,600 upfront, then monthly installments of  AED 8,467  running until January 2028   Anticipated completion/handover date stated in the contract:  31 December 2024    It is now  October 2026 — nearly 22 months past that date    We have received  no handover, no formal update, and no new completion date  from the developer   We are  still making monthly payments  as per the schedule   We have been to the ap",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1g33a/offplan_developer_22_months_past_handover_date/",
    "date": "2026-10-09",
    "dateApprox": false,
    "language": "en",
