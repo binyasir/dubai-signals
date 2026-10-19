@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-19T13:24:39Z",
- "newThisRun": 7,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-19T22:24:06Z",
+ "newThisRun": 10,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
-  "reddit": 164,
-  "rss": 80
+  "reddit": 161,
+  "rss": 83
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 2,
    "error": null
   },
   {
@@ -53,15 +53,15 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 10,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,66 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2hLbWt5dEJYOTl1SkMxVTFZUlR0VWpLTjcwdlhXcllJN3JZa0tiNDNnVFVFaEpSb1hHbnVEVkcwemF4SUwtTFlWb0IyWVJyR2hXQ0NrYm5hQVA4NmI1TExEUXNieEJfLWVHTHl1MGxpT1kxdDQzR1ZVRUdrdVJwOXB6b1FndFU?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "استثمارات دبي العقارية تتجاوز 680 مليار درهم في 2025 بنمو قياسي خلال خمس سنوات - XTB.com",
+   "text": " استثمارات دبي العقارية تتجاوز 680 مليار درهم في 2025 بنمو قياسي خلال خمس سنوات &nbsp;&nbsp; XTB.com ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2hLbWt5dEJYOTl1SkMxVTFZUlR0VWpLTjcwdlhXcllJN3JZa0tiNDNnVFVFaEpSb1hHbnVEVkcwemF4SUwtTFlWb0IyWVJyR2hXQ0NrYm5hQVA4NmI1TExEUXNieEJfLWVHTHl1MGxpT1kxdDQzR1ZVRUdrdVJwOXB6b1FndFU?oc=5",
+   "date": "2026-10-19",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:06Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d9%83%d9%88%d8%b2%d9%85%d9%88-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%85%d8%a7%d8%b1%d9%84%d9%8a%d9%86-%d8%a3%d9%8a%d9%83%d9%88%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«كوزمو» تطلق مشروع برج «مارلين أيكون» بـ140 وحدة سكنية في جزيرة الريم بأبوظبي",
+   "text": "أطلقت شركة كوزمو للتطوير العقاري Cosmo Developments مشروع «مارلين أيكون» Marlin Icon في جزيرة الريم بأبوظبي، والذي يضم 140 وحدة&#8230;",
+   "url": "https://masdarak.com/new-projects/%d9%83%d9%88%d8%b2%d9%85%d9%88-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%85%d8%a7%d8%b1%d9%84%d9%8a%d9%86-%d8%a3%d9%8a%d9%83%d9%88%d9%86/",
+   "date": "2026-10-19",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:05Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%88%d9%81%d8%b1-4-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%af%d8%a7%d8%b9%d9%85%d8%a9-%d9%84%d8%a3/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أراضي دبي» توفر 4 خدمات عقارية داعمة لأصحاب الهمم",
+   "text": "تستعرض دائرة الأراضي والأملاك في دبي أربع خدمات عقارية مخصصة لأصحاب الهمم، تشمل إدارة الممتلكات عن بُعد، والمساعدة الشخصية في&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%88%d9%81%d8%b1-4-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%af%d8%a7%d8%b9%d9%85%d8%a9-%d9%84%d8%a3/",
+   "date": "2026-10-19",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:05Z"
+  },
+  {
+   "id": "rd:t3_1xa14hi",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Family member hasn't paid rent in 14 months - HELP",
+   "text": "   Didn&#39;t know where to post it so I&#39;m posting it here. If there is a better sub for these posts, please suggest, will repost there.    I live in a 2bhk with my parents n my aunt. And we obviously split the rent. My dad&#39;s name is in the official documents so he has to pay the rent from his account. All this time (around 25 years) my aunt has been paying her share in dirhams then and there...Her share of the rent would be deposited or paid in cash to my dad before the rent&#39;s due date.    Since more than a year, my aunt has been refusing to pay the rent in dirhams. Instead, she a",
+   "url": "https://www.reddit.com/r/dubai/comments/1xa14hi/family_member_hasnt_paid_rent_in_14_months_help/",
+   "date": "2026-10-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:23:37Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxNSW0wdTdTZWNHdkM4LU14UGxxOGdTbk9qblhVUDBzcFNOZlhKd181UWc4blpJMWJpRWoyTjQyVWtOWXFCallJNkVfVkJnM0dwcnN6MzUzcFRLUDdZNnh0ZHRhbFNtb2d1d0ZmeXg2YmVLcGxvV2h0UWFFMW82X2tQSXloSzJ3X25QRkdEM21KOHV1UjBnMXJZU2xKVS11enVQekUxVmRtRmNlVkdyaEJnUVZIRVFHSDFRVGZ2cFBB?oc=5",
    "platform": "RSS",
@@ -151,6 +211,36 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-19T04:46:55Z"
+  },
+  {
+   "id": "rd:t3_1x8y7w7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Considering moving from Denmark to Malaysia or Indonesia with my family",
+   "text": "   Considering moving from Denmark to Malaysia or Indonesia with my family   Hi! I live in Denmark and am considering moving to Malaysia or Indonesia with my family.   I have a biology degree and experience in pharmaceutical manufacturing/GMP. How realistic is it to find a job with work permit sponsorship?   Which smaller towns or quieter areas would you recommend for affordable housing, good schools and access to jobs?   We’re also considering buying a modest apartment. What should we know about prices and restrictions for foreign buyers?   Thanks!     &#32; submitted by &#32;   /u/Tiny_Secur",
+   "url": "https://www.reddit.com/r/expats/comments/1x8y7w7/considering_moving_from_denmark_to_malaysia_or/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:04Z"
+  },
+  {
+   "id": "rd:t3_1x8ru9s",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "British man, 36, earning $206k in California. Stay until US citizenship at 40 or return to the UK sooner to find a partner and start a family?",
+   "text": "   I&#39;m a 36-year-old British man from Yorkshire, currently living in the San Francisco Bay Area.   I&#39;ve recently become single, and I&#39;m wrestling with a decision that involves money, relationships, and where I want my future to be.   My situation:     I earn $206k (£155k approximately) in a job in California.   Doing the same job back home would pay around £39k–£45k.   I have a US green card, held since March 2025.   I should be eligible to apply for US citizenship around December 2029, with citizenship potentially granted sometime in 2030.   I own a small UK rental property worth ",
+   "url": "https://www.reddit.com/r/expats/comments/1x8ru9s/british_man_36_earning_206k_in_california_stay/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:04Z"
   },
   {
    "id": "rd:t3_1x960k3",
@@ -436,6 +526,36 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-18T04:39:01Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTTZxb0hhOHhZTWJBbjY1SzZOQ0R1dUk1TTJnNHZtUlpSTjdreE0xLUVVZFJ1V211UVNiUHVfZUxLMDNKQjVRNVVBMVRMMjNKTFZqRXBxZWh6UmlwSWgtYVNLS1FoZi0yNXlWdENmbVQ4MGpucDloMkE5MVFkdTA0Tl9qYXZEMHBzY2xxWHNsMXFWMmxwR09taHlZT0praWxUMlpMQVBoUWFRUGs4VWQzS2xRTkFPNmQyQVFweENGcExjdzBDOGZOMEdqMDVBSDNwTXpFSEZCMlJPaUpJNHpXZWxaUWVzT0g1QUZB0gHwAUFVX3lxTE9lMzF4RnVKSWJ2OXJTU3gwQV9sMzhNbXk2V0ZRM2JsTGdlRWxhZkpXZXlldHNLd250ZjNZMkpCaHF1WnpKdFNFTnR2WVdsUFRQVzdCZ2s1b1pOSG94RTZuem9ndVpBd0lGQ0xDR0l5U3h1TTNBdGpROWYwWlpMSnRzMFlXeGRhd3lNWE1PU0tKSWVXVDQxeG9yZjBRdC16MjhmVnhwYmJzWjZhM3dkZzBVZi1qUng2T2lpNnl4TkZud3k3ZVBtOU5JZGgwSk5RNDhZVDItQk1PWUdwRjUyblVMclBpV3FLZTVLbmtCdTRwTQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Suryakumar Yadav and wife invest in luxury Dubai property named after Shah Rukh Khan - The Economic Times",
+   "text": " Suryakumar Yadav and wife invest in luxury Dubai property named after Shah Rukh Khan &nbsp;&nbsp; The Economic Times ",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTTZxb0hhOHhZTWJBbjY1SzZOQ0R1dUk1TTJnNHZtUlpSTjdreE0xLUVVZFJ1V211UVNiUHVfZUxLMDNKQjVRNVVBMVRMMjNKTFZqRXBxZWh6UmlwSWgtYVNLS1FoZi0yNXlWdENmbVQ4MGpucDloMkE5MVFkdTA0Tl9qYXZEMHBzY2xxWHNsMXFWMmxwR09taHlZT0praWxUMlpMQVBoUWFRUGs4VWQzS2xRTkFPNmQyQVFweENGcExjdzBDOGZOMEdqMDVBSDNwTXpFSEZCMlJPaUpJNHpXZWxaUWVzT0g1QUZB0gHwAUFVX3lxTE9lMzF4RnVKSWJ2OXJTU3gwQV9sMzhNbXk2V0ZRM2JsTGdlRWxhZkpXZXlldHNLd250ZjNZMkpCaHF1WnpKdFNFTnR2WVdsUFRQVzdCZ2s1b1pOSG94RTZuem9ndVpBd0lGQ0xDR0l5U3h1TTNBdGpROWYwWlpMSnRzMFlXeGRhd3lNWE1PU0tKSWVXVDQxeG9yZjBRdC16MjhmVnhwYmJzWjZhM3dkZzBVZi1qUng2T2lpNnl4TkZud3k3ZVBtOU5JZGgwSk5RNDhZVDItQk1PWUdwRjUyblVMclBpV3FLZTVLbmtCdTRwTQ?oc=5",
+   "date": "2026-10-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:06Z"
+  },
+  {
+   "id": "rd:t3_1x8jhqm",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "France 🇫🇷 Türkiye 🇹🇷 two perspectives on real estate",
+   "text": "   Living in France and exploring property opportunities in Türkiye has made me curious about how differently people approach real estate across countries. Some look for a place to live, others for a holiday home, and others see potential in projects before construction is complete.  I’m interested in how people think about these opportunities, what makes them trust a project, and what they look for before making a decision.   Would you ever consider buying a property abroad while it’s still under construction? Why or why not?     &#32; submitted by &#32;   /u/aleksandraarfundeeva       [link]",
+   "url": "https://www.reddit.com/r/expats/comments/1x8jhqm/france_türkiye_two_perspectives_on_real_estate/",
+   "date": "2026-10-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T22:24:04Z"
   },
   {
    "id": "rd:t3_1x8o218",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-10T12:37:02Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDTSAbcBQVVfeXFMUFlsdXNFRzczWGxjRG5OTi1GUF91SDNmS05ZYUNNMks3X0NES2ZGVkxaU1VfT1gxSnJvbTBhTmxMaWhIQUxqNXI2MFpieHRVX0xUaDNQWHV1cHNreG51X0wzd1NxeVZWRDdhaERfVXhWU3hNSURldFhQeHFWUlgtLWc2MWlmMlpSRXh0NWI5Rm81RS1HaDZFanNHMkxYVW9aak5xbVVraUNVcEJTX0xLTnZTXzJleTQ0?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property buyers get keys months ahead of time - Gulf News",
-   "text": " Dubai property buyers get keys months ahead of time &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWWx1c0VHNzNYbGNEbk5OLUZQX3VIM2ZLTllhQ00ySzdfQ0RLZkZWTFpTVV9PWDFKcm9tMGFObExpaEhBTGo1cjYwWmJ4dFVfTFRoM1BYdXVwc2t4bnVfTDN3U3F5VlZEN2FoRF9VeFZTeE1JRGV0WFB4cVZSWC0tZzYxaWYyWlJFeHQ1YjlGbzVFLUdoNkVqc0cyTFhVb1pqTnFtVWtpQ1VwQlNfTEtOdlNfMmV5NDTSAbcBQVVfeXFMUFlsdXNFRzczWGxjRG5OTi1GUF91SDNmS05ZYUNNMks3X0NES2ZGVkxaU1VfT1gxSnJvbTBhTmxMaWhIQUxqNXI2MFpieHRVX0xUaDNQWHV1cHNreG51X0wzd1NxeVZWRDdhaERfVXhWU3hNSURldFhQeHFWUlgtLWc2MWlmMlpSRXh0NWI5Rm81RS1HaDZFanNHMkxYVW9aak5xbVVraUNVcEJTX0xLTnZTXzJleTQ0?oc=5",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T12:56:16Z"
-  },
-  {
-   "id": "rd:t3_1x20g8m",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2-BR APARTMENT | PARK VIEWS RESIDENCES/ WASL1 | Aed 2,200,000",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: Al Kifaf   Building/project: Park Views Residences B, Wasl1   Price: AED 2,200,000   Bedrooms: 2   Size (sq ft): 1,110   Status: Off-plan — Handover By December 2026   Images/video: Available   Additional details:   Why Wasl1 / Al Kifaf?   • Prime central Dubai location   • Excellent access to Sheikh Zayed Road &amp; major highways   • Close to Metro, Karama, Bur Dubai &amp; Downtown Dubai   • Minutes from Zabeel Park &amp; Dubai Frame   • Spacious layouts compared with many newer developments   • Resort-style amenities and a we",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x20g8m/2br_apartment_park_views_residences_wasl1_aed/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x1y136",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai RE YouTubers",
-   "text": "   I am honestly flabbergasted at how vague the videos are on Dubai Real Estate in YouTube. Making 15-20 minutes slop on very generic content with AI script and barely getting a thousand views. I wonder why would people even bother doing this?   Btw brace yourselves, it’s that time of the year when the YouTubers are gonna make “Every Developer Ranked video” 🤣   I think watch sellers from 47th street NY (iykyk) have more content in their videos than your average Dubai RE YouTuber does in a year full of uploading slops 🥲   Dubai RE market is huge, it has huge volume of cashflow and it transcends",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1y136/dubai_re_youtubers/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x1wry1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4 Bed Penthouse | Palm Jumeirah | AED 54,000,000 Distress Deal",
-   "text": "   Posting as: Agent    Property type: 4 Bed Penthouse    Area/community: Palm Jumeirah    Building/project: Como Residences   Price: AED 54,000,000 AED    Bedrooms: 4 Bed   Size (sq ft): 9,815 sqft   Status: Off-plan   Additional details: Distress Deal, Selling Below OP   📍 Como Residence, Palm Jumeirah   *Distress Deal*   4 Bed + m Penthouse   6 Baths   9815 sqft Full Floor   360* View   5 Parking Bays   Very High Floor   Handover Q3 2027   OP: 56.1 m   Selling Price: 54,000,000 AED     &#32; submitted by &#32;   /u/Imad_Realtor_dxb       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1wry1/4_bed_penthouse_palm_jumeirah_aed_54000000/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x1vour",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai Islands vs Dubai Marina – Is infrastructure scaling justifying the waterfront premium for long term capital growth?",
-   "text": "   When analyzing long term capital appreciation in Dubai, looking at mega waterfront infrastructures reveals a major shift in investor behavior. While established areas like Dubai Marina offer proven rental liquidity, they are fast approaching infrastructure saturation with peak entry barriers per square foot.   In contrast, the massive scaling of Dubai Islands (formerly Deira Islands) presents a highly strategic entry point for private wealth. The current infrastructure deployment, including direct marine links, dedicated bridge connections, and extensive beach front layouts, suggests a mast",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1vour/dubai_islands_vs_dubai_marina_is_infrastructure/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x1uqsp",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2BR | Damac Volta | AED 2,630,000 | 19% Below OP",
-   "text": "   Posting as: Agent  Property type: Apartment  Area/community: Downtown  Building/project: Damac Volta  Price: AED 2,630,000  Bedrooms: 2  Size (sq ft): 1,426 sqft.  Status: Off-plan  Images/video: DM for details  Additional details: OP: AED 3,235,000     &#32; submitted by &#32;   /u/Omayab       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1uqsp/2br_damac_volta_aed_2630000_19_below_op/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x1thx0",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Studio | Dubai Production City (IMPZ) | Budget AED 38K/year",
-   "text": "   Posting as: Tenant  Property type: Studi  Preferred area: Dubai Production City (IMPZ)  Budget: AED 38K/year max  Bedrooms: Studio  Preferred size: 490 sqft or above  Timeline: 1st November  Additional requirements: Direct from owner please     &#32; submitted by &#32;   /u/Cigarafart       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1thx0/studio_dubai_production_city_impz_budget_aed/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x1t67x",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Town House - Damac Lagoons",
-   "text": "   Looking for a 4BR townhouse up to AED 2.5M for a mortgage-approved client.   ✅ Ready to move or near handover   Please share any suitable options     &#32; submitted by &#32;   /u/Own_Western56       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x1t67x/town_house_damac_lagoons/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
   }
  ]
 }
