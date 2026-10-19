@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-10-18T20:48:55Z",
- "newThisRun": 4,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-19T04:46:56Z",
+ "newThisRun": 6,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 168,
-  "rss": 78
+  "reddit": 165,
+  "rss": 81
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 10,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,71 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 24,
+   "items": 27,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVTd3eUhtY1phOWxPT2I5S2NzZTBnYTJTZnhrdW0wOXY5Q095YmtCM05aUGstc2NhbURNTXZtNEpUY1lrUUJ4ODRhaWhMY2k3LURKOEg4eXkwNkpLbUkxZUZLVkVCdk1nVWRNeXRRbmg4WmE5alU1V1Nwcnc3UHF5WGdyTTN3U19raDJ3LVYtTEUzTUdXOVU0V003QkVPNFYtdnRpRWM3MGRQS1B4S21GOVNKbEdVWGk3TFhtWXVfQ3NZc3hLaVdyazluV1lvazZ3V1J3OC1EYklKSEF6?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "ZAWYA: Dubai's real estate investments hit $185bln in 2025, says report - TradingView",
+   "text": " ZAWYA: Dubai's real estate investments hit $185bln in 2025, says report &nbsp;&nbsp; TradingView ",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVTd3eUhtY1phOWxPT2I5S2NzZTBnYTJTZnhrdW0wOXY5Q095YmtCM05aUGstc2NhbURNTXZtNEpUY1lrUUJ4ODRhaWhMY2k3LURKOEg4eXkwNkpLbUkxZUZLVkVCdk1nVWRNeXRRbmg4WmE5alU1V1Nwcnc3UHF5WGdyTTN3U19raDJ3LVYtTEUzTUdXOVU0V003QkVPNFYtdnRpRWM3MGRQS1B4S21GOVNKbEdVWGk3TFhtWXVfQ3NZc3hLaVdyazluV1lvazZ3V1J3OC1EYklKSEF6?oc=5",
+   "date": "2026-10-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T04:46:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWdqSEtEWEhSTnRZRHUxdDY0SDA1dTFEcXBiN3YzejMxaWhBRmpHalZnREZtUS15TGNZZGdoUTFWd0EwSjlxZGhMSGVrSHhKaXduTUlCbjRSbW5DNW9GMjhzcjRaMmhsU1BFaDZ4SXE3czR0MDVOMVBWeUNEN0xFdVV4ZVRMcUI3R05HTndPMFFRcEtWN1M5Wjl2dWJlQ3ZNMnVQaQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "قيمة الاستثمار العقاري في دبي ترتفع نحو خمسة أضعاف منذ 2021 - IndexBox",
+   "text": " قيمة الاستثمار العقاري في دبي ترتفع نحو خمسة أضعاف منذ 2021 &nbsp;&nbsp; IndexBox ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWdqSEtEWEhSTnRZRHUxdDY0SDA1dTFEcXBiN3YzejMxaWhBRmpHalZnREZtUS15TGNZZGdoUTFWd0EwSjlxZGhMSGVrSHhKaXduTUlCbjRSbW5DNW9GMjhzcjRaMmhsU1BFaDZ4SXE3czR0MDVOMVBWeUNEN0xFdVV4ZVRMcUI3R05HTndPMFFRcEtWN1M5Wjl2dWJlQ3ZNMnVQaQ?oc=5",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T04:46:56Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTlYcXV2ZDJWVi1kTHJ4dEkwWWNjbFdlTDI5bS1MdkVvaklVaEZuNkZHcEc4SGRVbkhQUG5wQzZqZVdWS0dZamplZGc0cWlHRlJaQl94WUJFWlBFd1huaXpoMkVaUmE2d1dPalpqU3pMN1FwWXYxQzRQMmVXUXg4QWRsXzZ0SFd0ZWZHQ05WRngwN296RHV5RW5lRVJkOHdy?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Real Estate Investment Value Up Nearly Five-Fold Since 2021 - News and Statistics - IndexBox",
+   "text": " Dubai Real Estate Investment Value Up Nearly Five-Fold Since 2021 - News and Statistics &nbsp;&nbsp; IndexBox ",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTlYcXV2ZDJWVi1kTHJ4dEkwWWNjbFdlTDI5bS1MdkVvaklVaEZuNkZHcEc4SGRVbkhQUG5wQzZqZVdWS0dZamplZGc0cWlHRlJaQl94WUJFWlBFd1huaXpoMkVaUmE2d1dPalpqU3pMN1FwWXYxQzRQMmVXUXg4QWRsXzZ0SFd0ZWZHQ05WRngwN296RHV5RW5lRVJkOHdy?oc=5",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T04:46:55Z"
+  },
+  {
+   "id": "rd:t3_1x9b8fv",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Tenancy contract T&Cs",
+   "text": "   Hello! I&#39;ve got the contract from a realtor, could someone please clarify if below points are standard?   - Major Maintenance above AED 500 is the sole responsibility of the Landlord.    Q: Should it be 500 or 1000 AED?     - If the Tenant wishes to terminate the contract before its expiry date, the Tenant shall provide at least sixty (60) days’ written notice and shall pay a penalty equivalent to two (2) months’ rent.    Q: Is this a standard/reasonable clause? Can they terminate the contract earlier?       &#32; submitted by &#32;   /u/Born-Bench-1200       [link]   &#32;   [comments]",
+   "url": "https://www.reddit.com/r/dubai/comments/1x9b8fv/tenancy_contract_tcs/",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-19T04:46:20Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%aa%d9%88%d9%85%d9%88%d8%b1%d9%88-%d9%88%d9%88%d8%b1%d9%84%d8%af-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d9%80-132-%d8%b4/",
    "platform": "RSS",
@@ -3766,66 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-09T22:41:25Z"
-  },
-  {
-   "id": "rd:t3_1x1oy8u",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Hatta border crossing to Oman",
-   "text": "   Hi everyone,   Earlier in April this year, I wanted to drive from Dubai to Muscat via the Hatta border. I was turned around because my car has a bank mortgage, and i needed an NOC from the bank.   I had done this same road trip several times over the past years, on a mortgaged car, but never encountered this issue. I assume this rule was enforced more strictly in April because the conflict was at its peak then.   I want to try doing the trip again if possible. Has anyone tried this crossing recently? Any experience you can share? Was this always a “rule”? If so then it certainly wasnt being",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1oy8u/hatta_border_crossing_to_oman/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T22:41:25Z"
-  },
-  {
-   "id": "rd:t3_1x1j7wm",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Any recommendations for a genuinely good cleaning company in Dubai?",
-   "text": "   I&#39;m getting really frustrated with the usual cleaning companies and looking for some genuine recommendations.   I&#39;ve tried several services, but the cleaning quality is often poor, the pace is ridiculously slow, and some cleaners seem to have an issue with pets (I have cats).   I live in a one-bedroom apartment and usually book 2 hours, which I feel should be reasonable for general cleaning. Yet somehow, they often leave with half the work unfinished, and the attention to detail is practically nonexistent.   I&#39;m not expecting miracles, just someone efficient, thorough, professio",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1j7wm/any_recommendations_for_a_genuinely_good_cleaning/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T13:25:21Z"
-  },
-  {
-   "id": "rd:t3_1x1iyee",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Studio apartment for 1 month",
-   "text": "   Where can I get a decent furnished studio apartment for one month (November) for ~5k AED? Preferably in JVC or barsha etc. I’m trying to find, but can’t come across anything good. Please lmk if you know of a place. A decent hotel would work too.     &#32; submitted by &#32;   /u/Sufficient-Tea-1025       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1iyee/studio_apartment_for_1_month/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T13:25:21Z"
-  },
-  {
-   "id": "rd:t3_1x1hsib",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "How do you actually deposit keys with RDC when the landlord won't take them?",
-   "text": "   Vacated my flat in Dubai, DEWA closed and clearance certificate done. Emailed the landlord and their lawyers to come inspect and collect the keys — no reply. Went to the management office in person with the keys and access cards and they refused to take them. I have a judgment terminating the contract and ordering me to hand the unit back.   So I filed Offer and Deposit to deposit the keys with RDC. The judge approved it and I have the certificate.   Problem is actually handing them over. I went to RDC and was told to go to the Tabligh department. Tabligh said RDC has to assign the order to",
-   "url": "https://www.reddit.com/r/dubai/comments/1x1hsib/how_do_you_actually_deposit_keys_with_rdc_when/",
-   "date": "2026-10-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-09T13:25:21Z"
   }
  ]
 }
