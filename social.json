@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-19T22:24:06Z",
- "newThisRun": 10,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-20T04:56:08Z",
+ "newThisRun": 3,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
@@ -54,7 +54,7 @@
   {
    "source": "r/expats",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 26,
+   "items": 25,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d9%87%d9%88%d9%84%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%ac%d8%a7%d8%b1%d8%af%d9%86-%d8%b3/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"هولم\" تطلق مشروع للشقق في جميرا جاردن سيتي في دبي بأسعار تبدأ من 286 ألف دولار",
+   "text": "أطلقت شركة هولم للتطوير العقاري HOLM Developments مشروع هولم سنترال HOLM Central في منطقة جميرا جاردن سيتي بدبي، بأسعار تبدأ&#8230;",
+   "url": "https://masdarak.com/new-projects/%d9%87%d9%88%d9%84%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%ac%d8%a7%d8%b1%d8%af%d9%86-%d8%b3/",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T04:56:07Z"
+  },
+  {
+   "id": "rd:t3_1xa4ty8",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Landlord wants 3 months’ rent penalty for short notice, but I’m leaving on the expiry date.",
+   "text": "   Hi all, looking for advice from anyone who has dealt with this in Dubai.   - 1-year lease (Ejari registered) ends 19 Nov. Full year&#39;s rent (AED 62k) is paid.  - I emailed non-renewal notice on 17 Oct (33 days before expiry). I&#39;m handing over on time.  - The agent&#39;s July renewal notice only said &quot;visit our office within 90 days prior to expiry to renew.&quot; No penalty was mentioned.  - Management now demands 3 months&#39; rent (AED 15.5k) as a penalty.   Clauses from the lease addendum:   Clause 2.1: &quot;The Lease Period mentioned above shall be renewable by mutual writt",
+   "url": "https://www.reddit.com/r/dubai/comments/1xa4ty8/landlord_wants_3_months_rent_penalty_for_short/",
+   "date": "2026-10-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T04:55:32Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2hLbWt5dEJYOTl1SkMxVTFZUlR0VWpLTjcwdlhXcllJN3JZa0tiNDNnVFVFaEpSb1hHbnVEVkcwemF4SUwtTFlWb0IyWVJyR2hXQ0NrYm5hQVA4NmI1TExEUXNieEJfLWVHTHl1MGxpT1kxdDQzR1ZVRUdrdVJwOXB6b1FndFU?oc=5",
    "platform": "RSS",
@@ -3796,36 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-10T12:37:15Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b0%d8%a7-%d9%8a%d8%a7%d8%b1%d8%af%d8%b2-%d8%a8%d9%84%d8%a7%d8%b2%d8%a7-%d9%84%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«بيوند» تطلق مشروع «ذا ياردز بلازا» للمكاتب في «دبي لاند» والتسليم 2029",
-   "text": "أطلقت شركة بيوند للتطوير العقاري BEYOND Developments ، التابعة لمجموعة أمنيات OMNIYAT، مشروع ذا ياردز بلازا The Yards Plaza، الذي&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b0%d8%a7-%d9%8a%d8%a7%d8%b1%d8%af%d8%b2-%d8%a8%d9%84%d8%a7%d8%b2%d8%a7-%d9%84%d9%84/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-10T12:37:15Z"
-  },
-  {
-   "id": "rd:t3_1x28np3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Urgent need of money",
-   "text": "   Hey guys, i know it’s very urgent but please can anybody help me out with earning 1000aed on this weekend? like i’ll do anything possible i just need to earn this by monday evening so I can pay my rent. My condition of life has been really not that great in a while and please help me earn a 1000 AED if possible. Even 500 AED should be great I just wanna start off somewhere. Please don’t get me wrong. It’s just not a good time for me right now.     &#32; submitted by &#32;   /u/Affectionate-Cap1347       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1x28np3/urgent_need_of_money/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-10T12:37:02Z"
   }
  ]
 }
