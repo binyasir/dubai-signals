@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-10-20T04:56:08Z",
- "newThisRun": 3,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-20T11:44:19Z",
+ "newThisRun": 8,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 6,
-  "reddit": 161,
+  "youtube": 7,
+  "reddit": 160,
   "rss": 83
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -47,15 +47,15 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,17 +66,107 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 24,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 27,
+   "items": 28,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%84%d9%8a%d9%86%d8%ba%d8%aa%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82%d8%a7%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%84%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"إلينغتون\" و\"الحمرا\" تطلقان مشروع برج للمكاتب في الخليج التجاري بدبي بقيمة 762 مليون دولار",
+   "text": "أعلنت إلينغتون العقارية Ellington Properties، بالشراكة مع مجموعة الحمرا Al Hamra Group، المتخصصة في التطوير والاستثمار العقاري ومقرها رأس الخيمة،&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%84%d9%8a%d9%86%d8%ba%d8%aa%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82%d8%a7%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%84%d9%84/",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T11:44:17Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "مبيعات العقارات السكنية في أبوظبي ترتفع 32% بالربع الثالث 2026",
+   "text": "بلغت قيمة مبيعات العقارات السكنية في أبوظبي نحو 5.85 مليار دولار (21.5 مليار درهم) خلال الربع الثالث من 2026، بزيادة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa/",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T11:44:17Z"
+  },
+  {
+   "id": "rd:t3_1xapqs3",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "If you earn 50-100k+ AED a month, do you still shop at discount centers (1-10 AED stores)? Or does your time become worth more than the savings?",
+   "text": "                  Image for illustration only. It does not represent any UAE business or brand.    Hypothetical situation. You’re earning well over 50-100k a month; you have a villa, a few cars, the whole setup. Are you still shopping at discount centers for household items, cleaning supplies, maybe even clothes?   I ask because I know someone who is genuinely wealthy and still drives across the city to find the best discount store for his monthly stuff. Not once in a while, but as a routine.   My assumption was always that once you’re rich enough, you value time over money. If a trip costs yo",
+   "url": "https://www.reddit.com/r/UAE/comments/1xapqs3/if_you_earn_50100k_aed_a_month_do_you_still_shop/",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T11:44:05Z"
+  },
+  {
+   "id": "rd:t3_1xaksvj",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "DAS Car Rental Has Not Returned My AED 1,000 Security Deposit – Anyone Else Experienced This?",
+   "text": "   I rented a car from  DAS Car Rental in Dubai  and returned the vehicle. It&#39;s been more than 3 weeks and but I still haven&#39;t received my  AED 1,000 security deposit  back when they said it will be returned aftr 21 days.   Has anyone here experienced the same issue with DAS Car Rental? How long did it take for you to get your security deposit back? They are not answering my calls   I&#39;d also appreciate advice on where I can file a complaint in the UAE if they continue delaying the refund.     &#32; submitted by &#32;   /u/Just-Tour5338       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xaksvj/das_car_rental_has_not_returned_my_aed_1000/",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T11:44:05Z"
+  },
+  {
+   "id": "rd:t3_1xam6rt",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Whats common etiquette when hiring a cleaner for an apartment?",
+   "text": "   So i broke my wrist last weekend, and i have a cast on. While i can still clean slightly, accidentally getting it wet is a big fear now. Ive been considering getting a cleaning service via urban company.  Whats the general rule with them? Do i leave them with the apartment? Can i stay back and watch TV. The awkward part is that it’s a studio.  What do you guys normally do?      &#32; submitted by &#32;   /u/lykicare       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xam6rt/whats_common_etiquette_when_hiring_a_cleaner_for/",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-20T11:43:43Z"
+  },
+  {
+   "id": "yt:Y5PVaR2J-3o",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Inside a 79,000,000 AED Villa on Billionaires’ Row | Palm Jumeirah",
+   "text": "Discover this fully renovated, custom-built five-bedroom villa on Billionaires’ Row, Palm Jumeirah, presented by Allsopp & Allsopp.\n\nSpread across four levels, including a basement, ground floor, first floor and rooftop, this exceptional villa offers approximately 10,000 sq. ft. of built-up area on a 7,491 sq. ft. plot. Finished to a high standard and sold fully turnkey, it combines spacious living with a prime waterfront location.\n\nEnjoy panoramic views of Atlantis The Palm and the Dubai Marina skyline, with a stunning rooftop infinity pool offering the perfect setting to relax and take in Du",
+   "url": "https://www.youtube.com/watch?v=Y5PVaR2J-3o",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "8 views",
+   "firstSeenAt": "2026-10-20T11:43:41Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d9%87%d9%88%d9%84%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%ac%d8%a7%d8%b1%d8%af%d9%86-%d8%b3/",
    "platform": "RSS",
@@ -3736,96 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x28ufv",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Buy or rent?",
-   "text": "   Hi  I bought a flat as investment 18 months ago when I was abroad  Now I moved to Dubai for work   My off plan is now handed over    I have 2 options   1- sell it , currently it will only give me my money back no much of profit and use the money ( down payment)to buy a town house or villa to live in   2- rent it out and sell may be in 1-2 years to gain some profit, but this mean I will b renting during this period   My rent is 170/years currently    What is more sensible   Forget investing and buy my own home  Or keep renting and continue with investing      &#32; submitted by &#32;   /u/Ca",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x28ufv/buy_or_rent/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x26d1i",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "🏡 UNDER AED 1M | BRAND NEW 1BR | GATEWAY BY PREMIER CHOICE | JVC 🔥",
-   "text": "   📍 Jumeirah Village Circle (JVC)   🏢 Gateway by Premier Choice   ✨ Excellent Layout | 2 Bathrooms | 2 Balconies   📐 745.72 sq.ft   🛏️ 1 Bedroom   🛁 2 Bathrooms   🌿 2 Balconies   👗 Walk-in Closet   🏊 Great Building Amenities   🏗️ 95% Completed   📅 Handover: January 2027 — very soon!   💰 ONLY 2 UNITS AVAILABLE:   🔹 5th Floor: AED 958k   🔹 9th Floor: AED 960k   💵 CASH BUYERS ONLY   ❌ Mortgage Financing Not Accepted   🔥 Brand-new project with an excellent and practical layout, spacious living areas, 2 balconies, and great amenities.   📸 Floor plan + project renders attached below   📲 DM me for f",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x26d1i/under_aed_1m_brand_new_1br_gateway_by_premier/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x24krf",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "US Investor — $250K Budget: Dubai Apartment vs. Townhouse?",
-   "text": "   I’m a US-based investor with several rental properties in the States, looking to diversify into Dubai with a maximum budget of $250K USD.  I’m considering a modern high-rise apartment in Business Bay, JLT, or Dubai Marina versus a townhouse in a developing community. Open to both ready and off-plan properties (2027–2029).  My main questions:  Which offers better long-term appreciation and rental ROI: apartments or townhouses?  Which areas have the best investment potential over the next 5–10 years?  Is Airbnb more profitable than long-term renting after all expenses?  Is off-plan worth cons",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x24krf/us_investor_250k_budget_dubai_apartment_vs/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-11T05:52:02Z"
-  },
-  {
-   "id": "rd:t3_1x2gca0",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "25(f) moving to UAE: Dubai or Abu Dhabi?",
-   "text": "   I am a lawyer moving from London, UK to the UAE by myself. I am weighing up job offers but will be earning at least 500K AED per year. I want to save a lot of money while I’m in the UAE but I still want to be able to go out weekly for brunch/dinner and be able to get my hair done, etc. I am fine with a one bedroom apartment.   Where would you suggest that I move to: Dubai or Abu Dhabi? And do you think I’d be earning enough on 500K AED per year to live comfortably as a single woman? Thank you     &#32; submitted by &#32;   /u/Honest-Benefit4227       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1x2gca0/25f_moving_to_uae_dubai_or_abu_dhabi/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-10T21:48:01Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-30-%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "إيجارات الشارقة تسجل زيادات تصل إلى 30% للفلل و 12% للشقق منذ بداية 2026",
-   "text": "ارتفعت متوسطات الإيجارات السنوية المطلوبة للشقق والفلل في المناطق السكنية الثلاثين الأكثر بحثاً في الشارقة منذ بداية عام 2026، مقارنة&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%b2%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%aa%d8%b5%d9%84-%d8%a5%d9%84%d9%89-30-%d9%84/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-10T12:37:15Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/home-finance/%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«أبوظبي التجاري» يوفر تمويلاً عقارياً لشراء وحدات في مشروع «بين» بغنتوت",
-   "text": "أبرم بنك أبوظبي التجاري اتفاقية شراكة مع شركة  أورا ديفلوبرز الإمارات ORA Developers لتوفير حلول التمويل العقاري لشراء الوحدات قيد&#8230;",
-   "url": "https://masdarak.com/home-finance/%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a-%d9%8a%d9%88%d9%81%d8%b1-%d8%aa%d9%85%d9%88%d9%8a%d9%84%d8%a7%d9%8b-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a7/",
-   "date": "2026-10-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-10T12:37:15Z"
   }
  ]
 }
