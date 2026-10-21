@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-10-20T21:40:28Z",
- "newThisRun": 36,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-21T04:54:48Z",
+ "newThisRun": 3,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 165,
-  "rss": 78
+  "reddit": 163,
+  "rss": 80
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 33,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -72,11 +72,26 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 30,
+   "items": 31,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE12OTF4Zkx1Y2psT1paVnozd0ZCZTdhaGVhTXZuTEh5NXM4c3UtaEpnMXVVdEc0MmlMU1NyQi1oMWVpVWJlS0NGWkRZVThNdkhfaWxJYjRRMlducVE3cTNpX1A0NWFoZV9KekE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "تراجع مبيعات العقارات الفاخرة في دبي عن مستوياتها القياسية - زاد الاردن",
+   "text": " تراجع مبيعات العقارات الفاخرة في دبي عن مستوياتها القياسية &nbsp;&nbsp; زاد الاردن ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12OTF4Zkx1Y2psT1paVnozd0ZCZTdhaGVhTXZuTEh5NXM4c3UtaEpnMXVVdEc0MmlMU1NyQi1oMWVpVWJlS0NGWkRZVThNdkhfaWxJYjRRMlducVE3cTNpX1A0NWFoZV9KekE?oc=5",
+   "date": "2026-10-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T04:54:48Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMigARBVV95cUxPX2RJOS02S29mQnlsZDBLYmJWYTZPRnRnSWpXeDRjSkNyQkRkeFViejRCcXl3aWNNN0NqVGlYaU9hMDhlb202Zk55NWNQejlCcWVBSnRPRUxFeVdLaTJ3cS1wSlJneTVOWThaWTNPTy02NzhacXNBdk15LXJBcXJDRVpweWtycDVTN29JZXdaTnNLalg1dWN4N1h0QXpVQ0hIYUhWMmhPYjJuQzBDSi1qTnZLcS02TExNWG8zb09LbFBiNUlaWXV4WlNubkdmNUpEN3VRYzg3dEo2cmlFRHFVMmJLNndabjNDbUpiVGM4dzAwMjJKb2Z6MU80Q09zWHFIMk5XUHFPNnRvUUkzRG5fX0VtMzNvandlcW96VVR1bm1RR3hwbFJ0N0hBSlBWM0kzWGxudEREOVVpeWdLajBueHEwRW9RRlBIeUIxTWhPOFpJaHY5THJRcS1oUFNrQ1VxOXFCQ2EyT3g0bmp6WUFTODhBOHd5RXZ6NGdGc0RObTRMcFVxaWlRVXJ5Ty1pTEpTMExYV3J0bmU4Y0lTQkFYUGRkQVJBcGdCVFF6YnVsOUM1OThsWVMzSmgxZTBuMWpTQi12SVZzbWFIWE14Z1FpSzh0QXo1YmJGVmNZTldwUG5fVlNYXzVHdnRsaEhtUXRVQlZXUEMtdG5rWmFXVS1hSQ?oc=5",
    "platform": "RSS",
@@ -2448,6 +2463,21 @@
    "firstSeenAt": "2026-10-15T04:45:46Z"
   },
   {
+   "id": "rs:https://news.google.com/rss/articles/CBMikAFBVV95cUxOUElJWHp4dURfWXJwbVFNalFzMmlkcjhUaFRpNXhBSU45MkR4M1VLR0hjUjJBMkJRclVoY2JYQV81RkwwYlBtb0FRUk1hakFLLUZPXy1hZ2ZsLUg2NDZPWlhOSzdxMy12c1dmYlhLZW9nTUdWdjdETm5RTWRPU1E1SjRKdXFqdzBENzdSQWxrUFM?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "DLD highlights real estate market competitiveness, global investment appeal at RISE 2026 - www.wam.ae",
+   "text": " DLD highlights real estate market competitiveness, global investment appeal at RISE 2026 &nbsp;&nbsp; www.wam.ae ",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUElJWHp4dURfWXJwbVFNalFzMmlkcjhUaFRpNXhBSU45MkR4M1VLR0hjUjJBMkJRclVoY2JYQV81RkwwYlBtb0FRUk1hakFLLUZPXy1hZ2ZsLUg2NDZPWlhOSzdxMy12c1dmYlhLZW9nTUdWdjdETm5RTWRPU1E1SjRKdXFqdzBENzdSQWxrUFM?oc=5",
+   "date": "2026-10-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T04:54:48Z"
+  },
+  {
    "id": "rs:https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlpvOWZOemh5Z2NtV0V4S0pkallzcTV4NWJkOXpvaFNXMkJYT0tzbi1fa25NdXowQmREanY3UVliRDZEMWlIX3BYRkUtTXYwNzJiQndxMjNyS042UUxpamlRX20xOXdrMHVYSDNvUldVc04wQ2Fkd3d3WV9PMkdRQm8zR3M2RGs?oc=5",
    "platform": "RSS",
    "channel": "News",
@@ -3791,36 +3821,6 @@
    "title": "Can anyone explain me plz .",
    "text": "                 As much as I remember . I did not committed any type of violation mentioned here . Secondly can I dispute and how can I dispute it . The car was belonging to rent a car . Now i have to pay them 400 and additionally 100 dhs as admin fee .      &#32; submitted by &#32;   /u/Real-Coyote5301       [link]   &#32;   [comments]      ",
    "url": "https://www.reddit.com/r/dubai/comments/1x49a75/can_anyone_explain_me_plz/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:44:53Z"
-  },
-  {
-   "id": "rd:t3_1x46m45",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "moving to dubai/trying to find rent",
-   "text": "   hey everyone ! hope u r all doing well  gonna try to keep it short  i&#39;ve received a contract offer and will most likely be moving to dubai  i&#39;m trying to find a decent rent location that is at most 1h away from work via public transport  i wanted to ask to things  1/Which websites do most foreigners use ? knowing that i can not pay a deposit before arriving in dubai  2/ how common are scams online ? (i found  this  &quot;apartment&quot;, which for the price of it, looked UNREAL given the amenities that come with it)     &#32; submitted by &#32;   /u/dalisoula       [link]   &#32;   ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x46m45/moving_to_dubaitrying_to_find_rent/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:44:53Z"
-  },
-  {
-   "id": "rd:t3_1x452bu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Moving (within Dubai) company reccomendations",
-   "text": "   Hey,   Moving from a 4 bed villa in Dubai Hills to the same in Mudon. Would love any recommendations for a moving company here in Dubai that was affordable and did a good job in your experience.   Thank you!     &#32; submitted by &#32;   /u/ulurugamer       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x452bu/moving_within_dubai_company_reccomendations/",
    "date": "2026-10-12",
    "dateApprox": false,
    "language": "en",
