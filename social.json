@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-21T11:55:56Z",
- "newThisRun": 11,
+ "generatedAt": "2026-10-21T17:17:53Z",
+ "newThisRun": 9,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 8,
-  "reddit": 157,
-  "rss": 85
+  "youtube": 9,
+  "reddit": 155,
+  "rss": 86
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,100 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
-   "ok": true,
-   "items": 10,
-   "error": null
+   "source": "https://masdarak.com/feed/",
+   "ok": false,
+   "items": 0,
+   "error": "URLError"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 26,
+   "items": 25,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 22,
+   "items": 21,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xbsr86",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Golden Visa -Golden Visa - Dxb/ Auh",
+   "text": "   Hey guys, I have some queries on the current golden visa status.       First and foremost, has anyone successfully received an app under Abu Dhabi recently(or someone they know received an approval)?      What was they category they applied under?     If a resident currently under a sponsored visa issued by an abu dhabi registered company, invest 2 mil in dubai real estate and apply for golden visa in dubai?     The resident is qualified professional and eligible under the skilled professional category. Everything is in place including the salary requirements and equivalency since one year ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xbsr86/golden_visa_golden_visa_dxb_auh/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T17:16:03Z"
+  },
+  {
+   "id": "rd:t3_1xbqzx9",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Offers and charges by food delivery companies",
+   "text": "   What do you guys think of food delivery apps various offers as 60 percent off up to 10 AED , isn’t it comes under misleading ads or kind of wrong information  And the charges like service charge and another service charge then small order feee , temp fuel charge why can’t they say it straight?      &#32; submitted by &#32;   /u/New-Appearance7868       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xbqzx9/offers_and_charges_by_food_delivery_companies/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T17:16:03Z"
+  },
+  {
+   "id": "rd:t3_1xbi3yb",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Has anyone converted their Title Deed from \"Hotel Apartment\" to \"Residential\" in Azizi Mina (Palm Jumeirah)?",
+   "text": "   &#x200B;   Hello everyone    I Need some guidance from anyone who has dealt with Dubai Land Department (DLD) title deed updates.   we got a unit in Azizi Mina (Palm Jumeirah) registered as a hotel apartment. I’m trying to get a DTCM license for short-term leasing, but the current status is blocking it.   I know other owners in the building have successfully changed their deed to residential, but I’m not sure where to start.    If you’ve done this:    Did you go through Azizi directly or deal straight with DLD/RERA?   What documents/fees were needed?   Thanks so much for any advice 🙏🙏     &#",
+   "url": "https://www.reddit.com/r/UAE/comments/1xbi3yb/has_anyone_converted_their_title_deed_from_hotel/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T17:16:03Z"
+  },
+  {
+   "id": "rd:t3_1xbs6av",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Just rented a flat and found out it has mold",
+   "text": "   I just rented a flat and discovered there is mold in the bathroom ceiling, I informed the agent, said yesterday that he will call someone, today he said that the maintenance guy he called didnt confirm he will come - what are my options? It’s the landlord‘s duty to solve this, right?     &#32; submitted by &#32;   /u/Witty-Clue4014       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xbs6av/just_rented_a_flat_and_found_out_it_has_mold/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T17:15:41Z"
+  },
+  {
+   "id": "yt:xAINLNvVNXI",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Inside a 80,000,000 AED Signature Villas | Palm Jumeirah",
+   "text": "Discover this beautifully renovated six-bedroom Signature Villa on Palm Jumeirah, exclusively presented by Allsopp & Allsopp.\n\nSet on an extended 14,782 sq. ft. plot, this exceptional villa offers approximately 7,000 sq. ft. of built-up area, with upgraded interiors and spacious living areas designed for comfortable family living.\n\nPositioned on a high-number plot on Frond M, the property enjoys beautiful sunset views and views of Atlantis The Palm, creating a stunning backdrop for everyday living.\n\nFully renovated throughout and vacant on transfer, this villa is ready for its next owner to mo",
+   "url": "https://www.youtube.com/watch?v=xAINLNvVNXI",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "68 views",
+   "firstSeenAt": "2026-10-21T17:15:40Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81/",
    "platform": "RSS",
@@ -1111,6 +1186,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-19T04:46:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRFcTJuQzJtVTg3NGNnUTJ1SVpDMldlX21OcXI0VE9PaGdxNlVDN0l2N0tDUi1IbnlWa3lJWlNYSzhIV2lKMFdONEZjOHE3WTM4REpoeWNYVjhBbWpfakxQdC1YTUYzTUFwSEZlRzBzN1VzVGROT2hOT1duSGNGSzZSMnVNT19RNTIzd1o4UDA4dGtXa3NyMWpjNWxscE9BMFJjRjNhZw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai's real estate investments hit $185bn in 2025, says report - TradeArabia",
+   "text": " Dubai's real estate investments hit $185bn in 2025, says report &nbsp;&nbsp; TradeArabia ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRFcTJuQzJtVTg3NGNnUTJ1SVpDMldlX21OcXI0VE9PaGdxNlVDN0l2N0tDUi1IbnlWa3lJWlNYSzhIV2lKMFdONEZjOHE3WTM4REpoeWNYVjhBbWpfakxQdC1YTUYzTUFwSEZlRzBzN1VzVGROT2hOT1duSGNGSzZSMnVNT19RNTIzd1o4UDA4dGtXa3NyMWpjNWxscE9BMFJjRjNhZw?oc=5",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T17:17:53Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NPSlBLeVpkbGllMjNvOHNSQnpMb1g2NlFzTUZweHZka1p2TW1QUVhES0VZNEhvUE9KVzZrcVVmSjNqQXEySWdZeEo4NDAzOExjMW1TX21NQlJqQ2Z1TG5nLTFvYjNKY0V3T0Z3eC13eW1tbVVvUF81RGh5Zy1sVHV6eDBoTExCZVQzNTBQSndjcDJ2YXN5LVhLRDRLTXljdXc?oc=5",
@@ -3731,96 +3821,6 @@
    "title": "Land | Dubai Sports City | AED 80,000,000⁠",
    "text": "   Posting as: Agent  Property type: Commercial Land  Area/community: Dubai Sports City  Building/project: Dubai Sports City  Price: AED 80,000,000  Bedrooms: Land  Size (sq ft): 44497  Status: Ready  Images/video: (optional)  Additional details: 100% commercial development plot. Plot area: 44,497 sq. ft. | Gross Floor Area (GFA): 206,911 sq. ft. Asking price: AED 80,000,000.     &#32; submitted by &#32;   /u/Gold-005       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1x3zisj/land_dubai_sports_city_aed_80000000/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3zhzi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Land | Nad Al Sheba | AED 15,000,000⁠",
-   "text": "   Posting as: Agent  Property type: Land / Plot  Area/community: Nad Al Sheba  Building/project: Nad Al Sheba Gardens  Price: AED 15,000,000  Bedrooms: Land  Size (sq ft): 9800  Status: Ready  Images/video: (optional)  Additional details: Developer: Meraas. Single row residential plot suitable for a mansion or twin villas. Plot area: 9,800 sq. ft. | Permitted Built-Up Area (BUA): 20,014 sq. ft.     &#32; submitted by &#32;   /u/Gold-005       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3zhzi/land_nad_al_sheba_aed_15000000/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3zf0g",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "New launch in DLRC: Kore by Imtiaz, studios from AED 679K, 50/50 or 60/40 3-year post-handover plan",
-   "text": "   I’ve been going through new launches in DLRC and thought the numbers might help anyone researching the area.   Kore by Imtiaz is a wellness-focused building fully intended to provide the best possible wellness amenities, and the handover is due in Q4 2028.        Unit   Start price   Size   AED/sq ft          Studio   679K   406 sq.ft   1,672       1BR   1.10M   669 sq.ft   1,644       2BR   1.55M   1,406 sq.ft   1,102        Starting prices vary by floor, view, and layout. A few things stand out:     The studio and 1BR sit at the top of the DLRC range.   The 2BR is much cheaper per sq ft, ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3zf0g/new_launch_in_dlrc_kore_by_imtiaz_studios_from/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3z95f",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "How does a new real estate broker make it out in the current market?",
-   "text": "   Just for context, I have friends and family who have come into Dubai and they entered the real estate industry.    All I’ve heard from them is that they are cold calling with a moderate level of success. Some say they aren’t getting listings and people aren’t picking up, and some say they have quite a bit of success getting listings and closing a few rental deals.   My questions are:  - Why are some real estate brokers experiences so drastically different from others?  - What determines a brokers success in this industry?  - If I were to enter the industry now, how high is the barrier to en",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3z95f/how_does_a_new_real_estate_broker_make_it_out_in/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3yjci",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Construction costs up 50%. What does this mean for Dubai property prices?",
-   "text": "   Psa: not my thoughts or post. I came across this on another platform and thought I’d share it here.   —————————————————————   I recently listened to an interview on Dubai Eye with a developer who mentioned that, since the recent conflict and ongoing challenges with sourcing materials, total construction costs have risen by as much as 50%.   Initially, much of this additional cost has been absorbed by developers and contractors, but as time goes on, more of it will inevitably be passed on to buyers through higher off-plan launch prices.   You may have noticed I’ve mentioned several times tha",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3yjci/construction_costs_up_50_what_does_this_mean_for/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3ycgb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "💥 A BRAND-NEW STUDIO FOR JUST AED 610,000!",
-   "text": "   🚨  URGENT SALE | SPACIOUS STUDIO IN DLRC, DUBAI!  🏙️   💥  A BRAND-NEW STUDIO FOR JUST AED 610,000!    Looking for an affordable property in Dubai? Here’s an opportunity you don’t want to miss! 🔑   🏡  Property Highlights:   📍  Location:  Dubai Land Residence Complex (DLRC)  📐  Size:  541 sq. ft. Spacious Studio  🏢  Building:  Brand new, just handed over  🔑  Status:  Ready to move in  💰  Selling Price: AED 610,000    ✨  Why consider this property?   ✅ Spacious studio layout  ✅ Brand-new building  ✅ Ready for immediate occupancy  ✅ Ideal for first-time buyers and property investors   🔥  URGENT",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3ycgb/a_brandnew_studio_for_just_aed_610000/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3y73b",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Anyone selling 4 Bedroom TH in Dubai South ?",
-   "text": "   Posting as an agent  I’ve a ready buyer looking 4 bedroom Semi Detached villa  BUA : 3,500 sq.ft  Plot: 4,000 sq.ft  Ready to move  Vacant  Mortgage buyer pre approved  Budget: 4.5 - 4.8M aed    Wants to move in by Month end ready to view     &#32; submitted by &#32;   /u/SnooDoodles4993       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3y73b/anyone_selling_4_bedroom_th_in_dubai_south/",
    "date": "2026-10-12",
    "dateApprox": false,
    "language": "en",
