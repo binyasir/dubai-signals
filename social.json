@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-21T04:54:48Z",
- "newThisRun": 3,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-21T11:55:56Z",
+ "newThisRun": 11,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 7,
-  "reddit": 163,
-  "rss": 80
+  "youtube": 8,
+  "reddit": 157,
+  "rss": 85
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 5,
    "error": null
   },
   {
@@ -58,25 +58,145 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 10,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 13,
+   "items": 26,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 31,
+   "items": 22,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "صفقات بيع العقارات الفاخرة في دبي ترتفع 15.4% خلال أول 9 اشهر من 2026",
+   "text": "ارتفع عدد صفقات بيع العقارات الفاخرة في دبي، والتي بلغت قيمة كل منها 10 ملايين دولار فأكثر، إلى 412 صفقة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa%d9%81/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:56Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%af%d9%8a-%d8%a5%d9%83%d8%b3-%d8%a8%d9%8a-%d8%a7%d9%86%d8%aa%d8%b1%d8%a3%d9%83%d8%aa-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%b9%d9%82/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"دي إكس بي انترأكت\" تتيح تحليل بيانات عقارات دبي عبر \"تشات جي بي تي\" و \"كلود\"",
+   "text": "أعلنت أف إي إم العقارية fäm Properties، المجموعة العقارية التي تتخذ من دبي مقراً لها، إتاحة ربط منصتها الرقمية المتخصصة&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%af%d9%8a-%d8%a5%d9%83%d8%b3-%d8%a8%d9%8a-%d8%a7%d9%86%d8%aa%d8%b1%d8%a3%d9%83%d8%aa-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d8%ad%d9%84%d9%8a%d9%84-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%b9%d9%82/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:56Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-12382%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%b9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-2/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إنجاز 12,382وحدة سكنية في دبي بالربع الثالث 2026 بنمو 31%",
+   "text": "شهد المعروض السكني الجديد في دبي زيادة في الوحدات العقارية المكتملة، مع إنجاز 12,382 وحدة سكنية جديدة خلال الربع الثالث&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-12382%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%b9-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-2/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:56Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTFsR0hvODZ0NzJXaXhDZy1BRnN3eXhNQ2FNS2hXM2FxV0lxekVsUU5rTERhdUhfN3hhcWlSNjR3TWp2M1Bub3MyTWhqcWRtOUN6MVAwOTVRT1l4MlF1VW5HZW5lNEE1ZG9ZajNVSXh0Z0YwS1JORlF3WXlQVjlJM2VRRUpqeFNsTGRhY1RsMkRKaFRVc0hpeFFoNmNmZ2dwYm9QaWt2Slo5UzQ1RG5oRWdCM1RIQXRTQzI3T0h3?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Adil Faridi: Turning uncertainty into opportunity in Dubai's real estate market - Gulf News",
+   "text": " Adil Faridi: Turning uncertainty into opportunity in Dubai's real estate market &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeTFsR0hvODZ0NzJXaXhDZy1BRnN3eXhNQ2FNS2hXM2FxV0lxekVsUU5rTERhdUhfN3hhcWlSNjR3TWp2M1Bub3MyTWhqcWRtOUN6MVAwOTVRT1l4MlF1VW5HZW5lNEE1ZG9ZajNVSXh0Z0YwS1JORlF3WXlQVjlJM2VRRUpqeFNsTGRhY1RsMkRKaFRVc0hpeFFoNmNmZ2dwYm9QaWt2Slo5UzQ1RG5oRWdCM1RIQXRTQzI3T0h3?oc=5",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:56Z"
+  },
+  {
+   "id": "rd:t3_1xbj8ra",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dubai Rental Early Termination – Landlord Refusing NOC to Remove Furniture Unless Penalty Is Paid First. Is This Legal?",
+   "text": "   Hi everyone, looking for some advice regarding early termination of our rental contract in Dubai.   We need to downsize, so we informed our landlord 3 months in advance, as required. They agreed to the early termination but advised that we need to pay a 2-month rental penalty, which we accepted since it&#39;s stated in our contract.   We&#39;re planning to move out at the end of this month, but I need to start selling some furniture beforehand because not everything will fit in our new apartment.   The problem is that the landlord is now refusing to issue an NOC to allow the furniture to le",
+   "url": "https://www.reddit.com/r/dubai/comments/1xbj8ra/dubai_rental_early_termination_landlord_refusing/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:21Z"
+  },
+  {
+   "id": "rd:t3_1xbhac5",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Apartment smelling and feeling sick",
+   "text": "   Hi guys,   I signed a lease for an apartment in a rush ( I know it’s my fault) but I basically moved in was told there was leaking from the upstairs tenant and now it’s fixed.   When I moved in I took videos of the paint being peeled and wall hasn’t been fixed and the smell is insanely strong like something wet and rotting.   They just painted over it but the smell of mildew was still there and the paint peeled over again in the same spots. it’s been three weeks now and I just feel so tired and my throat and sinuses feel ruff.   I raised concerned with the landlord and maintenance it could ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xbhac5/apartment_smelling_and_feeling_sick/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:21Z"
+  },
+  {
+   "id": "rd:t3_1xbfdji",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Anyone successfully liquidated a Dubai mainland company while living abroad? Looking for genuine experiences.",
+   "text": "   I’m looking to liquidate a dormant Dubai mainland LLC. The company has no employees, outstanding debts, or ongoing business activities, and its trade licence is still valid.   I currently live outside the UAE, although I have a valid Golden Visa and Emirates ID. I’ve been contacting several liquidation providers, including established accounting firms and business setup consultancies. Unfortunately, communication has been disappointing. Some are slow to respond even after issuing formal quotations and requesting documents.   I’d really appreciate hearing from people who have  personally com",
+   "url": "https://www.reddit.com/r/dubai/comments/1xbfdji/anyone_successfully_liquidated_a_dubai_mainland/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:21Z"
+  },
+  {
+   "id": "yt:LVPLntV29QQ",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Four Bedroom Villa | Large Private Garden | The Nest, Al Barari",
+   "text": "Presented by Allsopp & Allsopp, this beautifully maintained four-bedroom villa is set on a private 16,265 sq. ft. plot in The Nest, Al Barari.\n\nOffering 7,463 sq. ft. of built-up area, the property features four en-suite bedrooms, a study that can be used as a fifth bedroom, spacious living areas, and a fully fitted kitchen. The living spaces open onto an outdoor terrace and a large landscaped garden, creating an ideal setting for family living and entertaining.\n\nThe villa also benefits from maid’s and driver’s rooms, a separate outbuilding with potential for a cinema, gym or games room, and a",
+   "url": "https://www.youtube.com/watch?v=LVPLntV29QQ",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "18 views",
+   "firstSeenAt": "2026-10-21T11:55:20Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE12OTF4Zkx1Y2psT1paVnozd0ZCZTdhaGVhTXZuTEh5NXM4c3UtaEpnMXVVdEc0MmlMU1NyQi1oMWVpVWJlS0NGWkRZVThNdkhfaWxJYjRRMlducVE3cTNpX1A0NWFoZV9KekE?oc=5",
    "platform": "RSS",
@@ -991,6 +1111,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-19T04:46:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NPSlBLeVpkbGllMjNvOHNSQnpMb1g2NlFzTUZweHZka1p2TW1QUVhES0VZNEhvUE9KVzZrcVVmSjNqQXEySWdZeEo4NDAzOExjMW1TX21NQlJqQ2Z1TG5nLTFvYjNKY0V3T0Z3eC13eW1tbVVvUF81RGh5Zy1sVHV6eDBoTExCZVQzNTBQSndjcDJ2YXN5LVhLRDRLTXljdXc?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai's real estate investments hit $185bn in 2025, says report - TradeArabia",
+   "text": " Dubai's real estate investments hit $185bn in 2025, says report &nbsp;&nbsp; TradeArabia ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NPSlBLeVpkbGllMjNvOHNSQnpMb1g2NlFzTUZweHZka1p2TW1QUVhES0VZNEhvUE9KVzZrcVVmSjNqQXEySWdZeEo4NDAzOExjMW1TX21NQlJqQ2Z1TG5nLTFvYjNKY0V3T0Z3eC13eW1tbVVvUF81RGh5Zy1sVHV6eDBoTExCZVQzNTBQSndjcDJ2YXN5LVhLRDRLTXljdXc?oc=5",
+   "date": "2026-10-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-21T11:55:56Z"
   },
   {
    "id": "rd:t3_1x8y7w7",
@@ -3691,141 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3y70a",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "3BR Apartment | Dubai Marina | AED 10,900,000 — Six Senses Residences, world’s tallest residential tower, 3BR sold out with developer, resale only",
-   "text": "   Posting as: Agent  Property type: Apartment  Area/community: Dubai Marina  Building/project: Six Senses Residences Dubai Marina by Select Group  Price: AED 10,900,000 (Negotiable)  Bedrooms: 3  Size (sq ft): 3,409  Status: Off-plan (handover 2029)  Additional details:   THE TOWER  122 floors, 517m. Tallest residential building in the world on completion  251 branded residences, Six Senses managed  61,250 sqft of wellness amenities over 4 levels, 25m lap pool on the 109th floor  Dedicated residence manager, 24/7 concierge, valet, Six Senses services   THE UNIT  Every bedroom en-suite + guest",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3y70a/3br_apartment_dubai_marina_aed_10900000_six/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3wmxz",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Do you have a vacant property in Dubai?",
-   "text": "   Good afternoon Everyone,    We are increasing our portfolio, currently we are managing units all over Dubai for short term.    Are you an owner with a property sat vacant right now? How would you like to earn some money on the short term? With just 30 days notice to cancel with us, you can still look for that buyer or long term tenant while your investment is actually making you money!    Let me know if you are interested to know just how much you could make.      &#32; submitted by &#32;   /u/Mariexx28       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3wmxz/do_you_have_a_vacant_property_in_dubai/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3w0lz",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Real talk on UAE Mortgages in 2026: Valuation gaps, FEMA rules for Indian expats, and why buyouts are quietly booming right now",
-   "text": "   Hey everyone,   I’ve been working on the banking and mortgage advisory side in the UAE for a while now. Given how much noise (and outright misinformation) there is regarding home loans here, I wanted to drop a candid, non-salesy breakdown of what’s actually happening on the ground right now.   Whether you’re buying off-plan, trying to refinance, or navigating non-resident buying, here are a few key realities:   1.Valuation Gap Strategy (And why your first low valuation isn&#39;t the end of the road)   We’re seeing a classic trend in today&#39;s market: bank valuers are playing it conservati",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3w0lz/real_talk_on_uae_mortgages_in_2026_valuation_gaps/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3vols",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking 2 bed Villa in Springs",
-   "text": "   I am looking for a 2-bedroom villa in &quot;The Springs&quot; for a mortgage buyer; the budget is up to 2.3M. DM if you have any options.     &#32; submitted by &#32;   /u/Physical_Parsnip_426       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3vols/looking_2_bed_villa_in_springs/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3vnwp",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1 BR | Binghatti AZURE | AED 1,100,000",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: JVC   Building/project: Binghatti Azure   Price: AED 1.1m AED   Bedrooms: 1   Bathroom : 2   Size (sq ft): 746   Floor: 10+   Status: Ready   Additional details : Client is looking for market price offers, price slightly negotiable    Images/video: Available   For viewing and details DM     &#32; submitted by &#32;   /u/Formal_Estimate6457       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3vnwp/1_br_binghatti_azure_aed_1100000/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3vjqg",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "APARTMENT | DLRC DUBAI | 3XSTUDIOS 1X1BRApartments | AED 1,850,000.",
-   "text": "   🔥 *IZEL BY ZOYA — CASH DEALS*   *4 Units | Total SP: AED 1.85M*   * Studio | 390 SQ.FT.   OP AED 699K → *SP AED 400K*   🔥 *42.8% BELOW OP*   * Studio | 391 SQ.FT.   OP AED 701K → *SP AED 400K*   🔥 *42.9% BELOW OP*   * Studio | 390 SQ.FT.   OP AED 698K → *SP AED 400K*   🔥 *42.7% BELOW OP*   * 1BR | 799 SQ.FT.   OP AED 1.147M → *SP AED 650K*   🔥 *43.3% BELOW OP*   💥 *TOTAL OP: AED 3.245M*   💰 *TOTAL SP: AED 1.85M*   ━━━━━━━━━━━━━━   📍 *JVC — MAISON ELYSEE 2*   Studio | 399 SQ.FT.   AED 733K → *AED 620K*   🔥 *15.4% BELOW OP*   📍 *DOWNTOWN — 25HOURS HEIMAT*   2BR | 1,629 SQ.FT.   AED 4.409M → *",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3vjqg/apartment_dlrc_dubai_3xstudios_1x1brapartments/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3vir3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "🏡 Looking : READY-TO-MOVE 4BR TOWNHOUSE IN DAMAC LAGOONS",
-   "text": "   Hi everyone!   I’m looking for a  ready-to-move 4-bedroom townhouse in DAMAC Lagoons, Dubai , for a serious end-user client.   📍  Locatio n: DAMAC Lagoons, Dubai  🏠  Propert y: 4-Bedroom Townhouse  🔑  Statu s: Ready to Move  💰  Budge t: AED 2.6M–2.65M  🏦  Mortgag e: Approved with ADIB   If you have a suitable property available, please DM me     &#32; submitted by &#32;   /u/Own_Western56       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3vir3/looking_readytomove_4br_townhouse_in_damac_lagoons/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x3vdt9",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Buying a 1/2-Bedroom Apartment in Dubai: Buy Now or Wait 6 Months?",
-   "text": "   I’m considering buying(myself living)a 1/2-bedroom apartment in Dubai and would appreciate some advice from people familiar with the market.   - Uptown Motor City (2009 buildings) 1-bedroom: Some owners are asking around AED 1 million, with a few willing to accept AED 950K. Is it worth waiting another six months for prices to adjust?   - Green Diamond 1, Arjan: Also 2-bedroom apartments in the AED 950K–1M range.   - JVT: Interested in developments similar to La Residence, should I even consider?   I was also considering Remraam, but recent events have changed my plans.   Would you recommend",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x3vdt9/buying_a_12bedroom_apartment_in_dubai_buy_now_or/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:45:04Z"
-  },
-  {
-   "id": "rd:t3_1x49a75",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Can anyone explain me plz .",
-   "text": "                 As much as I remember . I did not committed any type of violation mentioned here . Secondly can I dispute and how can I dispute it . The car was belonging to rent a car . Now i have to pay them 400 and additionally 100 dhs as admin fee .      &#32; submitted by &#32;   /u/Real-Coyote5301       [link]   &#32;   [comments]      ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x49a75/can_anyone_explain_me_plz/",
-   "date": "2026-10-12",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T00:44:53Z"
   }
  ]
 }
