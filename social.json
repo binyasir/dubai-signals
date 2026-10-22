@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-22T17:14:30Z",
- "newThisRun": 41,
+ "generatedAt": "2026-10-22T21:40:17Z",
+ "newThisRun": 11,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 186,
-  "rss": 57
+  "reddit": 190,
+  "rss": 53
  },
  "sources": [
   {
@@ -36,20 +36,20 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 33,
-   "error": null
-  },
-  {
-   "source": "r/UAE",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
+  },
+  {
+   "source": "r/UAE",
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,145 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 26,
+   "items": 8,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 24,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d9%84-%d8%a5%d9%85-%d8%af%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86-%d8%b1%d9%88%d9%83%d9%81%d9%84%d8%b1-%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إل إم دي» تطلق مشروع برج «كريستيان روكفلر»  للمكاتب بارتفاع 400 متر في دبي",
+   "text": "أطلقت شركة «إل إم دي» LMD للتطوير العقاري مشروع برج كريستيان أ. روكفلر التجاري Christian A. Rockefeller Business Tower على&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a5%d9%84-%d8%a5%d9%85-%d8%af%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86-%d8%b1%d9%88%d9%83%d9%81%d9%84%d8%b1-%d8%a7/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:40:16Z"
+  },
+  {
+   "id": "rd:t3_1xcs0fi",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Looking for a genuine opportunity in the UAE for my husband : Development Management/ Project Management / Real Estate /Design Manager",
+   "text": "   Hi everyone,  I’m posting this with the hope that someone here might be able to point my husband in the right direction or help him connect with the right people.  My husband is an architect with an MBA in Construction Project Management and over 7 years of experience across architecture, real estate transactions, portfolio strategy, and development and project delivery in India.  He has worked with reputed organisations and most recently held a leadership role in design development and projects, where he worked on development projects, coordinated consultants and contractors, and managed c",
+   "url": "https://www.reddit.com/r/UAE/comments/1xcs0fi/looking_for_a_genuine_opportunity_in_the_uae_for/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:40:04Z"
+  },
+  {
+   "id": "rd:t3_1xcqltl",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Golden Visa approved with basic salary <30k",
+   "text": "   I have applied myself through  https://gdrfad.gov.ae/en   Amer center insisted I need 30k basic salary (my total compensation is above 30k. ) and that request will be rejected. In this case I would lose 800aed if applied via Amer. I decided to do it myself so in case it is rejected, I will get full refund. I applied via specialist application, my position in visa is manager. With the same company &gt;2 years.   What I submitted:  Passport photo  NOC  Salary certificate in Arabic (English version was not accepted)  University diploma (verified via dataflow and then MOHRE) equivalency certifi",
+   "url": "https://www.reddit.com/r/UAE/comments/1xcqltl/golden_visa_approved_with_basic_salary_30k/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:40:04Z"
+  },
+  {
+   "id": "rd:t3_1xcpc3k",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Visa query",
+   "text": "   My sibling has UAE Golden visa from Fujairah and their visa will expire in December 2026. They are now in India and does not want to renew that visa, since they are working there. My parents are sponsored visa under my sibling and it will expire in February 2027.    My question is what will happen if my sibling&#39;s visa is not renewed in December 2026, will it affect my parents visa immediately?     &#32; submitted by &#32;   /u/PlayMountain2851       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xcpc3k/visa_query/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:40:04Z"
+  },
+  {
+   "id": "rd:t3_1xcn2gj",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Looking to rent parking spot in Dubai",
+   "text": "   Hi guys, anyone have a spare parking spot in their building I can rent? Maximum I will pay is 300AED per month.      &#32; submitted by &#32;   /u/Expert-Step-7126       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xcn2gj/looking_to_rent_parking_spot_in_dubai/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:40:04Z"
+  },
+  {
+   "id": "rd:t3_1xcj0yn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "how do you thing of the rest of the year, business, tourism etc",
+   "text": "   Hello   thoughts on this:  https://gulfnews.com/world/mena/us-israel-plan-72-hour-iran-assault-7-key-questions-on-trump-s-strategy-and-tehran-s-response-1.500719626    and the coming months?   In terms of your job, tourism related businesses, real estate.   How has it affected your life so far, and how will it effect you voer the next six months.   My small business is down, and has been very much down since after 28 feb. small business in retail.   curious to hear about other small business owners, in all kind of sectors look at the next six months.     &#32; submitted by &#32;   /u/Razzma",
+   "url": "https://www.reddit.com/r/UAE/comments/1xcj0yn/how_do_you_thing_of_the_rest_of_the_year_business/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:40:04Z"
+  },
+  {
+   "id": "rd:t3_1xcurgw",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dubai to Musandam Road Trip",
+   "text": "   My friend and I are planning to do a road trip to Khasab, Musandam. Given that the car is under their father’s name and it’s mortgage free, what are the requirements to cross the border with the car?    A.I says that the NOC needs to be notarized and all of that, can anyone confirm if this is now the most recent procedure please?   Many thanks!     &#32; submitted by &#32;   /u/brnrfornow       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xcurgw/dubai_to_musandam_road_trip/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:39:42Z"
+  },
+  {
+   "id": "rd:t3_1xcp2zf",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Has anyone tried careem car rental?",
+   "text": "   Hey guys, i’ve never rented a car before and i wanted to know if careem’s car rental is trustworthy? I’ve heard a lot about hidden fees drama etc, but i’m not sure.     &#32; submitted by &#32;   /u/cuppycake-301       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xcp2zf/has_anyone_tried_careem_car_rental/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T21:39:42Z"
+  },
   {
    "id": "rd:t3_1xco1nx",
    "platform": "Reddit",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-15T17:04:48Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a8%d8%b4%d8%b1%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"الدار\" تدخل سوق الشارقة العقاري بشراء 1,100 وحدة في مشروع \"الجادة\" من \"أراد\"",
-   "text": "أبرمت مجموعة الدار، ومقرها أبوظبي، اتفاقية شراء مسبق مع شركة أراد Arada ، ومقرها الشارقة، بقيمة 299.5 مليون دولار (1.1&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a8%d8%b4%d8%b1%d8%a7/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b9%d8%af%d8%af-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%ac%d8%af%d8%af-%d9%81%d9%8a-%d8%b9%d9%82/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "عدد استثمارات غير المقيمين الجدد في عقارات دبي يرتفع 42% في 2025",
-   "text": "سجل المستثمرون الجدد غير المقيمين نحو 78 ألف استثمار في العقارات الجاهزة وعلى الخريطة في دبي خلال عام 2025، مقابل&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%b9%d8%af%d8%af-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d8%ac%d8%af%d8%af-%d9%81%d9%8a-%d8%b9%d9%82/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d9%86-%d9%87%d9%85-%d8%a3%d8%a8%d8%b1%d8%b2-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "من هم أبرز المستثمرين في عقارات دبي خلال 2025؟",
-   "text": "تنوّعت جنسيات المستثمرين في عقارات دبي خلال عام 2025، وتصدّرت جنوب آسيا مناطق منشئهم الجغرافية من حيث عدد المستثمرين وقيمة&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d9%86-%d9%87%d9%85-%d8%a3%d8%a8%d8%b1%d8%b2-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:13Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMimwJBVV95cUxNbm1DbUVjT0dHM3NNcThwU0Nmd2pUWXhlMW5BbHV3MzJjNkxBVExESVpnMGRrb2NFVlE2WW9JbHBkT1hXYWlocmhZTkk1NGg0NmJNOUtOLU43aUp3U3Fjb2dWNUdYUHBMMm14dXQ0bkJUZXRWTklHanFOUUpvQWM5NzhyWmFVdjhjYWFZS3NHaUpybnJSaDVEQ0g0bUFJMlIwSDVHNkduU2RwYXIzYjlxUjJQWU95WFkzWGRPZUJpbW9Bb1g4ZTNVN011aDNNdkpLaXZTUUF1M0F6Q3pxNnVPdVk4ZzYzeDRhWUNWbEc0eVRCd2hBYjJ5aDQ5Z0xQb2NRS19aU2IwOVJDWDZrX2VPRkVSbWgyRndqXzU0?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Belgium seizes just €50,000 from drug trafficker who made millions in Dubai property sales - The Brussels Times",
-   "text": " Belgium seizes just €50,000 from drug trafficker who made millions in Dubai property sales &nbsp;&nbsp; The Brussels Times ",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbm1DbUVjT0dHM3NNcThwU0Nmd2pUWXhlMW5BbHV3MzJjNkxBVExESVpnMGRrb2NFVlE2WW9JbHBkT1hXYWlocmhZTkk1NGg0NmJNOUtOLU43aUp3U3Fjb2dWNUdYUHBMMm14dXQ0bkJUZXRWTklHanFOUUpvQWM5NzhyWmFVdjhjYWFZS3NHaUpybnJSaDVEQ0g0bUFJMlIwSDVHNkduU2RwYXIzYjlxUjJQWU95WFkzWGRPZUJpbW9Bb1g4ZTNVN011aDNNdkpLaXZTUUF1M0F6Q3pxNnVPdVk4ZzYzeDRhWUNWbEc0eVRCd2hBYjJ5aDQ5Z0xQb2NRS19aU2IwOVJDWDZrX2VPRkVSbWgyRndqXzU0?oc=5",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:13Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMilwJBVV95cUxOcFBDb0pId1E0U3czX0pPTVdVQXFIdVI0SlA0c1FiYWkyYXpnRE9SUkNqU0x4dks1RDV1SDNqTFNLX2VtUUplNThaWS1DMURabWZ4WFpiaTBaaFJYY1Z3UEFBRGtsLVA3NUFSdE9MR0ZLVXR5bnJXcDBCc2ZwT2lkaE9sZUJrbUxWZGgwdWQwalNrdjB6dVZ1M0lkOHh3WU93X3ZTSEowazBNbGl5UGdlNjdpUDhkOE8wVS05UE1UNXNDYmRXclUxX0dlSjlTZDlfeVRQLUhJdTRtOEY3MExwU19rN0tla1NtU2FqOFFBZTNfdTViaTNUc1BYbHlZNE9jaWh1akVFdFZES2hoNG84TFFlcTRSSms?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "With an annual increase of 38.9%.. Asian and European investments in Dubai real estate jump to AED 496 billion in 2025 - صوت الإمارات",
-   "text": " With an annual increase of 38.9%.. Asian and European investments in Dubai real estate jump to AED 496 billion in 2025 &nbsp;&nbsp; صوت الإمارات ",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcFBDb0pId1E0U3czX0pPTVdVQXFIdVI0SlA0c1FiYWkyYXpnRE9SUkNqU0x4dks1RDV1SDNqTFNLX2VtUUplNThaWS1DMURabWZ4WFpiaTBaaFJYY1Z3UEFBRGtsLVA3NUFSdE9MR0ZLVXR5bnJXcDBCc2ZwT2lkaE9sZUJrbUxWZGgwdWQwalNrdjB6dVZ1M0lkOHh3WU93X3ZTSEowazBNbGl5UGdlNjdpUDhkOE8wVS05UE1UNXNDYmRXclUxX0dlSjlTZDlfeVRQLUhJdTRtOEY3MExwU19rN0tla1NtU2FqOFFBZTNfdTViaTNUc1BYbHlZNE9jaWh1akVFdFZES2hoNG84TFFlcTRSSms?oc=5",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:13Z"
-  },
-  {
-   "id": "rd:t3_1x6gtp6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Rent renewal fees (Dubai)",
-   "text": "   Hello!  Our building changed management company few months ago  It’s less than 2 months to renewal now , and they send renewal offer    There is 784 AED fee there on top of standard 200 ejari. As it’s not enough , they even charge 150 on top of each Cheque -474 AED Cheque fee (wat?). Over 1500 in fees is unreasonable    Rera agent on the chat told me they can’t give any answer - go to lawyers . I can’t find any actual law saying these practices are illegal.   One more thing : our rent amount is very reasonable for the area, and we do not want to move    Any experience disputing renewal fees",
-   "url": "https://www.reddit.com/r/UAE/comments/1x6gtp6/rent_renewal_fees_dubai/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:00Z"
-  },
-  {
-   "id": "rd:t3_1x6f7j7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "For those living and working in the Middle East, what does your long-term plan look like?",
-   "text": "                 I’m genuinely curious to hear different perspectives from people at different stages of their careers and financial journeys.   For example, people earning around    1) AED 30K–50K+ per month  2) AED 15K–25K,  3) AED 5K–10K,  4) below AED 5K.   When you first came to the Middle East, what were your goals, and how have they changed over time?   Are you planning to build a business, invest, buy property, achieve financial independence, settle back in your home country someday, or explore opportunities elsewhere? Or do you see yourself living here for the long term?   I’d especia",
-   "url": "https://www.reddit.com/r/UAE/comments/1x6f7j7/for_those_living_and_working_in_the_middle_east/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:35:00Z"
-  },
-  {
-   "id": "rd:t3_1x6hss4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Emaar South or Damac 2?",
-   "text": "   Can anyone tell me what it&#39;s like to live in either community? We are in the process of looking for a home to rent and like the idea of a quieter community away from the hustle and bustle, but also somewhere with a vibrant local community.    We are a couple with a dog and no kids for context.      &#32; submitted by &#32;   /u/vicram_yoga       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x6hss4/emaar_south_or_damac_2/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T11:34:48Z"
   }
  ]
 }
