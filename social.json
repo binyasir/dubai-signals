@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-22T04:54:45Z",
- "newThisRun": 2,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-22T11:58:41Z",
+ "newThisRun": 11,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 8,
-  "reddit": 161,
-  "rss": 81
+  "youtube": 9,
+  "reddit": 162,
+  "rss": 79
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 6,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,131 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 21,
+   "items": 29,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3pfajZCYWJPR1pRQk1obktvZUtZZklJbERNVWxzQnFDSjJyQ3E4VFlkVHdlT2JQalh3eUtweE1YbzdsWGp5empQeTRKM1RJLWVkR0lfWFZwZV9Ea3owczJzNlJWRERzbkw5dnNlU3QzRGdvOUFIMnYxUlVNZFNXR2l0NWlyWjh2eWtGbUtOU0ZyOEtXME1zMWxiZEVKdFFrSmgtWm9fcHd2eXExVW9jbkFSZFVTcDhCaGhMLXVJakdidzFJM0NhVWVYVGs3bUljWGxTNmZ6eGFJSXducFFiZjdOMDZUUDFkSFN0YVlVd3ZoVUgyTzZMcTBPbzZrMGpxU01nSlEwZDdsa1lvNVJqSnNLZTlpWnJEZUl0VHVfOFlrMC1aWUlkWHVIWHh2MUJJSHhDMUtBbkdXRTRRcl9zSno0UVJVc3VoajA4c3NNVmE3T3R1ZmRyWTc1V3V4MU9aT2RFZmFsanJyc0h2dm1ieHlXNXZvZGs?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "عقارات دبي: مبيعات بـ92.9 مليار والإيجارات تترقب رقما قياسيا - أريبيان بزنس",
+   "text": " عقارات دبي: مبيعات بـ92.9 مليار والإيجارات تترقب رقما قياسيا &nbsp;&nbsp; أريبيان بزنس ",
+   "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQb3pfajZCYWJPR1pRQk1obktvZUtZZklJbERNVWxzQnFDSjJyQ3E4VFlkVHdlT2JQalh3eUtweE1YbzdsWGp5empQeTRKM1RJLWVkR0lfWFZwZV9Ea3owczJzNlJWRERzbkw5dnNlU3QzRGdvOUFIMnYxUlVNZFNXR2l0NWlyWjh2eWtGbUtOU0ZyOEtXME1zMWxiZEVKdFFrSmgtWm9fcHd2eXExVW9jbkFSZFVTcDhCaGhMLXVJakdidzFJM0NhVWVYVGs3bUljWGxTNmZ6eGFJSXducFFiZjdOMDZUUDFkSFN0YVlVd3ZoVUgyTzZMcTBPbzZrMGpxU01nSlEwZDdsa1lvNVJqSnNLZTlpWnJEZUl0VHVfOFlrMC1aWUlkWHVIWHh2MUJJSHhDMUtBbkdXRTRRcl9zSno0UVJVc3VoajA4c3NNVmE3T3R1ZmRyWTc1V3V4MU9aT2RFZmFsanJyc0h2dm1ieHlXNXZvZGs?oc=5",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:41Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d9%86%d8%ac%d8%b2-399-%d9%87%d9%8a%d9%84%d8%b2-%d8%a8%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d9%85%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"الوطنية العقارية\" تنجز \"399 هيلز بارك\" في منطقة \"دبي هيلز استيت\"",
+   "text": "أعلنت الوطنية العقارية National Properties، الذراع العقارية لشركة الصكوك الوطنية المتخصصة في الادخار والاستثمار المتوافق مع أحكام الشريعة الإسلامية، إنجاز&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d9%86%d8%ac%d8%b2-399-%d9%87%d9%8a%d9%84%d8%b2-%d8%a8%d8%a7%d8%b1%d9%83-%d9%81%d9%8a-%d9%85%d9%86/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:40Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%86%d8%ac%d8%b2-33-%d8%a3%d9%84%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "شركات التطوير العقاري في دبي تنجز 33 ألف وحدة من أصل 108 آلاف مجدولة للتسليم في 2026",
+   "text": "أنجزت شركات التطوير العقاري في دبي نحو 33.3 ألف وحدة سكنية خلال الأشهر التسعة الأولى من عام 2026، بما يعادل&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%86%d8%ac%d8%b2-33-%d8%a3%d9%84%d9%81/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:40Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d9%8a%d9%86-%d8%a7%d8%b1%d8%aa%d9%81%d8%b9%d8%aa-%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أين ارتفعت الإيجارات السكنية في دبي خلال الربع الثالث 2026؟",
+   "text": "سجل عدد من مناطق دبي ارتفاعاً في الإيجارات السكنية خلال الربع الثالث من 2026، بقيادة جزر جميرا التي ارتفعت فيها&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d9%8a%d9%86-%d8%a7%d8%b1%d8%aa%d9%81%d8%b9%d8%aa-%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:40Z"
+  },
+  {
+   "id": "rd:t3_1xcenrs",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Landlord pays chiller per contract — building switched to Tasleem usage-based billing. Who pays now?",
+   "text": "   My building in Downtown is one of the ones moving to Tasleem for chilled water billing (effective Jan 2026). Looking for opinions from anyone who’s dealt with this.   Contract: the signed addendum says:    “Emaar service and chiller charges will be borne by the Landlord. DEWA, all utilities, telephone and internet charges, including any connection fees / deposit will be borne by the Tenant.”    What changed: Tasleem now bills chilled water separately, metered per unit. Per Emaar’s FAQ, cooling is no longer included in the service charges, and the old chiller deposit gets credited back to th",
+   "url": "https://www.reddit.com/r/dubai/comments/1xcenrs/landlord_pays_chiller_per_contract_building/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:05Z"
+  },
+  {
+   "id": "rd:t3_1xcakx3",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Careem Bike allowed for Dubai Ride 2026",
+   "text": "   As the title says, planning for Dubai Ride but don&#39;t have a bike. Are careem bikes allowed? If not, can someone give me a good rental shop in Dubai?     &#32; submitted by &#32;   /u/Antique-Indication       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xcakx3/careem_bike_allowed_for_dubai_ride_2026/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:05Z"
+  },
+  {
+   "id": "rd:t3_1xca67y",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Burned out and running out of money in Dubai. Do I take a tactical retreat to Bangalore or stay?",
+   "text": "   Hey everyone, I’m a female expat in a tough spot and need some objective advice.   I lost my job a while back but was making about 10k AED/month doing online freelance work. However, for the past 1.5 months, I’ve hit a massive emotional slump and burnout. I haven’t been able to earn anything recently.   My current situation:   Savings left: 6,000 AED in the bank.   Rent: Paid until the 12th of next month.   Deposit: If I give a 20-day notice right now, I get my 1,000 AED deposit back.   I am torn between two choices:   Option 1: Go to Bangalore, India for a few months to reset.  Financially",
+   "url": "https://www.reddit.com/r/dubai/comments/1xca67y/burned_out_and_running_out_of_money_in_dubai_do_i/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T11:58:05Z"
+  },
+  {
+   "id": "yt:4xrOUq1VFj8",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Six Bedroom Villa for Sale in The Fairway, Dubai Hills Estate.",
+   "text": "Exceptional Six-Bedroom Residence | The Fairway, Dubai Hills Estate\n\nOccupying a prime position within Dubai Hills Estate, this exceptional villa combines generous proportions, privacy and sophisticated family living.\n\nSet on an 11,000 sq. ft. plot, with 10,149 sq. ft. of built-up accommodation including balconies, the residence offers six spacious bedrooms, expansive living areas, a study and a private lift.\n\nFinished to an exceptional standard, the property features distinctive Italian marble, specially sourced and imported from Italy.\n\nA substantial basement provides entertaining space, inc",
+   "url": "https://www.youtube.com/watch?v=4xrOUq1VFj8",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "61 views",
+   "firstSeenAt": "2026-10-22T11:58:03Z"
+  },
   {
    "id": "rd:t3_1xc4zgk",
    "platform": "Reddit",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-13T22:48:27Z"
-  },
-  {
-   "id": "rd:t3_1x4xw3o",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Unbearable cooking smell from other flat",
-   "text": "   As title says.. I live in an apartment with my family, for the past few days.. we got a verh strong.cooking smell, something like beef curry or masala or something like that.. at night!! While we already asleep!    We woke up because smell is with chili or pepper, make us cough too. It last for about 1 hour.    The problem.is maintenance did check but can not find the issue. What to do here? We can not sleep because of this..      &#32; submitted by &#32;   /u/eh-kodok       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x4xw3o/unbearable_cooking_smell_from_other_flat/",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T22:48:27Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiygFBVV95cUxQejdIZVV1cWVLbFdMNVVwRTlSTHllaldTU2xIU0Z0ME9zd1l4TnVPb3ZJZDkzU1FFZS00SWc3RHE4cXFlYk42SGd5czNOdmNLT2FKRHBVWlVneGNfMTRQNXZOUURsRkx1ZzJ6SW9TZTVWTWpPT3h5em5ZWWh4MmxySkljeWY1RlhHYVBiNjBnWjBrcmsxTzYzajJBLXNIeFNIbWxhUE0zZTdYNzdOZV9fYzJUcWFBNjE5Qlp1YVROX0piRE5veUN0N2tn?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property market shifts as ready-home sales rise and buyers become more selective - Arabian Business",
-   "text": " Dubai property market shifts as ready-home sales rise and buyers become more selective &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejdIZVV1cWVLbFdMNVVwRTlSTHllaldTU2xIU0Z0ME9zd1l4TnVPb3ZJZDkzU1FFZS00SWc3RHE4cXFlYk42SGd5czNOdmNLT2FKRHBVWlVneGNfMTRQNXZOUURsRkx1ZzJ6SW9TZTVWTWpPT3h5em5ZWWh4MmxySkljeWY1RlhHYVBiNjBnWjBrcmsxTzYzajJBLXNIeFNIbWxhUE0zZTdYNzdOZV9fYzJUcWFBNjE5Qlp1YVROX0piRE5veUN0N2tn?oc=5",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:15Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMigAJBVV95cUxOc05UOFF0T1JRMV9kMGlTNGZQM2JMeEJWdVVMQlBVbWlKaG5pYVRGWUpVdVVKUTVmOTF0UGhPWWxuYklmbTJsUUtHQzVvTlZNUzFVTGpWLXRNbEF0S3VCNVNEWnpHZjFpa0ZkQjV1c2ZNMGdXeGZrcGJmTHFYSjhBYjBBYlRqbC1qQnNNazdfSW5lS2EyejZXOUdCM3dINnA2TFhJYkpMTmxzbzVFZnM5MWt0T1VxRWNBcXpRVnNWOGdjb3NpYS1sZzVfX2Rpd1NfM1kwaGlfZXB1STBXR0RRemZhNFFkM01ReFhqejVpeEgyMGQ2OVNaR3luZXNrX2xJ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "61.4% sales percentage.. Dubai real estate transactions amounted to AED 4.69 billion over the weekend - صوت الإمارات",
-   "text": " 61.4% sales percentage.. Dubai real estate transactions amounted to AED 4.69 billion over the weekend &nbsp;&nbsp; صوت الإمارات ",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc05UOFF0T1JRMV9kMGlTNGZQM2JMeEJWdVVMQlBVbWlKaG5pYVRGWUpVdVVKUTVmOTF0UGhPWWxuYklmbTJsUUtHQzVvTlZNUzFVTGpWLXRNbEF0S3VCNVNEWnpHZjFpa0ZkQjV1c2ZNMGdXeGZrcGJmTHFYSjhBYjBBYlRqbC1qQnNNazdfSW5lS2EyejZXOUdCM3dINnA2TFhJYkpMTmxzbzVFZnM5MWt0T1VxRWNBcXpRVnNWOGdjb3NpYS1sZzVfX2Rpd1NfM1kwaGlfZXB1STBXR0RRemZhNFFkM01ReFhqejVpeEgyMGQ2OVNaR3luZXNrX2xJ?oc=5",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:15Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMifEFVX3lxTE5RZEQ3WDdGZEhUT1lpNnRmaVRid0ZOeHNsbm9HbGpXTjA0NlYzVDM2YTBLUWR1T1IzSGt1Y2lqRjdodU1lRVk3UXFBTEF2dlJZWU92WkU5NUlrUTAxMmUzZlNkdDl1MGRVRlNTZENUQ2Z4RmhoY1N4a1NBTTA?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property boom: How AED150b+ mega infrastructure projects are set to drive values up to 25% - Arabian Business",
-   "text": " Dubai property boom: How AED150b+ mega infrastructure projects are set to drive values up to 25% &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RZEQ3WDdGZEhUT1lpNnRmaVRid0ZOeHNsbm9HbGpXTjA0NlYzVDM2YTBLUWR1T1IzSGt1Y2lqRjdodU1lRVk3UXFBTEF2dlJZWU92WkU5NUlrUTAxMmUzZlNkdDl1MGRVRlNTZENUQ2Z4RmhoY1N4a1NBTTA?oc=5",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:15Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d8%ad%d9%81%d8%b8%d8%a9-%d8%b3%d8%aa%d9%8a%d9%83-12-%d9%8a%d8%af%d9%81%d8%b9%d9%87%d8%a7-%d9%84%d8%a5%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "تراجع إيجارات محفظة «ستيك» 12% يدفعها لإلغاء رسوم الأداء وإدارة العقارات داخلياً",
-   "text": "تراجعت إيجارات العقارات ضمن محفظة منصة ستيك Stake للاستثمار العقاري في دبي بنسبة 12% منذ فبراير، ما دفع الشركة إلى&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%aa%d8%b1%d8%a7%d8%ac%d8%b9-%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d8%ad%d9%81%d8%b8%d8%a9-%d8%b3%d8%aa%d9%8a%d9%83-12-%d9%8a%d8%af%d9%81%d8%b9%d9%87%d8%a7-%d9%84%d8%a5%d9%84/",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:14Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%af%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-5-6-%d8%a5%d9%84%d9%89-12-8-%d9%85%d9%84%d9%8a/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "تداولات عقارات الشارقة ترتفع 5.6% إلى 12.8 مليار دولار خلال أول 9 أشهر من 2026",
-   "text": "بلغت قيمة التداول العقاري في الشارقة نحو 12.8 مليار دولار (46.8 مليار درهم) خلال الأشهر التسعة الأولى من عام 2026،&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d8%af%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%82%d8%a9-%d8%aa%d8%b1%d8%aa%d9%81%d8%b9-5-6-%d8%a5%d9%84%d9%89-12-8-%d9%85%d9%84%d9%8a/",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:14Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%b4%d8%b1%d9%83%d8%a9-%d9%83%d8%a7%d8%b3%d9%88%d9%85%d9%8a%d8%ba%d8%a7%d8%b3%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%a8%d8%af%d8%a3-%d8%aa%d8%b7%d9%88/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "شركة \"كاسوميغاسيكي\" اليابانية تبدأ تطوير مشاريع عقارية في الإمارات",
-   "text": "أعلنت كاسوميغاسيكي للتطوير العقاري Kasumigaseki Properties Development، الذراع التطويرية لشركة كاسوميغاسيكي كابيتال اليابانية المدرجة في السوق الرئيسية لبورصة طوكيو، انتقالها&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%b4%d8%b1%d9%83%d8%a9-%d9%83%d8%a7%d8%b3%d9%88%d9%85%d9%8a%d8%ba%d8%a7%d8%b3%d9%8a%d9%83%d9%8a-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%a8%d8%af%d8%a3-%d8%aa%d8%b7%d9%88/",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:14Z"
-  },
-  {
-   "id": "rd:t3_1x4utv8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Golden Visa Rejected to receive",
-   "text": "   My nomination got approved on ICP, but my GV got &quot;rejected to receive&quot; immediately after I attached the tenancy contract they asked for? Im unsure if it&#39;s because the tenancy is under my brother&#39;s name. But shouldn&#39;t that be expected as I&#39;m literally applying through highschool&#39;s top student rank?   One typing centre said they&#39;re rejecting Pakistanis even for nomination, but my nomination got approved. Confused now, should I apply through GDRFA? My visa &amp; residency is from Ajman though.     &#32; submitted by &#32;   /u/Main-Structure-8725       [link] ",
-   "url": "https://www.reddit.com/r/UAE/comments/1x4utv8/golden_visa_rejected_to_receive/",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:02Z"
   }
  ]
 }
