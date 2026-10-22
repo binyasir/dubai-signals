@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-21T21:46:28Z",
- "newThisRun": 36,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-22T04:54:45Z",
+ "newThisRun": 2,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
@@ -10,40 +10,40 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 32,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -72,11 +72,26 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xc4zgk",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "moved into apartment on the palm but humidity is at 75%?",
+   "text": "   from some google searching this seems way too high and leads to mold issues, landlord was randomly asking me if i want her to paint the apartment prior to moving in too which i found weird, and also mentioned a water leak in the maid room which occured. its annoying too as im paying 280k aed per month which is a lot and i shouldn&#39;t have to deal with these kind of problems, literally just moved in today after paying half a years rent and just noticed this.. is there anything I can do or am I screwed. im really concerned about my health so this sucks.     &#32; submitted by &#32;   /u/Nob",
+   "url": "https://www.reddit.com/r/dubai/comments/1xc4zgk/moved_into_apartment_on_the_palm_but_humidity_is/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-22T04:54:10Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFVxajNPXzdkZ29mNW9lUE1zYWIwdVBxaEFGdGd5SnY4OWRGX19UeXdwRXBoZnV4Y0lhVGFsWmZiSy15bmdhdERhN21HVTFobEZ5T1l4aTJUakhlOWVNdlhEVUhvdFNhTWVfSXBZbFJ4QTJjaEFzdG1oaWQwWFVlNFM5cFdYYW5OSEhpZmJn?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "Golden Visa Rejected to receive",
    "text": "   My nomination got approved on ICP, but my GV got &quot;rejected to receive&quot; immediately after I attached the tenancy contract they asked for? Im unsure if it&#39;s because the tenancy is under my brother&#39;s name. But shouldn&#39;t that be expected as I&#39;m literally applying through highschool&#39;s top student rank?   One typing centre said they&#39;re rejecting Pakistanis even for nomination, but my nomination got approved. Confused now, should I apply through GDRFA? My visa &amp; residency is from Ajman though.     &#32; submitted by &#32;   /u/Main-Structure-8725       [link] ",
    "url": "https://www.reddit.com/r/UAE/comments/1x4utv8/golden_visa_rejected_to_receive/",
-   "date": "2026-10-13",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-13T14:17:02Z"
-  },
-  {
-   "id": "rd:t3_1x4pver",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Need help with this",
-   "text": "   Does anyone know where I can get a decent furnished studio apartment for one month (November) for 5-6k AED in dubai? Preferably in JVC or barsha etc. I’m trying to find, but can’t come across anything good. Please lmk if you know of a place. A decent hotel would work too.     &#32; submitted by &#32;   /u/Sufficient-Tea-1025       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1x4pver/need_help_with_this/",
    "date": "2026-10-13",
    "dateApprox": false,
    "language": "en",
