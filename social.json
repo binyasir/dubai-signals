@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-23T11:44:14Z",
- "newThisRun": 16,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-23T17:12:42Z",
+ "newThisRun": 8,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 191,
-  "rss": 52
+  "reddit": 193,
+  "rss": 50
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": null
   },
   {
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeDRyMktlZ1BYdEpraS0zb2NRWjNMUXFHSmNkRGs0akZhMUN2cW1pc3c4Z2lpSTNFUlRuV1ExaGlBM0FjMld0OW1SYTIwVlVXd2lQc3JsbXYtT2pNZ2RLaWlIbURPVFBhWjcxQjU1NGVrMnhXbUd6Um5rU0RsVE5fM2p6YkJldUNwUzNHc2h0cWRDWVZEWlRqazMxQlVOT2xhQV9oRnp4WmhZbUxyUXBqNDNibkhWOG4yeU1lNDJTTjFpNDlaZk8yUXFOMlMxT0JVWHhUdWNxMmxoUHlBSjZRcWJnVkVfeWkyUHBhVA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links - markets.businessinsider.com",
+   "text": " Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links &nbsp;&nbsp; markets.businessinsider.com ",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeDRyMktlZ1BYdEpraS0zb2NRWjNMUXFHSmNkRGs0akZhMUN2cW1pc3c4Z2lpSTNFUlRuV1ExaGlBM0FjMld0OW1SYTIwVlVXd2lQc3JsbXYtT2pNZ2RLaWlIbURPVFBhWjcxQjU1NGVrMnhXbUd6Um5rU0RsVE5fM2p6YkJldUNwUzNHc2h0cWRDWVZEWlRqazMxQlVOT2xhQV9oRnp4WmhZbUxyUXBqNDNibkhWOG4yeU1lNDJTTjFpNDlaZk8yUXFOMlMxT0JVWHhUdWNxMmxoUHlBSjZRcWJnVkVfeWkyUHBhVA?oc=5",
+   "date": "2026-10-23",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T17:12:42Z"
+  },
+  {
+   "id": "rd:t3_1xdgk8b",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Riviera Chalet JVC",
+   "text": "   Captioned project was scheduled for handover in Aug 2025; we are now in the 3rd week of Oct 2026 and no defined timeline exists for handover even now. The company never communicates a date. The one-year grace allowed by RERA has also lapsed. Last DLD report dated July26 mentions 75% completion. The final 25% takes a painfully long time given dependency on sub-contractors for various works; this coupled with the supply chain disruptions given the regional tensions is not helping the project. However, till date, there is no formal call organized by the Developer with the Investors to given th",
+   "url": "https://www.reddit.com/r/dubai/comments/1xdgk8b/riviera_chalet_jvc/",
+   "date": "2026-10-23",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T17:12:07Z"
+  },
+  {
+   "id": "rd:t3_1xdeqz5",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Looking for a Rent a Car service",
+   "text": "   Looking to stretch my Dirhams for a rent a car service for monthly rental that won&#39;t rip me off because i choose to stay with one company.    I have been renting Mazda 6 (2023) for 1900 per month from a company and have been their client for 3 years but now they look ways to rip me off.   I am looking for a same or similar car for under 2000 AED per month all inclusive.    i am a teacher with a reputed school so if there&#39;s anyone offering teachers discounts, that would be a plus.      &#32; submitted by &#32;   /u/Ok-Chef5364       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xdeqz5/looking_for_a_rent_a_car_service/",
+   "date": "2026-10-23",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T17:12:07Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjNyNEFyOTBsbHVrRE9keHRrcXduSG9uYS11ejJUQ3RmLUc0dlBBcGJpdW5BWWQ0WF9Qa3FUUkNEMkxKZEQyV1ctQmRNMk01Vi1BUHc2ZS1MY2ViX1lqdmxaaGUtbllIMUdacGdKcVNGZmlfVjRfUGh4STlGX1N1U1llQkVBbHJXbTdJTDRDMkdNWnBGZHQybjZGZWhuOTBJQ1JZWEM0VUtBOG5FN19TMW1KN2tlc3VYYlpVNDQ1a2pzZw?oc=5",
    "platform": "RSS",
@@ -3779,51 +3824,6 @@
    "date": "2026-10-16",
    "dateApprox": false,
    "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-16T11:29:42Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHVGUWJFUVZhMEJOMzhCRV9abFVsTWNmcHFiWDBoWUljWVFGNDFVdVoybUs4TE1qdW13TFFrSm8yTXVKRFk0dV9mLUVNNGJPSEcwcDlDZUNIcTdlMFZXV0JpLUtLSmk4TG12TWRKSGlHcm9sM0xfNXFEdXJlTFRrNl9pOGtYLWkzUGgwalpVaVgxVG9veUh2cXQ5RzdyWm9fTl9zdVdlSENmWHRDWG5sSWdKR1l3NkZFalBISkEwaHlCX1E5R1E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Suryakumar Yadav Buys Dubai Property, Says Quality Of Life Is 'Different'. Video - NDTV Sports",
-   "text": " Suryakumar Yadav Buys Dubai Property, Says Quality Of Life Is 'Different'. Video &nbsp;&nbsp; NDTV Sports ",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHVGUWJFUVZhMEJOMzhCRV9abFVsTWNmcHFiWDBoWUljWVFGNDFVdVoybUs4TE1qdW13TFFrSm8yTXVKRFk0dV9mLUVNNGJPSEcwcDlDZUNIcTdlMFZXV0JpLUtLSmk4TG12TWRKSGlHcm9sM0xfNXFEdXJlTFRrNl9pOGtYLWkzUGgwalpVaVgxVG9veUh2cXQ5RzdyWm9fTl9zdVdlSENmWHRDWG5sSWdKR1l3NkZFalBISkEwaHlCX1E5R1E?oc=5",
-   "date": "2026-10-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-16T11:29:42Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0twNEtuVkZ6cmVJVF8zelpDNVZmXzNmelhONFc3RDZyc1RUcFp4Z3ZkVG5CSlA1MlZLUTFsRFlNQ1ZBeXk4bDZGY0xnV0JwbU9EVl9rbHBjWnlpZDNRdXRZaDIxZFItNWUzN245S3BiRHBXU0VnMlJQUnJJM2Y5SmRlODVfdzBxSld1Uk1rSjNPSUs5Q2RZZ055VUIxMk1peERwcElqcEt4WlJrQ0E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Suryakumar Yadav buys luxury Dubai property named after Shah Rukh Khan - Gulf News",
-   "text": " Suryakumar Yadav buys luxury Dubai property named after Shah Rukh Khan &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0twNEtuVkZ6cmVJVF8zelpDNVZmXzNmelhONFc3RDZyc1RUcFp4Z3ZkVG5CSlA1MlZLUTFsRFlNQ1ZBeXk4bDZGY0xnV0JwbU9EVl9rbHBjWnlpZDNRdXRZaDIxZFItNWUzN245S3BiRHBXU0VnMlJQUnJJM2Y5SmRlODVfdzBxSld1Uk1rSjNPSUs5Q2RZZ055VUIxMk1peERwcElqcEt4WlJrQ0E?oc=5",
-   "date": "2026-10-16",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-16T11:29:42Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNFR4TnZ2OVNJVk5YY2ZjNWp0aUlrc0R6bFpZQmNjejBSdjNyTGhldFg2MXR0Y0dLd2NDY1g5ZEw4NUpGZEhUUUd4cWpoOF9mZVQwcC00TmFHY2xUNnpheEtzSU5kVjQ4NUlBakY2MFg1Q19fYVRQU2FnM2kySXQ2VGE0eUNQMF9JYm9RSHRuZkotN2ZuSkQ4WE9Rdk42OWdrNXpmU0RnUWRtemdLQUUtWXlXUjhBLVZIYk1kZFY3cHdlWlo5cGlhbjhlamhZT2dBM1BkQWlZU1o0NmlRYllBVjY3VldTQXZHSkhOWVlfQmwxOEo4NUdkYm91bVI4ZjNJWkpPemFNaE50Qm1ha2ZsRmlONHZrMVdSMU9peUtaNE1BSkN0VzF6M2UzRzJuODI2dlFsb3pRSHpUWDdvT3RUcXpoQjdia2F4eElWbXVDRlN5VHN2MzJBb3VwbUxGazlkWlRZTFRneExCY19ESXlyQlFIbTRsaHdqTE5IdVZ3?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "نجوم Selling Sunset يدخلون سوق العقارات الفاخرة في دبي - أريبيان بزنس",
-   "text": " نجوم Selling Sunset يدخلون سوق العقارات الفاخرة في دبي &nbsp;&nbsp; أريبيان بزنس ",
-   "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNFR4TnZ2OVNJVk5YY2ZjNWp0aUlrc0R6bFpZQmNjejBSdjNyTGhldFg2MXR0Y0dLd2NDY1g5ZEw4NUpGZEhUUUd4cWpoOF9mZVQwcC00TmFHY2xUNnpheEtzSU5kVjQ4NUlBakY2MFg1Q19fYVRQU2FnM2kySXQ2VGE0eUNQMF9JYm9RSHRuZkotN2ZuSkQ4WE9Rdk42OWdrNXpmU0RnUWRtemdLQUUtWXlXUjhBLVZIYk1kZFY3cHdlWlo5cGlhbjhlamhZT2dBM1BkQWlZU1o0NmlRYllBVjY3VldTQXZHSkhOWVlfQmwxOEo4NUdkYm91bVI4ZjNJWkpPemFNaE50Qm1ha2ZsRmlONHZrMVdSMU9peUtaNE1BSkN0VzF6M2UzRzJuODI2dlFsb3pRSHpUWDdvT3RUcXpoQjdia2F4eElWbXVDRlN5VHN2MzJBb3VwbUxGazlkWlRZTFRneExCY19ESXlyQlFIbTRsaHdqTE5IdVZ3?oc=5",
-   "date": "2026-10-16",
-   "dateApprox": false,
-   "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-16T11:29:42Z"
   }
