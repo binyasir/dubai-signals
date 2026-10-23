@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-22T21:40:17Z",
- "newThisRun": 11,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-23T04:57:06Z",
+ "newThisRun": 9,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 190,
-  "rss": 53
+  "reddit": 189,
+  "rss": 54
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 10,
+   "items": 9,
    "error": null
   },
   {
@@ -47,36 +47,111 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 5,
-   "error": null
-  },
-  {
-   "source": "r/expats",
    "ok": false,
    "items": 0,
    "error": "HTTP 429"
   },
   {
+   "source": "r/expats",
+   "ok": true,
+   "items": 2,
+   "error": null
+  },
+  {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 8,
+   "items": 27,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 28,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmtCSGlKMnRKbS1pMXBfS2ExVEZScWxZQjVtRkdwdGFxMDE1cVcwRmhBTjBXbl92M2hrWFpsMFZCcWZZU2pRNE5LaDFLLTRxYWx4VnRTUEFGSGN1RHlLZjlzZnJIUkJpbWN6VGRLaFVGT1BzOFc5c1doOWRNbENpWE9qa3ZtU0M5VFhIQnFzSTM2aHVQX2c1cmdzN2Jyd3RLbkFSUUQwbw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "UAE developers expand abroad as Dubai property cools - Arabian Gulf Business Insight | AGBI",
+   "text": " UAE developers expand abroad as Dubai property cools &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI ",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmtCSGlKMnRKbS1pMXBfS2ExVEZScWxZQjVtRkdwdGFxMDE1cVcwRmhBTjBXbl92M2hrWFpsMFZCcWZZU2pRNE5LaDFLLTRxYWx4VnRTUEFGSGN1RHlLZjlzZnJIUkJpbWN6VGRLaFVGT1BzOFc5c1doOWRNbENpWE9qa3ZtU0M5VFhIQnFzSTM2aHVQX2c1cmdzN2Jyd3RLbkFSUUQwbw?oc=5",
+   "date": "2026-10-23",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T04:57:05Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenVjb290eFd6U0l2N3hlUXVsWXVoeDZ5ZzU1VlBiUGNoNG12a3pXWVpXU2c3QU5WZjZ5RDNzQmpRWmltZ2dvdXA0M25SSnE1SEFiT19ZUlVDTHRlbllSZDllN2FkLWMwNXQ5T3N6dzR6SlN5ME9MbkZvYVZQUGdJMlhlQ3JzalBPT2dLeVkyZ2lEMzRiczVha3JER0FfUldxbk9ycFhPbmx1bHBqZEpIM1NmUXg5RE9vSG5sTFdNM1NvVFU4eTVxYVFWMXB2elZxa2o1R3dNQ202enBKcXY0bGFOOA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Interview: Oversupply in Dubai property market will separate the men from the boys, says Sobha Realty Chairman - Zawya",
+   "text": " Interview: Oversupply in Dubai property market will separate the men from the boys, says Sobha Realty Chairman &nbsp;&nbsp; Zawya ",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenVjb290eFd6U0l2N3hlUXVsWXVoeDZ5ZzU1VlBiUGNoNG12a3pXWVpXU2c3QU5WZjZ5RDNzQmpRWmltZ2dvdXA0M25SSnE1SEFiT19ZUlVDTHRlbllSZDllN2FkLWMwNXQ5T3N6dzR6SlN5ME9MbkZvYVZQUGdJMlhlQ3JzalBPT2dLeVkyZ2lEMzRiczVha3JER0FfUldxbk9ycFhPbmx1bHBqZEpIM1NmUXg5RE9vSG5sTFdNM1NvVFU4eTVxYVFWMXB2elZxa2o1R3dNQ202enBKcXY0bGFOOA?oc=5",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T04:57:05Z"
+  },
+  {
+   "id": "rd:t3_1xck10r",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Urgent!!! Indian Developer Offered 300–350 OMR in Muscat, Oman — Should I Accept?",
+   "text": "   Hey guys! 👋   I&#39;m from India, and I&#39;ve received a job offer in Muscat, Oman, with a monthly salary of around 300–350 OMR. I need some honest advice from people who are currently living or working in Oman, especially Indians.   Here are the details of the offer:   - Monthly salary: 300–350 OMR   - Location: Muscat, Oman   - Accommodation: Provided by the company   - Personal expenses: I would need to pay for food, mobile recharge, and other regular personal expenses.   My main questions are:      Is 300–350 OMR a reasonable salary to live on in Muscat if accommodation is provided?   ",
+   "url": "https://www.reddit.com/r/expats/comments/1xck10r/urgent_indian_developer_offered_300350_omr_in/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T04:57:02Z"
+  },
+  {
+   "id": "rd:t3_1xcwviu",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Has anybody used United Movers?",
+   "text": "   I’m looking to move all my furniture from my studio apartment to Jeddah, Saudi Arabia. I’ve gotten two quotes from United Movers for 5850 and from Trukkers for 9500 for the same apartment.   I can’t seem to find any reviews for United movers, so I thought I’d ask here. Besides the aforementioned two, if anybody has recommendations for movers and packers in Dubai I’d greatly appreciate it     &#32; submitted by &#32;   /u/acid_mayo       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xcwviu/has_anybody_used_united_movers/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T04:56:29Z"
+  },
+  {
+   "id": "rd:t3_1xcwfga",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Hotel red travelling with 3 month baby",
+   "text": "   As title: Hotel ref with 3month old   We are looking for a 4 night vacay with our 3onth old.   It&#39;s very confusing from maps to decide which area to choose    We wish to visit Dubai Mall + baby activities    Can y&#39;ll help me with:    - what area to look for hotels/resort   - early checkin + late check-out    - baby friendly rooms (bassinet/daily room clean)   - closer to main Dubai attractions    - Also, is Taxi commute affordable Or should we rent a car   Thanks in advance      &#32; submitted by &#32;   /u/dublinneir       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xcwfga/hotel_red_travelling_with_3_month_baby/",
+   "date": "2026-10-22",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T04:56:29Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%a5%d9%84-%d8%a5%d9%85-%d8%af%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86-%d8%b1%d9%88%d9%83%d9%81%d9%84%d8%b1-%d8%a7/",
    "platform": "RSS",
@@ -886,6 +961,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-22T04:54:10Z"
+  },
+  {
+   "id": "rd:t3_1xbuy0i",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Has anyone lived in France as a non-tax resident for an extended amount of time and avoided the need to prove their tax residency in another country to avoid filing taxes?",
+   "text": "   I&#39;ve split my time between multiple countries in the past before, but it was always more as a &quot;visitor&quot; in the other countries (rented house, not having local bank accounts, etc).   I moved from Canada to France last year, and I&#39;m a French citizen by descent. I bought an apartment in Paris, I&#39;m enrolled for public healthcare, I have French bank accounts, etc. I&#39;m established enough here for the French government to make the assumption that I&#39;m probably a tax resident in France.    However, almost a year later and I still don&#39;t fit the definition of a French",
+   "url": "https://www.reddit.com/r/expats/comments/1xbuy0i/has_anyone_lived_in_france_as_a_nontax_resident/",
+   "date": "2026-10-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-23T04:57:02Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFVxajNPXzdkZ29mNW9lUE1zYWIwdVBxaEFGdGd5SnY4OWRGX19UeXdwRXBoZnV4Y0lhVGFsWmZiSy15bmdhdERhN21HVTFobEZ5T1l4aTJUakhlOWVNdlhEVUhvdFNhTWVfSXBZbFJ4QTJjaEFzdG1oaWQwWFVlNFM5cFdYYW5OSEhpZmJn?oc=5",
@@ -3736,96 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-15T21:27:06Z"
-  },
-  {
-   "id": "rd:t3_1x6w985",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Landlord refusing to refund AED 16,000 deposit over disputed tenancy terms—police referred me to Al Adheed",
-   "text": "   Hi everyone, looking for advice from anyone who has dealt with a similar situation in Dubai.   I recently transferred AED 16,000 to a landlord as a security deposit, plus AED 8,400 to the agency. Before payment, I had clearly communicated to the agent that my agreed terms were  12 November start date, AED 160,000 annual rent, payable in two cheques .   The landlord subsequently said he had instructed the agent, before my payment, that the tenancy must start immediately. He says the agent failed to communicate his condition. We therefore appear to have been given different information.   The",
-   "url": "https://www.reddit.com/r/dubai/comments/1x6w985/landlord_refusing_to_refund_aed_16000_deposit/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T21:26:32Z"
-  },
-  {
-   "id": "rd:t3_1x6u7nb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "This is Al Khail Gate. Every. Single. Night.",
-   "text": "                 Imagine you’re me. You’re coming home from work after an evening shift. You’re tapped out. You wanna see your family and relax - maybe even have dinner at the appropriate time. But you drive to your community and it’s nothing short of parking pandemonium.   Cars using the sidewalks as additional parking. Strewn out haphazardly. Some of the ones who get home earlier hog the slots meant for  paying tenants  so if you’re a tenant you’re entitled to a slot but it’s first come first served so you’re always getting screwed over by either a) the people who get home around 6-7ish b) f",
-   "url": "https://www.reddit.com/r/dubai/comments/1x6u7nb/this_is_al_khail_gate_every_single_night/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T21:26:32Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d8%aa%d8%b4-%d8%a2%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d9%8b-%d9%84%d9%84%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d9%88%d8%a7%d9%84%d8%b3/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«إتش آند إتش» تطلق مجمعاً للمكاتب والسكن مع مرافق فندقية وتجارية في مركز دبي المالي العالمي",
-   "text": "أطلقت شركة  إتش آند إتش للتطوير العقاري H&#38;H Development  مشروع «ووتر جاردنز» Water Gardens في مركز دبي المالي العالمي، والذي&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a5%d8%aa%d8%b4-%d8%a2%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%ac%d9%85%d8%b9%d8%a7%d9%8b-%d9%84%d9%84%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d9%88%d8%a7%d9%84%d8%b3/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T17:05:13Z"
-  },
-  {
-   "id": "rd:t3_1x6nnib",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "End of service gratuity by cheque instead of bank transfer?",
-   "text": "   A family member recently lost his job at a government entity due to visa issues. They have an outstanding bank loan, and the bank automatically deducts the loan payment as soon as their salary is deposited.  They have always kept up with their loan payments, but they urgently need their end-of-service gratuity to cover rent and support their family while regularizing their visa status.  Is it legally possible to request the gratuity by cheque instead of having it transferred to their bank account? Has anyone dealt with a similar situation?  Thanks in advance!     &#32; submitted by &#32;   ",
-   "url": "https://www.reddit.com/r/UAE/comments/1x6nnib/end_of_service_gratuity_by_cheque_instead_of_bank/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T17:05:01Z"
-  },
-  {
-   "id": "rd:t3_1x6qved",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Rental agreement renewal/termination",
-   "text": "                 Hi everyone, i seek advice. I missed the date of informing my non-renewal decision (50 days remain, against the 2 months in notice and contract).   What if i were to give a notice right now. In case the landlord does not agree to waive of notice period - what penalty can they apply?   Also since RERA rental index shows no increase (realistic rents are lower by 15%) can the landlord enfore the same rent? I want to negotiate and can possibly renew if landlord gives me a fair rental quote.     &#32; submitted by &#32;   /u/EonSonet       [link]   &#32;   [comments]      ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x6qved/rental_agreement_renewaltermination/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T17:04:48Z"
-  },
-  {
-   "id": "rd:t3_1x6np47",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "End of service gratuity by cheque instead of bank transfer?",
-   "text": "   A family member recently lost his job at a government entity due to visa issues. They have an outstanding bank loan, and the bank automatically deducts the loan payment as soon as their salary is deposited.  They have always kept up with their loan payments, but they urgently need their end-of-service gratuity to cover rent and support their family while regularizing their visa status.  Is it legally possible to request the gratuity by cheque instead of having it transferred to their bank account? Has anyone dealt with a similar situation?  Thanks in advance!     &#32; submitted by &#32;   ",
-   "url": "https://www.reddit.com/r/dubai/comments/1x6np47/end_of_service_gratuity_by_cheque_instead_of_bank/",
-   "date": "2026-10-15",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-15T17:04:48Z"
   }
  ]
 }
