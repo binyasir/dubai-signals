@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-23T17:12:42Z",
- "newThisRun": 8,
+ "generatedAt": "2026-10-23T21:27:46Z",
+ "newThisRun": 4,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 11,
+   "items": 9,
    "error": null
   },
   {
@@ -66,13 +66,13 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 27,
+   "items": 26,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 22,
+   "items": 21,
    "error": null
   }
  ],
