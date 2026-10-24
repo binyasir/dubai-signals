@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-24T11:07:31Z",
- "newThisRun": 43,
+ "generatedAt": "2026-10-24T16:00:07Z",
+ "newThisRun": 7,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
-  "reddit": 196,
-  "rss": 48
+  "reddit": 195,
+  "rss": 49
  },
  "sources": [
   {
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 33,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXQ0UV9uTHZFRXZqbDVLaUFKZjZpNklwelRfdjdWM1YtTk1VS0tEQmM1TTRvT0tNcnRuelJzR1J3Q2dOa3NNcHNCUlJrZXNQZ2NUODN0T3NzVld3NFI3ZTFnal9fZGRxWjNJdFZKSl85dXlWUVhhbjMxY3BfYldoWVlDSE5iNmVnRHFOZk5PcDNSeXdfTUVIVW9hcC1HQUFZUkpTRg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Top industry experts team up for new Dubai real estate venture - TradeArabia",
+   "text": " Top industry experts team up for new Dubai real estate venture &nbsp;&nbsp; TradeArabia ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXQ0UV9uTHZFRXZqbDVLaUFKZjZpNklwelRfdjdWM1YtTk1VS0tEQmM1TTRvT0tNcnRuelJzR1J3Q2dOa3NNcHNCUlJrZXNQZ2NUODN0T3NzVld3NFI3ZTFnal9fZGRxWjNJdFZKSl85dXlWUVhhbjMxY3BfYldoWVlDSE5iNmVnRHFOZk5PcDNSeXdfTUVIVW9hcC1HQUFZUkpTRg?oc=5",
+   "date": "2026-10-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-24T16:00:06Z"
+  },
+  {
+   "id": "rd:t3_1xe92vk",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Changing ceiling panels",
+   "text": "   Hi All   I want to change the gypsum partition boards in my kitchen ceiling as the current ones are quite old. I’m the tenant.    I have 6 partition boards in my kitchen with spotlights attached to some boards and a smoke detector attached to one board.    I bought new boards and was planning to call a handyman to help fix it— detach and reattach the spotlights and the smoke sensor.    Security has told me that smoke detector can’t be touched by anyone other than authorized people and gave me a contact of a company. But the company charges 750 + vat just to detach and reattach the existing ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xe92vk/changing_ceiling_panels/",
+   "date": "2026-10-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-24T15:59:30Z"
+  },
+  {
+   "id": "rd:t3_1xe5pcj",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "2 year residency visa (property investment)",
+   "text": "   Can someone let me know if I am able to get the 2 year residency visa?   I bought an apartment off-the-plan, due for completion in Q1 2027. I paid 1.8mn AED, fully paid and no mortgage.   Am I eligible to get the visa even if completion hasn&#39;t occurred yet? If yes, what documents do I need?     &#32; submitted by &#32;   /u/Adorable_Height_4813       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xe5pcj/2_year_residency_visa_property_investment/",
+   "date": "2026-10-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-24T15:59:30Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWNJOEl5UklmM011YjF0MjY4QzlXZE1IUVhWWHoyZ0xONmEwcmRlaDVMc0NuNkQ2Nko2YlVnXzZ2M1I1NFVLR2lnazVwQ1BxeS04ZUhlRVhRYXViQjRsSDhMWE5lTDNTR096dXIzRjdGNmhqN25YQTFQdFdmQkxWRkNGWURYMWk2UVE5bEh2ZkpHMmEyVElGMHByQmtNY0VVYk9ZVTJDcw?oc=5",
    "platform": "RSS",
@@ -3776,51 +3821,6 @@
    "title": "Looking for a cheap standalone office in Dubai",
    "text": "   Hey guys, I&#39;m looking for a small, cheap office in Dubai for my company.   I&#39;m not looking for a business center, coworking space, serviced office, or shared office. I want a genuine separate commercial office/unit with its own door and preferably Ejari.   Size doesn&#39;t matter much - even 50-300 sq ft is fine.  What areas/buildings should I look at for the cheapest options? And if anyone knows of a good listing or building, please share it.   Thanks!     &#32; submitted by &#32;   /u/Different_Agent_2158       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1x8o218/looking_for_a_cheap_standalone_office_in_dubai/",
-   "date": "2026-10-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-18T04:39:01Z"
-  },
-  {
-   "id": "rd:t3_1x8n3n9",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Snapshot on the Dubai Property Market through 2026",
-   "text": "   Everyone’s curious about Dubai&#39;s price impact through the war, so I pulled every sale registered with DLD this year and compared Jan/Feb with June to mid-Oct by community.     Sales are down about a third, ready prices 5 to 10%:      Ready sales: 129 a day before the war, 87 since June (−33%). Off-plan: 354 to 257 (−27%).   Ready prices are down 5 to 10% in most main areas. The Palm is down 8 to 15%, and JVC 8 to 11% with sales only −13%.   Off-plan prices are flat on paper, but incentives (fee waivers, payment plans) don’t show in DLD data.   Ready prices stopped falling around August.",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x8n3n9/snapshot_on_the_dubai_property_market_through_2026/",
-   "date": "2026-10-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-18T04:39:01Z"
-  },
-  {
-   "id": "rd:t3_1x8jf0g",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Damac revoked our DLD fee waiver over conditions we were never told about. Anyone else?",
-   "text": "   When we booked our off-plan property with Damac, the 4% DLD fee waiver or DLD Discount was part of the offer and a big reason we went ahead.   Later, Damac revoked the waiver, saying we had breached its terms and conditions.   The problem: we were never informed of these terms. They weren’t explained at booking, and they don’t appear in any document we were given, not even in the fine print. You can’t break rules you were never shown.   I’m posting for two reasons:      If you’re considering Damac’s current DLD waiver offer , ask for the complete waiver terms in writing before you pay anyth",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x8jf0g/damac_revoked_our_dld_fee_waiver_over_conditions/",
-   "date": "2026-10-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-18T04:39:01Z"
-  },
-  {
-   "id": "rd:t3_1x8jbuu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "New Dubai brokerage: Property Finder or Bayut for quality lead & volume? Can only afford one contract",
-   "text": "   We just started a brokerage in Dubai and can only commit to one portal contract this year. Which would you suggest, Bayut or Property Finder? We&#39;re mainly looking for better lead volume.  thanks!     &#32; submitted by &#32;   /u/Far-Way-3142       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x8jbuu/new_dubai_brokerage_property_finder_or_bayut_for/",
    "date": "2026-10-17",
    "dateApprox": false,
    "language": "en",
