@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-24T16:00:07Z",
- "newThisRun": 7,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-24T20:55:32Z",
+ "newThisRun": 5,
+ "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 6,
-  "reddit": 195,
-  "rss": 49
+  "reddit": 194,
+  "rss": 50
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
@@ -53,20 +53,20 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "error": "unchanged"
+   "error": "URLError"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 26,
    "error": null
   },
   {
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMXFDdng1VV9qTHpUR25ISHBGdTF5ZkowTHFNOXFya3JFRGs3Z1o0YURreVVaUWxxcjE2ZjVQYjViUElqUVdKNGo5U3Jhb2dVeEIySjBYX1B5M3RoeW9CV2lHQTNZZWVlN040TC1TOWhlLTBqUl9oNDRfTmJ3OHJqbnI5QXZIN1pLYU5XZ3BkVEp0OTJ2TXp4S3pXNXFlN25SRnNUc290bW1LdnRld1IxNDQtak9XendJSXk1emExLXlDcThSVTR1X3VHT3hmU0lTZVRyRG5qOXZZbnpjSmNfVWpjVTF2clc0MTUzU2x6RjY?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "W Capital: Dubai real estate becomes a millionaire-making engine and a driver of wealth creation - Zawya",
+   "text": " W Capital: Dubai real estate becomes a millionaire-making engine and a driver of wealth creation &nbsp;&nbsp; Zawya ",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMXFDdng1VV9qTHpUR25ISHBGdTF5ZkowTHFNOXFya3JFRGs3Z1o0YURreVVaUWxxcjE2ZjVQYjViUElqUVdKNGo5U3Jhb2dVeEIySjBYX1B5M3RoeW9CV2lHQTNZZWVlN040TC1TOWhlLTBqUl9oNDRfTmJ3OHJqbnI5QXZIN1pLYU5XZ3BkVEp0OTJ2TXp4S3pXNXFlN25SRnNUc290bW1LdnRld1IxNDQtak9XendJSXk1emExLXlDcThSVTR1X3VHT3hmU0lTZVRyRG5qOXZZbnpjSmNfVWpjVTF2clc0MTUzU2x6RjY?oc=5",
+   "date": "2026-10-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-24T20:55:32Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXQ0UV9uTHZFRXZqbDVLaUFKZjZpNklwelRfdjdWM1YtTk1VS0tEQmM1TTRvT0tNcnRuelJzR1J3Q2dOa3NNcHNCUlJrZXNQZ2NUODN0T3NzVld3NFI3ZTFnal9fZGRxWjNJdFZKSl85dXlWUVhhbjMxY3BfYldoWVlDSE5iNmVnRHFOZk5PcDNSeXdfTUVIVW9hcC1HQUFZUkpTRg?oc=5",
    "platform": "RSS",
@@ -3811,21 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-19T22:24:04Z"
-  },
-  {
-   "id": "rd:t3_1x8o218",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking for a cheap standalone office in Dubai",
-   "text": "   Hey guys, I&#39;m looking for a small, cheap office in Dubai for my company.   I&#39;m not looking for a business center, coworking space, serviced office, or shared office. I want a genuine separate commercial office/unit with its own door and preferably Ejari.   Size doesn&#39;t matter much - even 50-300 sq ft is fine.  What areas/buildings should I look at for the cheapest options? And if anyone knows of a good listing or building, please share it.   Thanks!     &#32; submitted by &#32;   /u/Different_Agent_2158       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1x8o218/looking_for_a_cheap_standalone_office_in_dubai/",
-   "date": "2026-10-17",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-18T04:39:01Z"
   }
  ]
 }
