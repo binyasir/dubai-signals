@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-10-25T04:47:26Z",
- "newThisRun": 26,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-25T11:37:41Z",
+ "newThisRun": 10,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 6,
-  "reddit": 202,
-  "rss": 42
+  "youtube": 4,
+  "reddit": 205,
+  "rss": 41
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 9,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 31,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 24,
    "error": null
   },
   {
@@ -77,6 +77,96 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d8%a7%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إعلانات إعادة بيع العقارات السكنية الجاهزة في دبي ترتفع بأكثر من 150%",
+   "text": "كشف تقرير عقاري حديث عن ارتفاع عدد إعلانات إعادة بيع العقارات السكنية الجاهزة في دبي بنسب تراوحت بين 155% و162%&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d8%a7%d9%84/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T11:37:40Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d8%aa%d9%88%d8%b3%d9%91%d8%b9-%d9%85%d8%ad%d9%81%d8%b8%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أرادَ» توسّع محفظة مشاريعها العقارية إلى السعودية وسوريا وبريطانيا وأستراليا",
+   "text": "وسّعت شركة أرادَ Arada، المتخصصة في التطوير العقاري ومقرها الإمارات، محفظة مشروعاتها لتشمل خمس أسواق، مع دخول السعودية وسوريا خلال&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d8%aa%d9%88%d8%b3%d9%91%d8%b9-%d9%85%d8%ad%d9%81%d8%b8%d8%a9-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a%d8%b9%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T11:37:40Z"
+  },
+  {
+   "id": "rd:t3_1xexv3n",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "‘Key money’ culture is something I will never understand.",
+   "text": "   So my wife and I are planning to get a physical shop space for our online business. We did our research and figured the best location would be in Deira.  It’s been almost a month and we haven’t gotten any suitable space yet and I’ve started having second thought about the decision.  We’ve seen different open space at a very good location but we are getting a very ridiculous price for a space of less than 150 sqft.  Now the most ridiculous thing now is more than 90% of the space we’ve seen so far are requesting for ‘key money’. We saw many shops that wrote ‘shop for rent’ or ‘shop for sale’,",
+   "url": "https://www.reddit.com/r/dubai/comments/1xexv3n/key_money_culture_is_something_i_will_never/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T11:37:06Z"
+  },
+  {
+   "id": "rd:t3_1xewq3i",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Processing Golden Visa residency for Dependants using GDRFA/Dubai Now. Is it possible? I am the primary applicant.",
+   "text": "   Has anyone successfully processed the  Golden Visa Residency  for  DEPENDANTS  using  DUBAI NOW  or the  GDRFA  website/app? (NOTE: this is ONLY for dependants and not for the primary applicant)   I&#39;d like to know if it&#39;s possible - I&#39;m able to cancel residency on Dubai Now however not sure about doing the whole residency through the app   Amer &amp; Typing centers are giving me wildly different pricing for the service and was just wondering if I could get it done myself without the overhead, thanks!     &#32; submitted by &#32;   /u/Jrsczoo       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xewq3i/processing_golden_visa_residency_for_dependants/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T11:37:06Z"
+  },
+  {
+   "id": "rd:t3_1xewb1t",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "What will the new autograph collection mean for the rest of Al Majara?",
+   "text": "   I used to live in Al Majara in Marina close to DMCC metro, and while I enjoyed the location, a lot of the amenities had seen better days.    Now one of the buildings (Nuran Hotel) is being completely gutted and replaced with autographs collection branded residences at quite the premium.    While the views and location can justify a premium price, the amenities need major renovations to live up to that premium. Renders show crazy pool and other amenities, much nicer than what Al Majara has.    Are all amenities getting a major facelift? Are offplan buyers of autographs being shafted? Are oth",
+   "url": "https://www.reddit.com/r/dubai/comments/1xewb1t/what_will_the_new_autograph_collection_mean_for/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T11:37:06Z"
+  },
+  {
+   "id": "rd:t3_1xetfl4",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "8 days of water leaking from upstairs apartment in Dubai. Building management can’t solve it. What can I do?",
+   "text": "   Hi everyone,   I’m looking for some advice from anyone who has experienced something similar in Dubai.  For the past  8 consecutive days , water has been leaking from the apartment directly above mine, causing serious damage to our rented apartment.   So far:  Parts of the ceiling have collapsed.  Walls and door frames are deteriorating.  Our entrance door has swollen so badly that my wife cannot open or close it without my help.  Our entrance and bathrooms keep flooding.  We’ve lost several nights of sleep dealing with the water and calling security.  I’ve even had to cancel work meetings ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xetfl4/8_days_of_water_leaking_from_upstairs_apartment/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T11:37:06Z"
+  },
   {
    "id": "rd:t3_1xesxda",
    "platform": "Reddit",
@@ -3736,96 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-19T13:24:39Z"
-  },
-  {
-   "id": "rd:t3_1x9npjc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Anyone else dealing with construction noise in Liwan throughout the day?",
-   "text": "   Hi everyone,   I live in Liwan, Dubai, and the building next to my apartment is under construction. The noise starts early in the morning and continues throughout the day.   I have a baby under one year old who is struggling to get proper sleep because of the constant construction noise. It’s becoming quite difficult to manage, especially in the early mornings when we would expect some peace at home.   I wanted to ask other residents in Liwan and across Dubai if you’re experiencing something similar. Is construction noise this frequent and loud in your area too?   Would be interested to hea",
-   "url": "https://www.reddit.com/r/dubai/comments/1x9npjc/anyone_else_dealing_with_construction_noise_in/",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T13:24:03Z"
-  },
-  {
-   "id": "yt:HQS9LAoJ5eU",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "Allsopp & Allsopp",
-   "title": "Six Bedroom Villa for Sale in Signature Villas, Palm Jumeirah",
-   "text": "Set on a 14,626 sq.ft prime waterfront plot, this newly refurbished signature villa offers 12,000 sq.ft of refined contemporary living with uninterrupted water, beach, and skyline views.The entrance opens into grand double height living spaces, framed by bespoke floor to ceiling glazing that floods the home with natural light and creates a seamless indoor outdoor connection. A private internal elevator discreetly serves all levels, enhancing ease and flow throughout.The villa features a top spec Miele show kitchen complemented by a fully equipped back of house service kitchen, ideal for both e",
-   "url": "https://www.youtube.com/watch?v=HQS9LAoJ5eU",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "11 views",
-   "firstSeenAt": "2026-10-19T13:24:01Z"
-  },
-  {
-   "id": "yt:tqAaYHTTodY",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "Allsopp & Allsopp",
-   "title": "Five Bedroom Villa for Sale in Desert Leaf",
-   "text": "Five Bedroom Villa for Sale in Desert Leaf, Al Barari.Set within the lush greenery of Al Barari, Dubai's most prestigious botanical sanctuary, this refined five-bedroom villa in Desert Leaf spans 16,600 sq. ft BUA on a 16,336 sq. ft plot, offering generous space and complete privacy.\n\nDesigned for modern family living, the residence centres on a show kitchen fitted with premium Gaggenau appliances, supported by a separate back kitchen for effortless entertaining. A games room, music room, and dedicated office provide versatile spaces to relax, create, and work from home.Wellness is built into ",
-   "url": "https://www.youtube.com/watch?v=tqAaYHTTodY",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "130 views",
-   "firstSeenAt": "2026-10-19T13:24:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVTd3eUhtY1phOWxPT2I5S2NzZTBnYTJTZnhrdW0wOXY5Q095YmtCM05aUGstc2NhbURNTXZtNEpUY1lrUUJ4ODRhaWhMY2k3LURKOEg4eXkwNkpLbUkxZUZLVkVCdk1nVWRNeXRRbmg4WmE5alU1V1Nwcnc3UHF5WGdyTTN3U19raDJ3LVYtTEUzTUdXOVU0V003QkVPNFYtdnRpRWM3MGRQS1B4S21GOVNKbEdVWGk3TFhtWXVfQ3NZc3hLaVdyazluV1lvazZ3V1J3OC1EYklKSEF6?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "ZAWYA: Dubai's real estate investments hit $185bln in 2025, says report - TradingView",
-   "text": " ZAWYA: Dubai's real estate investments hit $185bln in 2025, says report &nbsp;&nbsp; TradingView ",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVTd3eUhtY1phOWxPT2I5S2NzZTBnYTJTZnhrdW0wOXY5Q095YmtCM05aUGstc2NhbURNTXZtNEpUY1lrUUJ4ODRhaWhMY2k3LURKOEg4eXkwNkpLbUkxZUZLVkVCdk1nVWRNeXRRbmg4WmE5alU1V1Nwcnc3UHF5WGdyTTN3U19raDJ3LVYtTEUzTUdXOVU0V003QkVPNFYtdnRpRWM3MGRQS1B4S21GOVNKbEdVWGk3TFhtWXVfQ3NZc3hLaVdyazluV1lvazZ3V1J3OC1EYklKSEF6?oc=5",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T04:46:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRFcTJuQzJtVTg3NGNnUTJ1SVpDMldlX21OcXI0VE9PaGdxNlVDN0l2N0tDUi1IbnlWa3lJWlNYSzhIV2lKMFdONEZjOHE3WTM4REpoeWNYVjhBbWpfakxQdC1YTUYzTUFwSEZlRzBzN1VzVGROT2hOT1duSGNGSzZSMnVNT19RNTIzd1o4UDA4dGtXa3NyMWpjNWxscE9BMFJjRjNhZw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai's real estate investments hit $185bn in 2025, says report - TradeArabia",
-   "text": " Dubai's real estate investments hit $185bn in 2025, says report &nbsp;&nbsp; TradeArabia ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRFcTJuQzJtVTg3NGNnUTJ1SVpDMldlX21OcXI0VE9PaGdxNlVDN0l2N0tDUi1IbnlWa3lJWlNYSzhIV2lKMFdONEZjOHE3WTM4REpoeWNYVjhBbWpfakxQdC1YTUYzTUFwSEZlRzBzN1VzVGROT2hOT1duSGNGSzZSMnVNT19RNTIzd1o4UDA4dGtXa3NyMWpjNWxscE9BMFJjRjNhZw?oc=5",
-   "date": "2026-10-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-21T17:17:53Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NPSlBLeVpkbGllMjNvOHNSQnpMb1g2NlFzTUZweHZka1p2TW1QUVhES0VZNEhvUE9KVzZrcVVmSjNqQXEySWdZeEo4NDAzOExjMW1TX21NQlJqQ2Z1TG5nLTFvYjNKY0V3T0Z3eC13eW1tbVVvUF81RGh5Zy1sVHV6eDBoTExCZVQzNTBQSndjcDJ2YXN5LVhLRDRLTXljdXc?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai's real estate investments hit $185bn in 2025, says report - TradeArabia",
-   "text": " Dubai's real estate investments hit $185bn in 2025, says report &nbsp;&nbsp; TradeArabia ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NPSlBLeVpkbGllMjNvOHNSQnpMb1g2NlFzTUZweHZka1p2TW1QUVhES0VZNEhvUE9KVzZrcVVmSjNqQXEySWdZeEo4NDAzOExjMW1TX21NQlJqQ2Z1TG5nLTFvYjNKY0V3T0Z3eC13eW1tbVVvUF81RGh5Zy1sVHV6eDBoTExCZVQzNTBQSndjcDJ2YXN5LVhLRDRLTXljdXc?oc=5",
-   "date": "2026-10-18",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-21T11:55:56Z"
   }
  ]
 }
