@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-25T16:27:59Z",
- "newThisRun": 8,
+ "generatedAt": "2026-10-25T20:54:40Z",
+ "newThisRun": 7,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 208,
-  "rss": 38
+  "reddit": 210,
+  "rss": 36
  },
  "sources": [
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,56 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 28,
+   "items": 18,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xfd6sf",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Looking for a swimming instructor in business bay",
+   "text": "   Hello ! I am looking for a swimming instructor who can come to my apartment pool and help me out     &#32; submitted by &#32;   /u/No_offencetaken       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xfd6sf/looking_for_a_swimming_instructor_in_business_bay/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T20:54:05Z"
+  },
+  {
+   "id": "rd:t3_1xfb0p2",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Apartment hunting tips",
+   "text": "   Hi guys,   I made a post on here earlier for mold in my apartment which I chose in a hurry (I am aware it was my fault). In the previous apartment it was facing the street and was really loud.   Now I made the choice to end this lease and go for a new apartment. I think I am just new to renting and stuff so if you guys can share any tips specifically for Dubai cuz I’ve rented only in Europe so it is a first time experience for me 🥺.   I don’t wanna throw more money down the drain and I really want this move to be my third and last in Dubai😭   Thanks guys!     &#32; submitted by &#32;   /u/C",
+   "url": "https://www.reddit.com/r/dubai/comments/1xfb0p2/apartment_hunting_tips/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T20:54:05Z"
+  },
+  {
+   "id": "rd:t3_1xf7f5o",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Strange encounter near Rolla / Dubai – Has anyone experienced something similar?",
+   "text": "   A man claiming to be unemployed and struggling with rent approached me asking for money. I gave him 5 AED from my car. He then repeatedly insisted on shaking my hand in gratitude, but I noticed an unusual object on his finger and declined. Has anyone else experienced a similar incident?     &#32; submitted by &#32;   /u/Educational_Low_3446       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xf7f5o/strange_encounter_near_rolla_dubai_has_anyone/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T20:54:05Z"
+  },
   {
    "id": "rd:t3_1xf6kqr",
    "platform": "Reddit",
@@ -3781,51 +3826,6 @@
    "language": "en",
    "engagement": "8 views",
    "firstSeenAt": "2026-10-20T11:43:41Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d9%87%d9%88%d9%84%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%ac%d8%a7%d8%b1%d8%af%d9%86-%d8%b3/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"هولم\" تطلق مشروع للشقق في جميرا جاردن سيتي في دبي بأسعار تبدأ من 286 ألف دولار",
-   "text": "أطلقت شركة هولم للتطوير العقاري HOLM Developments مشروع هولم سنترال HOLM Central في منطقة جميرا جاردن سيتي بدبي، بأسعار تبدأ&#8230;",
-   "url": "https://masdarak.com/new-projects/%d9%87%d9%88%d9%84%d9%85-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%84%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%ac%d8%a7%d8%b1%d8%af%d9%86-%d8%b3/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T04:56:07Z"
-  },
-  {
-   "id": "rd:t3_1xa4ty8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Landlord wants 3 months’ rent penalty for short notice, but I’m leaving on the expiry date.",
-   "text": "   Hi all, looking for advice from anyone who has dealt with this in Dubai.   - 1-year lease (Ejari registered) ends 19 Nov. Full year&#39;s rent (AED 62k) is paid.  - I emailed non-renewal notice on 17 Oct (33 days before expiry). I&#39;m handing over on time.  - The agent&#39;s July renewal notice only said &quot;visit our office within 90 days prior to expiry to renew.&quot; No penalty was mentioned.  - Management now demands 3 months&#39; rent (AED 15.5k) as a penalty.   Clauses from the lease addendum:   Clause 2.1: &quot;The Lease Period mentioned above shall be renewable by mutual writt",
-   "url": "https://www.reddit.com/r/dubai/comments/1xa4ty8/landlord_wants_3_months_rent_penalty_for_short/",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T04:55:32Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2hLbWt5dEJYOTl1SkMxVTFZUlR0VWpLTjcwdlhXcllJN3JZa0tiNDNnVFVFaEpSb1hHbnVEVkcwemF4SUwtTFlWb0IyWVJyR2hXQ0NrYm5hQVA4NmI1TExEUXNieEJfLWVHTHl1MGxpT1kxdDQzR1ZVRUdrdVJwOXB6b1FndFU?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "استثمارات دبي العقارية تتجاوز 680 مليار درهم في 2025 بنمو قياسي خلال خمس سنوات - XTB.com",
-   "text": " استثمارات دبي العقارية تتجاوز 680 مليار درهم في 2025 بنمو قياسي خلال خمس سنوات &nbsp;&nbsp; XTB.com ",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2hLbWt5dEJYOTl1SkMxVTFZUlR0VWpLTjcwdlhXcllJN3JZa0tiNDNnVFVFaEpSb1hHbnVEVkcwemF4SUwtTFlWb0IyWVJyR2hXQ0NrYm5hQVA4NmI1TExEUXNieEJfLWVHTHl1MGxpT1kxdDQzR1ZVRUdrdVJwOXB6b1FndFU?oc=5",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T22:24:06Z"
   }
  ]
 }
