@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-25T11:37:41Z",
- "newThisRun": 10,
+ "generatedAt": "2026-10-25T16:27:59Z",
+ "newThisRun": 8,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 4,
-  "reddit": 205,
-  "rss": 41
+  "reddit": 208,
+  "rss": 38
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 9,
+   "items": 12,
    "error": null
   },
   {
@@ -72,11 +72,71 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 19,
+   "items": 28,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xf6kqr",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Sponsoring a maid help me understand why",
+   "text": "   Hi I’m relatively new to Dubai,    We have a live out maid though maid cc I believe we pay around 5.5k aed a month. Which i think she takes 3k home (it might be less) I know she pays 600 rent to live out. We also live a good 30-45 min away from her accomodation.    Now the maid has asked me to sponsor her instead of maid cc. Unfortunately her English isn’t great so she can’t really communicate to me why she’d want me to sponsor her vs me just going thru maid cc. Although she’s bought this request up with my wife and now myself.    I’m just struggling to understand why I would go down the pe",
+   "url": "https://www.reddit.com/r/dubai/comments/1xf6kqr/sponsoring_a_maid_help_me_understand_why/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T16:27:24Z"
+  },
+  {
+   "id": "rd:t3_1xf5g46",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Can someone share their experience living at Sunrise tower JVC?",
+   "text": "   I found a really nice well priced apartment at sunrise tower JVC district 11, I&#39;m thinking about moving in there with my wife but I saw a lot of bad reviews on google reviews and no where else is this building spoken about.   Can someone who actually live there validate the bad reviews or validate my decision to move there?😅   Most of the reviews were about the management being bad, but how bad? Also can this tower be considered family friendly or is it mainly sharing? That is very important to me that it&#39;s a family building     &#32; submitted by &#32;   /u/FitExit625       [link] ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xf5g46/can_someone_share_their_experience_living_at/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T16:27:24Z"
+  },
+  {
+   "id": "rd:t3_1xf1d0z",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "What actually happens to a non-Muslim expat’s UAE accounts and assets if they die here?",
+   "text": "   My understanding is that without a registered will, non-Muslim expats in the UAE can end up under default succession rules that may not match what they’d want. DIFC and ADGM both offer will registration, and Abu Dhabi has its own court route for wills. I’m still working out which one applies where, so please correct me.   Individual bank accounts are often frozen after a death until the court process finishes, which can leave a family without access to money for a while. I’m less sure how joint accounts and property are treated in practice.   For anyone who has been through this, either as ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xf1d0z/what_actually_happens_to_a_nonmuslim_expats_uae/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T16:27:24Z"
+  },
+  {
+   "id": "rd:t3_1xf162c",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Monthly car rental companies for new drivers.",
+   "text": "   Hi all,   I’ve passed my driving test today. I was hoping to rent a car monthly. Any reliable recommendations for rental companies for new drivers that are hassle free?     &#32; submitted by &#32;   /u/Natural-Row801       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xf162c/monthly_car_rental_companies_for_new_drivers/",
+   "date": "2026-10-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-25T16:27:24Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d8%a7%d9%84/",
    "platform": "RSS",
@@ -3766,66 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-19T22:24:06Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d9%83%d9%88%d8%b2%d9%85%d9%88-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%85%d8%a7%d8%b1%d9%84%d9%8a%d9%86-%d8%a3%d9%8a%d9%83%d9%88%d9%86/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«كوزمو» تطلق مشروع برج «مارلين أيكون» بـ140 وحدة سكنية في جزيرة الريم بأبوظبي",
-   "text": "أطلقت شركة كوزمو للتطوير العقاري Cosmo Developments مشروع «مارلين أيكون» Marlin Icon في جزيرة الريم بأبوظبي، والذي يضم 140 وحدة&#8230;",
-   "url": "https://masdarak.com/new-projects/%d9%83%d9%88%d8%b2%d9%85%d9%88-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%85%d8%a7%d8%b1%d9%84%d9%8a%d9%86-%d8%a3%d9%8a%d9%83%d9%88%d9%86/",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T22:24:05Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%88%d9%81%d8%b1-4-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%af%d8%a7%d8%b9%d9%85%d8%a9-%d9%84%d8%a3/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«أراضي دبي» توفر 4 خدمات عقارية داعمة لأصحاب الهمم",
-   "text": "تستعرض دائرة الأراضي والأملاك في دبي أربع خدمات عقارية مخصصة لأصحاب الهمم، تشمل إدارة الممتلكات عن بُعد، والمساعدة الشخصية في&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%88%d9%81%d8%b1-4-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%af%d8%a7%d8%b9%d9%85%d8%a9-%d9%84%d8%a3/",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T22:24:05Z"
-  },
-  {
-   "id": "rd:t3_1xa14hi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Family member hasn't paid rent in 14 months - HELP",
-   "text": "   Didn&#39;t know where to post it so I&#39;m posting it here. If there is a better sub for these posts, please suggest, will repost there.    I live in a 2bhk with my parents n my aunt. And we obviously split the rent. My dad&#39;s name is in the official documents so he has to pay the rent from his account. All this time (around 25 years) my aunt has been paying her share in dirhams then and there...Her share of the rent would be deposited or paid in cash to my dad before the rent&#39;s due date.    Since more than a year, my aunt has been refusing to pay the rent in dirhams. Instead, she a",
-   "url": "https://www.reddit.com/r/dubai/comments/1xa14hi/family_member_hasnt_paid_rent_in_14_months_help/",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T22:23:37Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxNSW0wdTdTZWNHdkM4LU14UGxxOGdTbk9qblhVUDBzcFNOZlhKd181UWc4blpJMWJpRWoyTjQyVWtOWXFCallJNkVfVkJnM0dwcnN6MzUzcFRLUDdZNnh0ZHRhbFNtb2d1d0ZmeXg2YmVLcGxvV2h0UWFFMW82X2tQSXloSzJ3X25QRkdEM21KOHV1UjBnMXJZU2xKVS11enVQekUxVmRtRmNlVkdyaEJnUVZIRVFHSDFRVGZ2cFBB?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai's real estate investments hit $185bln in 2025, says report - Zawya",
-   "text": " Dubai's real estate investments hit $185bln in 2025, says report &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSW0wdTdTZWNHdkM4LU14UGxxOGdTbk9qblhVUDBzcFNOZlhKd181UWc4blpJMWJpRWoyTjQyVWtOWXFCallJNkVfVkJnM0dwcnN6MzUzcFRLUDdZNnh0ZHRhbFNtb2d1d0ZmeXg2YmVLcGxvV2h0UWFFMW82X2tQSXloSzJ3X25QRkdEM21KOHV1UjBnMXJZU2xKVS11enVQekUxVmRtRmNlVkdyaEJnUVZIRVFHSDFRVGZ2cFBB?oc=5",
-   "date": "2026-10-19",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-19T13:24:39Z"
   }
  ]
 }
