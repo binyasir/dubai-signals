@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-25T20:54:40Z",
- "newThisRun": 7,
- "sourcesOk": 8,
+ "generatedAt": "2026-10-26T04:53:03Z",
+ "newThisRun": 4,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 4,
+  "youtube": 3,
   "reddit": 210,
-  "rss": 36
+  "rss": 37
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 14,
-   "error": null
-  },
-  {
-   "source": "YouTube Driven Properties",
-   "ok": true,
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
    "items": 0,
-   "error": null
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 24,
+   "items": 13,
    "error": null
   },
   {
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmw5QUdTUFFuVmhqSDhwR2RFeGdpMjZPZmdIbHpabnBWaHNCMkxzU3ZYT2w4RUw4azBiVDZPR1lybkRVdy1sZk9RU0R6dnVIdjlQZEd6N25ZTEZQdDd1SFQ5bkRmY3l4UXhROFJUVVhMUU5xMWFUczE5d2lBYVNXM1JWTl9LSmE0aF8xN0tyaktiZEc0SlBWV3ZQakU2YmFaMGpTZ0FORTFBamhOeVp5Vnd6Xzg4RFFkaUsyRGxYLXZHa2l5NGVmTzRMcWR3dFBfa2ZyVWNGbWZaRUFI?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "ZAWYA: Top industry experts team up for new Dubai real estate venture - TradingView",
+   "text": " ZAWYA: Top industry experts team up for new Dubai real estate venture &nbsp;&nbsp; TradingView ",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmw5QUdTUFFuVmhqSDhwR2RFeGdpMjZPZmdIbHpabnBWaHNCMkxzU3ZYT2w4RUw4azBiVDZPR1lybkRVdy1sZk9RU0R6dnVIdjlQZEd6N25ZTEZQdDd1SFQ5bkRmY3l4UXhROFJUVVhMUU5xMWFUczE5d2lBYVNXM1JWTl9LSmE0aF8xN0tyaktiZEc0SlBWV3ZQakU2YmFaMGpTZ0FORTFBamhOeVp5Vnd6Xzg4RFFkaUsyRGxYLXZHa2l5NGVmTzRMcWR3dFBfa2ZyVWNGbWZaRUFI?oc=5",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T04:53:03Z"
+  },
   {
    "id": "rd:t3_1xfd6sf",
    "platform": "Reddit",
@@ -316,6 +331,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-25T04:47:01Z"
+  },
+  {
+   "id": "rd:t3_1xekwng",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Tired of being an immigrant? Does anyone else feel this way?",
+   "text": "   Let me share my experience. I’ve been living in Buenos Aires since 2012. I came here without really knowing what to expect. A relative let me stay with them for about 20 days, but then, without any warning, they asked me to leave. It was a pretty stressful situation and, in a way, it shaped my first steps as an immigrant.   Today, I have citizenship and, fortunately, enough financial stability that I don’t have to pay rent. Still, there’s something I’ve been feeling lately: sometimes I’m just tired of having to think twice as much about everything.   I think that when you live outside your ",
+   "url": "https://www.reddit.com/r/expats/comments/1xekwng/tired_of_being_an_immigrant_does_anyone_else_feel/",
+   "date": "2026-10-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T04:53:01Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzVENjlzT0lzdUdKMEUzQWNFYXU4c0NlTEdpV1NNV0ZvM0lTWjlPNHk0WTctWjk3S2gzbTZoYjBpOHBlWHJWbkVtMzdpaEtDeWlISFhCQzNUYk00al9vVVpKZEdVeXZtN3BQTGVpNThZWlRkMUlaY215WTVTZko4aG9zUk5CbzJZWlk0dmlXVlRuZDhhLVVBTm5KN05DR1E?oc=5",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-20T11:44:05Z"
-  },
-  {
-   "id": "rd:t3_1xam6rt",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Whats common etiquette when hiring a cleaner for an apartment?",
-   "text": "   So i broke my wrist last weekend, and i have a cast on. While i can still clean slightly, accidentally getting it wet is a big fear now. Ive been considering getting a cleaning service via urban company.  Whats the general rule with them? Do i leave them with the apartment? Can i stay back and watch TV. The awkward part is that it’s a studio.  What do you guys normally do?      &#32; submitted by &#32;   /u/lykicare       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xam6rt/whats_common_etiquette_when_hiring_a_cleaner_for/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T11:43:43Z"
-  },
-  {
-   "id": "yt:Y5PVaR2J-3o",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "Allsopp & Allsopp",
-   "title": "Inside a 79,000,000 AED Villa on Billionaires’ Row | Palm Jumeirah",
-   "text": "Discover this fully renovated, custom-built five-bedroom villa on Billionaires’ Row, Palm Jumeirah, presented by Allsopp & Allsopp.\n\nSpread across four levels, including a basement, ground floor, first floor and rooftop, this exceptional villa offers approximately 10,000 sq. ft. of built-up area on a 7,491 sq. ft. plot. Finished to a high standard and sold fully turnkey, it combines spacious living with a prime waterfront location.\n\nEnjoy panoramic views of Atlantis The Palm and the Dubai Marina skyline, with a stunning rooftop infinity pool offering the perfect setting to relax and take in Du",
-   "url": "https://www.youtube.com/watch?v=Y5PVaR2J-3o",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "8 views",
-   "firstSeenAt": "2026-10-20T11:43:41Z"
   }
  ]
 }
