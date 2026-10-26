@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-10-26T04:53:03Z",
- "newThisRun": 4,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-26T13:10:06Z",
+ "newThisRun": 12,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
-  "reddit": 210,
-  "rss": 37
+  "reddit": 207,
+  "rss": 40
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 14,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
+   "source": "YouTube Driven Properties",
+   "ok": true,
    "items": 0,
-   "error": "HTTP 404"
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 11,
+   "items": 6,
    "error": null
   },
   {
@@ -58,15 +58,15 @@
    "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 13,
+   "items": 25,
    "error": null
   },
   {
@@ -77,6 +77,96 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a3%d8%aa%d8%a7%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%a8%d9%86%d9%89-%d9%81%d9%8a%d9%84%d9%88%d8%b1%d8%a7-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"أتارا\" تطلق مشروع مبنى \"فيلورا ريزيدنس\" بـ58 شقة مفروشة في جزر دبي",
+   "text": "أعلنت شركة أتارا للتطوير العقاري ATARA Development إطلاق مشروع فيلورا ريزيدنس Velora Residence في جزر دبي، ويضم 58 شقة مفروشة&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a3%d8%aa%d8%a7%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%a8%d9%86%d9%89-%d9%81%d9%8a%d9%84%d9%88%d8%b1%d8%a7-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:10:05Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%af%d8%a7%d8%b1-%d8%ac%d9%84%d9%88%d8%a8%d8%a7%d9%84-%d9%83%d8%a7%d8%a8%d9%8a%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d8%b1%d8%aa%d9%86%d8%b1%d8%b2-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a5%d8%b7%d9%84%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"دار جلوبال كابيتال بارتنرز\" تدرس إطلاق صندوق للاستثمار العقاري في دبي",
+   "text": "أعلنت شركة دار جلوبال كابيتال بارتنرز Dar Global Capital Partners، ذراع إدارة الأصول البديلة التابعة لشركة دار جلوبال، أنها تدرس&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%af%d8%a7%d8%b1-%d8%ac%d9%84%d9%88%d8%a8%d8%a7%d9%84-%d9%83%d8%a7%d8%a8%d9%8a%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d8%b1%d8%aa%d9%86%d8%b1%d8%b2-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a5%d8%b7%d9%84%d8%a7/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:10:05Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%b1%d8%b3%d9%8a-%d8%b9%d9%82%d8%af%d8%a7%d9%8b-%d9%84%d8%a8%d9%86%d8%a7%d8%a1-617-%d9%88%d8%ad%d8%af%d8%a9-%d8%b6%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "\"نخيل\" ترسي عقداً لبناء 617 وحدة ضمن مشروع \"باي غروف ريزيدنسز\" في جزر دبي",
+   "text": "أرست شركة نخيل، التابعة لدبي القابضة للعقارات، عقد إنشاءات بقيمة تتجاوز نحو 259 مليون دولار (950 مليون درهم) على شركة&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%b1%d8%b3%d9%8a-%d8%b9%d9%82%d8%af%d8%a7%d9%8b-%d9%84%d8%a8%d9%86%d8%a7%d8%a1-617-%d9%88%d8%ad%d8%af%d8%a9-%d8%b6%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:10:05Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%87%d8%b0%d9%87-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%86%d9%85%d9%88%d8%a7%d9%8b-%d9%81%d9%8a-%d8%b9%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%a5%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "هذه مناطق دبي الأعلى نمواً في عقود الإيجار الجديدة خلال 9 أشهر 2026",
+   "text": "سجّلت مناطق سكنية في دبي ارتفاعاً في الطلب على الاستئجار خلال الأشهر التسعة الأولى من عام 2026، مع اقتراب عدد&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%87%d8%b0%d9%87-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d8%b9%d9%84%d9%89-%d9%86%d9%85%d9%88%d8%a7%d9%8b-%d9%81%d9%8a-%d8%b9%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%a5%d9%8a/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:10:05Z"
+  },
+  {
+   "id": "rd:t3_1xfsxqw",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Barsha Heights building",
+   "text": "   Has anyone lived in Nimir building and recommend it? I went to view and loved it and want to know people’s experience with the management? Also would love to do direct from landlord as the agency fee is so high and the agent didn’t even bother to meet me     &#32; submitted by &#32;   /u/Mykehu       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xfsxqw/barsha_heights_building/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:09:36Z"
+  },
+  {
+   "id": "rd:t3_1xfr7uq",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Car rental agency charged my card without me ever giving them my card number: how is that possible ? Is it legal ?",
+   "text": "   A rental agency I&#39;ve been using for months just told me this month&#39;s payment had already been charged to my card.   The problem? I&#39;ve NEVER given them my card details. I&#39;ve always paid through one-time payment links.   How is this even possible? Is it legal? What can I do to stop them from charging me without my consent (which is very likely to happen based on how many times they have tried to charge me fake fees in the last months) ?     &#32; submitted by &#32;   /u/xbrvejdujefb       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xfr7uq/car_rental_agency_charged_my_card_without_me_ever/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:09:36Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmw5QUdTUFFuVmhqSDhwR2RFeGdpMjZPZmdIbHpabnBWaHNCMkxzU3ZYT2w4RUw4azBiVDZPR1lybkRVdy1sZk9RU0R6dnVIdjlQZEd6N25ZTEZQdDd1SFQ5bkRmY3l4UXhROFJUVVhMUU5xMWFUczE5d2lBYVNXM1JWTl9LSmE0aF8xN0tyaktiZEc0SlBWV3ZQakU2YmFaMGpTZ0FORTFBamhOeVp5Vnd6Xzg4RFFkaUsyRGxYLXZHa2l5NGVmTzRMcWR3dFBfa2ZyVWNGbWZaRUFI?oc=5",
    "platform": "RSS",
@@ -931,6 +1021,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-24T11:06:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi9wFBVV95cUxOT285blhBeFQwTkMyMnk0QTB0X0M0VTBZUHNVUG5DOWtjNDFNWGowNEVOYnBmXzhoWkk0aS15ZlllSWhNUldFVktLbUVqTGRNWHUyQUEtWndwOG8welFHTlVub19ZNkZXenlOM2ljN3JGczk1RjBwdjN0WUVCOWVVZ0J0OUFhNlVZM0d4OWVmZG5pelNkQzhIUjd4RFY3VVhRaWhfLW9vNjNIZUdObGZPTGVVclFlOHBtTmNLWEtGYkZFa2hwRlpFTkRJendpU2RDQ3l4aERCa2lyVzJNMzRZdHNMWWwzRkhVY3Z5b3JqYnJpOUhiTWdv?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links - FinancialContent",
+   "text": " Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links &nbsp;&nbsp; FinancialContent ",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOT285blhBeFQwTkMyMnk0QTB0X0M0VTBZUHNVUG5DOWtjNDFNWGowNEVOYnBmXzhoWkk0aS15ZlllSWhNUldFVktLbUVqTGRNWHUyQUEtWndwOG8welFHTlVub19ZNkZXenlOM2ljN3JGczk1RjBwdjN0WUVCOWVVZ0J0OUFhNlVZM0d4OWVmZG5pelNkQzhIUjd4RFY3VVhRaWhfLW9vNjNIZUdObGZPTGVVclFlOHBtTmNLWEtGYkZFa2hwRlpFTkRJendpU2RDQ3l4aERCa2lyVzJNMzRZdHNMWWwzRkhVY3Z5b3JqYnJpOUhiTWdv?oc=5",
+   "date": "2026-10-23",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T13:10:05Z"
   },
   {
    "id": "rd:t3_1xdtme8",
@@ -3721,111 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-20T17:13:01Z"
-  },
-  {
-   "id": "rd:t3_1xasoxp",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Title: Moving to Wadi Shaam, Ras Al Khaimah – Need Advice About Rent and Family Life",
-   "text": "   &#x200B;   Hi everyone!   My husband’s company is transferring him to  Wadi Shaam, Ras Al Khaimah , and we’re trying to learn more about the area before making the move.   We have two young children, and neither will be starting school for at least another three years. I’ve been searching online for information about Wadi Shaam, but there seems to be very little available.   I’d really appreciate it if anyone living in or familiar with the area could share some information about:    Rent:  What are the typical rental prices for apartments or villas?    Facilities:  Are supermarkets, pharmac",
-   "url": "https://www.reddit.com/r/UAE/comments/1xasoxp/title_moving_to_wadi_shaam_ras_al_khaimah_need/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:01Z"
-  },
-  {
-   "id": "rd:t3_1xawrwq",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "I’d appreciate if anyone could advise on this. Late rental payment fee refusal",
-   "text": "   Hi all, I wanted to ask what would happen if I refuse to pay the late rental payment fee of AED 500? I am the tenant in this scenario   Quick chronological event order.  Jan 2026- Landlord(LL) signed a letter to the Property management(PM) saying that all rent payments should be sent via bank transfer as Ll’s bank accounts are frozen. So the PM company would message me on the day rent is due and I’ll transfer it on the day itself either to Ll’s bank account or PM bank account and they would tear up the cheque.    July 2026- PM say they want a 10% increase but will settle for 7%. I refuse an",
-   "url": "https://www.reddit.com/r/dubai/comments/1xawrwq/id_appreciate_if_anyone_could_advise_on_this_late/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:12:45Z"
-  },
-  {
-   "id": "rd:t3_1xatv0y",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Downtown Dubai Emaar owners/residents – anyone affected by the new Tasleem cooling charges?",
-   "text": "   I&#39;m an owner in an Emaar-managed building in Downtown Dubai, and I&#39;m trying to understand how other owners and residents are dealing with the recent transition to separate Tasleem cooling billing.   In October 2026, Emaar announced the transition, with Tasleem confirming that cooling charges would be billed retrospectively from  1 January 2026 .   I have several concerns:      Service charge reconciliation:  I&#39;ve already paid my quarterly service charges throughout 2026. However, I haven&#39;t received a breakdown showing how much cooling was previously included or exactly how m",
-   "url": "https://www.reddit.com/r/dubai/comments/1xatv0y/downtown_dubai_emaar_ownersresidents_anyone/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:12:45Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%84%d9%8a%d9%86%d8%ba%d8%aa%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82%d8%a7%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%84%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"إلينغتون\" و\"الحمرا\" تطلقان مشروع برج للمكاتب في الخليج التجاري بدبي بقيمة 762 مليون دولار",
-   "text": "أعلنت إلينغتون العقارية Ellington Properties، بالشراكة مع مجموعة الحمرا Al Hamra Group، المتخصصة في التطوير والاستثمار العقاري ومقرها رأس الخيمة،&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%84%d9%8a%d9%86%d8%ba%d8%aa%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82%d8%a7%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%b1%d8%ac-%d9%84%d9%84/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T11:44:17Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "مبيعات العقارات السكنية في أبوظبي ترتفع 32% بالربع الثالث 2026",
-   "text": "بلغت قيمة مبيعات العقارات السكنية في أبوظبي نحو 5.85 مليار دولار (21.5 مليار درهم) خلال الربع الثالث من 2026، بزيادة&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%aa%d8%b1%d8%aa/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T11:44:17Z"
-  },
-  {
-   "id": "rd:t3_1xapqs3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "If you earn 50-100k+ AED a month, do you still shop at discount centers (1-10 AED stores)? Or does your time become worth more than the savings?",
-   "text": "                  Image for illustration only. It does not represent any UAE business or brand.    Hypothetical situation. You’re earning well over 50-100k a month; you have a villa, a few cars, the whole setup. Are you still shopping at discount centers for household items, cleaning supplies, maybe even clothes?   I ask because I know someone who is genuinely wealthy and still drives across the city to find the best discount store for his monthly stuff. Not once in a while, but as a routine.   My assumption was always that once you’re rich enough, you value time over money. If a trip costs yo",
-   "url": "https://www.reddit.com/r/UAE/comments/1xapqs3/if_you_earn_50100k_aed_a_month_do_you_still_shop/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T11:44:05Z"
-  },
-  {
-   "id": "rd:t3_1xaksvj",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "DAS Car Rental Has Not Returned My AED 1,000 Security Deposit – Anyone Else Experienced This?",
-   "text": "   I rented a car from  DAS Car Rental in Dubai  and returned the vehicle. It&#39;s been more than 3 weeks and but I still haven&#39;t received my  AED 1,000 security deposit  back when they said it will be returned aftr 21 days.   Has anyone here experienced the same issue with DAS Car Rental? How long did it take for you to get your security deposit back? They are not answering my calls   I&#39;d also appreciate advice on where I can file a complaint in the UAE if they continue delaying the refund.     &#32; submitted by &#32;   /u/Just-Tour5338       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1xaksvj/das_car_rental_has_not_returned_my_aed_1000/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T11:44:05Z"
   }
  ]
 }
