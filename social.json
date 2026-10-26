@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-26T13:10:06Z",
- "newThisRun": 12,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-26T22:42:56Z",
+ "newThisRun": 10,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 3,
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 3,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 27,
    "error": null
   },
   {
@@ -77,6 +77,96 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi8gRBVV95cUxOcjkwYlNXZEdTTjM0R0NQTXJDSFBWbXFFMDVTRzVscUdGM0NZWXU1aVUzRWNYbVliNlo3Ylg2a2c1c0pKcVRuMkxsSWRTZmJkdzNaY3ZfRS16ckk4TzRkbDVsYUxEOFhfZHVZZE9DVDZNLXhhV05IMnpybFJVX0ZFX1kyN0NsOTRneWVjS2tFR0NiTm1IMXlMU3BjbkU1X0Ryc1AwSHZ5c09GbmxqLWxfbDRqYWhHYmNRQzQzaXdERUxYV1RRTlhyU0tsdWVKV0NMTGJkbUVSdmJqZzFmVjk4bWFFaWpaQy1QaFhoSE1IQjZ2aTI2cWY5R2k1V1Q3NXVfalU1YjBmVmx2X1I3NXM3Uy1rb283T0tYcVhDV3kzQTdzamx2YzJCbkFoMWg0OE11bWwyZTR4ZDhCdGt5U3Rubi1vY200OW1fcnhHbmRvTlAwQ0N5MGItZFVULS1kdHZqcEFFLWhGX3VKcnpxbkJXTGtTTkZvX0NxRTJUc1BmTm1TRFpoVG5MbHpSeGJBRFVuX2lqUVY0a0lmRVhnTU41QXVXV293R01DZWRpbU5XLU45WkVFX3NBaFh4S3JOcUFmUHNhUklUcUxKSWFSbXZMTkVOU2lyVzhUdjY4V1RxNld4Q2tXNmN3a2llSGpwTHlPX3ZONVQ5cnVFLVZCelFHYjlxSVQ5V1JJSmNpbnM5UHR5aVo2UExzOURrN0ZxMVpMekRvQUxWc2NjVEV5b1l0R2J3aWR0dU1Xb2ZZbTEta0lYbWNwU3JUcGhZMjhLSW9qZnFyWFJDYU1uT0plcGlObFJNeDd0OUQ0Njg4blZDY09pZw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "فراس المسدي: أسست «فام» العقارية وسط أزمة 2009.. وهذه توقعاتي لأسعار العقارات في دبي - CNN الاقتصادية",
+   "text": " فراس المسدي: أسست «فام» العقارية وسط أزمة 2009.. وهذه توقعاتي لأسعار العقارات في دبي &nbsp;&nbsp; CNN الاقتصادية ",
+   "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOcjkwYlNXZEdTTjM0R0NQTXJDSFBWbXFFMDVTRzVscUdGM0NZWXU1aVUzRWNYbVliNlo3Ylg2a2c1c0pKcVRuMkxsSWRTZmJkdzNaY3ZfRS16ckk4TzRkbDVsYUxEOFhfZHVZZE9DVDZNLXhhV05IMnpybFJVX0ZFX1kyN0NsOTRneWVjS2tFR0NiTm1IMXlMU3BjbkU1X0Ryc1AwSHZ5c09GbmxqLWxfbDRqYWhHYmNRQzQzaXdERUxYV1RRTlhyU0tsdWVKV0NMTGJkbUVSdmJqZzFmVjk4bWFFaWpaQy1QaFhoSE1IQjZ2aTI2cWY5R2k1V1Q3NXVfalU1YjBmVmx2X1I3NXM3Uy1rb283T0tYcVhDV3kzQTdzamx2YzJCbkFoMWg0OE11bWwyZTR4ZDhCdGt5U3Rubi1vY200OW1fcnhHbmRvTlAwQ0N5MGItZFVULS1kdHZqcEFFLWhGX3VKcnpxbkJXTGtTTkZvX0NxRTJUc1BmTm1TRFpoVG5MbHpSeGJBRFVuX2lqUVY0a0lmRVhnTU41QXVXV293R01DZWRpbU5XLU45WkVFX3NBaFh4S3JOcUFmUHNhUklUcUxKSWFSbXZMTkVOU2lyVzhUdjY4V1RxNld4Q2tXNmN3a2llSGpwTHlPX3ZONVQ5cnVFLVZCelFHYjlxSVQ5V1JJSmNpbnM5UHR5aVo2UExzOURrN0ZxMVpMekRvQUxWc2NjVEV5b1l0R2J3aWR0dU1Xb2ZZbTEta0lYbWNwU3JUcGhZMjhLSW9qZnFyWFJDYU1uT0plcGlObFJNeDd0OUQ0Njg4blZDY09pZw?oc=5",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T22:42:56Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%88%d8%b5%d9%84-%d9%88%d8%b3%d8%a7%d9%86%d8%ac%d9%8a%d9%88%d9%86%d8%ac-%d8%aa%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«وصل» و«سانجيونج» تبحثان تطوير مشاريع عقارية بـ2.7 مليار دولار في دبي خلال 3 سنوات",
+   "text": "وقّعت مجموعة وصل اتفاقية استراتيجية مع شركة «سانجيونج للهندسة والإنشاءات» Ssangyong Engineering &#38; Construction الكورية الجنوبية، لاستكشاف فرص التعاون في&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%88%d8%b5%d9%84-%d9%88%d8%b3%d8%a7%d9%86%d8%ac%d9%8a%d9%88%d9%86%d8%ac-%d8%aa%d8%a8%d8%ad%d8%ab%d8%a7%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%a7%d8%b1%d9%8a/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T22:42:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaE1aYWYxNndpS0M0T29GNVV2NURENHRhSDFGTUNYbnBfNF94RjJKaTZZdkxycGNhcGVwVDhHYjBoa1R3ckFTWjlidUxEb2Q2dms0ZjZaNGhjUzQyQk1BVnpCMjFFUGc3bnBLUDY1czdvRlpfT1ZwdEVVTUExT0U?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "[PRNewswire] DAR GLOBAL UNIT TARGETS DUBAI REAL ESTATE - Yonhap News Agency",
+   "text": " [PRNewswire] DAR GLOBAL UNIT TARGETS DUBAI REAL ESTATE &nbsp;&nbsp; Yonhap News Agency ",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DaE1aYWYxNndpS0M0T29GNVV2NURENHRhSDFGTUNYbnBfNF94RjJKaTZZdkxycGNhcGVwVDhHYjBoa1R3ckFTWjlidUxEb2Q2dms0ZjZaNGhjUzQyQk1BVnpCMjFFUGc3bnBLUDY1czdvRlpfT1ZwdEVVTUExT0U?oc=5",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T22:42:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmRyeGpoZnBiemdMWFdHOEx2T0Y2dHN0bHcya01XT3pzX0s3NUVMVGFscmZqWnFJd2tKVDJyaUR6dHFVM2d4NmJnaEJGV3FBeHBoVVo4ekV2QV9rcGZ6MWFoZUhWVkhjRHdzZ0ZwNUtiYkh1R3F4T0tFWEZBblBpVjRFVmJvZTdKOU9fZEtlcWcxREw0YUdDR0FCYjRkMUE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dar Global explores new fund to invest in Dubai property - Arabian Gulf Business Insight | AGBI",
+   "text": " Dar Global explores new fund to invest in Dubai property &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmRyeGpoZnBiemdMWFdHOEx2T0Y2dHN0bHcya01XT3pzX0s3NUVMVGFscmZqWnFJd2tKVDJyaUR6dHFVM2d4NmJnaEJGV3FBeHBoVVo4ekV2QV9rcGZ6MWFoZUhWVkhjRHdzZ0ZwNUtiYkh1R3F4T0tFWEZBblBpVjRFVmJvZTdKOU9fZEtlcWcxREw0YUdDR0FCYjRkMUE?oc=5",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T22:42:55Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9CZDZCeUdoeFNnSmRpMS1nNVNaS0x1Zjk1SDZGeFpnNWVIOG1hLXpxVDNDWGtpTmhlTzV2YmRnM19HR3pJYjk3WTNxZTRHNy1tSktJSkF2NU9jVkNpdWFfV092Zjd3Vml4UmloZ0JieWxmaVJXVEhxLVVCYzd0ZklTNHl2ekVNNWppbDYtenBDOHhQelFtV1ZPTHpSeUR1dFpsSlRhQmlSWWh4WkdxQ2xfOFRsQWdmMS1GQ25EcUk0dVZT?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dar Global eyes dedicated Dubai real estate fund as it targets global acquisitions - Arabian Business",
+   "text": " Dar Global eyes dedicated Dubai real estate fund as it targets global acquisitions &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUm9CZDZCeUdoeFNnSmRpMS1nNVNaS0x1Zjk1SDZGeFpnNWVIOG1hLXpxVDNDWGtpTmhlTzV2YmRnM19HR3pJYjk3WTNxZTRHNy1tSktJSkF2NU9jVkNpdWFfV092Zjd3Vml4UmloZ0JieWxmaVJXVEhxLVVCYzd0ZklTNHl2ekVNNWppbDYtenBDOHhQelFtV1ZPTHpSeUR1dFpsSlRhQmlSWWh4WkdxQ2xfOFRsQWdmMS1GQ25EcUk0dVZT?oc=5",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T22:42:55Z"
+  },
+  {
+   "id": "rd:t3_1xg7juv",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "I’m looking for an accommodation for 30 persons",
+   "text": "   Hello Folks,   I’m looking for an accommodation which is not very expensive for a family who is coming to Dubai for a function.    The dates of stay : 25 December - 1 January    If you guys have any leads or suggestions, kindly let me know.  They are open to stay in a villa or a farmhouse ir an apartment or a hotel apartment anything is fine , but it must be cheap and decent.      &#32; submitted by &#32;   /u/Adorable-Belt-5693       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xg7juv/im_looking_for_an_accommodation_for_30_persons/",
+   "date": "2026-10-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-26T22:42:20Z"
+  },
   {
    "id": "rs:https://masdarak.com/new-projects/%d8%a3%d8%aa%d8%a7%d8%b1%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%85%d8%a8%d9%86%d9%89-%d9%81%d9%8a%d9%84%d9%88%d8%b1%d8%a7-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3/",
    "platform": "RSS",
@@ -3736,96 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-20T21:40:04Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMivgRBVV95cUxOUzF2RGVwbHdTZDEtOHBuNzJtVTVCY3IwVG9tOHN1c1RtTzFrampqYkdubkN1RllySlRPUXRZV2lrNXBtZTlJQ28tSWNpMDFnVVN2X3NrZlJEWk10cUQ2U2YxaW01dXhXaEpHZ1JmamVjYmdlVnhUS3JfeWFFNGtJUUtlMG5vYUF5Z2lUZUZ5MW1OOFhKSFgxdTI2UjM4cFFKRUt0V19lZzhDNldWWk91SzFyMkVrSDZjNDF2M1l2WnZGN1lGSENEWGczX1BGeVJmRjFEQzlsdVBOSGxqQ2MxVjBlZmVDMnY3ODBPN0ZFY3lVOHBaNXVXdl9CcU1HRjJodklBV3dSLW9tT3dPNUNkNElBYnpYekNvbElaNlRHNTRINGJFZU5SNjRZRHBEcWoxSUpTUnhGeG8yRWhJbXdmSGpmZFpnQlgzb1ZHdUZuZEdWT0VBU0s0enNBTTVKTVNzQzdtX2tUTV9CLWtIQXg1bjV6QUhnckh1U0xET2dMUHdYamxiVHM4Zk5KTzFfc2lOcEUtOFZpajVUZUxMNW9vVDZiMHdmVzFzZG1nM1ZfQTRqaWJEMHFwWERHaVJFY3U2TnBsbkhodHM4SzJEZDhGTmZfdUJjekFjZTU1UVBEMnRkLUxLcEc5cl9PUUV2REljT240LW5iNk1QSlEtSFg4Nk5LcTJrWWY2ZFFNSHJjYUJWc1FrbU5pOEJ0UFVwTmdDcTVpZTMxeXhreDlmVjRXT25VWkVIa1JhTXFzd3p3?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "مستثمرون يضخون 6.7 مليار دولار في عقارات دبي الفاخرة - صحيفة الخليج",
-   "text": " مستثمرون يضخون 6.7 مليار دولار في عقارات دبي الفاخرة &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOUzF2RGVwbHdTZDEtOHBuNzJtVTVCY3IwVG9tOHN1c1RtTzFrampqYkdubkN1RllySlRPUXRZV2lrNXBtZTlJQ28tSWNpMDFnVVN2X3NrZlJEWk10cUQ2U2YxaW01dXhXaEpHZ1JmamVjYmdlVnhUS3JfeWFFNGtJUUtlMG5vYUF5Z2lUZUZ5MW1OOFhKSFgxdTI2UjM4cFFKRUt0V19lZzhDNldWWk91SzFyMkVrSDZjNDF2M1l2WnZGN1lGSENEWGczX1BGeVJmRjFEQzlsdVBOSGxqQ2MxVjBlZmVDMnY3ODBPN0ZFY3lVOHBaNXVXdl9CcU1HRjJodklBV3dSLW9tT3dPNUNkNElBYnpYekNvbElaNlRHNTRINGJFZU5SNjRZRHBEcWoxSUpTUnhGeG8yRWhJbXdmSGpmZFpnQlgzb1ZHdUZuZEdWT0VBU0s0enNBTTVKTVNzQzdtX2tUTV9CLWtIQXg1bjV6QUhnckh1U0xET2dMUHdYamxiVHM4Zk5KTzFfc2lOcEUtOFZpajVUZUxMNW9vVDZiMHdmVzFzZG1nM1ZfQTRqaWJEMHFwWERHaVJFY3U2TnBsbkhodHM4SzJEZDhGTmZfdUJjekFjZTU1UVBEMnRkLUxLcEc5cl9PUUV2REljT240LW5iNk1QSlEtSFg4Nk5LcTJrWWY2ZFFNSHJjYUJWc1FrbU5pOEJ0UFVwTmdDcTVpZTMxeXhreDlmVjRXT25VWkVIa1JhTXFzd3p3?oc=5",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:14Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMivwJBVV95cUxPTkpCcVJEcEhoUERMUUc1Qlo0d1lKVElHR1U3LWI2TGRKeUIzLWhmbGp0cE8wWVVCREhtN21hc3lodk54NzVkZmVZcmVLRzcycHhqS19wYmdRZ0pzRjFXRnh0cEx1a1J1cUNPX1k2V3VJY191emM3YlZwWUtXclpMSEFMSy1pZTVxeW9IUlltQ0Uwd3UzTmY5OXJvZ20ta3hnTjdsWm5Jc0dhekxzLUdFemEwR0kyTlpKMExaRlJRYUc2cEdtS1A5N3l6ekk3WFF1N0kzR1VGSVJacTgzdjl3cFdhd2M1WG8ydkw5OGdFZFJuSTRCR04wa2psQU9YRmxxNGstREdmamdaMGRkYmNPYkREVWdZX0JhNkVZd3dZM0oya2xqUE9icUt4d0JqYXpfdjNUM0dfNGxldDBGNlhB?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "تراجع مبيعات العقارات الفاخرة في دبي بنسبة 17% - شبكة دال",
-   "text": " تراجع مبيعات العقارات الفاخرة في دبي بنسبة 17% &nbsp;&nbsp; شبكة دال ",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTkpCcVJEcEhoUERMUUc1Qlo0d1lKVElHR1U3LWI2TGRKeUIzLWhmbGp0cE8wWVVCREhtN21hc3lodk54NzVkZmVZcmVLRzcycHhqS19wYmdRZ0pzRjFXRnh0cEx1a1J1cUNPX1k2V3VJY191emM3YlZwWUtXclpMSEFMSy1pZTVxeW9IUlltQ0Uwd3UzTmY5OXJvZ20ta3hnTjdsWm5Jc0dhekxzLUdFemEwR0kyTlpKMExaRlJRYUc2cEdtS1A5N3l6ekk3WFF1N0kzR1VGSVJacTgzdjl3cFdhd2M1WG8ydkw5OGdFZFJuSTRCR04wa2psQU9YRmxxNGstREdmamdaMGRkYmNPYkREVWdZX0JhNkVZd3dZM0oya2xqUE9icUt4d0JqYXpfdjNUM0dfNGxldDBGNlhB?oc=5",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:14Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KZlZ2WnBQeE91WTVQOXNjemxPVF9Nd1FhTWlsUkxLTzhOYUpmTEtkajVVTml0WTUtVFAxbE13TnVDdVpuTGRKai1rSkZCN1ZjZ1hBak5xeXJFMVhsSkE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "وكالة الإقتصاد نيوز - تراجع مبيعات العقارات الفاخرة في دبي 17% رغم استمرار الطلب - www.economy-news.net",
-   "text": " وكالة الإقتصاد نيوز - تراجع مبيعات العقارات الفاخرة في دبي 17% رغم استمرار الطلب &nbsp;&nbsp; www.economy-news.net ",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KZlZ2WnBQeE91WTVQOXNjemxPVF9Nd1FhTWlsUkxLTzhOYUpmTEtkajVVTml0WTUtVFAxbE13TnVDdVpuTGRKai1rSkZCN1ZjZ1hBak5xeXJFMVhsSkE?oc=5",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:14Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a7%d9%85%d8%aa%d9%8a%d8%a7%d8%b2-%d8%aa%d8%b7%d9%88%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%83%d9%88%d8%b1-%d9%81%d9%8a-%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d8%af%d8%a8/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«امتياز» تطور مشروع «كور» في منطقة «دبي لاند» بمرافق صحية ورياضية متعددة",
-   "text": "أعلنت شركة امتياز للتطوير العقاري Imtiaz Developments، التي تتخذ من دبي مقراً لها، عن تفاصيل مشروعها السكني الجديد «كور من&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a7%d9%85%d8%aa%d9%8a%d8%a7%d8%b2-%d8%aa%d8%b7%d9%88%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%83%d9%88%d8%b1-%d9%81%d9%8a-%d9%85%d9%86%d8%b7%d9%82%d8%a9-%d8%af%d8%a8/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a3%d9%84%d9%81-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85%d8%a7%d9%8b-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a7%d9%8b/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«ألف العقارية» تسجل اهتماماً قياسياً بمشروعها الجديد في منطقة الخان بالشارقة",
-   "text": "أعلنت مجموعة ألف العقارية Alef Group، شركة التطوير العقاري التي تتخذ من الشارقة مقراً لها، تسجيل طلبات إبداء اهتمام تعادل&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a3%d9%84%d9%81-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85%d8%a7%d9%8b-%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a7%d9%8b/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:13Z"
-  },
-  {
-   "id": "rd:t3_1xaxjaz",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "EJARI System Deactivated",
-   "text": "   Hi, posting here maybe someone who has experience can help with some queries.   We are a Real Estate company who has an Ejari System. Recently, it was deactivated by DLd- they said that we have done Ejari without management contracts (from the owner). They said, they are reviewing our account and they wil contact us.   My question is:     Will our company get fined.    How long it takes normally for this review or audit.    If in case, they said we cannot activate our system, can we apply again.     Thank you for anyone who can answer my queries.     &#32; submitted by &#32;   /u/shisuka_  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1xaxjaz/ejari_system_deactivated/",
-   "date": "2026-10-20",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-20T17:13:01Z"
   }
  ]
 }
