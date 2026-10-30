@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-10-30T05:54:27Z",
- "newThisRun": 12,
- "sourcesOk": 5,
+ "generatedAt": "2026-10-30T13:00:56Z",
+ "newThisRun": 13,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 3,
-  "reddit": 176,
-  "rss": 71
+  "youtube": 5,
+  "reddit": 172,
+  "rss": 73
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 35,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -58,25 +58,160 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 32,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlA2QThoRG53QzVIU3Q2TFhLN1BSRS05REVEMDBrNVdBTVFSMEZpNC14UzJHRy1iY0FuczFNNlVyeFJ3XzJHbjVlalBEZGkzVzNicGNVSjFfZTl6LTlyc09qUC1JTnFQX0psWEFlSDV4T3FVVFhpSEJzS2xfZ2o2NXQ0VjMzZmU3S0FTY1ZVcUNMSzVjNUFkdnQ1Y01SRHUtcU1FY3VQel9SZFJxZ3hJWjNnOExSQQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate agent gets a Lamborghini Urus after closing $500M in deals - The Supercar Blog",
+   "text": " Dubai real estate agent gets a Lamborghini Urus after closing $500M in deals &nbsp;&nbsp; The Supercar Blog ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlA2QThoRG53QzVIU3Q2TFhLN1BSRS05REVEMDBrNVdBTVFSMEZpNC14UzJHRy1iY0FuczFNNlVyeFJ3XzJHbjVlalBEZGkzVzNicGNVSjFfZTl6LTlyc09qUC1JTnFQX0psWEFlSDV4T3FVVFhpSEJzS2xfZ2o2NXQ0VjMzZmU3S0FTY1ZVcUNMSzVjNUFkdnQ1Y01SRHUtcU1FY3VQel9SZFJxZ3hJWjNnOExSQQ?oc=5",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:56Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3EwcUFzZmp1NW81Sm4wTGNkUGlhVkxLQUNZOE5mRHhDbVA4QjVsMHktM0RYR1FxWlZBeklRVXV4cnAtb1lzVHdVU0ZlSV9rQ0VuOWZrenVXd0I0VEw4bFF0MVJYemIzR0ZRWm1zaHhVZktRLVMwU0Nvd1RlQzhZQjFHYjVOQjZPU1ZFTjNUU085Mi1kRDU2N0dpVjV6M2VyeGtZQURTeEtuaklQYnB3dmpvUW5LNUZzeE1CckhWSHFvUldzdU5fbWwwTQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate firm gifts employee Rs 4 crore Lamborghini for $500 million sales achievement - Oherald",
+   "text": " Dubai real estate firm gifts employee Rs 4 crore Lamborghini for $500 million sales achievement &nbsp;&nbsp; Oherald ",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3EwcUFzZmp1NW81Sm4wTGNkUGlhVkxLQUNZOE5mRHhDbVA4QjVsMHktM0RYR1FxWlZBeklRVXV4cnAtb1lzVHdVU0ZlSV9rQ0VuOWZrenVXd0I0VEw4bFF0MVJYemIzR0ZRWm1zaHhVZktRLVMwU0Nvd1RlQzhZQjFHYjVOQjZPU1ZFTjNUU085Mi1kRDU2N0dpVjV6M2VyeGtZQURTeEtuaklQYnB3dmpvUW5LNUZzeE1CckhWSHFvUldzdU5fbWwwTQ?oc=5",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:56Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxPRS1NcWwwZThVUXY5amdUNjF6OFY5aHBsMk12Q2JZanFxQ2NITHpFaWtpVzN2RWc5TF8wZFRJRURiTTBBVWVacDVnbmRVdlk1RzJ4Z01Ja0NWRDUwWmxTS0FKZk94UHQ2TjJrWEUySUZ4ckdrY2ViX2x0Vy1lZFNNczVDZHQ5V0xDSHlWTTI3ZzZiYmhDd1NDaC1XNTZlQzczUlBRbGJOYm1XOFlmV2pZRkM2UkdDNjg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate buyers find better deals as new homes reach the market - Arabian Business",
+   "text": " Dubai real estate buyers find better deals as new homes reach the market &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRS1NcWwwZThVUXY5amdUNjF6OFY5aHBsMk12Q2JZanFxQ2NITHpFaWtpVzN2RWc5TF8wZFRJRURiTTBBVWVacDVnbmRVdlk1RzJ4Z01Ja0NWRDUwWmxTS0FKZk94UHQ2TjJrWEUySUZ4ckdrY2ViX2x0Vy1lZFNNczVDZHQ5V0xDSHlWTTI3ZzZiYmhDd1NDaC1XNTZlQzczUlBRbGJOYm1XOFlmV2pZRkM2UkdDNjg?oc=5",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:56Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%82%d8%b1%d9%8a%d8%a9-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%af%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%82/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "قرية جميرا الدائرية تتصدر مبيعات الشقق الجاهزة في دبي رغم تراجع إيجاراتها 10%",
+   "text": "تصدرت منطقة قرية جميرا الدائرية في دبي - جي في سي Jumeirah Village Circle – JVC مبيعات الشقق السكنية الجاهزة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%82%d8%b1%d9%8a%d8%a9-%d8%ac%d9%85%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%af%d8%a7%d8%a6%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%82/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:55Z"
+  },
+  {
+   "id": "rd:t3_1xjc06w",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Is Discovery Gardens chiller free?",
+   "text": "   Hello everyone    I wanted to rent an apartment in the mesoamerican cluster through Wasl and wanted to know whether it is actually chiller free or not - I&#39;ve received 2 different answers from their team when I had checked with them. Additionally, are there any other costs to look out for? (Gas lines, parking costs etc)     &#32; submitted by &#32;   /u/mf2606       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xjc06w/is_discovery_gardens_chiller_free/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:21Z"
+  },
+  {
+   "id": "rd:t3_1xja7pk",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Is it wise to change jobs in Dubai real estate in the current situation?",
+   "text": "   I’m working with a Dubai real estate developer and have been with my current employer for almost three years. I faced a salary cut of 25% recently.   I’m considering moving to another developer offering a senior position, around 33% higher fixed salary, commission, and better career growth.   However, given the current market uncertainty and concerns surrounding visas, particularly for Pakistani nationals, I’m unsure whether taking the risk is sensible.   For those working in Dubai real estate:  Would you change job in the current market, or prioritise stability?  Are Pakistani nationals fa",
+   "url": "https://www.reddit.com/r/dubai/comments/1xja7pk/is_it_wise_to_change_jobs_in_dubai_real_estate_in/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:21Z"
+  },
+  {
+   "id": "rd:t3_1xj7rdg",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "DEWA water consumption unusually high for a 1 BHK apartment. Is this normal in Dubai?",
+   "text": "   Hi everyone,   I recently moved into a 1-bedroom apartment in Dubai and received my first DEWA bill for October.   I&#39;m a little surprised by the water consumption and wanted to compare it with other residents.   Here are the details:     Apartment: 1 BHK   Occupants: 2 adults   Billing period: 26 September to 18 October (23 days)   DEWA activation: Around 27 September   Water consumption: 24.314 m³ (24,314 litres)   Water charges: AED 234.90   Sewerage charges: AED 106.98   Total water and sewerage: AED 341.88     The apartment was actually vacant for most of this billing period because",
+   "url": "https://www.reddit.com/r/dubai/comments/1xj7rdg/dewa_water_consumption_unusually_high_for_a_1_bhk/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:21Z"
+  },
+  {
+   "id": "yt:-k9B_KOq4Po",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Dubai Mortgages 2026: Rate Rises, Off-Plan Finance and How Much You REALLY Can Borrow",
+   "text": "How do interest rate rises affect your Dubai mortgage, and can you finance an off-plan property before it’s finished?\nIn this episode, Carl Allsopp sits down with Michael Melim, Head of Mortgages at Allsopp & Allsopp, to talk through the mortgage questions buyers are asking right now. They cover how a half-percent rate rise could cut your borrowing power by around AED 250,000, how off-plan and handover finance work, and how to release equity at handover. Michael also explains why some valuations are coming in above the purchase price, and gives his rule of thumb for working out how much you co",
+   "url": "https://www.youtube.com/watch?v=-k9B_KOq4Po",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "148 views",
+   "firstSeenAt": "2026-10-30T13:00:19Z"
+  },
+  {
+   "id": "yt:6QWR3POk6J0",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Inside a 22,000 Sq. Ft. Custom-Built Mansion in Dubai Hills",
+   "text": "Presented by Allsopp & Allsopp Private Office, this exceptional five-bedroom mansion in Emerald Hills offers a rare combination of bespoke design, refined interiors and uninterrupted views across Dubai Hills Golf Course.\nSpanning four floors, the villa offers approximately 22,000 sq. ft. of built-up area on a 12,990 sq. ft. plot. Every detail has been carefully considered, from the striking lava stone, natural travertine and marble finishes to the rich walnut veneer joinery and impressive ceiling heights. Preciosa crystal chandeliers bring elegance to the principal living spaces, complemented ",
+   "url": "https://www.youtube.com/watch?v=6QWR3POk6J0",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "105 views",
+   "firstSeenAt": "2026-10-30T13:00:19Z"
+  },
   {
    "id": "rd:t3_1xj6v7p",
    "platform": "Reddit",
@@ -211,6 +346,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-30T05:54:02Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRkYWFZMVJMNTBlRkd6Zm9Mdl9kRWI0NllETXF1THR6ajJZSkJnNFczWVVIbE9zR21DaGp3U3MwNHQyQkRCVXN0RDc3dmxXWUFFRWVmcjBPd3RYbHFSSUdOU1pid3NlY2t1NERQS0lNMlJuT0toRHZFNHZxanEtTktZLU5ucndWMXV1M00xZm0xYVEzYnVuYV9Xd0YweTR2UFRoVmROQkl6dmVGWlhzdDgweEFFUdIBvgFBVV95cUxNUk9SanppazN5RDQwS0hQWXVFbkgwbHI4NElkSGZhVzV0TkltREFDYXBrTS1Ja3BETS0xalBjZzUyanRfWTMweHFoOFozNDRrZW0wSFhsUE5nNVVYZzRDN01NaEc5RXhWOWZPWm9hNHI1elFwSkJGNHZXLTJwemwxeWRuYnNySG1kZUUwVjM0eVhONzFLeExLZ2NOa3RTWHBIM2l6UmlBRTlpSEpTTlpnT05YOHRTR21jaW40MXd3?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Real estate funds open new investment opportunities in Dubai’s property market - Khaleej Times",
+   "text": " Real estate funds open new investment opportunities in Dubai’s property market &nbsp;&nbsp; Khaleej Times ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRkYWFZMVJMNTBlRkd6Zm9Mdl9kRWI0NllETXF1THR6ajJZSkJnNFczWVVIbE9zR21DaGp3U3MwNHQyQkRCVXN0RDc3dmxXWUFFRWVmcjBPd3RYbHFSSUdOU1pid3NlY2t1NERQS0lNMlJuT0toRHZFNHZxanEtTktZLU5ucndWMXV1M00xZm0xYVEzYnVuYV9Xd0YweTR2UFRoVmROQkl6dmVGWlhzdDgweEFFUdIBvgFBVV95cUxNUk9SanppazN5RDQwS0hQWXVFbkgwbHI4NElkSGZhVzV0TkltREFDYXBrTS1Ja3BETS0xalBjZzUyanRfWTMweHFoOFozNDRrZW0wSFhsUE5nNVVYZzRDN01NaEc5RXhWOWZPWm9hNHI1elFwSkJGNHZXLTJwemwxeWRuYnNySG1kZUUwVjM0eVhONzFLeExLZ2NOa3RTWHBIM2l6UmlBRTlpSEpTTlpnT05YOHRTR21jaW40MXd3?oc=5",
+   "date": "2026-10-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T13:00:56Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2hyejBhSU40ejhKLUxkbW1VMkdSNUQ3bzZBVzVoYlNIRnBjSE1fNlV2MU5xbWxnTEN3M0EzWVpzbmUwMExlUmpkbjh1RDFGY2FNVUF2WEpLNHUweDBDMnd5T0FxWVBtWENKaHNYYWEtYVZ5ZFN0Q3lka0o0ck41R3RZZHVZTjhwajZDd0tmdUEwZ0gzRVpYZE9n?oc=5",
@@ -3676,156 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-23T11:43:48Z"
-  },
-  {
-   "id": "rd:t3_1xd92d5",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Repair Works Addendum in Contract",
-   "text": "   My contract says the tenant is responsible for repair/maintenance up to 1000 AED. So what it mean? Do I need to pay as the tenant for AC, heater, etc. repairs and installation if it is less than 1000 AED?     &#32; submitted by &#32;   /u/Ravindra_Bhardwaj       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xd92d5/repair_works_addendum_in_contract/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:43:48Z"
-  },
-  {
-   "id": "rd:t3_1xd6aj7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Golden Visa Fees",
-   "text": "   my company is freezone , but a colleague tried to apply for it and when portal asks him to pay , that golden visa fees cost are 20k AED   is it really that high ? and it depends on what ?   is it differ if person done by himself or his employer who apply it for him ?     &#32; submitted by &#32;   /u/lucky_Visual1412       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xd6aj7/golden_visa_fees/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:43:48Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmtCSGlKMnRKbS1pMXBfS2ExVEZScWxZQjVtRkdwdGFxMDE1cVcwRmhBTjBXbl92M2hrWFpsMFZCcWZZU2pRNE5LaDFLLTRxYWx4VnRTUEFGSGN1RHlLZjlzZnJIUkJpbWN6VGRLaFVGT1BzOFc5c1doOWRNbENpWE9qa3ZtU0M5VFhIQnFzSTM2aHVQX2c1cmdzN2Jyd3RLbkFSUUQwbw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "UAE developers expand abroad as Dubai property cools - Arabian Gulf Business Insight | AGBI",
-   "text": " UAE developers expand abroad as Dubai property cools &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmtCSGlKMnRKbS1pMXBfS2ExVEZScWxZQjVtRkdwdGFxMDE1cVcwRmhBTjBXbl92M2hrWFpsMFZCcWZZU2pRNE5LaDFLLTRxYWx4VnRTUEFGSGN1RHlLZjlzZnJIUkJpbWN6VGRLaFVGT1BzOFc5c1doOWRNbENpWE9qa3ZtU0M5VFhIQnFzSTM2aHVQX2c1cmdzN2Jyd3RLbkFSUUQwbw?oc=5",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T04:57:05Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenVjb290eFd6U0l2N3hlUXVsWXVoeDZ5ZzU1VlBiUGNoNG12a3pXWVpXU2c3QU5WZjZ5RDNzQmpRWmltZ2dvdXA0M25SSnE1SEFiT19ZUlVDTHRlbllSZDllN2FkLWMwNXQ5T3N6dzR6SlN5ME9MbkZvYVZQUGdJMlhlQ3JzalBPT2dLeVkyZ2lEMzRiczVha3JER0FfUldxbk9ycFhPbmx1bHBqZEpIM1NmUXg5RE9vSG5sTFdNM1NvVFU4eTVxYVFWMXB2elZxa2o1R3dNQ202enBKcXY0bGFOOA?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Interview: Oversupply in Dubai property market will separate the men from the boys, says Sobha Realty Chairman - Zawya",
-   "text": " Interview: Oversupply in Dubai property market will separate the men from the boys, says Sobha Realty Chairman &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQenVjb290eFd6U0l2N3hlUXVsWXVoeDZ5ZzU1VlBiUGNoNG12a3pXWVpXU2c3QU5WZjZ5RDNzQmpRWmltZ2dvdXA0M25SSnE1SEFiT19ZUlVDTHRlbllSZDllN2FkLWMwNXQ5T3N6dzR6SlN5ME9MbkZvYVZQUGdJMlhlQ3JzalBPT2dLeVkyZ2lEMzRiczVha3JER0FfUldxbk9ycFhPbmx1bHBqZEpIM1NmUXg5RE9vSG5sTFdNM1NvVFU4eTVxYVFWMXB2elZxa2o1R3dNQ202enBKcXY0bGFOOA?oc=5",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T04:57:05Z"
-  },
-  {
-   "id": "rd:t3_1xck10r",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Urgent!!! Indian Developer Offered 300–350 OMR in Muscat, Oman — Should I Accept?",
-   "text": "   Hey guys! 👋   I&#39;m from India, and I&#39;ve received a job offer in Muscat, Oman, with a monthly salary of around 300–350 OMR. I need some honest advice from people who are currently living or working in Oman, especially Indians.   Here are the details of the offer:   - Monthly salary: 300–350 OMR   - Location: Muscat, Oman   - Accommodation: Provided by the company   - Personal expenses: I would need to pay for food, mobile recharge, and other regular personal expenses.   My main questions are:      Is 300–350 OMR a reasonable salary to live on in Muscat if accommodation is provided?   ",
-   "url": "https://www.reddit.com/r/expats/comments/1xck10r/urgent_indian_developer_offered_300350_omr_in/",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T04:57:02Z"
-  },
-  {
-   "id": "rd:t3_1xcwviu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Has anybody used United Movers?",
-   "text": "   I’m looking to move all my furniture from my studio apartment to Jeddah, Saudi Arabia. I’ve gotten two quotes from United Movers for 5850 and from Trukkers for 9500 for the same apartment.   I can’t seem to find any reviews for United movers, so I thought I’d ask here. Besides the aforementioned two, if anybody has recommendations for movers and packers in Dubai I’d greatly appreciate it     &#32; submitted by &#32;   /u/acid_mayo       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xcwviu/has_anybody_used_united_movers/",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T04:56:29Z"
-  },
-  {
-   "id": "rd:t3_1xcwfga",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Hotel red travelling with 3 month baby",
-   "text": "   As title: Hotel ref with 3month old   We are looking for a 4 night vacay with our 3onth old.   It&#39;s very confusing from maps to decide which area to choose    We wish to visit Dubai Mall + baby activities    Can y&#39;ll help me with:    - what area to look for hotels/resort   - early checkin + late check-out    - baby friendly rooms (bassinet/daily room clean)   - closer to main Dubai attractions    - Also, is Taxi commute affordable Or should we rent a car   Thanks in advance      &#32; submitted by &#32;   /u/dublinneir       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xcwfga/hotel_red_travelling_with_3_month_baby/",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T04:56:29Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d9%84-%d8%a5%d9%85-%d8%af%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86-%d8%b1%d9%88%d9%83%d9%81%d9%84%d8%b1-%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«إل إم دي» تطلق مشروع برج «كريستيان روكفلر»  للمكاتب بارتفاع 400 متر في دبي",
-   "text": "أطلقت شركة «إل إم دي» LMD للتطوير العقاري مشروع برج كريستيان أ. روكفلر التجاري Christian A. Rockefeller Business Tower على&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a5%d9%84-%d8%a5%d9%85-%d8%af%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac-%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86-%d8%b1%d9%88%d9%83%d9%81%d9%84%d8%b1-%d8%a7/",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-22T21:40:16Z"
-  },
-  {
-   "id": "rd:t3_1xcs0fi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Looking for a genuine opportunity in the UAE for my husband : Development Management/ Project Management / Real Estate /Design Manager",
-   "text": "   Hi everyone,  I’m posting this with the hope that someone here might be able to point my husband in the right direction or help him connect with the right people.  My husband is an architect with an MBA in Construction Project Management and over 7 years of experience across architecture, real estate transactions, portfolio strategy, and development and project delivery in India.  He has worked with reputed organisations and most recently held a leadership role in design development and projects, where he worked on development projects, coordinated consultants and contractors, and managed c",
-   "url": "https://www.reddit.com/r/UAE/comments/1xcs0fi/looking_for_a_genuine_opportunity_in_the_uae_for/",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-22T21:40:04Z"
-  },
-  {
-   "id": "rd:t3_1xcqltl",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Golden Visa approved with basic salary <30k",
-   "text": "   I have applied myself through  https://gdrfad.gov.ae/en   Amer center insisted I need 30k basic salary (my total compensation is above 30k. ) and that request will be rejected. In this case I would lose 800aed if applied via Amer. I decided to do it myself so in case it is rejected, I will get full refund. I applied via specialist application, my position in visa is manager. With the same company &gt;2 years.   What I submitted:  Passport photo  NOC  Salary certificate in Arabic (English version was not accepted)  University diploma (verified via dataflow and then MOHRE) equivalency certifi",
-   "url": "https://www.reddit.com/r/UAE/comments/1xcqltl/golden_visa_approved_with_basic_salary_30k/",
-   "date": "2026-10-22",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-22T21:40:04Z"
   }
  ]
 }
