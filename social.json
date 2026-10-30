@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-30T13:00:56Z",
- "newThisRun": 13,
+ "generatedAt": "2026-10-30T22:25:02Z",
+ "newThisRun": 10,
  "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 6,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 7,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,101 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 20,
+   "items": 23,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMikgRBVV95cUxONnY1RWdrWGRqQkNROUNYN3RWLUM3SzVzbTFsYWowMFd0YTFVam9ncS1Ed2ZvbHVqR1dKd3FiRzRocm1QV3liOWplcTVvcGo3X2pqZ0lOWDhaZ2RGZ3Q3dnp2RWFEMzVfTG1tQW5rZUp3a0wtVGh4cUk2N2lJZ19Jc09MYkp1UUJuNExaU2JWNldrWldPZ28wd2ZNUmR3MGd5VTRqWHMtWGNjR3V5alcxT3Y5TDN1eFNqakVVSS1jYVQ3S3NpUUxhNW9JaWlrb0FPRElPLTJlR1N1c2ExNzVvbXRScWhvVUpkS3dBSDhwLU9vUjlleXpNR19aS2xCQVhlWmU5YkJxT2JpYTV4Z3ltTk55Q3dtNWZnTHpmNTU1VmtpdW5sWWVSeGllc1ZvenlZLXZmdTY2TVJnQy0wNFcxSlJHYVFIWnZlNzdHQjNoTGFIRVJSaEZGcGhkUWlKeE9mM2NIYlNNMEV0SnFrazhZb0RBazgxVE5tT3hLYkNzajdad01XZE4yZS0xbUJEMnRYM0U0NHE0OFkzZXhpQ2tyMFVFLWtGTGJ4eDZaVUVWRWwySzlSZXJUZUJJblpoNk0tamVzcUdnMGJlbWI1cjcxR2ZUVEpveWFmNkphSFlILWhkdXhhSG5SenBoUzE5Rkp3UVkzQ3I3RUh4cWZoUUZKemdLOUkyUzVCcE9paVJRWmQzZw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "183.3 مليار درهم مبيعات الشقق السكنية في دبي.. وتنوع الخيارات يعزز جاذبية السوق العقاري - الاتحاد للأخبار",
+   "text": " 183.3 مليار درهم مبيعات الشقق السكنية في دبي.. وتنوع الخيارات يعزز جاذبية السوق العقاري &nbsp;&nbsp; الاتحاد للأخبار ",
+   "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxONnY1RWdrWGRqQkNROUNYN3RWLUM3SzVzbTFsYWowMFd0YTFVam9ncS1Ed2ZvbHVqR1dKd3FiRzRocm1QV3liOWplcTVvcGo3X2pqZ0lOWDhaZ2RGZ3Q3dnp2RWFEMzVfTG1tQW5rZUp3a0wtVGh4cUk2N2lJZ19Jc09MYkp1UUJuNExaU2JWNldrWldPZ28wd2ZNUmR3MGd5VTRqWHMtWGNjR3V5alcxT3Y5TDN1eFNqakVVSS1jYVQ3S3NpUUxhNW9JaWlrb0FPRElPLTJlR1N1c2ExNzVvbXRScWhvVUpkS3dBSDhwLU9vUjlleXpNR19aS2xCQVhlWmU5YkJxT2JpYTV4Z3ltTk55Q3dtNWZnTHpmNTU1VmtpdW5sWWVSeGllc1ZvenlZLXZmdTY2TVJnQy0wNFcxSlJHYVFIWnZlNzdHQjNoTGFIRVJSaEZGcGhkUWlKeE9mM2NIYlNNMEV0SnFrazhZb0RBazgxVE5tT3hLYkNzajdad01XZE4yZS0xbUJEMnRYM0U0NHE0OFkzZXhpQ2tyMFVFLWtGTGJ4eDZaVUVWRWwySzlSZXJUZUJJblpoNk0tamVzcUdnMGJlbWI1cjcxR2ZUVEpveWFmNkphSFlILWhkdXhhSG5SenBoUzE5Rkp3UVkzQ3I3RUh4cWZoUUZKemdLOUkyUzVCcE9paVJRWmQzZw?oc=5",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T22:25:02Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sc0tWNlBFVlZ5MWZIWkQ4S3NVRmxYQUY2S28wY2ZjdDkybE1WaHY5eWNnLW1EYzY2MVhkZkp3b1NHT2Q0enE2ZDRKa3Rmalk?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "العقارات على الخارطة في أبوظبي تستحوذ على 81% من مبيعات الربع الثالث - البيان",
+   "text": " العقارات على الخارطة في أبوظبي تستحوذ على 81% من مبيعات الربع الثالث &nbsp;&nbsp; البيان ",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sc0tWNlBFVlZ5MWZIWkQ4S3NVRmxYQUY2S28wY2ZjdDkybE1WaHY5eWNnLW1EYzY2MVhkZkp3b1NHT2Q0enE2ZDRKa3Rmalk?oc=5",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T22:25:02Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdng0dENUSmtTYXBoOTRiQ1F0enVSUFpFdGNJcndNSG5zNFZlUENlVjRmTnUtMTN2X2ZDeGFkUm9XZ1BXNDltckdNM1lia3JRcG1paGVTY0hlSnkxc1p4c2wxUTNtZWJnTWVGa0gzbHVYSXZQQ1ktcUdtXzFSaWpyanpkc0lvLW9fbGFmbnk1Q2FyaVc4a2FNLVVrUXJISXE4eThXb0w2Smcyb2Q5RnZma1hPMm5mcmhzVFdUVWQ2MHQzNjFZbXI1Z1V4S2twMWlXS2NITHhwTmd0MzhOU0lmNw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate sector recorded $3.3bn of transactions last week, including $15m Palm Jumeirah apartment - Arabian Business",
+   "text": " Dubai real estate sector recorded $3.3bn of transactions last week, including $15m Palm Jumeirah apartment &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdng0dENUSmtTYXBoOTRiQ1F0enVSUFpFdGNJcndNSG5zNFZlUENlVjRmTnUtMTN2X2ZDeGFkUm9XZ1BXNDltckdNM1lia3JRcG1paGVTY0hlSnkxc1p4c2wxUTNtZWJnTWVGa0gzbHVYSXZQQ1ktcUdtXzFSaWpyanpkc0lvLW9fbGFmbnk1Q2FyaVc4a2FNLVVrUXJISXE4eThXb0w2Smcyb2Q5RnZma1hPMm5mcmhzVFdUVWQ2MHQzNjFZbXI1Z1V4S2twMWlXS2NITHhwTmd0MzhOU0lmNw?oc=5",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T22:25:01Z"
+  },
+  {
+   "id": "rd:t3_1xjpp8u",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "How to check if my visa is still valid or cancelled?",
+   "text": "   Hi all, bangaldeshi national here. I have a golden visa but have been out of country for a few months now. I wanted to check if there is a way to see if my UAE residence visa is still valid or not? A bit nervous with all these random cancellations.      &#32; submitted by &#32;   /u/DisciplineStunning       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xjpp8u/how_to_check_if_my_visa_is_still_valid_or/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T22:24:27Z"
+  },
+  {
+   "id": "rd:t3_1xjhnly",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Communities with walkable distances",
+   "text": "   Now that i am seriously considering moving to dubai, i am wondering if there are any communities here which have walkable parks, supermarkets, pre schools and clinics. My office is at dubai science park so anything close to that would be ideal.   I am looking at renting villa / apartment. Whatever works ! Thx for your help ppl.     &#32; submitted by &#32;   /u/onthemoveee       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xjhnly/communities_with_walkable_distances/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T22:24:27Z"
+  },
+  {
+   "id": "rd:t3_1xjfdbe",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Lousy luck with apartments🥲",
+   "text": "   Hi guys,   I made a post on here earlier for mold in my apartment which I chose in a hurry (I am aware it was my fault). In the previous apartment it was facing the street and was really loud.   Now I made the choice to end this lease and go for a new apartment. My budget is 80k for one bedroom is there any neighborhoods for me to look for or specific buildings that are good?   I don’t wanna throw more money down the drain and I really want this move to be my third and last in Dubai😭 any advise for when I go see apartments    Thanks guys!     &#32; submitted by &#32;   /u/CremeOnly8523     ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xjfdbe/lousy_luck_with_apartments/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-30T22:24:27Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlA2QThoRG53QzVIU3Q2TFhLN1BSRS05REVEMDBrNVdBTVFSMEZpNC14UzJHRy1iY0FuczFNNlVyeFJ3XzJHbjVlalBEZGkzVzNicGNVSjFfZTl6LTlyc09qUC1JTnFQX0psWEFlSDV4T3FVVFhpSEJzS2xfZ2o2NXQ0VjMzZmU3S0FTY1ZVcUNMSzVjNUFkdnQ1Y01SRHUtcU1FY3VQel9SZFJxZ3hJWjNnOExSQQ?oc=5",
    "platform": "RSS",
@@ -3736,96 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-23T11:44:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d8%b1%d9%88%d9%86%d8%a9-%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b7%d8%a7%d8%a8-%d9%85%d8%b3%d8%aa%d8%a3%d8%ac%d8%b1/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "شروط تأجير أكثر مرونة لاستقطاب مستأجري العقارات في دبي",
-   "text": "تزداد أهمية مرونة السداد وشروط العقود وخدمات الصيانة في استقطاب المستأجرين بسوق الإيجارات السكنية في دبي، إلى جانب قيمة الإيجار&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d8%b1%d9%88%d9%86%d8%a9-%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b7%d8%a7%d8%a8-%d9%85%d8%b3%d8%aa%d8%a3%d8%ac%d8%b1/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:44:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9-%d9%84%d9%80-%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%aa%d8%b3%d9%84%d9%8a%d9%85-9-%d8%a2%d9%84%d8%a7%d9%81-%d9%88/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "شركة تابعة لـ \"الدار\" تعتزم تسليم 9 آلاف وحدة سكنية في لندن خلال 5 سنوات",
-   "text": "تعتزم شركة لندن سكوير London Square، التابعة للدار العقارية، تسليم نحو 9 آلاف وحدة سكنية في لندن خلال السنوات الخمس&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9-%d9%84%d9%80-%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%aa%d8%b3%d9%84%d9%8a%d9%85-9-%d8%a2%d9%84%d8%a7%d9%81-%d9%88/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:44:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d9%88%d8%b3%d8%a7%d9%85-%d8%a8%d8%b1%d9%8a%d8%af%d9%8a-%d9%88%d8%a8%d8%a7%d9%88%d9%84%d8%a7-%d8%ba%d8%a7%d9%85%d8%a8%d8%b1%d9%8a%d9%84-%d9%8a%d8%b7%d9%84%d9%82%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d8%af/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "وسام بريدي وباولا غامبريل يطلقان بريدج هاوس للاستشارات العقارية في دبي",
-   "text": "أعلن وسام بريدي وباولا غامبريل إطلاق شركة بريدج هاوس BRDG House في دبي، المتخصصة في استشارات وإدارة التطوير العقاري والتسويق&#8230;",
-   "url": "https://masdarak.com/business-news/%d9%88%d8%b3%d8%a7%d9%85-%d8%a8%d8%b1%d9%8a%d8%af%d9%8a-%d9%88%d8%a8%d8%a7%d9%88%d9%84%d8%a7-%d8%ba%d8%a7%d9%85%d8%a8%d8%b1%d9%8a%d9%84-%d9%8a%d8%b7%d9%84%d9%82%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d8%af/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:44:13Z"
-  },
-  {
-   "id": "rd:t3_1xd3wxu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "Moving with family to Dubai from London in January 2027 - Which are the most trusted relocation companies?",
-   "text": "   Joining date in Dubai is end Jan 2027, planning to ship belongings out of London around mid-November 2026 given the 8-13 week door-to-door shipping transit times.    For a 2-bedroom apartment&#39;s worth of goods (no white goods/electronics to be shipped), what are reasonable quotes to expect? From people who have relocated in the past few years, what are the best relocation firms to engage for this move?   Thanks in advance for your guidance, appreciate your time.      &#32; submitted by &#32;   /u/Globalization77       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/UAE/comments/1xd3wxu/moving_with_family_to_dubai_from_london_in/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:44:01Z"
-  },
-  {
-   "id": "rd:t3_1xd9mds",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Clothes for Indian wedding",
-   "text": "   Hi all,  I’m an English girl going to my friends wedding in Rajasthan in December. I need 4 outfits for each occasion with specific colour schemes.  What’s the best thing to do? Buy off the rack? Rent? Get fabric and make? Also I live in the greens so I’m reluctant to go to Satwa. I don’t want to be ripped off      &#32; submitted by &#32;   /u/Feastsforfoodies       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xd9mds/clothes_for_indian_wedding/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:43:48Z"
-  },
-  {
-   "id": "rd:t3_1xd9hoj",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "DEWA pays its shareholders at least AED 6.2 billion a year",
-   "text": "   DEWA pays its shareholders at least AED 6.2 billion a year. It&#39;s the exclusive provider of electricity and water in Dubai. Every apartment, office and AC unit in the city pays it. And the numbers behind it are impressive &gt; AED 32.84B revenue in 2025, a record &gt; AED 9.09B profit after tax &gt; 1.46x dividend cover 82% owned by the Government of Dubai.   just saw the figures n crying while paying my bill    &lt;not a bot, but I wish I was&gt;     &#32; submitted by &#32;   /u/MajorStandards       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xd9hoj/dewa_pays_its_shareholders_at_least_aed_62/",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-23T11:43:48Z"
   }
  ]
 }
