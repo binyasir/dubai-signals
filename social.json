@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-10-31T05:50:26Z",
- "newThisRun": 32,
- "sourcesOk": 4,
+ "generatedAt": "2026-10-31T12:39:04Z",
+ "newThisRun": 9,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 175,
-  "rss": 70
+  "reddit": 176,
+  "rss": 69
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/dubai",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 29,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -53,20 +53,20 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 27,
+   "items": 25,
    "error": null
   },
   {
@@ -77,6 +77,36 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%aa%d9%82%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "مبيعات العقارات في دبي خلال أكتوبر تقفز 18% إلى 9.3 مليار دولار",
+   "text": "سجلت مبيعات العقارات في دبي خلال أكتوبر 2026 أكثر من 9.3 مليار دولار (34 مليار درهم)، عبر 11,948 صفقة، مقارنة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%aa%d9%82%d9%81/",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T12:39:04Z"
+  },
+  {
+   "id": "rd:t3_1xk38la",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "DEWA Bill",
+   "text": "   Anyone here live at Ice Hockey Tower in Dubai sports City, if you dont mind me asking, how much is your electricty, only the electricty part of the bill. I am staying at a 55.9sqm studio there and our elec. Consumption is 1375kwh. We have the standard appliances any apartment would have, frigde, washing machine, tv, microwave. Our AC is set to auto at 24C. Anyone have the same bill monthly or yours is lower, I am just wondering if this is the common bill for this building or we have some electrical problems.     &#32; submitted by &#32;   /u/SnooOpinions2133       [link]   &#32;   [comments",
+   "url": "https://www.reddit.com/r/dubai/comments/1xk38la/dewa_bill/",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T12:38:36Z"
+  },
   {
    "id": "rd:t3_1xk1r3u",
    "platform": "Reddit",
@@ -106,6 +136,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-31T05:50:02Z"
+  },
+  {
+   "id": "rd:t3_1xjcvkm",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Back in Chicago after 8 months in Porto",
+   "text": "   Moved home to Chicago last month after 8 months in Porto (remote job, so I could), and I already miss a 90 cent cimbalino at any café on the corner. $6 lattes are a hard adjustment.   Also miss the late dinners and the river at night. Don&#39;t miss the hills, or the apartment being colder than the street in February. My laptop brick also died the week before I flew back, so I replaced it here with Anker&#39;s laptop smart display charger, way smaller than the old one. Still adjusting... slowly:)     &#32; submitted by &#32;   /u/EmotionalGeen       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/expats/comments/1xjcvkm/back_in_chicago_after_8_months_in_porto/",
+   "date": "2026-10-30",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T12:39:02Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanppODIyYW1JT09hUTNveVpHYVZwalJjVklJTXhMN3Z2QllRRWZBWXliQTk2N3dUbzFERzJZNHVaMktNUVlwbzNaclB2cGc2cENPbEphY0VTU1prV0NhMWhGNjdUVUJMNG1fclZjNGhtVjJtZ1UxS3VxcE55T1JUaXVkM09MdFdPNzJlN1ZyeG16Qi0zaUZ3ZXVja3Y5ZDJBMV9vUTlRMGpLOXZQZml5NDRSYzZRVFpfZW5NZnB2RGFOSThXZFFzVWNKQlBJOEo2aFBDSHpQYV_SAfMBQVVfeXFMUDk0OTE5am8xcWJiNlU3TG9SOGNldHZvOGFLVzZ5ZWJJSThWTThPMFltLVFfeHN3VVFkZmZmZVJ4X1VxNzRWZjhVSEN5c21QLWZqWjVSSEhjVVNEa1B6YzAyRUpvU1BwbC1KYkNaTmFfZGdBMnRUeE5fb1pfRWFsVXA3QWptQ2JvYTVJNUVWcENuNGhiN0t6LUJiVEh3dlF4bGF0MTJteFo1LVBVWEktamtiaVVpU1VWdm9MeExWQ0Y5Rzg3UXNsZ2FkclZJVW9aaGlGNUJlSDBFa0RURE9wUUdsNHA4ZDhoenpMTGF3WnJ0QkhZ?oc=5",
@@ -871,6 +916,36 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-30T05:54:02Z"
+  },
+  {
+   "id": "rd:t3_1xiqnlr",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Frontend developer (Vue, React, Next.js) from India looking to relocate to Finland with family: where should I start?",
+   "text": "   &#x200B;   Hi everyone,   I&#39;m a frontend developer based in India, and I&#39;m planning to move to Finland with my family. I&#39;d appreciate advice from anyone who has made a similar move or who works in the Finnish tech scene.   About me   Frameworks: Vue.js, React, Next.js   Core stack: JavaScript, HTML, CSS/SCSS, Jekyll   Specialties: web accessibility (WCAG) and SEO   Domain: interactive web experiences for pharma and healthcare clients, including multilingual clinical trial websites, quiz applications and HTML email templates   Experienced in working with international clients and",
+   "url": "https://www.reddit.com/r/expats/comments/1xiqnlr/frontend_developer_vue_react_nextjs_from_india/",
+   "date": "2026-10-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T12:39:02Z"
+  },
+  {
+   "id": "rd:t3_1xigm7q",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Considering moving to Valencia, Orriols near C. Padre Viñas, 94. How safe is it to live there?",
+   "text": "   &#x200B;   Hi everyone! I&#39;m considering renting an apartment near Carrer de Padre Viñas, 94, in Orriols (Rascanya), and I&#39;m hoping to hear from people who currently live in the area or know it well.   I&#39;ve been living in El Cabanyal and have generally felt safe there, so I&#39;m trying to get a realistic sense of what living around this particular part of Orriols would be like.   I&#39;ve read some older articles about drug-related problems and safety concerns in Orriols, as well as more recent reports about improvements and increased police presence. I know a neighborhood&#39;s",
+   "url": "https://www.reddit.com/r/expats/comments/1xigm7q/considering_moving_to_valencia_orriols_near_c/",
+   "date": "2026-10-29",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T12:39:02Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUZ1Y25aQVRhbnJEaG5IZl9HZmljM1ctdDVhX1hhTGo2NjJ2UUZhQkdwMjM3RjAwczhXM0lpSHRlcFVnaGR6LWtkVWY1cEVRc3hreFY2WGFISGs3bFF3TzJnUGpLQXVWZU5MWDdrZ1JONDNacG15RFk3em91M25nQjRfNGZjbDgzRlBTTE03Vl94VjB4RmNtdWhWSV9nUVXSAacBQVVfeXFMUElUYmZwY0paM1JzSUdyWWRaYk9hYU5uUl80T1V0QWhrT1M0aWJNdXV4dV9Yc1ZGVnRRMEp3XzJTWGNHbHBaNDdhVGNvZ3JQMktOLVlpSlo1dEUxUmlmZG1jZ1lSakFFSVRSeFZoN2Q3dURHLTc5aVJxYU9aYUNSZFpGSURGY0ZMWFhpNS1nMFZIM0ItOVYwWUR5Z2owd3NoVWxSX2xDc1E?oc=5",
@@ -1666,6 +1741,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-29T05:53:02Z"
+  },
+  {
+   "id": "rd:t3_1xhph7f",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Considering an 18-month relocation to Houston — looking for advice on living costs, neighborhoods and job opportunities",
+   "text": "   Hi everyone!😁   My husband has been offered an 18-month relocation to Houston, and we’re trying to decide whether to take it. We visited for a week last August, but living there is a different story!   We’re a couple with no kids, and while my husband’s benefits include health insurance and a 401(k), we’d be responsible for figuring out most of the day-to-day costs.   I’d love to hear your advice on a few things:   ● Cost of living: What monthly budget should we realistically expect for two people, including rent, utilities, groceries and transportation?   ● Neighborhoods: Which areas would",
+   "url": "https://www.reddit.com/r/expats/comments/1xhph7f/considering_an_18month_relocation_to_houston/",
+   "date": "2026-10-28",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T12:39:02Z"
   },
   {
    "id": "rd:t3_1xi2ykc",
@@ -3732,96 +3822,6 @@
    "text": "   🏙️ AED 5 MILLION FOR A COMMERCIAL OFFICE IN DUBAI — SMART INVESTMENT OR TOO RISKY? 🤔   Dubai’s commercial property market is attracting investors, but would you invest in an off-plan Grade A office in Business Bay with an expected handover in Q3 2030?   📍 Berkeley Tower by Ellington Properties  💰 Approx. investment: AED 5 million  📐 Approx. size: 1,163 sq. ft.  📈 Expected rental yield: 12% at completion (projected, not guaranteed)   Here’s what I want to know from investors and real estate professionals:   1️⃣ Would you choose commercial property or residential property in Dubai?   2️⃣ Woul",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xdv743/ellington_new_commercial_tower_in_business_bay/",
    "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe4djd",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Drains in the apartment kitchen...",
-   "text": "                 For those who know (lets try and limit speculation!) this drain in the kitchen of my Dubai apartment is missing a odor trap, correct ?    I am in discussions with the management company and I think these were wrongly installed. The brackets do not align with the slotted drain cover.    Experience welcome !     &#32; submitted by &#32;   /u/Sweaty-Stand-4150       [link]   &#32;   [comments]      ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xe4djd/drains_in_the_apartment_kitchen/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:06:55Z"
-  },
-  {
-   "id": "rd:t3_1xe12rh",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "UAE Golden Visa for an Ajman Free Zone Company Owner",
-   "text": "   I set up an IT consultancy company in Ajman Free Zone around seven months ago and currently hold an investor visa. My clients are based in Europe, and so far I have retained the company’s revenue in the business account rather than paying myself a salary.   I am a UK passport holder, currently living in Abu Dhabi, and I have a Master’s degree from India.   I would appreciate advice from anyone who has successfully applied for a UAE Golden Visa as a company owner or director.     Is a monthly director’s salary of AED 30,000 or more, supported by six months of income evidence, a valid route t",
-   "url": "https://www.reddit.com/r/dubai/comments/1xe12rh/uae_golden_visa_for_an_ajman_free_zone_company/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:06:55Z"
-  },
-  {
-   "id": "rd:t3_1xdzp8n",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "City Towers",
-   "text": "   Hello   Just wondering if anyone heard any reviews of the new City Towers by H&amp;H for rental?    Im planning to move with my 10 month old and really liked the apartments but can&#39;t see any chatter about them online.    Any info helpful, thank you!    (BG- shifting from London, was to stay in apartment for the facilities and ease with baby before moving to villa community. Was hoping easier to make friends in apartments..)     &#32; submitted by &#32;   /u/London0325       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xdzp8n/city_towers/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:06:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2hRUDhicGt6YzNfX0o4c2I0cXViYURkWmFVbVVYeGp4QzVJdFdhNWxsZjB5NWpvdC1Ub3BVUmRYR3h1ZWRPV2QydFZnT1VLODIxMFMycW1DRUREUjNvanUxWkVCdlVWc0dNSGowQVNmcnpqMnNvYW9PNTlBelZzTUdvTEpWNVQycmZxS0JYZFo3S20xOWY1dW8zckNtSVpTOFo3a2NTXzl1M3NDUzFta2lhSVdOWFJ5d1FJNVUyT3IyUUNPb0pSXzBacnZSeWgtYnNKVG9Sb2ZCY3V5V2xid0hsQQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links - USA Today",
-   "text": " Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links &nbsp;&nbsp; USA Today ",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2hRUDhicGt6YzNfX0o4c2I0cXViYURkWmFVbVVYeGp4QzVJdFdhNWxsZjB5NWpvdC1Ub3BVUmRYR3h1ZWRPV2QydFZnT1VLODIxMFMycW1DRUREUjNvanUxWkVCdlVWc0dNSGowQVNmcnpqMnNvYW9PNTlBelZzTUdvTEpWNVQycmZxS0JYZFo3S20xOWY1dW8zckNtSVpTOFo3a2NTXzl1M3NDUzFta2lhSVdOWFJ5d1FJNVUyT3IyUUNPb0pSXzBacnZSeWgtYnNKVG9Sb2ZCY3V5V2xid0hsQQ?oc=5",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-28T13:00:49Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi9wFBVV95cUxOT285blhBeFQwTkMyMnk0QTB0X0M0VTBZUHNVUG5DOWtjNDFNWGowNEVOYnBmXzhoWkk0aS15ZlllSWhNUldFVktLbUVqTGRNWHUyQUEtWndwOG8welFHTlVub19ZNkZXenlOM2ljN3JGczk1RjBwdjN0WUVCOWVVZ0J0OUFhNlVZM0d4OWVmZG5pelNkQzhIUjd4RFY3VVhRaWhfLW9vNjNIZUdObGZPTGVVclFlOHBtTmNLWEtGYkZFa2hwRlpFTkRJendpU2RDQ3l4aERCa2lyVzJNMzRZdHNMWWwzRkhVY3Z5b3JqYnJpOUhiTWdv?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links - FinancialContent",
-   "text": " Dubai Property Market Enters a More Selective Phase as Buyers Focus on Value, Says Exclusive Links &nbsp;&nbsp; FinancialContent ",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOT285blhBeFQwTkMyMnk0QTB0X0M0VTBZUHNVUG5DOWtjNDFNWGowNEVOYnBmXzhoWkk0aS15ZlllSWhNUldFVktLbUVqTGRNWHUyQUEtWndwOG8welFHTlVub19ZNkZXenlOM2ljN3JGczk1RjBwdjN0WUVCOWVVZ0J0OUFhNlVZM0d4OWVmZG5pelNkQzhIUjd4RFY3VVhRaWhfLW9vNjNIZUdObGZPTGVVclFlOHBtTmNLWEtGYkZFa2hwRlpFTkRJendpU2RDQ3l4aERCa2lyVzJNMzRZdHNMWWwzRkhVY3Z5b3JqYnJpOUhiTWdv?oc=5",
-   "date": "2026-10-23",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-26T13:10:05Z"
-  },
-  {
-   "id": "rd:t3_1xdtme8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Craziest Payment Plan | only 5% down remainin 95% in 95 months",
-   "text": "   1BR ~760 SQFT | AED 1.3M   2BR ~ 1100Sqft | 1.8M    Only 5% down payment, then simply 1% every month for 95 months.   No complicated payment milestones.   No big installments.   No changes in the payment plan.   Just a fixed 1% monthly installment for 95 months.   • Handover: mid-2028   • No buyer commission   Payments made directly to the developer&#39;s escrow account   Pay conveniently from anywhere in the world   • Long-term payment structure extending well beyond handover   Developer: Not a very old name in Dubai, but with strong development roots in Pakistan. Not Emaar or Nakheel, but",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xdtme8/craziest_payment_plan_only_5_down_remainin_95_in/",
-   "date": "2026-10-23",
    "dateApprox": false,
    "language": "en",
    "engagement": "",
