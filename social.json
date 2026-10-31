@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-10-31T12:39:04Z",
- "newThisRun": 9,
- "sourcesOk": 9,
+ "generatedAt": "2026-10-31T21:39:45Z",
+ "newThisRun": 8,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 176,
-  "rss": 69
+  "reddit": 175,
+  "rss": 70
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -53,30 +53,60 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 7,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 25,
+   "items": 21,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 29,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4wNBVV95cUxNN0RKb0x6R2p5RnRFZEtLbFVJTHZ6X0UxTGZua2RPMWtfRFlhaGNCME9FQi1JTE8xVk9ucWdZZDNmTnUxak9MeUdfQS1VUXNDa24tQWlYejhVR3F2YUtybDZYY2tFM0otRTI1TXRKeUtqbEJva0VtVFpvWXctTmgyR05VSDJSVDljaVV4dnQtQVhtSnVqWGRmUGxpZmpQOWdabDFBYk9VTFpUZ25CSE1Bdno5T0NJc3pacG1ZQXpJMDNhTS1zei11WkpDb1hGMUFoaHVUWnlfdWJJeVpZaXdTS1A3eGVCSDFVWF80aEFYRGwtS2VZdHJxZWhHX185eWtzMmpGdnpXOWlWYmFfUFpucXc4NXg1WTJTeTc3MWhhczVCT0Fhbm9HS2FlWGlqQ1ZTQ1RYRGRiQ2d6WGpUdWpfbVRDSlFTUW9uYmlUVmUwTXFETWxTVzE5Mm5UN25JODJwM3JhbVRjTUNLVTJsZnJONTQzU1pKc19KMHljZ0F5dWlGU29kMkNkRjg1LWQ2cjVNV3NFVUdNY2xjZFpzX2phRThhaTM1R19kcXh5NU9Md0NqR2F2SE9ObExZY0ZYaElzOFpyRDROMmtYZlNqemZHMkpIcHM4QTljN2JTVjlsdmw2TFk?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "بيع 42320 شقة في دبي لفئة أقل من مليون درهم - صحيفة الخليج",
+   "text": " بيع 42320 شقة في دبي لفئة أقل من مليون درهم &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNN0RKb0x6R2p5RnRFZEtLbFVJTHZ6X0UxTGZua2RPMWtfRFlhaGNCME9FQi1JTE8xVk9ucWdZZDNmTnUxak9MeUdfQS1VUXNDa24tQWlYejhVR3F2YUtybDZYY2tFM0otRTI1TXRKeUtqbEJva0VtVFpvWXctTmgyR05VSDJSVDljaVV4dnQtQVhtSnVqWGRmUGxpZmpQOWdabDFBYk9VTFpUZ25CSE1Bdno5T0NJc3pacG1ZQXpJMDNhTS1zei11WkpDb1hGMUFoaHVUWnlfdWJJeVpZaXdTS1A3eGVCSDFVWF80aEFYRGwtS2VZdHJxZWhHX185eWtzMmpGdnpXOWlWYmFfUFpucXc4NXg1WTJTeTc3MWhhczVCT0Fhbm9HS2FlWGlqQ1ZTQ1RYRGRiQ2d6WGpUdWpfbVRDSlFTUW9uYmlUVmUwTXFETWxTVzE5Mm5UN25JODJwM3JhbVRjTUNLVTJsZnJONTQzU1pKc19KMHljZ0F5dWlGU29kMkNkRjg1LWQ2cjVNV3NFVUdNY2xjZFpzX2phRThhaTM1R19kcXh5NU9Md0NqR2F2SE9ObExZY0ZYaElzOFpyRDROMmtYZlNqemZHMkpIcHM4QTljN2JTVjlsdmw2TFk?oc=5",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T21:39:45Z"
+  },
+  {
+   "id": "rd:t3_1xkeiyi",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Got my UAE license on Wednesday and picked up a rental car today. Now I'm terrified. 😢",
+   "text": "   So I finally got my license after months of classes and failures, I have an actual car sitting in my parking. I should be excited, and I am, but mostly I&#39;m very unsure if I&#39;m actually ready for real Dubai roads.   Passing the test and driving in real traffic feel like two completely different things. I know the rules, but I don&#39;t know the unwritten ones.   Things I&#39;d love advice on:  How did you ease into driving here in your first week or month?    Are there any rules or habits the test doesn&#39;t teach but you really need to know?   Parking: are parkings free?! How do I k",
+   "url": "https://www.reddit.com/r/dubai/comments/1xkeiyi/got_my_uae_license_on_wednesday_and_picked_up_a/",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-10-31T21:39:10Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%aa%d9%82%d9%81/",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "Thinking about buying property in Dubai? What are you looking for?",
    "text": "   Thinking about buying property in Dubai? What are you looking for?   I&#39;m building connections with Dubai property professionals and trying to understand what buyers need most before making a decision.   If you&#39;re considering buying in Dubai, I&#39;d be interested to hear:   - Are you buying for investment or personal use?   - What&#39;s your approximate budget in AED?   - Are you looking for a ready property or an off-plan option?   If you&#39;re actively looking, you can message me with your requirements. I&#39;ll aim to connect you with a relevant property professional.   I&#39;m ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xe1pfq/thinking_about_buying_property_in_dubai_what_are/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe16y1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Advice needed! Looking to buy a studio for upto half a million",
-   "text": "   Hi there! I’ve got some savings and I would love to invest in a studio apartment    I’m new to all this and would love some unfiltered genuine advice/suggestions to the below questions    1) Where is the best place to buy an apartment for upto half a million?    2) Im looking at Al Furjan or Discovery gardens but are there any other places I can look out for?    3) Would it be possible to find something in these area between 400 and 500 sq feet ?    Any advice would be really helpful    Thank you      &#32; submitted by &#32;   /u/Spiritual_Ad9468       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe16y1/advice_needed_looking_to_buy_a_studio_for_upto/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xdv743",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Ellington new commercial tower in Business bay",
-   "text": "   🏙️ AED 5 MILLION FOR A COMMERCIAL OFFICE IN DUBAI — SMART INVESTMENT OR TOO RISKY? 🤔   Dubai’s commercial property market is attracting investors, but would you invest in an off-plan Grade A office in Business Bay with an expected handover in Q3 2030?   📍 Berkeley Tower by Ellington Properties  💰 Approx. investment: AED 5 million  📐 Approx. size: 1,163 sq. ft.  📈 Expected rental yield: 12% at completion (projected, not guaranteed)   Here’s what I want to know from investors and real estate professionals:   1️⃣ Would you choose commercial property or residential property in Dubai?   2️⃣ Woul",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xdv743/ellington_new_commercial_tower_in_business_bay/",
    "date": "2026-10-24",
    "dateApprox": false,
    "language": "en",
