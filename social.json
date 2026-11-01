@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-01T06:13:14Z",
- "newThisRun": 3,
- "sourcesOk": 5,
+ "generatedAt": "2026-11-01T13:31:37Z",
+ "newThisRun": 7,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -72,11 +72,41 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 29,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xl0kle",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Azizi offplan asking more money without SPA or Oqood",
+   "text": "   Any buyers in Azizi Beach Oasis Al Jadaf project where they are still asking for money while not giving SPA, Oqood and Escrow details? I paid first payment during the launch in Feb before the war and now I can&#39;t cancel and can&#39;t do anything. The construction also hasn&#39;t started. I haven&#39;t paid anymore due to these and they are still trying to ask money and even saying they will &quot;waive penalty fees&quot; if I pay before certain times. Any advice on what I can do other than reporting DLD which isn’t very helpful either?      &#32; submitted by &#32;   /u/ComprehensiveMeal",
+   "url": "https://www.reddit.com/r/dubai/comments/1xl0kle/azizi_offplan_asking_more_money_without_spa_or/",
+   "date": "2026-11-01",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-01T13:31:01Z"
+  },
+  {
+   "id": "rd:t3_1xkwwd0",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Question on Leasing Car Spaces",
+   "text": "   Hi all - I have a car space with my apartment but don&#39;t use it. What&#39;s the best platform I could use to advertise the car space? I&#39;m ideally looking to get as much traction as possible so I can get a good rate for it.     &#32; submitted by &#32;   /u/Existing-Engineer490       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xkwwd0/question_on_leasing_car_spaces/",
+   "date": "2026-11-01",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-01T13:31:01Z"
+  },
   {
    "id": "rd:t3_1xko73m",
    "platform": "Reddit",
@@ -3791,36 +3821,6 @@
    "title": "Distress Deals!",
    "text": "    Distress Deals For SALE!       Sohba S Tower  4 bedrooms + maids 4851 sqft Full sea facing view -  12M  -  2 units available     Ava by Omniyat  Full floor sky residences 3 bed + maid 6600sqft Full palm view Private pool, etc -  49.8M     Burj Vista  Triplex 5 bed 9000sqft Burj khalifa view -  32M     Como Residences, Palm Jumeirah  Penthouse, 4 beds + maids 9815sqft 360 view Handover Q3 2027 OP: 56.1M -  54M     Sea Mirror, Jumeirah Bay Island  6 beds - B+G+1+2 Plot: 26994sqft BUA: 30000sqft Private pool, yoga garden, outdoor kitchen+bbq, etc -  130M      DM for more info if you have seri",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xe3qu9/distress_deals/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe33oh",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For rent. Anyone interested?",
-   "text": "   I have 4 br+maid&#39;s | HORIZON TOWER | dubai marina for yearly rent. Price 220 for 2 chq nego. I am agent looking for client.. anyone have client ??? Please contect with ne     &#32; submitted by &#32;   /u/HopefulChallenge945       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe33oh/for_rent_anyone_interested/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe2jcg",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "The tallest tower by a Chinese developer in Dubai is going up in Silicon Oasis, with Versace interiors and a 20/80 plan",
-   "text": "   If you&#39;ve been watching DSO, here&#39;s a new launch worth knowing about.   **Why DSO**   - One of only 5 official urban centres in Dubai&#39;s 2040 Master Plan, as the Knowledge &amp; Innovation Centre  - District IO expansion (AED 12.8B) is expected to bring 70,000+ new tech jobs  - Metro Blue Line expected in 2029 (RTA)  - 15 min to Downtown and Business Bay, 18 min to DXB   **The project**   - 31 floors, 118 m, the tallest tower built by a Chinese developer in Dubai  - Every home finished with Versace Ceramics and Italian Newform fittings  - Rooftop infinity pool facing the Burj Kha",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe2jcg/the_tallest_tower_by_a_chinese_developer_in_dubai/",
    "date": "2026-10-24",
    "dateApprox": false,
    "language": "en",
