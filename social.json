@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-01T13:31:37Z",
- "newThisRun": 7,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-01T22:06:05Z",
+ "newThisRun": 4,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
@@ -53,30 +53,45 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 6,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 31,
+   "items": 17,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 29,
+   "items": 14,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xlabgh",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Houston vs. Orlando – Which Is Better for a Fresh Start in the US?",
+   "text": "   I’m 26 and currently living in Europe. I’m quite introverted, have a small social circle, and mostly spend my free time at the gym.   I’m considering moving to the US and have to choose between Houston and the Orlando area. I’ve never visited either city.   I’m looking for a fresh start: a more active social life, meeting new people, dating, staying fit, and potentially starting something on the side, such as real estate.    My priorities:      Warm weather year-round   Walkable areas with restaurants, cafés and things to do   Good gyms, pools and outdoor activities   A lively atmosphere wi",
+   "url": "https://www.reddit.com/r/expats/comments/1xlabgh/houston_vs_orlando_which_is_better_for_a_fresh/",
+   "date": "2026-11-01",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-01T22:06:03Z"
+  },
   {
    "id": "rd:t3_1xl0kle",
    "platform": "Reddit",
@@ -3806,21 +3821,6 @@
    "title": "URGENT REQUIREMENT | SOBHA RESERVE",
    "text": "   Looking for a 4-Bedroom Villa in Sobha Reserve.   💰 Budget: AED 7.5 Million  💵 Cash Buyer – Cheque Ready   Serious buyer ready to proceed. Direct owners and agents with genuine, available units, please DM me ASAP with details.   🤝 Let’s close this deal!     &#32; submitted by &#32;   /u/ResidentAttitude7462       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xe59k4/urgent_requirement_sobha_reserve/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe3qu9",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Distress Deals!",
-   "text": "    Distress Deals For SALE!       Sohba S Tower  4 bedrooms + maids 4851 sqft Full sea facing view -  12M  -  2 units available     Ava by Omniyat  Full floor sky residences 3 bed + maid 6600sqft Full palm view Private pool, etc -  49.8M     Burj Vista  Triplex 5 bed 9000sqft Burj khalifa view -  32M     Como Residences, Palm Jumeirah  Penthouse, 4 beds + maids 9815sqft 360 view Handover Q3 2027 OP: 56.1M -  54M     Sea Mirror, Jumeirah Bay Island  6 beds - B+G+1+2 Plot: 26994sqft BUA: 30000sqft Private pool, yoga garden, outdoor kitchen+bbq, etc -  130M      DM for more info if you have seri",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe3qu9/distress_deals/",
    "date": "2026-10-24",
    "dateApprox": false,
    "language": "en",
