@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-31T21:39:45Z",
- "newThisRun": 8,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-01T06:13:14Z",
+ "newThisRun": 3,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 2,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -66,17 +66,32 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 31,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 29,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xko73m",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Checklist/tasks to be done before moving out from UAE?",
+   "text": "   Hi everyone,   Can somebody share checklist of paperwork/tasks to do before moving out of UAE as an expat.   Could anyone share a complete breakdown or past experience regarding what standard clearances, bank account conversions/closure, utility/Rent closure, and official history documents should be done beforehand before leaving UAE?   Any important tips or steps that often we forget before leaving UAE, would be greatly appreciated. Thanks     &#32; submitted by &#32;   /u/VastDistinct6428       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xko73m/checklisttasks_to_be_done_before_moving_out_from/",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-01T06:13:00Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi4wNBVV95cUxNN0RKb0x6R2p5RnRFZEtLbFVJTHZ6X0UxTGZua2RPMWtfRFlhaGNCME9FQi1JTE8xVk9ucWdZZDNmTnUxak9MeUdfQS1VUXNDa24tQWlYejhVR3F2YUtybDZYY2tFM0otRTI1TXRKeUtqbEJva0VtVFpvWXctTmgyR05VSDJSVDljaVV4dnQtQVhtSnVqWGRmUGxpZmpQOWdabDFBYk9VTFpUZ25CSE1Bdno5T0NJc3pacG1ZQXpJMDNhTS1zei11WkpDb1hGMUFoaHVUWnlfdWJJeVpZaXdTS1A3eGVCSDFVWF80aEFYRGwtS2VZdHJxZWhHX185eWtzMmpGdnpXOWlWYmFfUFpucXc4NXg1WTJTeTc3MWhhczVCT0Fhbm9HS2FlWGlqQ1ZTQ1RYRGRiQ2d6WGpUdWpfbVRDSlFTUW9uYmlUVmUwTXFETWxTVzE5Mm5UN25JODJwM3JhbVRjTUNLVTJsZnJONTQzU1pKc19KMHljZ0F5dWlGU29kMkNkRjg1LWQ2cjVNV3NFVUdNY2xjZFpzX2phRThhaTM1R19kcXh5NU9Md0NqR2F2SE9ObExZY0ZYaElzOFpyRDROMmtYZlNqemZHMkpIcHM4QTljN2JTVjlsdmw2TFk?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "The tallest tower by a Chinese developer in Dubai is going up in Silicon Oasis, with Versace interiors and a 20/80 plan",
    "text": "   If you&#39;ve been watching DSO, here&#39;s a new launch worth knowing about.   **Why DSO**   - One of only 5 official urban centres in Dubai&#39;s 2040 Master Plan, as the Knowledge &amp; Innovation Centre  - District IO expansion (AED 12.8B) is expected to bring 70,000+ new tech jobs  - Metro Blue Line expected in 2029 (RTA)  - 15 min to Downtown and Business Bay, 18 min to DXB   **The project**   - 31 floors, 118 m, the tallest tower built by a Chinese developer in Dubai  - Every home finished with Versace Ceramics and Italian Newform fittings  - Rooftop infinity pool facing the Burj Kha",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xe2jcg/the_tallest_tower_by_a_chinese_developer_in_dubai/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe1pfq",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Thinking about buying property in Dubai? What are you looking for?",
-   "text": "   Thinking about buying property in Dubai? What are you looking for?   I&#39;m building connections with Dubai property professionals and trying to understand what buyers need most before making a decision.   If you&#39;re considering buying in Dubai, I&#39;d be interested to hear:   - Are you buying for investment or personal use?   - What&#39;s your approximate budget in AED?   - Are you looking for a ready property or an off-plan option?   If you&#39;re actively looking, you can message me with your requirements. I&#39;ll aim to connect you with a relevant property professional.   I&#39;m ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe1pfq/thinking_about_buying_property_in_dubai_what_are/",
    "date": "2026-10-24",
    "dateApprox": false,
    "language": "en",
