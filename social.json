@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-02T06:14:00Z",
- "newThisRun": 7,
- "sourcesOk": 4,
+ "generatedAt": "2026-11-02T16:09:01Z",
+ "newThisRun": 12,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 174,
-  "rss": 71
+  "reddit": 172,
+  "rss": 73
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "error": null
   },
   {
@@ -58,25 +58,115 @@
    "error": "HTTP 429"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 30,
+   "items": 18,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 27,
+   "items": 28,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%85%d9%86%d8%ad-%d8%ad%d9%85%d8%af%d8%a7%d9%86-%d8%a8%d9%86-%d9%85%d8%ad%d9%85%d8%af-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "لماذا منح حمدان بن محمد شركة إعمار العقارية جائزة «دبي الأفعال»؟",
+   "text": "منح سموّ الشيخ حمدان بن محمد بن راشد آل مكتوم، ولي عهد دبي، نائب رئيس مجلس الوزراء وزير الدفاع، رئيس&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%85%d9%86%d8%ad-%d8%ad%d9%85%d8%af%d8%a7%d9%86-%d8%a8%d9%86-%d9%85%d8%ad%d9%85%d8%af-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:09:00Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a5%d8%aa%d8%b4-%d8%a3%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-32-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d9%85%d8%b4%d8%b1%d9%88%d8%b9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إتش أند إتش» تبدأ إنشاء 32 فيلا في مشروع «إيدن هاوس دبي هيلز»",
+   "text": "أعلنت إتش أند إتش للتطوير H&#38;H Development بدء إنشاء 32 فيلا من خمس وست غرف نوم ضمن مشروع إيدن هاوس&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a5%d8%aa%d8%b4-%d8%a3%d9%86%d8%af-%d8%a5%d8%aa%d8%b4-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-32-%d9%81%d9%8a%d9%84%d8%a7-%d9%81%d9%8a-%d9%85%d8%b4%d8%b1%d9%88%d8%b9/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:09:00Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/proptech/%d8%a8%d8%b1%d9%8a%d8%a8%d9%83%d9%88-%d9%85%d9%8a%d9%86%d8%aa-%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d8%b5%d8%af/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«بريبكو مينت» تحصل على ترخيص رسمي لإصدار أصول افتراضية مرتبطة بالعقارات في دبي",
+   "text": "أعلنت بريبكو مينت PRYPCO Mint، منصة ترميز العقارات في دبي، حصولها على ترخيص إصدار الأصول الافتراضية من الفئة الأولى من&#8230;",
+   "url": "https://masdarak.com/proptech/%d8%a8%d8%b1%d9%8a%d8%a8%d9%83%d9%88-%d9%85%d9%8a%d9%86%d8%aa-%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d8%b5%d8%af/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:09:00Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "مبيعات العقارات في أبوظبي خلال أكتوبر ترتفع 14.7% إلى 3.89 مليار دولار",
+   "text": "بلغت مبيعات العقارات في أبوظبي خلال أكتوبر 2026 أكثر من 3.89 مليار دولار (14.3 مليار درهم)، بزيادة تقارب 14.7% مقارنة&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:09:00Z"
+  },
+  {
+   "id": "rd:t3_1xltzjn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Why Is My Electricity Consumption So High?",
+   "text": "                 I just moved in a Studio Apartment in Dubai Marina last month.   Should I apply for a DEWA inspection or is this normal and expected?     &#32; submitted by &#32;   /u/BonafideBOSS       [link]   &#32;   [comments]      ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xltzjn/why_is_my_electricity_consumption_so_high/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:08:26Z"
+  },
+  {
+   "id": "rd:t3_1xlrqmo",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dubai Landlord Withholding Prepaid Rent and Security Deposit",
+   "text": "   I rented an apartment in Dubai for two years, co-owned by a father and daughter. Before moving out, I gave advance notice, completed the handover, settled DEWA, and obtained written confirmation that my unused prepaid rent and security deposit would be refunded.   It’s now been over two months. Despite repeated promises, the landlady hasn’t returned the money. She initially claimed she didn’t have the funds and now says her father is traveling in China and can’t access his bank account.   A substantial amount remains outstanding, and she’s stopped responding to my calls, emails, and WhatsAp",
+   "url": "https://www.reddit.com/r/dubai/comments/1xlrqmo/dubai_landlord_withholding_prepaid_rent_and/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:08:26Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiugFBVV95cUxNb01nZldwcndOTkU4S1UzR0xpdEhZbnZiN0RTMU1DSjZQc3J2cXlJY3NSdWJxc3RjaWpfZHdVdEZ5ckJ6VHhRMHF0S2ptVkoySjc2Qk0tNzhJS0ptQXJZc3YycUQ3ZDVOZDE2RnNCS2VxWEF2TjdMbzBKd09BejBYcWRoOXpIdGdncmppaTlITUgycC1OMjhuTEs3RlhLVnk4d295Qm1oWUNvV1JWN051TmJnWG5hQ2JWSVE?oc=5",
    "platform": "RSS",
@@ -151,6 +241,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-01T13:31:01Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZFBic1VLdzlpX085dW1yekpVOEFKUFZXcUdKZkx3c1dvLThUc0o1d0lsRThQdEEzcmpIQ2haWUp2Wkl1SDNtM3NjaERkRUVDdFBxeGJrdDJaempySkt3NngzSlRTVDBNekQ0QXJ0NA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "كيف كان أداء سوق العقارات في دبي خلال الـ 10 أشهر الأولى من 2026؟ - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+   "text": " كيف كان أداء سوق العقارات في دبي خلال الـ 10 أشهر الأولى من 2026؟ &nbsp;&nbsp; ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي ",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZFBic1VLdzlpX085dW1yekpVOEFKUFZXcUdKZkx3c1dvLThUc0o1d0lsRThQdEEzcmpIQ2haWUp2Wkl1SDNtM3NjaERkRUVDdFBxeGJrdDJaempySkt3NngzSlRTVDBNekQ0QXJ0NA?oc=5",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T16:09:01Z"
   },
   {
    "id": "rd:t3_1xko73m",
@@ -3721,111 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-24T20:55:32Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXQ0UV9uTHZFRXZqbDVLaUFKZjZpNklwelRfdjdWM1YtTk1VS0tEQmM1TTRvT0tNcnRuelJzR1J3Q2dOa3NNcHNCUlJrZXNQZ2NUODN0T3NzVld3NFI3ZTFnal9fZGRxWjNJdFZKSl85dXlWUVhhbjMxY3BfYldoWVlDSE5iNmVnRHFOZk5PcDNSeXdfTUVIVW9hcC1HQUFZUkpTRg?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Top industry experts team up for new Dubai real estate venture - TradeArabia",
-   "text": " Top industry experts team up for new Dubai real estate venture &nbsp;&nbsp; TradeArabia ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXQ0UV9uTHZFRXZqbDVLaUFKZjZpNklwelRfdjdWM1YtTk1VS0tEQmM1TTRvT0tNcnRuelJzR1J3Q2dOa3NNcHNCUlJrZXNQZ2NUODN0T3NzVld3NFI3ZTFnal9fZGRxWjNJdFZKSl85dXlWUVhhbjMxY3BfYldoWVlDSE5iNmVnRHFOZk5PcDNSeXdfTUVIVW9hcC1HQUFZUkpTRg?oc=5",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T16:00:06Z"
-  },
-  {
-   "id": "rd:t3_1xe92vk",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Changing ceiling panels",
-   "text": "   Hi All   I want to change the gypsum partition boards in my kitchen ceiling as the current ones are quite old. I’m the tenant.    I have 6 partition boards in my kitchen with spotlights attached to some boards and a smoke detector attached to one board.    I bought new boards and was planning to call a handyman to help fix it— detach and reattach the spotlights and the smoke sensor.    Security has told me that smoke detector can’t be touched by anyone other than authorized people and gave me a contact of a company. But the company charges 750 + vat just to detach and reattach the existing ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xe92vk/changing_ceiling_panels/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T15:59:30Z"
-  },
-  {
-   "id": "rd:t3_1xe5pcj",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "2 year residency visa (property investment)",
-   "text": "   Can someone let me know if I am able to get the 2 year residency visa?   I bought an apartment off-the-plan, due for completion in Q1 2027. I paid 1.8mn AED, fully paid and no mortgage.   Am I eligible to get the visa even if completion hasn&#39;t occurred yet? If yes, what documents do I need?     &#32; submitted by &#32;   /u/Adorable_Height_4813       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xe5pcj/2_year_residency_visa_property_investment/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T15:59:30Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWNJOEl5UklmM011YjF0MjY4QzlXZE1IUVhWWHoyZ0xONmEwcmRlaDVMc0NuNkQ2Nko2YlVnXzZ2M1I1NFVLR2lnazVwQ1BxeS04ZUhlRVhRYXViQjRsSDhMWE5lTDNTR096dXIzRjdGNmhqN25YQTFQdFdmQkxWRkNGWURYMWk2UVE5bEh2ZkpHMmEyVElGMHByQmtNY0VVYk9ZVTJDcw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "UAE Business: Top industry experts team up for new Dubai real estate venture - Gulf Daily News (Bahrain)",
-   "text": " UAE Business: Top industry experts team up for new Dubai real estate venture &nbsp;&nbsp; Gulf Daily News (Bahrain) ",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWNJOEl5UklmM011YjF0MjY4QzlXZE1IUVhWWHoyZ0xONmEwcmRlaDVMc0NuNkQ2Nko2YlVnXzZ2M1I1NFVLR2lnazVwQ1BxeS04ZUhlRVhRYXViQjRsSDhMWE5lTDNTR096dXIzRjdGNmhqN25YQTFQdFdmQkxWRkNGWURYMWk2UVE5bEh2ZkpHMmEyVElGMHByQmtNY0VVYk9ZVTJDcw?oc=5",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:30Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS0FCQkRWWEJZUF81ZGFQSGZpSnFVMHBsdVRzY2xyOGNXaEE0VEdEWTZkWnllUV9aNGNYNndVdS1tV0o5bzZPNzlDNWtVZy1tWlZqamdQTGxrcDlESjV2YlNGT1o3TjI1ek5wTE10YUhIaHBrY1BYVGVkLU96LVJCYUVLV0ExcjYwVlhJbXdmTXRPVm5PR1hqTlZwRFR2SnpGbGNWRkV6WjczTTZFa1NXVE14TDNyQ2E2NTVrTzVXZ3dFRk4zeTBjOHg0M1EteEhFNWQ2dGxtalk3TEpjdmlCb09zWQ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai Real Estate Boom: 104 Projects Worth $29.3 Billion Completed in H1 2026 - Spherical Insights",
-   "text": " Dubai Real Estate Boom: 104 Projects Worth $29.3 Billion Completed in H1 2026 &nbsp;&nbsp; Spherical Insights ",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS0FCQkRWWEJZUF81ZGFQSGZpSnFVMHBsdVRzY2xyOGNXaEE0VEdEWTZkWnllUV9aNGNYNndVdS1tV0o5bzZPNzlDNWtVZy1tWlZqamdQTGxrcDlESjV2YlNGT1o3TjI1ek5wTE10YUhIaHBrY1BYVGVkLU96LVJCYUVLV0ExcjYwVlhJbXdmTXRPVm5PR1hqTlZwRFR2SnpGbGNWRkV6WjczTTZFa1NXVE14TDNyQ2E2NTVrTzVXZ3dFRk4zeTBjOHg0M1EteEhFNWQ2dGxtalk3TEpjdmlCb09zWQ?oc=5",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:30Z"
-  },
-  {
-   "id": "rd:t3_1xe5sz2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1BR Apartment | Ajman corniche street | AED 1,360,000",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: Ajman, corniche street   Building/project: Mawjan, floor 37    Price: AED 150,000 cash, AED 13,400 installments with Developers    Bedrooms: 1   Size (sq ft): 1058   Status: off-plan Q1 2028   Additional details: ✨  A truly unique 1-bedroom apartment!   Only  one unit in the entire tower  with these features —  direct sea view, beautiful amenities view, and an attractive price.   A rare opportunity, especially at this price. 🔥     &#32; submitted by &#32;   /u/Excellent_Fix_2218       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe5sz2/1br_apartment_ajman_corniche_street_aed_1360000/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe5om7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2 year residency visa?",
-   "text": "   Can someone let me know if I am able to get the 2 year residency visa?   I bought an apartment off-the-plan, due for completion in Q1 2027. I paid 1.8mn AED, fully paid and no mortgage.   Am I eligible to get the visa even if completion hasn&#39;t occurred yet? If yes, what documents do I need?     &#32; submitted by &#32;   /u/Adorable_Height_4813       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe5om7/2_year_residency_visa/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
   }
  ]
 }
