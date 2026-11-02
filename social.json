@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-01T22:06:05Z",
- "newThisRun": 4,
- "sourcesOk": 9,
+ "generatedAt": "2026-11-02T06:14:00Z",
+ "newThisRun": 7,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 175,
-  "rss": 70
+  "reddit": 174,
+  "rss": 71
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": null
   },
   {
@@ -53,30 +53,60 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 6,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 17,
+   "items": 30,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 27,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiugFBVV95cUxNb01nZldwcndOTkU4S1UzR0xpdEhZbnZiN0RTMU1DSjZQc3J2cXlJY3NSdWJxc3RjaWpfZHdVdEZ5ckJ6VHhRMHF0S2ptVkoySjc2Qk0tNzhJS0ptQXJZc3YycUQ3ZDVOZDE2RnNCS2VxWEF2TjdMbzBKd09BejBYcWRoOXpIdGdncmppaTlITUgycC1OMjhuTEs3RlhLVnk4d295Qm1oWUNvV1JWN051TmJnWG5hQ2JWSVE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate mortgages hit record $5.94bn as buyers secure 10,000 loans - Arabian Business",
+   "text": " Dubai real estate mortgages hit record $5.94bn as buyers secure 10,000 loans &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb01nZldwcndOTkU4S1UzR0xpdEhZbnZiN0RTMU1DSjZQc3J2cXlJY3NSdWJxc3RjaWpfZHdVdEZ5ckJ6VHhRMHF0S2ptVkoySjc2Qk0tNzhJS0ptQXJZc3YycUQ3ZDVOZDE2RnNCS2VxWEF2TjdMbzBKd09BejBYcWRoOXpIdGdncmppaTlITUgycC1OMjhuTEs3RlhLVnk4d295Qm1oWUNvV1JWN051TmJnWG5hQ2JWSVE?oc=5",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T06:14:00Z"
+  },
+  {
+   "id": "rd:t3_1xloct7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Building Management Threatening Owners Over Water Leaks!",
+   "text": "   I’m an apartment owner in Dubai, and water leakage is a common issue throughout our entire building. Several owners have faced similar problems, and management is well aware of it.   Recently, management claimed water is leaking from our bathroom into another apartment and gave us 24 hours to arrange repairs at our expense or face a Mollak violation.   Our bathroom is entirely in its original condition, with no modifications or plumbing alterations. There is also no visible leakage in our bathroom.  Instead of investigating potential building-wide plumbing or waterproofing defects, manageme",
+   "url": "https://www.reddit.com/r/dubai/comments/1xloct7/building_management_threatening_owners_over_water/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-02T06:13:25Z"
+  },
   {
    "id": "rd:t3_1xlabgh",
    "platform": "Reddit",
@@ -3791,36 +3821,6 @@
    "title": "2 year residency visa?",
    "text": "   Can someone let me know if I am able to get the 2 year residency visa?   I bought an apartment off-the-plan, due for completion in Q1 2027. I paid 1.8mn AED, fully paid and no mortgage.   Am I eligible to get the visa even if completion hasn&#39;t occurred yet? If yes, what documents do I need?     &#32; submitted by &#32;   /u/Adorable_Height_4813       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xe5om7/2_year_residency_visa/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe5mlx",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Rockefeller Business Tower in Dubai",
-   "text": "   Christian A. Rockefeller Business Tower by LMD.    📩 DM me to get your invite.   BRN 69112 | Permit No: 2065880868.    Christian A. Rockefeller Business Tower, Rockefeller Tower Dubai, Dubai office for sale, Dubai commercial real estate, Sheikh Zayed Road offices, Downtown Dubai commercial property, LMD Dubai, off-plan offices Dubai, pre-launch offices Dubai, Dubai office investment, Dubai headquarters, American companies in Dubai, Dubai business tower, Dubai skyscraper, full-floor office Dubai, Dubai office space, offices near Burj Khalifa, Business Bay and DIFC offices, Dubai property inv",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe5mlx/rockefeller_business_tower_in_dubai/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T11:07:06Z"
-  },
-  {
-   "id": "rd:t3_1xe59k4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "URGENT REQUIREMENT | SOBHA RESERVE",
-   "text": "   Looking for a 4-Bedroom Villa in Sobha Reserve.   💰 Budget: AED 7.5 Million  💵 Cash Buyer – Cheque Ready   Serious buyer ready to proceed. Direct owners and agents with genuine, available units, please DM me ASAP with details.   🤝 Let’s close this deal!     &#32; submitted by &#32;   /u/ResidentAttitude7462       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe59k4/urgent_requirement_sobha_reserve/",
    "date": "2026-10-24",
    "dateApprox": false,
    "language": "en",
