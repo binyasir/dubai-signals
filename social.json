@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-11-02T16:09:01Z",
- "newThisRun": 12,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-03T01:02:01Z",
+ "newThisRun": 7,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 172,
-  "rss": 73
+  "reddit": 169,
+  "rss": 76
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -66,17 +66,77 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 18,
+   "items": 19,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 28,
+   "items": 12,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMickFVX3lxTE5FNUowYm9RMEZFYW53YUczQXkwQXJIOWUxSTNmVGpzQW9LMjBBUUxQYV93VnU3NDB0Q0FDM0ZVVUtlOVQzWmhBSVVNMmlqVFR6QVRwLUxaUVRNR0JYMl9wcDhIQUx1REtpQVdjc20tXzZnQdIBjAFBVV95cUxOQmdGZHZzeGxoTTl6aS1QdGctS3dRbXJwWHlrYkY3V1ZSNF9OVEVnZm10WnAzWG9tTjVrWjlYLTlQRWdsdi1DUl9pWjN1Y05lOWdUem45cFNxa2xkaWVjUEpENjhDX2VTTG51aGZpc2NhQlgzZjdlQy16M3p2UzFQMWFJRV9ZMkNjalF4Rg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "6.58 مليارات درهم تصرفات قياسية لعقارات دبي مطلع الأسبوع - الإمارات اليوم",
+   "text": " 6.58 مليارات درهم تصرفات قياسية لعقارات دبي مطلع الأسبوع &nbsp;&nbsp; الإمارات اليوم ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FNUowYm9RMEZFYW53YUczQXkwQXJIOWUxSTNmVGpzQW9LMjBBUUxQYV93VnU3NDB0Q0FDM0ZVVUtlOVQzWmhBSVVNMmlqVFR6QVRwLUxaUVRNR0JYMl9wcDhIQUx1REtpQVdjc20tXzZnQdIBjAFBVV95cUxOQmdGZHZzeGxoTTl6aS1QdGctS3dRbXJwWHlrYkY3V1ZSNF9OVEVnZm10WnAzWG9tTjVrWjlYLTlQRWdsdi1DUl9pWjN1Y05lOWdUem45cFNxa2xkaWVjUEpENjhDX2VTTG51aGZpc2NhQlgzZjdlQy16M3p2UzFQMWFJRV9ZMkNjalF4Rg?oc=5",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T01:02:01Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMihwJBVV95cUxQWXVLcmRpYkpDT0JGZEZYUkF2SkkzOTVWME9vRFp0UU51NVBaT3RjTC1TQk9HSVp4UzNRTFNkUVd6Y1RUTG9BNGtNVlF6TVRlVGVmX0RzeUJ5N25yWnZWcHRWVjcwRXNOLVlXekNSVkpLaXhHZjFaOEd2dkFQUEJ4cVdGVjROM3Vtb3lsSER5OXhvYm1CN2pwRU9mVURqZWtTNFFndmdtWm9LMkNnYktIU0twcy1KSmtSbWRPY2p4MnIyOTd5bVNtZHk0dGEteWtOSWx3c3JLWUd0cWgyZWdFVXBjbDVpZ0xJX2lqQmdnaFZiSi0tMEc4VWV2c1VlajE3bHl4WDg0NA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "PropertyIndex, the Most Accurate Property Price Platform in Dubai, Finds Dubai Property Prices Back at April 2025 Levels - StreetInsider",
+   "text": " PropertyIndex, the Most Accurate Property Price Platform in Dubai, Finds Dubai Property Prices Back at April 2025 Levels &nbsp;&nbsp; StreetInsider ",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWXVLcmRpYkpDT0JGZEZYUkF2SkkzOTVWME9vRFp0UU51NVBaT3RjTC1TQk9HSVp4UzNRTFNkUVd6Y1RUTG9BNGtNVlF6TVRlVGVmX0RzeUJ5N25yWnZWcHRWVjcwRXNOLVlXekNSVkpLaXhHZjFaOEd2dkFQUEJ4cVdGVjROM3Vtb3lsSER5OXhvYm1CN2pwRU9mVURqZWtTNFFndmdtWm9LMkNnYktIU0twcy1KSmtSbWRPY2p4MnIyOTd5bVNtZHk0dGEteWtOSWx3c3JLWUd0cWgyZWdFVXBjbDVpZ0xJX2lqQmdnaFZiSi0tMEc4VWV2c1VlajE3bHl4WDg0NA?oc=5",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T01:02:01Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%a5/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أراضي دبي» تتيح تسجيل وتجديد عقود الإيجار وإصدار شهادة «إيجاري» عبر «دبي الآن»",
+   "text": "أعلنت دائرة الأراضي والأملاك في دبي إتاحة خدمة «إيجاري» المطوّرة عبر تطبيق «دبي الآن»، عبر تطبيق «دبي الآن» DubaiNow، المنصة&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%b6%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d9%88%d8%aa%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%82%d9%88%d8%af-%d8%a7%d9%84%d8%a5/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T01:02:00Z"
+  },
+  {
+   "id": "rd:t3_1xm2odt",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "What are the pros and cons",
+   "text": "    IF  ( theres a big IF 😁)    UAE starts giving permanent residency like western and European countries leading to the passport eventually?   Personally I think it will bring in massive wave of immigrants never seen before which itself will be staggeringly advantageous in every way.   I know theres a 2021 law where parliamentary committee gives citizenship to people highly recommended from the panel after ultimately given the seal from the top.  BUT  that is very rare.. iam talking about permanent commitments as it happens elsewhere..   PS : THE golden visa is renewable but a very expensive ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xm2odt/what_are_the_pros_and_cons/",
+   "date": "2026-11-02",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T01:01:26Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%85%d9%86%d8%ad-%d8%ad%d9%85%d8%af%d8%a7%d9%86-%d8%a8%d9%86-%d9%85%d8%ad%d9%85%d8%af-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82/",
    "platform": "RSS",
@@ -241,6 +301,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-01T13:31:01Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZWjdEWWZsakpWbjMwclJpSTlybXpMT2tIOFNtLUpvNmRnV3dYQ0VFbDQ0R2JiRlQzazF3bzRqd19aOTdVWHNfU0gzNU5iUzkyT2Q3MTNqczNWTUltenRZQlIzNVcwTkpDZkE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "كيف كان أداء سوق العقارات في دبي خلال الـ 10 أشهر الأولى من 2026؟ - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+   "text": " كيف كان أداء سوق العقارات في دبي خلال الـ 10 أشهر الأولى من 2026؟ &nbsp;&nbsp; ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZWjdEWWZsakpWbjMwclJpSTlybXpMT2tIOFNtLUpvNmRnV3dYQ0VFbDQ0R2JiRlQzazF3bzRqd19aOTdVWHNfU0gzNU5iUzkyT2Q3MTNqczNWTUltenRZQlIzNVcwTkpDZkE?oc=5",
+   "date": "2026-10-31",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T01:02:01Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZFBic1VLdzlpX085dW1yekpVOEFKUFZXcUdKZkx3c1dvLThUc0o1d0lsRThQdEEzcmpIQ2haWUp2Wkl1SDNtM3NjaERkRUVDdFBxeGJrdDJaempySkt3NngzSlRTVDBNekQ0QXJ0NA?oc=5",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xe74jn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Nawayef West Hills, Hudayriyat Island — Investment Analysis & Discussion",
-   "text": "   &#x200B;   I’m interested in hearing other investors’ perspectives on Nawayef West Hills and its long-term potential within Abu Dhabi’s luxury villa market.   One of the available options is a 5-bedroom villa with direct sea and beach views.   Property details:   - Plot area: 11,012 sq. ft.   - GSA: 12,886 sq. ft.   - Layout: Basement + Ground + 1 Floor   - Original purchase price: AED 19.6 million   I also have access to several other villa options in Nawayef West Hills, with different layouts and views.   A few points worth discussing:   - How do you see Hudayriyat’s long-term growth comp",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe74jn/nawayef_west_hills_hudayriyat_island_investment/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xe6k2a",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "22% below op 700k and willing to go lower if serious buyer 2BR APARTMENT DUBAI ISLAND 2,500,00",
-   "text": "   SUPER DISTRESSED DEAL | DUBAI ISLANDS  2BR + Maid&#39;s Room  Fully furnished by an Italian luxury brand  Private balcony jacuzzi  Handover 2027  Original Price: AED 3,227,755  Distressed Price: AED 2,500,000  About 22% below OP  Flexible payment split between seller, developer and handover.  No agents please. Direct buyers only.  DM or WhatsApp for full details.     &#32; submitted by &#32;   /u/Icy-Word-3151       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe6k2a/22_below_op_700k_and_willing_to_go_lower_if/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xe5xp0",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Studio Apartment | Ajman corniche street | AED 583,000 - last chance for studio in corniche street",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: Ajman, corniche street    Building/project: Mawjan    Price: AED 29,000 cash, AED 5,800 installments with Developers    Bedrooms: studio   Size (sq ft): 583   Status: off-plan Q4 2029   Additional details: only AED 29,000 downpayment and installments 5 years with developer DM for more details.     &#32; submitted by &#32;   /u/Excellent_Fix_2218       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xe5xp0/studio_apartment_ajman_corniche_street_aed_583000/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xekmjb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Family Visa",
-   "text": "   Good day!   I am planning to sponsor my family here in Ajman. I have Dubai issued visa but my work is in Ajman and I am currently residing here. Since I am planning to DIY their family visa application. Does anyone here already tried or maybe knew if Tasdeeq is accepted instead of Ejari contract when filing in gdfra/DubaiNow app? Hope to hear from you, have a good day 😀     &#32; submitted by &#32;   /u/juiceeeeep       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xekmjb/family_visa/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:46:59Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMXFDdng1VV9qTHpUR25ISHBGdTF5ZkowTHFNOXFya3JFRGs3Z1o0YURreVVaUWxxcjE2ZjVQYjViUElqUVdKNGo5U3Jhb2dVeEIySjBYX1B5M3RoeW9CV2lHQTNZZWVlN040TC1TOWhlLTBqUl9oNDRfTmJ3OHJqbnI5QXZIN1pLYU5XZ3BkVEp0OTJ2TXp4S3pXNXFlN25SRnNUc290bW1LdnRld1IxNDQtak9XendJSXk1emExLXlDcThSVTR1X3VHT3hmU0lTZVRyRG5qOXZZbnpjSmNfVWpjVTF2clc0MTUzU2x6RjY?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "W Capital: Dubai real estate becomes a millionaire-making engine and a driver of wealth creation - Zawya",
-   "text": " W Capital: Dubai real estate becomes a millionaire-making engine and a driver of wealth creation &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMXFDdng1VV9qTHpUR25ISHBGdTF5ZkowTHFNOXFya3JFRGs3Z1o0YURreVVaUWxxcjE2ZjVQYjViUElqUVdKNGo5U3Jhb2dVeEIySjBYX1B5M3RoeW9CV2lHQTNZZWVlN040TC1TOWhlLTBqUl9oNDRfTmJ3OHJqbnI5QXZIN1pLYU5XZ3BkVEp0OTJ2TXp4S3pXNXFlN25SRnNUc290bW1LdnRld1IxNDQtak9XendJSXk1emExLXlDcThSVTR1X3VHT3hmU0lTZVRyRG5qOXZZbnpjSmNfVWpjVTF2clc0MTUzU2x6RjY?oc=5",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-24T20:55:32Z"
   }
  ]
 }
