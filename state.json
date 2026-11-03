@@ -23,8 +23,8 @@
    "modified": null
   },
   "https://masdarak.com/feed/": {
-   "etag": "\"e7e9506aa8b43546106fb07f26ffd9cd\"",
-   "modified": "Tue, 03 Nov 2026 13:43:26 GMT"
+   "etag": "\"af8b754de0c63ada3a958e4a9cfae6c6\"",
+   "modified": "Tue, 03 Nov 2026 15:17:22 GMT"
   },
   "https://news.google.com/rss/search?q=%22Dubai+Land+Department%22&hl=en-AE&gl=AE&ceid=AE:en": {
    "etag": null,
@@ -2046,6 +2046,12 @@
   "rd:t3_1xmte2h": "2026-11-03",
   "rd:t3_1xmkxc3": "2026-11-03",
   "rd:t3_1xlhmpt": "2026-11-03",
-  "rd:t3_1xlhlsc": "2026-11-03"
+  "rd:t3_1xlhlsc": "2026-11-03",
+  "rs:https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZGlqOWxHNzFfTndKMHA0TDhIajFzZ1FVeGF5VlhmYmdOaUV4SXM5cHpkUE0zRXE2dWNqNnUtREIxZ3lLZ1dGaVlrTlBBdkpLQlBObS1YSQ?oc=5": "2026-11-03",
+  "rs:https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUpFVWlMcm1pRktkeHA3TmxlN05jOXljWjlYemN5NjRPdWZMN2w0RlJuQ05GUG5mdTBlYmF4MW1pWWlFbjVPSVVrSjU1WkxEcGdZMTJObkNvemQ3aE1qWFBVWExTNzVEQWdfRHU5UzFsaml0S3k3U2t5UUR5MzY2c0txa0dKSzFkVXd5LTZndUI4MEVQQ2pBWWJBLUwwUV94ZmMyWm14eFFLdV9CUm9PUVBnRGdyTFZnY3pXQThieGlucndyMGc?oc=5": "2026-11-03",
+  "rd:t3_1xn12ha": "2026-11-03",
+  "rd:t3_1xmzrj2": "2026-11-03",
+  "rd:t3_1xmwtg7": "2026-11-03",
+  "rd:t3_1xmwad5": "2026-11-03"
  }
 }

@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-03T14:22:07Z",
- "newThisRun": 16,
- "sourcesOk": 9,
+ "generatedAt": "2026-11-03T23:26:52Z",
+ "newThisRun": 8,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 162,
-  "rss": 83
+  "reddit": 161,
+  "rss": 84
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 7,
    "error": null
   },
   {
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,17 +66,107 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 30,
+   "items": 21,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 22,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZGlqOWxHNzFfTndKMHA0TDhIajFzZ1FVeGF5VlhmYmdOaUV4SXM5cHpkUE0zRXE2dWNqNnUtREIxZ3lLZ1dGaVlrTlBBdkpLQlBObS1YSQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "6.58 مليارات درهم تصرفات عقارات دبي في مستهل الأسبوع ورهون أراضٍ قياسية بـ2.15 مليار - emirates24.net",
+   "text": " 6.58 مليارات درهم تصرفات عقارات دبي في مستهل الأسبوع ورهون أراضٍ قياسية بـ2.15 مليار &nbsp;&nbsp; emirates24.net ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZGlqOWxHNzFfTndKMHA0TDhIajFzZ1FVeGF5VlhmYmdOaUV4SXM5cHpkUE0zRXE2dWNqNnUtREIxZ3lLZ1dGaVlrTlBBdkpLQlBObS1YSQ?oc=5",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T23:26:52Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUpFVWlMcm1pRktkeHA3TmxlN05jOXljWjlYemN5NjRPdWZMN2w0RlJuQ05GUG5mdTBlYmF4MW1pWWlFbjVPSVVrSjU1WkxEcGdZMTJObkNvemQ3aE1qWFBVWExTNzVEQWdfRHU5UzFsaml0S3k3U2t5UUR5MzY2c0txa0dKSzFkVXd5LTZndUI4MEVQQ2pBWWJBLUwwUV94ZmMyWm14eFFLdV9CUm9PUVBnRGdyTFZnY3pXQThieGlucndyMGc?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property prices fall 1% and rents drop 7% as Abu Dhabi apartment prices rise 13% - Arabian Business",
+   "text": " Dubai property prices fall 1% and rents drop 7% as Abu Dhabi apartment prices rise 13% &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUpFVWlMcm1pRktkeHA3TmxlN05jOXljWjlYemN5NjRPdWZMN2w0RlJuQ05GUG5mdTBlYmF4MW1pWWlFbjVPSVVrSjU1WkxEcGdZMTJObkNvemQ3aE1qWFBVWExTNzVEQWdfRHU5UzFsaml0S3k3U2t5UUR5MzY2c0txa0dKSzFkVXd5LTZndUI4MEVQQ2pBWWJBLUwwUV94ZmMyWm14eFFLdV9CUm9PUVBnRGdyTFZnY3pXQThieGlucndyMGc?oc=5",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T23:26:51Z"
+  },
+  {
+   "id": "rd:t3_1xn12ha",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Suggest yatch rental options for 75ft to 88ft",
+   "text": "   I want to book yatch for 7th november around sunset time, I need good reference because many times photos and videos are deceiving and yatchs turn out to be old and not maintained.      &#32; submitted by &#32;   /u/Hour-Maize8472       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xn12ha/suggest_yatch_rental_options_for_75ft_to_88ft/",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T23:26:17Z"
+  },
+  {
+   "id": "rd:t3_1xmzrj2",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Property sold during active tenancy. Do I need a new Ejari?",
+   "text": "   Hi everyone,   My apartment was recently sold to a new landlord, but my existing tenancy contract and Ejari are valid until next year.   The new landlord has asked me to sign a replacement tenancy agreement and register a new Ejari under his name.   Just wanted to understand-      Is it mandatory to cancel my existing Ejari and register a new one when ownership changes?     Can the landlord’s details simply be updated on the existing Ejari?      Has anyone experienced this or knows the correct DLD procedure?   Thank you.     &#32; submitted by &#32;   /u/Scared-Intention3459       [link]   ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xmzrj2/property_sold_during_active_tenancy_do_i_need_a/",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T23:26:17Z"
+  },
+  {
+   "id": "rd:t3_1xmwtg7",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Apartment hunting",
+   "text": "   Hello all, I’m new to apartment hunting and i dont have much experience, please share your thoughts   So im an Emirati who is getting married soon. I’m looking for a 1BHR apartment with decent size and less than 100k. My issue is im trying to find a building that provides charging stations in the parking since my car is hybrid. Please share any suggestions if you have any.  Also please share your experience with different developers such as emaar, Azizi, Mag, Damac, etc.   Thank you in advance 🙏🏻     &#32; submitted by &#32;   /u/Born_Papaya9320       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xmwtg7/apartment_hunting/",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T23:26:17Z"
+  },
+  {
+   "id": "rd:t3_1xmwad5",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Where would you move to in Dubai? 160-180k/Year rent budget",
+   "text": "   Hey so moving from SHJ to DXB as I won&#39;t be WFH anymore and into a new role.   I&#39;ll be in Abu Dhabi a few times a week (flexible hours).   I&#39;m looking preferably for a 3 bed. I&#39;ve looked around and found arabian ranches 3 to be quite nice, as well as Mudon.   Some places I absolutely won&#39;t touch as I do not need traffic like I had in SHJ: JVC/International City/DSO.   Also anything damac I won&#39;t touch.   What would be the best place to live if not already ranches 3 for this budget and needing to go AD a few times a week.   Outside area (garden), decent food spots in ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xmwad5/where_would_you_move_to_in_dubai_160180kyear_rent/",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-03T23:26:17Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVkFVYl9pNUVENFp2ZG1ZSGJQN3NScVJMM3VWMDl1Z1psT2M0NVRLOTg4RHJ1UmlfS1BkUnBCRUlSRmpJY1ZVdHNDcFFqRHprdTJaRlNBNVQwek0?oc=5",
    "platform": "RSS",
@@ -3732,96 +3822,6 @@
    "text": "   Hello everyone! 👋🏡   Are you looking to buy property?   I’m looking to connect with serious real estate buyers who are interested in purchasing houses, apartments, land, or investment properties.   If you’re planning to buy a property or know someone who is actively looking, I’d love to connect and help you explore suitable opportunities.   📩 Serious buyers are welcome to send me a private message.   Let’s connect and find the right property for you! 🤝     &#32; submitted by &#32;   /u/Global_Dubai_homes       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xesxda/looking_for_real_estate_buyers/",
    "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xesrec",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Question for People Planning to Buy Property in Dubai",
-   "text": "   Hi everyone! I&#39;m interested in connecting with people who are planning to buy a ready property in Dubai.   If you&#39;re currently searching, I&#39;d love to understand what areas and types of properties buyers are interested in.   Are you looking for an apartment or a villa, and which areas of Dubai are you considering?   Thanks!     &#32; submitted by &#32;   /u/Dubai_HomeFinder       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xesrec/question_for_people_planning_to_buy_property_in/",
-   "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xeru3p",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Buyers & Agents of Dubai: What is the hardest thing to prove/verify about a project before a deal closes?",
-   "text": "     Hey everyone,    I’m doing some independent research on how property decisions get made in Dubai, and I’d love to get perspectives from both sides of the table— buyers/investors  and  agents/CPs .    Marketing brochures cover the basics like starting price, floor plans, and master plan renders. But when evaluating what actual day-to-day life and neighborhood convenience will look like around a project, certain details seem much harder to objectively verify.     For Buyers &amp; Investors:      For Channel Partners &amp; Brokers:     Not pitching any services or selling anything—just doing",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xeru3p/buyers_agents_of_dubai_what_is_the_hardest_thing/",
-   "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xekwng",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Tired of being an immigrant? Does anyone else feel this way?",
-   "text": "   Let me share my experience. I’ve been living in Buenos Aires since 2012. I came here without really knowing what to expect. A relative let me stay with them for about 20 days, but then, without any warning, they asked me to leave. It was a pretty stressful situation and, in a way, it shaped my first steps as an immigrant.   Today, I have citizenship and, fortunately, enough financial stability that I don’t have to pay rent. Still, there’s something I’ve been feeling lately: sometimes I’m just tired of having to think twice as much about everything.   I think that when you live outside your ",
-   "url": "https://www.reddit.com/r/expats/comments/1xekwng/tired_of_being_an_immigrant_does_anyone_else_feel/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-26T04:53:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzVENjlzT0lzdUdKMEUzQWNFYXU4c0NlTEdpV1NNV0ZvM0lTWjlPNHk0WTctWjk3S2gzbTZoYjBpOHBlWHJWbkVtMzdpaEtDeWlISFhCQzNUYk00al9vVVpKZEdVeXZtN3BQTGVpNThZWlRkMUlaY215WTVTZko4aG9zUk5CbzJZWlk0dmlXVlRuZDhhLVVBTm5KN05DR1E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Top industry experts team up for new Dubai real estate venture - TradeArabia",
-   "text": " Top industry experts team up for new Dubai real estate venture &nbsp;&nbsp; TradeArabia ",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzVENjlzT0lzdUdKMEUzQWNFYXU4c0NlTEdpV1NNV0ZvM0lTWjlPNHk0WTctWjk3S2gzbTZoYjBpOHBlWHJWbkVtMzdpaEtDeWlISFhCQzNUYk00al9vVVpKZEdVeXZtN3BQTGVpNThZWlRkMUlaY215WTVTZko4aG9zUk5CbzJZWlk0dmlXVlRuZDhhLVVBTm5KN05DR1E?oc=5",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:25Z"
-  },
-  {
-   "id": "rd:t3_1xenkkc",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai real estate stocks extend declines past 40%…",
-   "text": "   Good morning folks. Happy Sunday and happy reading.    I have recently been paying paying attention to public markets to understand the seeming disconnect between developer share prices (down 35-42%) from their pre-war peaks. Following the dead cat bounce after the initial February shock, stock prices have continued to decelerate. For reference, compared to these 40% decline, the overall Dubai index has only declined 13.5%.   The last 3 instances when property shares declined over 40% from their peaks:  1. 2009 financial crisis: 75% stock price declines while real estate prices fell &gt; 50",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xenkkc/dubai_real_estate_stocks_extend_declines_past_40/",
-   "date": "2026-10-24",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
-  },
-  {
-   "id": "rd:t3_1xeltn7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Villa | Palm Jebel Ali | Budget AED 18,000,000",
-   "text": "   Posting as: Agent   Property type: Villa   Preferred area: Palm Jebel Ali   Budget: AED 18,000,000   Bedrooms: 6   Preferred size: Not specified   Additional requirements: Looking for below original price, or at original price. DM me if you have a 6BR villa for sale.     &#32; submitted by &#32;   /u/Crazy_Gap2729       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xeltn7/villa_palm_jebel_ali_budget_aed_18000000/",
-   "date": "2026-10-24",
    "dateApprox": false,
    "language": "en",
    "engagement": "",
