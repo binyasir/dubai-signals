@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-03T23:26:52Z",
- "newThisRun": 8,
+ "generatedAt": "2026-11-04T06:30:48Z",
+ "newThisRun": 6,
  "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 5,
-  "reddit": 161,
-  "rss": 84
+  "reddit": 160,
+  "rss": 85
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 9,
    "error": null
   },
   {
@@ -58,15 +58,15 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 29,
    "error": null
   },
   {
@@ -77,6 +77,66 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUhQNGR6V2tsQW0zLTJHRGtfWW82c2JhZnhvNGdIdTNsTzlidmx2alJVdVh6M3pyTnd1NzN6a0RJRjhFdHZpS3RZWGlQb0c4SzhReXBMWk15cjYwSWdiSF9TdG4yeEhDRC11b3lHWUpMam84azRmSnN1dUpSS3NscXNWNzZrYTZQWWtvNWxocU1VOEZzeFdVVGctaklqdjBZTnNhdnBsRWlRTC1WWXFzMzlKUDhpa205dDZQRU05SXZYbWptaUszTXdBTGpScVNPa1E?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "In 10 months.. Emaar tops Dubai real estate developers sales list - صوت الإمارات",
+   "text": " In 10 months.. Emaar tops Dubai real estate developers sales list &nbsp;&nbsp; صوت الإمارات ",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUhQNGR6V2tsQW0zLTJHRGtfWW82c2JhZnhvNGdIdTNsTzlidmx2alJVdVh6M3pyTnd1NzN6a0RJRjhFdHZpS3RZWGlQb0c4SzhReXBMWk15cjYwSWdiSF9TdG4yeEhDRC11b3lHWUpMam84azRmSnN1dUpSS3NscXNWNzZrYTZQWWtvNWxocU1VOEZzeFdVVGctaklqdjBZTnNhdnBsRWlRTC1WWXFzMzlKUDhpa205dDZQRU05SXZYbWptaUszTXdBTGpScVNPa1E?oc=5",
+   "date": "2026-11-04",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-04T06:30:48Z"
+  },
+  {
+   "id": "rd:t3_1xngn0q",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Sponsoring dependents on an Abu Dhabi visa while living in Dubai – Need Advice!",
+   "text": "   Hi everyone, I&#39;m an expat changing jobs and in a bit of a tricky spot with my family&#39;s visa sponsorship. Would really appreciate any advice or recent personal experiences.   **My current status:**   **Current visa:** Dubai-issued, sponsored by my current company. My wife and child are on dependent visas under me.   **New job:** Starting in Abu Dhabi soon, so my new visa/Emirates ID will be issued from Abu Dhabi (ICP).   **Accommodation:** We live in Dubai with a valid, registered Ejari. Our child is in school here and we&#39;d like them to finish the school year before we consider m",
+   "url": "https://www.reddit.com/r/dubai/comments/1xngn0q/sponsoring_dependents_on_an_abu_dhabi_visa_while/",
+   "date": "2026-11-04",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-04T06:30:13Z"
+  },
+  {
+   "id": "rd:t3_1xne65u",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Keeping a property as a non-resident",
+   "text": "   Currently on Golden Visa with two properties.    I&#39;m relocating to another county, and I need to sell one of them to buy in the destination country.    So, I need to cancel the golden visa. But I&#39;ll keep the other property that&#39;s still off-plan.    Questions:   • What are the impacts of keeping the other property without a visa?    • What should I pay attention to? (Keeping the bank account as a non-resident, etc...)    • What alternative do I have to keep an active visa/emirates ID.    Obviously, having a POA is not an option because I lost trust in everyone here.    Anyone has",
+   "url": "https://www.reddit.com/r/dubai/comments/1xne65u/keeping_a_property_as_a_nonresident/",
+   "date": "2026-11-04",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-04T06:30:13Z"
+  },
+  {
+   "id": "rd:t3_1xn8uv6",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Advice & recommendations needed: Finding a quiet, private room/studio near the Metro (Budget: ~AED 4,000)",
+   "text": "   Hello everyone,  I am new to Dubai, currently pursuing a part-time master&#39;s degree, and about to start working. I am still getting familiar with how the rental system works here and the best areas to target, so I would deeply appreciate any advice, recommendations, or personal experiences you can share!  To give you an idea of what I&#39;m looking for, I am a very calm, quiet, clean, and respectful person, and I’m hoping to find similar flatmates who value a peaceful home environment.  Here are my preferences and criteria:  Budget: Around or up to AED 4,000 per month (bills included if ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xn8uv6/advice_recommendations_needed_finding_a_quiet/",
+   "date": "2026-11-03",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-04T06:30:13Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZGlqOWxHNzFfTndKMHA0TDhIajFzZ1FVeGF5VlhmYmdOaUV4SXM5cHpkUE0zRXE2dWNqNnUtREIxZ3lLZ1dGaVlrTlBBdkpLQlBObS1YSQ?oc=5",
    "platform": "RSS",
@@ -3766,66 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-25T11:37:06Z"
-  },
-  {
-   "id": "rd:t3_1xewq3i",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Processing Golden Visa residency for Dependants using GDRFA/Dubai Now. Is it possible? I am the primary applicant.",
-   "text": "   Has anyone successfully processed the  Golden Visa Residency  for  DEPENDANTS  using  DUBAI NOW  or the  GDRFA  website/app? (NOTE: this is ONLY for dependants and not for the primary applicant)   I&#39;d like to know if it&#39;s possible - I&#39;m able to cancel residency on Dubai Now however not sure about doing the whole residency through the app   Amer &amp; Typing centers are giving me wildly different pricing for the service and was just wondering if I could get it done myself without the overhead, thanks!     &#32; submitted by &#32;   /u/Jrsczoo       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xewq3i/processing_golden_visa_residency_for_dependants/",
-   "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T11:37:06Z"
-  },
-  {
-   "id": "rd:t3_1xewb1t",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "What will the new autograph collection mean for the rest of Al Majara?",
-   "text": "   I used to live in Al Majara in Marina close to DMCC metro, and while I enjoyed the location, a lot of the amenities had seen better days.    Now one of the buildings (Nuran Hotel) is being completely gutted and replaced with autographs collection branded residences at quite the premium.    While the views and location can justify a premium price, the amenities need major renovations to live up to that premium. Renders show crazy pool and other amenities, much nicer than what Al Majara has.    Are all amenities getting a major facelift? Are offplan buyers of autographs being shafted? Are oth",
-   "url": "https://www.reddit.com/r/dubai/comments/1xewb1t/what_will_the_new_autograph_collection_mean_for/",
-   "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T11:37:06Z"
-  },
-  {
-   "id": "rd:t3_1xetfl4",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "8 days of water leaking from upstairs apartment in Dubai. Building management can’t solve it. What can I do?",
-   "text": "   Hi everyone,   I’m looking for some advice from anyone who has experienced something similar in Dubai.  For the past  8 consecutive days , water has been leaking from the apartment directly above mine, causing serious damage to our rented apartment.   So far:  Parts of the ceiling have collapsed.  Walls and door frames are deteriorating.  Our entrance door has swollen so badly that my wife cannot open or close it without my help.  Our entrance and bathrooms keep flooding.  We’ve lost several nights of sleep dealing with the water and calling security.  I’ve even had to cancel work meetings ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xetfl4/8_days_of_water_leaking_from_upstairs_apartment/",
-   "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T11:37:06Z"
-  },
-  {
-   "id": "rd:t3_1xesxda",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Looking for real estate buyers ?",
-   "text": "   Hello everyone! 👋🏡   Are you looking to buy property?   I’m looking to connect with serious real estate buyers who are interested in purchasing houses, apartments, land, or investment properties.   If you’re planning to buy a property or know someone who is actively looking, I’d love to connect and help you explore suitable opportunities.   📩 Serious buyers are welcome to send me a private message.   Let’s connect and find the right property for you! 🤝     &#32; submitted by &#32;   /u/Global_Dubai_homes       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xesxda/looking_for_real_estate_buyers/",
-   "date": "2026-10-25",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-25T04:47:01Z"
   }
  ]
 }
