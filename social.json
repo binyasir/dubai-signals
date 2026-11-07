@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-11-06T19:27:42Z",
- "newThisRun": 9,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-07T06:04:03Z",
+ "newThisRun": 5,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
-  "reddit": 168,
-  "rss": 74
+  "reddit": 170,
+  "rss": 72
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -53,30 +53,60 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF5YVU5SXllaE9vVTVaQk91amtFSkM0MFEtcmtJaWRRS0d0YnVKdVR0bnlxRU5EdEg0OVFSN0JWa1BkR0V6N0ptUjdtN1U5ZVJTaFIwcmdKcjZBOTBvS3FkcEpYUGtSdmVwU0luejVjUWc3MjBrQlROU0cyWmc5WjRmc0tQdmVBdXl6dnNJUjl6QmMySzJRQk0zWnBRdlRoclpoetIBtwFBVV95cUxNM2cyRmdHV1VhUXhpTTJOT3JXWWlNdXFuM1QxYm40eDk0VExkSE0zSmJma1VIR3BLeGJ0bGtfNEV5bzliN2VBUmg1OFZOeW12Z0p2ZEFVVTVlTWNjYlR6Y2l4Qmx6M2VKYVZNeTIzTHJJVjEwYkFraWo4M2NONndvNXBFYVhZYjBKWkQ5Sjlfb0lBN21vVFhhc2NvMGo2TmM1cVBZbGFvLUMtWDU5QjFFSWxNSWdxZzA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property buyers find more choice, better deals - Gulf News",
+   "text": " Dubai property buyers find more choice, better deals &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF5YVU5SXllaE9vVTVaQk91amtFSkM0MFEtcmtJaWRRS0d0YnVKdVR0bnlxRU5EdEg0OVFSN0JWa1BkR0V6N0ptUjdtN1U5ZVJTaFIwcmdKcjZBOTBvS3FkcEpYUGtSdmVwU0luejVjUWc3MjBrQlROU0cyWmc5WjRmc0tQdmVBdXl6dnNJUjl6QmMySzJRQk0zWnBRdlRoclpoetIBtwFBVV95cUxNM2cyRmdHV1VhUXhpTTJOT3JXWWlNdXFuM1QxYm40eDk0VExkSE0zSmJma1VIR3BLeGJ0bGtfNEV5bzliN2VBUmg1OFZOeW12Z0p2ZEFVVTVlTWNjYlR6Y2l4Qmx6M2VKYVZNeTIzTHJJVjEwYkFraWo4M2NONndvNXBFYVhZYjBKWkQ5Sjlfb0lBN21vVFhhc2NvMGo2TmM1cVBZbGFvLUMtWDU5QjFFSWxNSWdxZzA?oc=5",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T06:04:03Z"
+  },
+  {
+   "id": "rd:t3_1xpplez",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Loud party in residential apartment, called 901, was unhelpful",
+   "text": "   Hi all, seeking any advice the community can give on the best way to resolve a noise complaint? Building security is unable to help, only telling us residents to call the police. When we call 901, they said to call Dubai Municipality. Is there any tips the community can give wherein the police can get involved? Nobody seems to want to help and we keep getting referred to different departments and are given the run around without an actual solution.    I live by myself and the tenant himself is a man who seems very aggressive as when a neighbor knocked on his door, he shouted and slammed the",
+   "url": "https://www.reddit.com/r/dubai/comments/1xpplez/loud_party_in_residential_apartment_called_901/",
+   "date": "2026-11-06",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T06:03:34Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d9%85%d8%af-%d8%b9%d8%b1%d8%b6%d8%a7%d9%8b-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-3-24-%d9%85/",
    "platform": "RSS",
@@ -226,6 +256,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-06T06:53:03Z"
+  },
+  {
+   "id": "rd:t3_1xoxmym",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Is it a wise decision to move to the US on L1 for 200k?",
+   "text": "   I’m 32M, married, and have a 1.5-year-old child. We’re currently living in Bangalore, India, and I’m evaluating whether moving to the US for a $200K annual salary would be a wise decision.  Here’s our current financial situation in India:    Income:   Combined monthly take-home salary: ₹3.7 lakhs (after tax).  Annual variable pay: Approximately ₹4 lakhs.  Effective monthly income, including variable pay: Around ₹4 lakhs.    Expenses and savings:   Monthly household expenses: ₹50,000–₹60,000.  Monthly savings: Approximately ₹3.4 lakhs.    Assets and lifestyle:   Own a 2BHK apartment in Banga",
+   "url": "https://www.reddit.com/r/expats/comments/1xoxmym/is_it_a_wise_decision_to_move_to_the_us_on_l1_for/",
+   "date": "2026-11-05",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T06:04:01Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi9gJBVV95cUxObFFCekhqSmdBZ000TDNwbTd4ZVBMQTNkWXN1RTVfUC1uQ1NnODV2TmxyWXhnX3JtcVA1TXBicEdGd3N6RGNiR0xqQUd1RDkyUUpqc3FnRmlnX25GeXJZY3ZSM004Wll1a3l2c2pDMHF2YUp1UFlqTm40ZnBzYm01VzlJX1dobURXTkFDakVacXZXaDVhYzBCeFI4TmJjQmJWelZsdGdneFlQclBsaU1fZzBfak1aRlYyeHdOOWo0NFRzdURxUlFYUzFicjktMEo4NjZPdVowNjVsMHo4MXVjTmF4VXctNkJpc1V3bFpTSWhOZ2pQTEJac1Q3WG9UbHdsSXVnRkg1QUtfc1RValFSbzN2QUV0ZnFBa0dXdGRNVkZJdVVUSnh4MGdMc3FudHB3T2xRaGtsbWpIeHR3di1pQ18tQ1g4NDVHb2h1UkFGUGlfLUkzbkN0a01WRENGa09GNUk0SFFxYXhnak91bVBYVTkteTR4UQ?oc=5",
@@ -3781,51 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxNOExZdUstek5ZQ3d2OE9IWTVzOEVUS2pwQ1IxMkZwbGZ3ZDJaUGU4LTNoUlhPZlFmVXBtLWJUV1RTMWRtYUdmdDlRdHBIZXJHRWZTQ1NENEI4UW5kTnRGSl84ZzhkVzc2NTRkRjcxM3k5WHpOV2dsWjlXblJvdjVHOW40dXBYZHBtWl9JZklzc1hURjBfTE0tVVR5SklwV3ZuTEk5OV9nZTZUYWVyS0E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property prices hold steady across key segments in Q3 2026 - Gulf Today",
-   "text": " Dubai property prices hold steady across key segments in Q3 2026 &nbsp;&nbsp; Gulf Today ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOExZdUstek5ZQ3d2OE9IWTVzOEVUS2pwQ1IxMkZwbGZ3ZDJaUGU4LTNoUlhPZlFmVXBtLWJUV1RTMWRtYUdmdDlRdHBIZXJHRWZTQ1NENEI4UW5kTnRGSl84ZzhkVzc2NTRkRjcxM3k5WHpOV2dsWjlXblJvdjVHOW40dXBYZHBtWl9JZklzc1hURjBfTE0tVVR5SklwV3ZuTEk5OV9nZTZUYWVyS0E?oc=5",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-28T22:39:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGliaDFWcGFtVVpXcFhHMzFRblloUi1zSW1TZXFiMmJKQUhYYmxwb1JHVk9JNDQ0UjJYVkQ1MzIybmRyTDhPcy1ialZoU0tpNWFMUVF2U0QyOXJ5YjFLRDNhTV9RWjNzYzNFVWVDZkJjdXhRTGhNNk50cVZuMVI3VWNwV2tJNEt4NDFaWkRHM1RKWWlpc1FQOUJLSVBPbVFTQUs3d2h1UkVMUFJZZVRWZXpidFFYdE5SUlZn?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property resale market soars as off-plan demand slows - Zawya",
-   "text": " Dubai property resale market soars as off-plan demand slows &nbsp;&nbsp; Zawya ",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGliaDFWcGFtVVpXcFhHMzFRblloUi1zSW1TZXFiMmJKQUhYYmxwb1JHVk9JNDQ0UjJYVkQ1MzIybmRyTDhPcy1ialZoU0tpNWFMUVF2U0QyOXJ5YjFLRDNhTV9RWjNzYzNFVWVDZkJjdXhRTGhNNk50cVZuMVI3VWNwV2tJNEt4NDFaWkRHM1RKWWlpc1FQOUJLSVBPbVFTQUs3d2h1UkVMUFJZZVRWZXpidFFYdE5SUlZn?oc=5",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-28T22:39:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMia0FVX3lxTE8tbkFTMEl6UGlkbXNtV095bGh3cWU2Y3BXMldhYXdRTlhoSEJPYjY0dEU1eFAtZXFEMU9fazRSQi1fRkNuMVBUeGlWVEdKUlRtdEl3ZHhJOUhNZklZU25MRk9Dekc2cHE0NG5n?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "استقرار أسعار العقارات في مناطق دبي الأكثر طلباً بالربع الثالث - البيان",
-   "text": " استقرار أسعار العقارات في مناطق دبي الأكثر طلباً بالربع الثالث &nbsp;&nbsp; البيان ",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tbkFTMEl6UGlkbXNtV095bGh3cWU2Y3BXMldhYXdRTlhoSEJPYjY0dEU1eFAtZXFEMU9fazRSQi1fRkNuMVBUeGlWVEdKUlRtdEl3ZHhJOUhNZklZU25MRk9Dekc2cHE0NG5n?oc=5",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-28T22:39:01Z"
   }
  ]
 }
