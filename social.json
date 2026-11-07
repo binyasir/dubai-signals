@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-07T06:04:03Z",
- "newThisRun": 5,
- "sourcesOk": 5,
+ "generatedAt": "2026-11-07T13:08:51Z",
+ "newThisRun": 3,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
@@ -10,28 +10,28 @@
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -53,9 +53,9 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "https://masdarak.com/feed/",
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xq1uay",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Noise complain",
+   "text": "   I live in apartment, and the apartment next to mine has been undergoing renovations for around three weeks now. I&#39;ve been dealing with constant drilling, wood cutting, hammering, and knocking on the walls.  I understand that renovations are sometimes necessary, and I know they have a valid work permit, but three weeks of living next to what feels like a construction site is becoming unbearable.  And i talked to building management and they told me that they talked to them to follow community regulation  Is there any authority I can complain to, or does having a valid work permit mean I ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xq1uay/noise_complain/",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T13:08:17Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF5YVU5SXllaE9vVTVaQk91amtFSkM0MFEtcmtJaWRRS0d0YnVKdVR0bnlxRU5EdEg0OVFSN0JWa1BkR0V6N0ptUjdtN1U5ZVJTaFIwcmdKcjZBOTBvS3FkcEpYUGtSdmVwU0luejVjUWc3MjBrQlROU0cyWmc5WjRmc0tQdmVBdXl6dnNJUjl6QmMySzJRQk0zWnBRdlRoclpoetIBtwFBVV95cUxNM2cyRmdHV1VhUXhpTTJOT3JXWWlNdXFuM1QxYm40eDk0VExkSE0zSmJma1VIR3BLeGJ0bGtfNEV5bzliN2VBUmg1OFZOeW12Z0p2ZEFVVTVlTWNjYlR6Y2l4Qmx6M2VKYVZNeTIzTHJJVjEwYkFraWo4M2NONndvNXBFYVhZYjBKWkQ5Sjlfb0lBN21vVFhhc2NvMGo2TmM1cVBZbGFvLUMtWDU5QjFFSWxNSWdxZzA?oc=5",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "1.5BR Sobha Soris Apartment | Motor City | AED 1,000,000",
    "text": "   Posting as: Agent  Property type: 1.5 Bed  Area/community: Motor City  Building/project: Sobha Orbis  Price: AED 1mn  Bedrooms: 1.5 Bed (Living room, bedroom, store)  Size (sq ft): 673.5 sq ft.  Status: Off-plan  View : Villa Community, Golf Course   Good Price for a Sobha unit, good location, 80% for transfer.   DM     &#32; submitted by &#32;   /u/Accomplished_Job8591       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xhnx9n/15br_sobha_soris_apartment_motor_city_aed_1000000/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xhnsug",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai Homeowners—Offering Free Interior Design Consultations & Complimentary 3D Designs!",
-   "text": "   Hi everyone!   I&#39;m an interior designer based in Dubai, currently expanding my residential design portfolio through my independent studio,  Maqlyn Designs .   I&#39;m looking to connect with homeowners who are planning to renovate, have recently moved into a new property, or simply want to explore fresh design ideas for their homes.   As part of building my portfolio, I&#39;m offering  free interior design consultations and complimentary 3D design concepts  for selected residential spaces.   Whether it&#39;s your living room, bedroom, dining area, or any other part of your home, I&#39;d",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xhnsug/dubai_homeownersoffering_free_interior_design/",
    "date": "2026-10-28",
    "dateApprox": false,
    "language": "en",
