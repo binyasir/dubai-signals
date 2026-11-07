@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-07T13:08:51Z",
- "newThisRun": 3,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-07T21:55:07Z",
+ "newThisRun": 9,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
-  "reddit": 170,
-  "rss": 72
+  "reddit": 168,
+  "rss": 74
  },
  "sources": [
   {
@@ -53,15 +53,15 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 8,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -72,11 +72,86 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 20,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-32-5-%d9%85%d9%84%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "مبيعات العقارات في أبوظبي تفقز 105% إلى 32.5 مليار دولار خلال أول 9 أشهر من 2026",
+   "text": "ارتفعت قيمة مبيعات العقارات في أبوظبي خلال الأشهر التسعة الأولى من عام 2026 بنسبة 105% على أساس سنوي، لتصل إلى&#8230;",
+   "url": "https://masdarak.com/new-projects/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-32-5-%d9%85%d9%84%d9%8a/",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T21:55:06Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTIxeDJLeVJ1ay1wM1kzS24ybi04OGtfY1ZDZE40aUNGVnhULVI4OGw2WVBsd1hBNi1lZFVySVlIRUdWZElXd21LV1kxb3c1Vk1fcVpOSFRQZm96elNnUm9vMnVPT3ptb1ZTQmg0YWUyNWlERWdsRGZ6SHlsQ1V6aE0wM2N0NzhnVEtmZmI0QXVKYy1fVnZHdmp2dw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Increased Choices and Competitive Offers in Dubai’s Property Market - UPPERNEWS",
+   "text": " Increased Choices and Competitive Offers in Dubai’s Property Market &nbsp;&nbsp; UPPERNEWS ",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTIxeDJLeVJ1ay1wM1kzS24ybi04OGtfY1ZDZE40aUNGVnhULVI4OGw2WVBsd1hBNi1lZFVySVlIRUdWZElXd21LV1kxb3c1Vk1fcVpOSFRQZm96elNnUm9vMnVPT3ptb1ZTQmg0YWUyNWlERWdsRGZ6SHlsQ1V6aE0wM2N0NzhnVEtmZmI0QXVKYy1fVnZHdmp2dw?oc=5",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T21:55:06Z"
+  },
+  {
+   "id": "rd:t3_1xqd1fn",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Buying in Batumi? Read this first",
+   "text": "   A registered title tells you who owns the apartment. It doesn’t tell you who will act if your rights under it are violated.   I own two apartments, registered and unencumbered, with co-ownership of the building’s common property. Despite that, without consulting the owners, the developer installed an access-control system on the elevators to collect signatures on a general waiver of claims as well as disputed debts it set itself, without contract or account, and whose basis it cannot identify, despite multiple written requests.   For over four months, I’ve been unable to use the elevators t",
+   "url": "https://www.reddit.com/r/expats/comments/1xqd1fn/buying_in_batumi_read_this_first/",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T21:55:04Z"
+  },
+  {
+   "id": "rd:t3_1xq4nih",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Moving to Ireland : job first or housing first ?",
+   "text": "   Hello everyone,   We are a French-American family and want to move to Ireland in 2027.   A bit of context : We have two small children and a dog. My husband is looking for a senior software engineer position and I am a SAHM. We have already given up our rental in France and put our belongings in storage so we can travel to Ireland on short notice. As EU citizens, we don&#39;t need visas.   I have been seeing conflicting advice about the best strategy to move to Ireland so I would like your opinion.   We had thought that the job would come first and then we would move to Ireland and stay at ",
+   "url": "https://www.reddit.com/r/expats/comments/1xq4nih/moving_to_ireland_job_first_or_housing_first/",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T21:55:04Z"
+  },
+  {
+   "id": "rd:t3_1xq6y4i",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Risky long-term rentals",
+   "text": "   We came here over 3 months ago and wanted to rent long-term at first, but after visa process took more than 3 months and we had looked at some apartments and got used to the costs and fees of renting here etc., we decided to opt for Airbnb rentals from month to month. Renting here for a year or more with cheque system, high fees for agents who don&#39;t do any job, high deposits etc. is so risky for tenants, especially for us as Europeans. Also, why should I choose an apartment for one year when my contract has a probation period? I don&#39;t understand why people take all this risks, some ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xq6y4i/risky_longterm_rentals/",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T21:54:31Z"
+  },
   {
    "id": "rd:t3_1xq1uay",
    "platform": "Reddit",
@@ -271,6 +346,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-06T06:53:03Z"
+  },
+  {
+   "id": "rd:t3_1xoif6a",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "How do you survive being stuck in a place you don't like?",
+   "text": "   Moved from Russia (which was a correct decision) to Germany (which was not) 12 years ago, naturalized even, and gradually accepted the fact that I totally hate being here, to the point of &quot;I&#39;m only voluntarily leaving my apartment to go to another country and need to push myself to do anything else&quot;.   I&#39;m studying another language and waiting for a work permit in countries I actually like and hope to be able to live in (failed interviews so far), but since I&#39;m in IT and probably my career is cooked, there&#39;s a chance I&#39;m stuck in Germany forever (no, I don&#39;",
+   "url": "https://www.reddit.com/r/expats/comments/1xoif6a/how_do_you_survive_being_stuck_in_a_place_you/",
+   "date": "2026-11-05",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-07T21:55:04Z"
   },
   {
    "id": "rd:t3_1xoxmym",
@@ -3731,96 +3821,6 @@
    "title": "Mythbuster 1: Villas and Townhouses will NOT decline in value like apartments",
    "text": "   Oct 28, 2026   A lot of folks think that owing a villa or townhouse will protect them from the Dubai real estate downturn. Current supply tsunami represents nearly 62% new housing units (nearly 550k) relative to Dubai’s entire housing stock today. This supply wave is 300% of previous supply waves and represents higher pipeline than any time in the history of the city. In fact i have not been able to find any examples in other cities globally with this volume of launches in the pipeline relative to current housing stock that we are witnessing in dubai today   New apartment launches represent",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xhwr7g/mythbuster_1_villas_and_townhouses_will_not/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xhwr1d",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Is now actually a good time to buy or sell property ?",
-   "text": "   I work with buyers and sellers so this is my no-BS take on the market right now. Happy to be argued with, just keep it factual.    How it’s looking rn     Dubai transaction numbers are down, but prices per sq ft have basically held. Ready property sales value is up, new launches have slowed hard, and the secondary market is getting more active.   Abu Dhabi is still very off plan heavy, with strong luxury demand and a lot of foreign money coming in. Sharjah is the affordability and end user play. RAK is more tourism and investment focused.   Fewer people are expecting prices to tank now, and",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xhwr1d/is_now_actually_a_good_time_to_buy_or_sell/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xht1d3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Should I keep South Garden -Wasl Gate 1 bhk or sell? Will it handover on time? Any expert guidance?",
-   "text": "&#32; submitted by &#32;   /u/AccomplishedBig9957       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xht1d3/should_i_keep_south_garden_wasl_gate_1_bhk_or/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xhqqtl",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "For those investing in UAE property, what did you find when setting up a business in the UAE?",
-   "text": "   Hi everyone, I am curious about the overlap between property and business setup in the UAE, and I would like to hear from people who have actually done it. This is a discussion, not an ad, and I am not offering a service here.   For those who bought or invested in property here and also set up a business, or looked into it:     What made you choose a particular free zone, and what did you look at first?   I keep seeing names like Ajman Media City, UAQ, SHAMS, SPC, and Meydan mentioned in discussions. What stood out to you about any of these, if you considered them?   What surprised you most",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xhqqtl/for_those_investing_in_uae_property_what_did_you/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xhpixd",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Time the bottom",
-   "text": "   A lot of people aim at 2028 as the entry point to find distressed properties.   However, a lot of hand-overs are scheduled for 2029, and a lot of them are delayed.   Ready property prices haven&#39;t even started to decline(although numbers of sales have).   What year do you think we will see the cheapest properties and why?     &#32; submitted by &#32;   /u/Trick-Head7242       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xhpixd/time_the_bottom/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xhorx6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Two Bed for 870k | SPORT CITY | 1093 sqft",
-   "text": "   VACANT 2BR APARTMENT FOR SALE  Golf View Residence , Sports City   2 Bedrooms  3 Washrooms  1,093.29 sq. ft.  With Balcony  Allocated Parking  Vacant   💰  Selling Price: AED 870k, negotiable     This is only if you’re okay with the building age and end user mainly looking for a bigger space within your budget, Full renovation is required as it is unfurnished.      &#32; submitted by &#32;   /u/West-Lawfulness6197       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xhorx6/two_bed_for_870k_sport_city_1093_sqft/",
-   "date": "2026-10-28",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
-  },
-  {
-   "id": "rd:t3_1xhnx9n",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1.5BR Sobha Soris Apartment | Motor City | AED 1,000,000",
-   "text": "   Posting as: Agent  Property type: 1.5 Bed  Area/community: Motor City  Building/project: Sobha Orbis  Price: AED 1mn  Bedrooms: 1.5 Bed (Living room, bedroom, store)  Size (sq ft): 673.5 sq ft.  Status: Off-plan  View : Villa Community, Golf Course   Good Price for a Sobha unit, good location, 80% for transfer.   DM     &#32; submitted by &#32;   /u/Accomplished_Job8591       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xhnx9n/15br_sobha_soris_apartment_motor_city_aed_1000000/",
    "date": "2026-10-28",
    "dateApprox": false,
    "language": "en",
