@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-11-08T06:08:28Z",
- "newThisRun": 35,
- "sourcesOk": 5,
+ "generatedAt": "2026-11-08T13:30:24Z",
+ "newThisRun": 6,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 170,
-  "rss": 73
+  "reddit": 172,
+  "rss": 71
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -60,23 +60,83 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 11,
+   "items": 15,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 20,
+   "items": 18,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%b1%d9%8a%d8%a8%d9%88%d8%b1%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-293-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«ريبورتاج السعودية» تستثمر 293 مليون دولار في مشاريع عقارية بالرياض",
+   "text": "أعلنت شركة ريبورتاج السعودية للتطوير العقاري Reportage Saudi Arabia أن استثماراتها في العاصمة السعودية الرياض تبلغ نحو 293 مليون دولار&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%b1%d9%8a%d8%a8%d9%88%d8%b1%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-293-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T13:30:23Z"
+  },
+  {
+   "id": "rd:t3_1xqw5fk",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Selling a 2BR + study in The Greens - hold or sell in this market?",
+   "text": "   Looking for honest views from people who know Dubai’s established communities.   An owner I’m working with has a 2BR + study in The Greens (Emaar, ready community near Internet City). The unit will be vacant in a few months, and he’s considering selling if the price is right rather than re renting.   From the DLD data, The Greens 2BRs are up around 7% year on year, transactions are active, and vacant units in these older Emaar communities seem to sell at a clear premium over tenanted ones.   For those who invest in or specialize in The Greens / Views / similar established communities - is n",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1xqw5fk/selling_a_2br_study_in_the_greens_hold_or_sell_in/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T13:30:00Z"
+  },
+  {
+   "id": "rd:t3_1xqlcu3",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/DubaiRealEstate",
+   "title": "Studio hunt",
+   "text": "   Hey everyone, I&#39;m looking for a studio apartment in Dubai with a budget of around 3000 AED per month. If anyone knows of any available units or can point me in the right direction, please DM me thank    LOOKING FOR RENT      &#32; submitted by &#32;   /u/Boring_Issue_2755       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubairealestate/comments/1xqlcu3/studio_hunt/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T13:30:00Z"
+  },
+  {
+   "id": "rd:t3_1xqwt7o",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Renting a 2-bedroom apartment in Dubai through a Holiday Homes company for 12 months – Is this legal and safe?",
+   "text": "   Hi everyone,   I currently live in Dubai and have a regular residential tenancy contract with Ejari, renting directly from the owner.   I&#39;m now planning to move to a 2-bedroom apartment. I found a property being offered by a holiday-homes company called Raman Deep Vacation Homes Rental L.L.C.   Their business model, as explained to me, is that they rent apartments from property owners and then offer them to other tenants.   The company has provided me with a document titled &quot;Booking Detail / Lease Agreement&quot;. It mentions a holiday-home permit number   Here is the arrangement t",
+   "url": "https://www.reddit.com/r/dubai/comments/1xqwt7o/renting_a_2bedroom_apartment_in_dubai_through_a/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T13:29:49Z"
+  },
   {
    "id": "rs:https://masdarak.com/proptech/%d9%86%d8%a7%d8%af%d9%8a-%d8%aa%d8%b4%d9%8a%d9%86%d8%ac%d8%b1-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1%d9%8a-%d9%8a%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%85%d8%b9-%d9%85%d8%ac/",
    "platform": "RSS",
@@ -3766,66 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-29T13:08:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXp5QzlFVl84a0o0X25kNERRLVJVcUV0eVltZm1zRFduT2ZOT1U4TzhNNTFwM3l6a2xPc0YyS3doMm42TEdSdEJlbzNvS0FpVWsyQ3hNbjRnRlN6SEtsbHZhVjE1dEQxUjZhUnhnRTVic0NPakhsWUhWZll3MlpVWG9vYVBYZG9qTWtMNFduUTR5RGFSaVBDUnhzOXlmWHVoYS1ocEowLUpNQ3NTcDdyeXVSWVJQQ2djc2FpVm16Qm9oVy1NTUZXbjU3RTlYSy0tU3lNSNIB2gFBVV95cUxNcDJyNkRkdk1qMDFSOWhyNXFHYkZYV0ljeEtLaEt2dGZldzVRNVdvTUI0dWhVeFp0dWh5OS1qM1dqZUhFbXU2VDJnNnNLcjZjRjIxUXZpdG5yQXVsM1ZkRzd0YjZXNmlXVjJkUVdLcFBTdEQ5S21Xa0JyNW1vSlV0ZzkxRVB1LTQyclBrNVQwalNuT2U1OXdNRjJKbUtCQ3Bja0pxVGxuaU9fNjBfeF94Q3N4TFdxUHplYi10OHV0c3E0SDFCZlB2ZWkyVVFNcUNqTkNRWFZXWTZlZw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate craze has paused, but appeal remains: Niranjan Hiranandani | Real Estate News - Hindustan Times",
-   "text": " Dubai real estate craze has paused, but appeal remains: Niranjan Hiranandani | Real Estate News &nbsp;&nbsp; Hindustan Times ",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXp5QzlFVl84a0o0X25kNERRLVJVcUV0eVltZm1zRFduT2ZOT1U4TzhNNTFwM3l6a2xPc0YyS3doMm42TEdSdEJlbzNvS0FpVWsyQ3hNbjRnRlN6SEtsbHZhVjE1dEQxUjZhUnhnRTVic0NPakhsWUhWZll3MlpVWG9vYVBYZG9qTWtMNFduUTR5RGFSaVBDUnhzOXlmWHVoYS1ocEowLUpNQ3NTcDdyeXVSWVJQQ2djc2FpVm16Qm9oVy1NTUZXbjU3RTlYSy0tU3lNSNIB2gFBVV95cUxNcDJyNkRkdk1qMDFSOWhyNXFHYkZYV0ljeEtLaEt2dGZldzVRNVdvTUI0dWhVeFp0dWh5OS1qM1dqZUhFbXU2VDJnNnNLcjZjRjIxUXZpdG5yQXVsM1ZkRzd0YjZXNmlXVjJkUVdLcFBTdEQ5S21Xa0JyNW1vSlV0ZzkxRVB1LTQyclBrNVQwalNuT2U1OXdNRjJKbUtCQ3Bja0pxVGxuaU9fNjBfeF94Q3N4TFdxUHplYi10OHV0c3E0SDFCZlB2ZWkyVVFNcUNqTkNRWFZXWTZlZw?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:25Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%86%d8%ac%d8%b2-40-5-%d8%a3%d9%84%d9%81/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "شركات التطوير العقاري في دبي تنجز 40.5 ألف وحدة سكنية خلال 9 أشهر من 2026",
-   "text": "أنجزت شركات التطوير العقاري في دبي 40,489 وحدة سكنية خلال الأشهر التسعة الأولى من عام 2026، لتضاف إلى المعروض العقاري&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d9%86%d8%ac%d8%b2-40-5-%d8%a3%d9%84%d9%81/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%ba%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d9%82%d9%82-%d9%88%d8%a7%d9%84%d9%81%d9%84%d9%84-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b9%d8%a9-%d9%81%d9%8a-%d8%af/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "الكشف عن أغلى الشقق والفلل المباعة في دبي خلال الربع الثالث 2026",
-   "text": "تضمنت قائمة أغلى الشقق والفلل في دبي والتي تم تسجيل بيعها خلال الربع الثالث من عام 2026 صفقة بيع فيلا&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%ba%d9%84%d9%89-%d8%a7%d9%84%d8%b4%d9%82%d9%82-%d9%88%d8%a7%d9%84%d9%81%d9%84%d9%84-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b9%d8%a9-%d9%81%d9%8a-%d8%af/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:24Z"
-  },
-  {
-   "id": "rd:t3_1xij8am",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "SHRINKFLATION",
-   "text": "   Ever noticed how a bag of chips gets smaller, but the price stays the same?   That&#39;s called **shrinkflation**. And we&#39;re seeing something similar in Dubai real estate.   Some new developments are offering smaller apartments at prices that look similar to previous launches.   The total price might seem reasonable, but when you calculate the price per square foot, the difference can be significant.   So before buying, compare the actual unit size, price per square foot, and recent transactions of similar properties.   **A similar price doesn&#39;t always mean similar value.**   #Dubai",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xij8am/shrinkflation/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:01Z"
   }
  ]
 }
