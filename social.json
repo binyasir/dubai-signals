@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-08T13:30:24Z",
- "newThisRun": 6,
+ "generatedAt": "2026-11-08T22:11:04Z",
+ "newThisRun": 5,
  "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 172,
-  "rss": 71
+  "reddit": 175,
+  "rss": 68
  },
  "sources": [
   {
@@ -36,14 +36,14 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 30,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -53,20 +53,20 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rd:t3_1xqxm9o",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Difficulty finding relocation opportunities",
+   "text": "   I am seeking job opportunities in IT within the EU, particularly in Germany, but it seems that even after hundreds of applications, I never hear back from anyone.   I have close to 6 years experience as a developer, half of those at a German company, namely SAP (no, I won&#39;t apply to this one behind my manager&#39;s back and risk my current job).   Is the market dead? It seems other people manage to find opportunities.   Is it the fact that I&#39;m applying from abroad? I&#39;m in Eastern Europe, Romania, so I don&#39;t need a visa, but I can&#39;t really move until I have an offer, and ",
+   "url": "https://www.reddit.com/r/expats/comments/1xqxm9o/difficulty_finding_relocation_opportunities/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T22:11:01Z"
+  },
+  {
+   "id": "rd:t3_1xqword",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Left Everything to Move Abroad - Feeling Lost",
+   "text": "   Hi all,   I recently left behind my life in Canada that I loved to move to the UK, and I&#39;m feeling lost.   I wanted to move for a few different reasons, but mainly to seek an adventure - I&#39;m 28, and was feeling stuck in my daily routine in my comfortable corporate job where I was making a good salary. I had my dream apartment, lived in a city I adored (Toronto), a good group of friends, and had my family only 1 hour away. But, after nearly 4 years, I felt unfulfilled by my daily routine and just  too  comfortable. I have no intention of getting married or having kids at any point so",
+   "url": "https://www.reddit.com/r/expats/comments/1xqword/left_everything_to_move_abroad_feeling_lost/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T22:11:01Z"
+  },
+  {
+   "id": "rd:t3_1xr0slh",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Parkin app with rental car",
+   "text": "   Hi everyone, so this is my first time renting a car , and I have parked yesterday in Zabeel park parking . There was a sign that the fee is gonna be deducted from the Parkin account and I also tried to scan the QR code to see if there was an option to pay directly but all it did was ask me to register my car number and i will be notified when there is any ticket to pay for.  it has been more than 24H and I log in to the Parkin app and I do not see anything ? I can see my previous parking tickets I paid for through SMS before but I can not find anything related to the parking at Zabeel? Not ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xr0slh/parkin_app_with_rental_car/",
+   "date": "2026-11-08",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-08T22:10:15Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d8%b1%d9%8a%d8%a8%d9%88%d8%b1%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-293-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84/",
    "platform": "RSS",
@@ -3776,51 +3821,6 @@
    "title": "Dubai real estate company surprises top-performing employee of 2026 with Lamborghini Urus | Trending - Hindustan Times",
    "text": " Dubai real estate company surprises top-performing employee of 2026 with Lamborghini Urus | Trending &nbsp;&nbsp; Hindustan Times ",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQjdNZlpjU3djRDNnbUZzQzQ0WFdDUENHaUxMSWJtaTJkeldRMTFJZU85TVRDeDQ3aUZDOGxRTmVuczFOTEhWenV0YTFHeVJUdzFSSEx0R3ZzMlgwU2t2cTJUR2tDMlZmWWRkVnJjUUdlOUxzWUkydFU2cEY0QUZlOVZBVVE5SjhZNnlqLVRsbW43R2lTVmk5ZEdGYUNNMHJiMFQxYnVTZ2lGLWxpNXhjQ0doU0JiU2V4SkV5Y2VNQlNHZHpiTEdaQ3g5aHhDN2VJUFBVNGR1akNCYU1qeDRiQUpRcDbSAeoBQVVfeXFMTndXYndRMkZHR1UyLTRucTFRWUUxNVo0bWhmTEhoU2JoNXBiTFF6RkZYWlpHQmFJN0Z1aE9DX3RGSFVobmF5LTdJb2pRSURGa0c2RWFOTkpELVRfeDJ6SUJ3RHFKUlV1dkVyNm40VEFCM21STG9scTNCbUVWd3h5aklmaVVmYWNfem43Q0lOb3ptQm5Sc2JfcTZ0c1lvMUZ6Q05YWkFpcFhtVGU0NTQ5YVhfQ3E2SkVOdWVILWFlU0k0d0VKbjBlRG9TaHRVRmFHc2tCRklzWmFQTnFWcEJUWElaOThjYUxFNlBB?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRG4xeHQ1amVOX0ZWQ1FpSHBHV0dXeGhlVm9XNWFaSWJ6OXBrLXFXMjVJXzNhVFJid0U0TEc0elE4bnZ2Y2NOSGMxWVIzQ0tKZEg5LUlINzBoNEZ3X0Z3bEhvREpIYlpNNmZOaHU3S2hNVDh6WGpDd1E1U01VNjVDZS1abGJVSnpPd0Mtd1YwenNpS0JfQ1ljcnpDRTlCZXJfa3VrVnBDVDRPWW5ZVDBvN2JBRVlMbWNaT0oyVXM1QldmX0JkRkhEaXFVemJ5TzBOYTFVUTdsT0VCM285V1dLcGZxQlBrQdIB6wFBVV95cUxQdVBvMEFHM0NkMG1BMkE2YlRIUmM1QkR6VUZqMkktX3ZWbV9aa0JYU1pPLThhMFFYbGJaWi16MElqc0ZjalJ2OTZXeHdUTDlYcjFvVDA0dEV4YXdWUWh2SjBiNXJ5V3d3NU5KY0xQbHVBcTNUWDh4d0V2Q3hIZUY2MmhlWVVnS2paQUF6c3RfQXVCam9oSjgxRGc0Wm96MVprOHpsYUw2U0pyOHdER19GYjRfTGEwelZMRWxGVFJ0OFBYYkluRWZmbk9TQlNVRTBYUFFPR2YwdU9INnJVWk9wOHRvVFRpcmozclVn?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate firm gifts Lamborghini Urus to top-performing employee of 2026, internet reacts - Moneycontrol.com",
-   "text": " Dubai real estate firm gifts Lamborghini Urus to top-performing employee of 2026, internet reacts &nbsp;&nbsp; Moneycontrol.com ",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRG4xeHQ1amVOX0ZWQ1FpSHBHV0dXeGhlVm9XNWFaSWJ6OXBrLXFXMjVJXzNhVFJid0U0TEc0elE4bnZ2Y2NOSGMxWVIzQ0tKZEg5LUlINzBoNEZ3X0Z3bEhvREpIYlpNNmZOaHU3S2hNVDh6WGpDd1E1U01VNjVDZS1abGJVSnpPd0Mtd1YwenNpS0JfQ1ljcnpDRTlCZXJfa3VrVnBDVDRPWW5ZVDBvN2JBRVlMbWNaT0oyVXM1QldmX0JkRkhEaXFVemJ5TzBOYTFVUTdsT0VCM285V1dLcGZxQlBrQdIB6wFBVV95cUxQdVBvMEFHM0NkMG1BMkE2YlRIUmM1QkR6VUZqMkktX3ZWbV9aa0JYU1pPLThhMFFYbGJaWi16MElqc0ZjalJ2OTZXeHdUTDlYcjFvVDA0dEV4YXdWUWh2SjBiNXJ5V3d3NU5KY0xQbHVBcTNUWDh4d0V2Q3hIZUY2MmhlWVVnS2paQUF6c3RfQXVCam9oSjgxRGc0Wm96MVprOHpsYUw2U0pyOHdER19GYjRfTGEwelZMRWxGVFJ0OFBYYkluRWZmbk9TQlNVRTBYUFFPR2YwdU9INnJVWk9wOHRvVFRpcmozclVn?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGtBOVJiTHZzSENFbW9tdEFVMWVfM2xuZzFpX2NBdGU2S3IzTXBLRm5CbERDajVIWkJXT2ZTUXZldXhuQzJQQUMyNXdmMEN1VlVLLXNELWg2ZDEyeEsya2hMZUtTd2QtaFhieVVBLU5CelNYS1lpQ3V3RU03WlBqUkRNTWxYdGs0RkVILVVPeDNTN2RTZndtWFExNTItUHNMUlBTWlBES0ZPam9aUU9pa212bFBfVW1uanJ1ZTRzYUIwYmkwZjFkWm1QYVRFMkh0SGRyRDRWSHF2X2pNamZVWkozdHQ5ek1MdnQyVjVhONIB9AFBVV95cUxQdmhfeDZPMWl1V2FtdExOMktqLVFrMEJUYlBhZktJU2oxdnhCTjJvNDJLOC05T3FsM25ZNDRWamR2b3laQW9KWmdPV01sSUVHMXQ1Z3E5cVd5YkZMSkFvSmVGZ1dtYzhZc2pQLW5tSmFyNnZnV3hRelpfV3NubEV0MTFWZVBIaXJHZ3g0OEZPbDRGMmh2cVBySEltWnM1S09pRzBRcmlueWpydVptS0tOT0VTVzJ4Zjl2blR6YWgzNjdPSnZEOWlicS1CU3NHdHVLRmx0R3h2cE1ERFNPbXFCYWo1dnNuaWlXMjhEMGgwV1B5dGtt?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate company gifts Rs 4 crore Lamborghini for the best performing employee - The Economic Times",
-   "text": " Dubai real estate company gifts Rs 4 crore Lamborghini for the best performing employee &nbsp;&nbsp; The Economic Times ",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGtBOVJiTHZzSENFbW9tdEFVMWVfM2xuZzFpX2NBdGU2S3IzTXBLRm5CbERDajVIWkJXT2ZTUXZldXhuQzJQQUMyNXdmMEN1VlVLLXNELWg2ZDEyeEsya2hMZUtTd2QtaFhieVVBLU5CelNYS1lpQ3V3RU03WlBqUkRNTWxYdGs0RkVILVVPeDNTN2RTZndtWFExNTItUHNMUlBTWlBES0ZPam9aUU9pa212bFBfVW1uanJ1ZTRzYUIwYmkwZjFkWm1QYVRFMkh0SGRyRDRWSHF2X2pNamZVWkozdHQ5ek1MdnQyVjVhONIB9AFBVV95cUxQdmhfeDZPMWl1V2FtdExOMktqLVFrMEJUYlBhZktJU2oxdnhCTjJvNDJLOC05T3FsM25ZNDRWamR2b3laQW9KWmdPV01sSUVHMXQ1Z3E5cVd5YkZMSkFvSmVGZ1dtYzhZc2pQLW5tSmFyNnZnV3hRelpfV3NubEV0MTFWZVBIaXJHZ3g0OEZPbDRGMmh2cVBySEltWnM1S09pRzBRcmlueWpydVptS0tOT0VTVzJ4Zjl2blR6YWgzNjdPSnZEOWlicS1CU3NHdHVLRmx0R3h2cE1ERFNPbXFCYWo1dnNuaWlXMjhEMGgwV1B5dGtt?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T13:08:25Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2x4Tl9RdGk5V3BMZkJ4TlZWenJWdWxNUzBfdDVvYjVFRkE2eDJkSzNGNHRVNWxLYWxNcDFfbFZPeU9xWGxiLVZsYTBBa2h1QzBBQWNPNlNLVUp2d0dpQ2dlemF6NXpQd3F4UnFXM1BXVTNFbHJwWmJMYUh4cHVkZDdXVXlXTWROQnlOMXVlVVRpUjh0QmJ1aTBkVHBtbjFVeWFDQVlDT05nRTlUUEx1QkowS3FYWUpmRkEzUzRGcFV5Z9IBxwFBVV95cUxQMTY1SUdjNFltcHFFOUxvTmFlTDhqSG1XOXppSnRaZ0J3Y1l6b0NBZmtHVWxjWHFWVk4wbjNPTE5YWHpLRVpiOTE5WGdrLXdTbmdfZklZdC14QjVtU01CTzJYMkNyN29UN1hNeFM4QjJDS3JGdVEtc251ZDRheEdhQVNjMWQzQzRzY0JRUDdXOGRHZEtBai01M1I1WEhYQkVRZk4zdVVxa2UyeVBCNWl2a1YtQkNEbG93NGtObGFfSm5ueVZqVXhR?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate firm gifts ₹4-crore Lamborghini Urus to top-performing employee | 'Big wins, bigger dreams' | Inshorts - Inshorts",
-   "text": " Dubai real estate firm gifts ₹4-crore Lamborghini Urus to top-performing employee | 'Big wins, bigger dreams' | Inshorts &nbsp;&nbsp; Inshorts ",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2x4Tl9RdGk5V3BMZkJ4TlZWenJWdWxNUzBfdDVvYjVFRkE2eDJkSzNGNHRVNWxLYWxNcDFfbFZPeU9xWGxiLVZsYTBBa2h1QzBBQWNPNlNLVUp2d0dpQ2dlemF6NXpQd3F4UnFXM1BXVTNFbHJwWmJMYUh4cHVkZDdXVXlXTWROQnlOMXVlVVRpUjh0QmJ1aTBkVHBtbjFVeWFDQVlDT05nRTlUUEx1QkowS3FYWUpmRkEzUzRGcFV5Z9IBxwFBVV95cUxQMTY1SUdjNFltcHFFOUxvTmFlTDhqSG1XOXppSnRaZ0J3Y1l6b0NBZmtHVWxjWHFWVk4wbjNPTE5YWHpLRVpiOTE5WGdrLXdTbmdfZklZdC14QjVtU01CTzJYMkNyN29UN1hNeFM4QjJDS3JGdVEtc251ZDRheEdhQVNjMWQzQzRzY0JRUDdXOGRHZEtBai01M1I1WEhYQkVRZk4zdVVxa2UyeVBCNWl2a1YtQkNEbG93NGtObGFfSm5ueVZqVXhR?oc=5",
    "date": "2026-10-29",
    "dateApprox": false,
    "language": "en",
