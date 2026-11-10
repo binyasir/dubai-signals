@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-10T07:24:36Z",
- "newThisRun": 6,
- "sourcesOk": 4,
+ "generatedAt": "2026-11-10T19:47:00Z",
+ "newThisRun": 11,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 7,
-  "reddit": 167,
-  "rss": 76
+  "youtube": 8,
+  "reddit": 165,
+  "rss": 77
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 3,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -60,23 +60,143 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 14,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3g3ZXJZZDVZa3pVZ0tPc2V3LTNSenVrdks0Zi1jZXhuOEl4WDJYUVg2WEdYaldFMHl6SnZMN19sTE1OOE9OR1hfdnZTVkVkVHpJc2Ywem8xcWFWcFE1Tzk3dU4wTGNYdy1fazNVZm42V1FLZ2JZaGthQjgtWkFkcllzRlhpX25pY3Q0?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market: 365,000 new homes projected by 2030 as occupancy reaches 97% - Arabian Business",
+   "text": " Dubai property market: 365,000 new homes projected by 2030 as occupancy reaches 97% &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3g3ZXJZZDVZa3pVZ0tPc2V3LTNSenVrdks0Zi1jZXhuOEl4WDJYUVg2WEdYaldFMHl6SnZMN19sTE1OOE9OR1hfdnZTVkVkVHpJc2Ywem8xcWFWcFE1Tzk3dU4wTGNYdy1fazNVZm42V1FLZ2JZaGthQjgtWkFkcllzRlhpX25pY3Q0?oc=5",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:47:00Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%af%d8%a7%d9%85%d8%a7%d9%83-%d8%aa%d8%b7%d9%88%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b3%d9%83%d9%86%d9%8a%d8%a7%d9%8b-%d8%a8%d9%80-817-%d9%85%d9%84%d9%8a%d9%88%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«داماك» تطور مشروعاً سكنياً بـ 817 مليون دولار في منطقة الزورا بعجمان",
+   "text": "وقّعت شركة داماك العقارية اتفاقية مع شركة الزورا للتطوير للاستحواذ على قطعة أرض في منطقة الزورا بإمارة عجمان، بهدف تطوير&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%af%d8%a7%d9%85%d8%a7%d9%83-%d8%aa%d8%b7%d9%88%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d8%a7%d9%8b-%d8%b3%d9%83%d9%86%d9%8a%d8%a7%d9%8b-%d8%a8%d9%80-817-%d9%85%d9%84%d9%8a%d9%88%d9%86/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:46:59Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d8%af%d8%a1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b1%d9%88%d8%b2%d9%88%d9%88%d8%af-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3%d8%b2-%d8%a8%d9%80-2723-%d8%af%d9%88%d9%84%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "بدء مبيعات «روزوود ريزيدنسز» بـ 2,723 دولاراً  للقدم المربعة في جزيرة «دبي بننسولا«",
+   "text": "أعلنت شركة إتش آند إتش للتطوير العقاري H&#38;H Development عن بدء مبيعات الوحدات السكنية في مشروع «روزوود ريزيدنسز دبي» Rosewood&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a8%d8%af%d8%a1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b1%d9%88%d8%b2%d9%88%d9%88%d8%af-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3%d8%b2-%d8%a8%d9%80-2723-%d8%af%d9%88%d9%84%d8%a7/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:46:59Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-365-%d8%a3%d9%84%d9%81-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "دراسة حكومية تتوقع إضافة 365 ألف وحدة سكنية جديدة في دبي بحلول 2030",
+   "text": "توقعت دراسة حكومية إضافة 365 ألف وحدة سكنية جديدة إلى السوق العقاري في دبي حتى عام 2030، إلى جانب نحو&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-365-%d8%a3%d9%84%d9%81-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:46:59Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%81%d9%84%d9%84-%d9%88%d8%aa%d8%a7%d9%88%d9%86-%d9%87%d8%a7%d9%88%d8%b3-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "الكشف عن أسعار فلل وتاون هاوس مشروع «بالم سبرينغز» من «نخيل» في دبي",
+   "text": "أطلقت شركة نخيل، التابعة لدبي القابضة للعقارات، اليوم رسمياً مشروعها السكني الجديد بالم سبرينغز Palm Springs في دبي بجوار نخلة&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%81%d9%84%d9%84-%d9%88%d8%aa%d8%a7%d9%88%d9%86-%d9%87%d8%a7%d9%88%d8%b3-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%a7/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:46:59Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac%d9%8a-%d8%b4%d9%8a%d9%88%d9%86%d8%a9-%d8%a8%d9%80603-%d8%b4%d9%82%d9%82-%d8%b3%d9%83%d9%86%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«بيوند» تطلق برجي «شيونة» بـ603 شقق سكنية ضمن مشروع «سيورا» في جزر دبي",
+   "text": "أطلقت شركة بيوند للتطوير العقاري Beyond Developments مشروع مجمع شيونة SHIONE السكني بقيمة تبلغ نحو 817 مليون دولار (3 مليارات&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac%d9%8a-%d8%b4%d9%8a%d9%88%d9%86%d8%a9-%d8%a8%d9%80603-%d8%b4%d9%82%d9%82-%d8%b3%d9%83%d9%86%d9%8a/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:46:59Z"
+  },
+  {
+   "id": "rd:t3_1xsh8pq",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Retroactive Tasleem chiller charges on a \"chiller-free\" lease. Should I pay?",
+   "text": "   Looking for advice from anyone who&#39;s dealt with this.   I rented an apartment in a Dubai Hills building in January 2026. Before signing, I specifically asked the agency if AC was included. Their consultant confirmed in writing (WhatsApp) that the unit was chiller-free, that AC was factored into DEWA, and that there was &quot;no additional chiller deposit or bill to set up&quot;. They even removed the chiller deposit clause from the contract for that reason.   The signed contract has an additional term saying the property is &quot;currently rented as chiller-free&quot;, and that if a chi",
+   "url": "https://www.reddit.com/r/dubai/comments/1xsh8pq/retroactive_tasleem_chiller_charges_on_a/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T19:46:25Z"
+  },
+  {
+   "id": "yt:bdz_kfQqac0",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes Abu Dhabi | Real Estate Agency",
+   "title": "Buying in Abu Dhabi: How much do you need upfront?",
+   "text": "Buying a home in Abu Dhabi? Here's what you'll need upfront.\n\nFor UAE residents buying up to AED 5M, you'll need a 20% down payment, with 80% mortgageable. Above AED 5M, that becomes 30% down and a 70% mortgage. On top of that, there's a 2% agency fee plus VAT and a 2% Abu Dhabi Municipality fee. Buying off-plan directly from a developer usually means no agency fee.\n\nOn a secondary market property, we suggest budgeting around 5% on top of the sale price to cover it all.\n\nThe full conversation on renting or buying when you move to Abu Dhabi is in Brokers After Hours Ep 2: \n\nhttps://youtu.be/57-",
+   "url": "https://www.youtube.com/shorts/bdz_kfQqac0",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "9 views",
+   "firstSeenAt": "2026-11-10T19:46:24Z"
+  },
   {
    "id": "rs:https://masdarak.com/projects-updates/%d9%82%d9%8a%d9%85%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%af%d8%a8%d9%8a-%d8%a8%d9%86%d9%86%d8%b3%d9%88%d9%84%d8%a7-%d9%81%d9%8a/",
    "platform": "RSS",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj242b",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Unsure if i should buy a Second Apartment in Dubai. Looking for advice?",
-   "text": "   Hi guys,  1 am looking to buy my second Studio in Azizi Riviera. I bought the first one in 2024 for 580 k which i rented 2 years with 10% net roi (fully furnished). Its still rented until december, i got last year 63 k aed One cheque. The price went up to around 700-720 k but now after march it is worth again around 600. I know the community well and know also a few agents.  Now i sit on a bit Cash and thought to buy another one. I found a direct from owner Deal for a big layout Studio for 600, vacant and fully furnished. This Apartment would cost easy 720 before war. The rents for fully fu",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj242b/unsure_if_i_should_buy_a_second_apartment_in/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xiqnlr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Frontend developer (Vue, React, Next.js) from India looking to relocate to Finland with family: where should I start?",
-   "text": "   &#x200B;   Hi everyone,   I&#39;m a frontend developer based in India, and I&#39;m planning to move to Finland with my family. I&#39;d appreciate advice from anyone who has made a similar move or who works in the Finnish tech scene.   About me   Frameworks: Vue.js, React, Next.js   Core stack: JavaScript, HTML, CSS/SCSS, Jekyll   Specialties: web accessibility (WCAG) and SEO   Domain: interactive web experiences for pharma and healthcare clients, including multilingual clinical trial websites, quiz applications and HTML email templates   Experienced in working with international clients and",
-   "url": "https://www.reddit.com/r/expats/comments/1xiqnlr/frontend_developer_vue_react_nextjs_from_india/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T12:39:02Z"
-  },
-  {
-   "id": "rd:t3_1xigm7q",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Considering moving to Valencia, Orriols near C. Padre Viñas, 94. How safe is it to live there?",
-   "text": "   &#x200B;   Hi everyone! I&#39;m considering renting an apartment near Carrer de Padre Viñas, 94, in Orriols (Rascanya), and I&#39;m hoping to hear from people who currently live in the area or know it well.   I&#39;ve been living in El Cabanyal and have generally felt safe there, so I&#39;m trying to get a realistic sense of what living around this particular part of Orriols would be like.   I&#39;ve read some older articles about drug-related problems and safety concerns in Orriols, as well as more recent reports about improvements and increased police presence. I know a neighborhood&#39;s",
-   "url": "https://www.reddit.com/r/expats/comments/1xigm7q/considering_moving_to_valencia_orriols_near_c/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T12:39:02Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUZ1Y25aQVRhbnJEaG5IZl9HZmljM1ctdDVhX1hhTGo2NjJ2UUZhQkdwMjM3RjAwczhXM0lpSHRlcFVnaGR6LWtkVWY1cEVRc3hreFY2WGFISGs3bFF3TzJnUGpLQXVWZU5MWDdrZ1JONDNacG15RFk3em91M25nQjRfNGZjbDgzRlBTTE03Vl94VjB4RmNtdWhWSV9nUVXSAacBQVVfeXFMUElUYmZwY0paM1JzSUdyWWRaYk9hYU5uUl80T1V0QWhrT1M0aWJNdXV4dV9Yc1ZGVnRRMEp3XzJTWGNHbHBaNDdhVGNvZ3JQMktOLVlpSlo1dEUxUmlmZG1jZ1lSakFFSVRSeFZoN2Q3dURHLTc5aVJxYU9aYUNSZFpGSURGY0ZMWFhpNS1nMFZIM0ItOVYwWUR5Z2owd3NoVWxSX2xDc1E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property market posts Dh141 billion in Q3 transactions - Khaleej Times",
-   "text": " Dubai property market posts Dh141 billion in Q3 transactions &nbsp;&nbsp; Khaleej Times ",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUZ1Y25aQVRhbnJEaG5IZl9HZmljM1ctdDVhX1hhTGo2NjJ2UUZhQkdwMjM3RjAwczhXM0lpSHRlcFVnaGR6LWtkVWY1cEVRc3hreFY2WGFISGs3bFF3TzJnUGpLQXVWZU5MWDdrZ1JONDNacG15RFk3em91M25nQjRfNGZjbDgzRlBTTE03Vl94VjB4RmNtdWhWSV9nUVXSAacBQVVfeXFMUElUYmZwY0paM1JzSUdyWWRaYk9hYU5uUl80T1V0QWhrT1M0aWJNdXV4dV9Yc1ZGVnRRMEp3XzJTWGNHbHBaNDdhVGNvZ3JQMktOLVlpSlo1dEUxUmlmZG1jZ1lSakFFSVRSeFZoN2Q3dURHLTc5aVJxYU9aYUNSZFpGSURGY0ZMWFhpNS1nMFZIM0ItOVYwWUR5Z2owd3NoVWxSX2xDc1E?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:26Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRkYWFZMVJMNTBlRkd6Zm9Mdl9kRWI0NllETXF1THR6ajJZSkJnNFczWVVIbE9zR21DaGp3U3MwNHQyQkRCVXN0RDc3dmxXWUFFRWVmcjBPd3RYbHFSSUdOU1pid3NlY2t1NERQS0lNMlJuT0toRHZFNHZxanEtTktZLU5ucndWMXV1M00xZm0xYVEzYnVuYV9Xd0YweTR2UFRoVmROQkl6dmVGWlhzdDgweEFFUdIBvgFBVV95cUxNUk9SanppazN5RDQwS0hQWXVFbkgwbHI4NElkSGZhVzV0TkltREFDYXBrTS1Ja3BETS0xalBjZzUyanRfWTMweHFoOFozNDRrZW0wSFhsUE5nNVVYZzRDN01NaEc5RXhWOWZPWm9hNHI1elFwSkJGNHZXLTJwemwxeWRuYnNySG1kZUUwVjM0eVhONzFLeExLZ2NOa3RTWHBIM2l6UmlBRTlpSEpTTlpnT05YOHRTR21jaW40MXd3?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Real estate funds open new investment opportunities in Dubai’s property market - Khaleej Times",
-   "text": " Real estate funds open new investment opportunities in Dubai’s property market &nbsp;&nbsp; Khaleej Times ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRkYWFZMVJMNTBlRkd6Zm9Mdl9kRWI0NllETXF1THR6ajJZSkJnNFczWVVIbE9zR21DaGp3U3MwNHQyQkRCVXN0RDc3dmxXWUFFRWVmcjBPd3RYbHFSSUdOU1pid3NlY2t1NERQS0lNMlJuT0toRHZFNHZxanEtTktZLU5ucndWMXV1M00xZm0xYVEzYnVuYV9Xd0YweTR2UFRoVmROQkl6dmVGWlhzdDgweEFFUdIBvgFBVV95cUxNUk9SanppazN5RDQwS0hQWXVFbkgwbHI4NElkSGZhVzV0TkltREFDYXBrTS1Ja3BETS0xalBjZzUyanRfWTMweHFoOFozNDRrZW0wSFhsUE5nNVVYZzRDN01NaEc5RXhWOWZPWm9hNHI1elFwSkJGNHZXLTJwemwxeWRuYnNySG1kZUUwVjM0eVhONzFLeExLZ2NOa3RTWHBIM2l6UmlBRTlpSEpTTlpnT05YOHRTR21jaW40MXd3?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T13:00:56Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2hyejBhSU40ejhKLUxkbW1VMkdSNUQ3bzZBVzVoYlNIRnBjSE1fNlV2MU5xbWxnTEN3M0EzWVpzbmUwMExlUmpkbjh1RDFGY2FNVUF2WEpLNHUweDBDMnd5T0FxWVBtWENKaHNYYWEtYVZ5ZFN0Q3lka0o0ck41R3RZZHVZTjhwajZDd0tmdUEwZ0gzRVpYZE9n?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dar Global Capital Partners Eyes Dubai Real Estate Fund - megaproject.com",
-   "text": " Dar Global Capital Partners Eyes Dubai Real Estate Fund &nbsp;&nbsp; megaproject.com ",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2hyejBhSU40ejhKLUxkbW1VMkdSNUQ3bzZBVzVoYlNIRnBjSE1fNlV2MU5xbWxnTEN3M0EzWVpzbmUwMExlUmpkbjh1RDFGY2FNVUF2WEpLNHUweDBDMnd5T0FxWVBtWENKaHNYYWEtYVZ5ZFN0Q3lka0o0ck41R3RZZHVZTjhwajZDd0tmdUEwZ0gzRVpYZE9n?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T22:48:24Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdVBvMEFHM0NkMG1BMkE2YlRIUmM1QkR6VUZqMkktX3ZWbV9aa0JYU1pPLThhMFFYbGJaWi16MElqc0ZjalJ2OTZXeHdUTDlYcjFvVDA0dEV4YXdWUWh2SjBiNXJ5V3d3NU5KY0xQbHVBcTNUWDh4d0V2Q3hIZUY2MmhlWVVnS2paQUF6c3RfQXVCam9oSjgxRGc0Wm96MVprOHpsYUw2U0pyOHdER19GYjRfTGEwelZMRWxGVFJ0OFBYYkluRWZmbk9TQlNVRTBYUFFPR2YwdU9INnJVWk9wOHRvVFRpcmozclVn0gHrAUFVX3lxTFB1UG8wQUczQ2QwbUEyQTZiVEhSYzVCRHpVRmoySS1fdlZtX1prQlhTWk8tOGEwUVhsYlpaLXowSWpzRmNqUnY5Nld4d1RMOVhyMW9UMDR0RXhhd1ZRaHZKMGI1cnlXd3c1TkpjTFBsdUFxM1RYOHh3RXZDeEhlRjYyaGVZVWdLalpBQXpzdF9BdUJqb2hKODFEZzRab3oxWms4emxhTDZTSnI4d0RHX0ZiNF9MYTB6VkxFbEZUUnQ4UFhiSW5FZmZuT1NCU1VFMFhQUU9HZjB1T0g2clVaT3A4dG9UVGlyajNyVWc?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate firm gifts Lamborghini Urus to top-performing employee of 2026, internet reacts - Moneycontrol.com",
-   "text": " Dubai real estate firm gifts Lamborghini Urus to top-performing employee of 2026, internet reacts &nbsp;&nbsp; Moneycontrol.com ",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdVBvMEFHM0NkMG1BMkE2YlRIUmM1QkR6VUZqMkktX3ZWbV9aa0JYU1pPLThhMFFYbGJaWi16MElqc0ZjalJ2OTZXeHdUTDlYcjFvVDA0dEV4YXdWUWh2SjBiNXJ5V3d3NU5KY0xQbHVBcTNUWDh4d0V2Q3hIZUY2MmhlWVVnS2paQUF6c3RfQXVCam9oSjgxRGc0Wm96MVprOHpsYUw2U0pyOHdER19GYjRfTGEwelZMRWxGVFJ0OFBYYkluRWZmbk9TQlNVRTBYUFFPR2YwdU9INnJVWk9wOHRvVFRpcmozclVn0gHrAUFVX3lxTFB1UG8wQUczQ2QwbUEyQTZiVEhSYzVCRHpVRmoySS1fdlZtX1prQlhTWk8tOGEwUVhsYlpaLXowSWpzRmNqUnY5Nld4d1RMOVhyMW9UMDR0RXhhd1ZRaHZKMGI1cnlXd3c1TkpjTFBsdUFxM1RYOHh3RXZDeEhlRjYyaGVZVWdLalpBQXpzdF9BdUJqb2hKODFEZzRab3oxWms4emxhTDZTSnI4d0RHX0ZiNF9MYTB6VkxFbEZUUnQ4UFhiSW5FZmZuT1NCU1VFMFhQUU9HZjB1T0g2clVaT3A4dG9UVGlyajNyVWc?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T22:48:24Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiT0FVX3lxTE44M2pIc1pQWk5uY2J0eTQ3OC1TRjlyUFRXZ0dhaEhfWVppLUhUWnlKQkZfM0pQR2ZhNHJoX3lEZ0J2clhMNkxrRlU1YmN2a1U?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "نمو مستقر وطلب قوي على العقارات الفاخرة في أبوظبي - البيان",
-   "text": " نمو مستقر وطلب قوي على العقارات الفاخرة في أبوظبي &nbsp;&nbsp; البيان ",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44M2pIc1pQWk5uY2J0eTQ3OC1TRjlyUFRXZ0dhaEhfWVppLUhUWnlKQkZfM0pQR2ZhNHJoX3lEZ0J2clhMNkxrRlU1YmN2a1U?oc=5",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T22:48:24Z"
   }
  ]
 }
