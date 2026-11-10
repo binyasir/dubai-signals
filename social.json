@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-09T22:25:55Z",
- "newThisRun": 15,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-10T07:24:36Z",
+ "newThisRun": 6,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
@@ -10,33 +10,33 @@
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
@@ -77,6 +77,51 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%82%d9%8a%d9%85%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%af%d8%a8%d9%8a-%d8%a8%d9%86%d9%86%d8%b3%d9%88%d9%84%d8%a7-%d9%81%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "قيمة تطوير مشروع جزيرة \"دبي بننسولا\" في دبي تتجاوز 8 مليارات دولار",
+   "text": "تتجاوز القيمة التطويرية لمشروع جزيرة دبي بينينسولا Peninsula Dubai الذي تطوره شركة إتش آند إتش للتطوير العقاري H&#38;H Development في&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%82%d9%8a%d9%85%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%af%d8%a8%d9%8a-%d8%a8%d9%86%d9%86%d8%b3%d9%88%d9%84%d8%a7-%d9%81%d9%8a/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T07:24:36Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-10-%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1-%d9%85%d9%88%d8%b9%d8%af%d8%a7%d9%8b-%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إعمار العقارية» تحدد 10 ديسمبر موعداً لإغلاق عرض الاستحواذ على «إعمار للتطوير»",
+   "text": "كشفت شركتا «إعمار العقارية» و«إعمار للتطوير» عن الجدول الزمني للعرض النقدي الاختياري المقدم للاستحواذ على الأسهم المتبقية في «إعمار للتطوير»،&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-10-%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1-%d9%85%d9%88%d8%b9%d8%af%d8%a7%d9%8b-%d9%84/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T07:24:36Z"
+  },
+  {
+   "id": "rd:t3_1xsg49d",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Venting - Can’t afford to live in 2026",
+   "text": "   I just need somewhere to vent and maybe hear if others are in the same situation.    Lost job back in August as the company closed down. Now started my own marketing company and getting by but holy shit the costs are insane.    Now it’s hit November and I can’t pay my car loan. Can’t pay my credit card. Emaar decided to bill everyone 6 months back for chiller and that’s another 4,200 AED I don’t have. Apartment renewal came through and I’ve got a fee for Ejari and renewal. Car insurance due and renewal due.    I’m maybe 20K in the hole with about 6K coming in from work. Thats just November.",
+   "url": "https://www.reddit.com/r/dubai/comments/1xsg49d/venting_cant_afford_to_live_in_2026/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-10T07:24:01Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXc1ejFqSG1FSVUxcThfNFpGV0dDQmM1RlRoUmVOS05CYWVvd1Q4SlhOMmxvTmJFemNzZEtXWG4ydlo2SnZLa01BdnlPZXFWOWkwSHJtajFhQ0d6bXNsaFl4WEJ3LVh3N1ZVUkQ4R2lpRElfVEUzaWRDaTFWanQyeVg4YVFmdEQ4Z1lLb3kxc01zbVZ3dEhabDB5cUtXQnJKOHk5UlI4S08tbk5kYXVmWC14SjZVa1E?oc=5",
    "platform": "RSS",
@@ -3781,51 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-10-29T22:48:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b9%d8%af%d8%af-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d8%b2%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%8a/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "عدد صفقات بيع العقارات الجاهزة في دبي يرتفع 19% خلال الربع الثالث 2026",
-   "text": "ارتفع عدد صفقات بيع العقارات السكنية الجاهزة في دبي بنحو 19% خلال الربع الثالث من عام 2026 مقارنة بالربع السابق،&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%b9%d8%af%d8%af-%d8%b5%d9%81%d9%82%d8%a7%d8%aa-%d8%a8%d9%8a%d8%b9-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%a7%d9%87%d8%b2%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%8a/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T22:48:23Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-80-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%81%d8%b1%d8%b5-%d8%b9%d9%85%d9%84-%d9%84%d9%84%d8%a5%d9%85%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "أكثر من 80 شركة عقارية تطرح فرص عمل للإماراتيين في دبي",
-   "text": "طرحت أكثر من 80 شركة عقارية فرص عمل للمواطنين الإماراتيين في مجالات وتخصصات متنوعة، خلال فعاليات «اليوم العقاري الرابع لتوظيف&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-80-%d8%b4%d8%b1%d9%83%d8%a9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%81%d8%b1%d8%b5-%d8%b9%d9%85%d9%84-%d9%84%d9%84%d8%a5%d9%85%d8%a7/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T22:48:23Z"
-  },
-  {
-   "id": "rd:t3_1xiy75d",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Hotel | Downtown Dubai | AED 700,000,000",
-   "text": "   Posting as: Agent Property type: Hotel Area/community: Downtown, Dubai Building/project: Downtown Dubai Hotel Price: AED 700,000,000 Bedrooms: N/A Size (sq ft): N/A Status: Ready Additional details: 349 rooms and suites, superior, junior, executive, CEO and presidential suites. Hotel name under NDA. Subject to availability.     &#32; submitted by &#32;   /u/ProfessionalPace9206       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xiy75d/hotel_downtown_dubai_aed_700000000/",
-   "date": "2026-10-29",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-29T22:48:01Z"
   }
  ]
 }
