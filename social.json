@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-10T19:47:00Z",
+ "generatedAt": "2026-11-11T06:31:14Z",
  "newThisRun": 11,
- "sourcesOk": 8,
+ "sourcesOk": 5,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
-  "reddit": 165,
-  "rss": 77
+  "reddit": 163,
+  "rss": 79
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "error": null
   },
   {
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
    "source": "r/expats",
@@ -58,25 +58,145 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 8,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHhGaXU4ekplOEZka05iQk1iVXFyYl9aWm90cTVHYTVCSHl6c3MwWHpWNGNEZ25rZ1FhR1dHV1Mybnl4RjNlM0E2YTd6Y2psQ1RuaGtKVkF2MXpZbU9aR01maHM3b2xPd0RjZUN4TWdRZW9iQnJBNnRPWVBtNXR5cU55QU9EOWczNExQaVRPaG1hWHdHYld3cUNtQzg?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Palm Jebel Ali defies Dubai property slowdown - Arabian Gulf Business Insight | AGBI",
+   "text": " Palm Jebel Ali defies Dubai property slowdown &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHhGaXU4ekplOEZka05iQk1iVXFyYl9aWm90cTVHYTVCSHl6c3MwWHpWNGNEZ25rZ1FhR1dHV1Mybnl4RjNlM0E2YTd6Y2psQ1RuaGtKVkF2MXpZbU9aR01maHM3b2xPd0RjZUN4TWdRZW9iQnJBNnRPWVBtNXR5cU55QU9EOWczNExQaVRPaG1hWHdHYld3cUNtQzg?oc=5",
+   "date": "2026-11-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:13Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1hiTmJ5SW8wa2NQSVBhM3JULWJWaVJtYnYyYWRiLWg0clBCS2tsRjNQMzR5T25YNTNuckNZMC1UdGZnaHdKbTRlb0ZwazlCY2xzV04xd0g0NkdJekxOQV9qeDBSQldReEdaLUhHWWw5TE5jLUh3RTZNa3o0VlYyLVg2WFdFWkRLd3dzd3I4VVZMb3Y4OGt1OGRQLTnSAa8BQVVfeXFMUFU1ZmFXNlhHWE1vSGN5MF9BQjUwbF80ZVdpaTY0ejZsb2FQbE52c1FxWTk2LV84SlV5T0FUdVBxRGJTYk1Ia3JaUTdkd0VSWGNDUEJUZHlMWG9qeXlITlRqZDNZWnhQYWg0NDc0a2h4MjBudUJZUTR4QUxLc19hSTlEdjB2MFg5amlYSlNneWdWOWQycE1qLWpuZ0k0VDNnNmlzbVh0WExmeVIwVnUtRQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property sales jump 18% to Dh34.8 billion - Gulf News",
+   "text": " Dubai property sales jump 18% to Dh34.8 billion &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1hiTmJ5SW8wa2NQSVBhM3JULWJWaVJtYnYyYWRiLWg0clBCS2tsRjNQMzR5T25YNTNuckNZMC1UdGZnaHdKbTRlb0ZwazlCY2xzV04xd0g0NkdJekxOQV9qeDBSQldReEdaLUhHWWw5TE5jLUh3RTZNa3o0VlYyLVg2WFdFWkRLd3dzd3I4VVZMb3Y4OGt1OGRQLTnSAa8BQVVfeXFMUFU1ZmFXNlhHWE1vSGN5MF9BQjUwbF80ZVdpaTY0ejZsb2FQbE52c1FxWTk2LV84SlV5T0FUdVBxRGJTYk1Ia3JaUTdkd0VSWGNDUEJUZHlMWG9qeXlITlRqZDNZWnhQYWg0NDc0a2h4MjBudUJZUTR4QUxLc19hSTlEdjB2MFg5amlYSlNneWdWOWQycE1qLWpuZ0k0VDNnNmlzbVh0WExmeVIwVnUtRQ?oc=5",
+   "date": "2026-11-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:13Z"
+  },
+  {
+   "id": "rd:t3_1xt6gvd",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "EV charging point apps for Dubai.",
+   "text": "   This is my first post ever on Reddit. Hope it lands in correct forum.    I am planning to buy a EV. My landlord doesn&#39;t allow to install wall chargers in building.    Please share your experience on charging location apps. I know two apps plugshare and zynetic. Any more apps ?      &#32; submitted by &#32;   /u/Usual_Sentence_1558       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xt6gvd/ev_charging_point_apps_for_dubai/",
+   "date": "2026-11-11",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:30:48Z"
+  },
+  {
+   "id": "rd:t3_1xswx5q",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Do we have a financial claim? (Rent)",
+   "text": "   We are currently in our home country for a vacation. Less than a week after leaving, we were informed by our neighbor that there is water coming out of our unit. We allowed the building’s watchman and maintenance people to force open the door , with the assistance of the police, as they needed to check the source of the leak.J Upon opening our unit, our entire unit was flooded. The cause of the water leak was a pipe bursting in the powder room. They were able to remove 80% of the water, fix the pipe, and replace the door knob, but I am wondering if we have claim with the property management",
+   "url": "https://www.reddit.com/r/UAE/comments/1xswx5q/do_we_have_a_financial_claim_rent/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:00Z"
+  },
+  {
+   "id": "rd:t3_1xswpbu",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Dubai on 9K AED/month – Comfortable or Tight?",
+   "text": "   Hey everyone!   I&#39;m moving from India to Dubai for a new job with a  monthly salary of 38,000 AED .   I&#39;m a single bachelor, looking to enjoy a good lifestyle while saving aggressively. I&#39;m planning to spend around  8500 AED/month all-inclusive  (rent, groceries, eating out, transport, gym, utilities, entertainment, etc.).   I&#39;m quite fitness-oriented – love running, gym workouts, badminton and squash, so I&#39;d like to maintain an active lifestyle too.   A few questions:     Is 9K AED enough for a comfortable lifestyle?   Can I afford a decent private room in a shared apar",
+   "url": "https://www.reddit.com/r/UAE/comments/1xswpbu/dubai_on_9k_aedmonth_comfortable_or_tight/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:00Z"
+  },
+  {
+   "id": "rd:t3_1xstgpp",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Golden Visa (Property Owner) - Bangladesh National",
+   "text": "   &#x200B;   I would like if anyone has experience on this matter, seeking guidance for someone I know has a property in UAE and eligible for GV but she is overseas. DLD approval done, now to apply for GV she has to be here but system isnt open for Visit visa application for BAN National.   Any tips and suggestions will be appreciated.     &#32; submitted by &#32;   /u/TheSmartGuyDXB       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xstgpp/golden_visa_property_owner_bangladesh_national/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:00Z"
+  },
+  {
+   "id": "rd:t3_1xstgil",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "Golden Visa (Property Owner) - Bangladesh National",
+   "text": "   &#x200B;   I would like if anyone has experience on this matter, seeking guidance for someone I know has a property in UAE and eligible for GV but she is overseas. DLD approval done, now to apply for GV she has to be here but system isnt open for Visit visa application for BAN National.   Any tips and suggestions will be appreciated.     &#32; submitted by &#32;   /u/TheSmartGuyDXB       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/UAE/comments/1xstgil/golden_visa_property_owner_bangladesh_national/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:00Z"
+  },
+  {
+   "id": "rd:t3_1xsshz1",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/UAE",
+   "title": "The rental Agency wanna charge us 2000 aed for admin fees, plus the 5% commission for rental.",
+   "text": "   The building agency sent us an offer with 2 different fees the usual 5% agency fees plus tax and this admin fees of 2000 aed. When we asked them to give us a break down of these fees and that we can do our ijari, they said its all other tenants pa for this fees and thats basically wjat they always charge. Since when this is normal? I have been in dubai for 16 years, I only paid once for 700 admin fees renewal and I know I shouldn&#39;t have . Should I push back? We really like the apartment.. And they keep saying this admin fees are non negotiable!      &#32; submitted by &#32;   /u/Swimmin",
+   "url": "https://www.reddit.com/r/UAE/comments/1xsshz1/the_rental_agency_wanna_charge_us_2000_aed_for/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-11T06:31:00Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3g3ZXJZZDVZa3pVZ0tPc2V3LTNSenVrdks0Zi1jZXhuOEl4WDJYUVg2WEdYaldFMHl6SnZMN19sTE1OOE9OR1hfdnZTVkVkVHpJc2Ywem8xcWFWcFE1Tzk3dU4wTGNYdy1fazNVZm42V1FLZ2JZaGthQjgtWkFkcllzRlhpX25pY3Q0?oc=5",
    "platform": "RSS",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "105 views",
    "firstSeenAt": "2026-10-30T13:00:19Z"
-  },
-  {
-   "id": "rd:t3_1xj6v7p",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Something new coming up near Ghadeer",
-   "text": "   Something exciting is coming up near Ghadeer next month. A well-known developer is launching townhouses, 2 and 3 beds only, about 5 minutes from Ghadeer.   Starting prices are estimated to be AED 1.2M to 1.4M   Want more details? Reach out to me and get ahead of it before launch.     &#32; submitted by &#32;   /u/PiccoloOk4079       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj6v7p/something_new_coming_up_near_ghadeer/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj6uu9",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Direct Client Availability – DAMAC Hills 2 | Violet 2",
-   "text": "   📍 Project: Violet 2, DAMAC Hills 2  🏡 Property Type: 4 Bedroom Townhouse (TH12-4M)  💰 Price: AED 1,950,000  📐 BUA: 2,352.26 Sq. Ft.  🌳 Plot Size: 1,215.14 Sq. Ft.  🛏️ Bedrooms: 4  🛁 Bathrooms: 4  🚗 Parking: 2 Covered Spaces  📅 Handover: Feb 2027   Property Features:   * Spacious Living &amp; Dining Area  * Ground Floor Study Room  * Private Garden &amp; Patio  * Large Terrace &amp; Balcony  * Rooftop Terrace  * Family-Friendly Community   Selling Price: AED 1.8 Million     &#32; submitted by &#32;   /u/ResidentAttitude7462       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj6uu9/direct_client_availability_damac_hills_2_violet_2/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj6oah",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Is it better to sell or hold a townhouse in Masaar 1?",
-   "text": "   Exactly as the title, 3 bedroom townhouse handover this month     &#32; submitted by &#32;   /u/Latter-Inflation6565       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj6oah/is_it_better_to_sell_or_hold_a_townhouse_in/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj6eab",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Buying a resale unit in Dubai: do you check the title deed on DLD's site before you pay a deposit?",
-   "text": "   One small check I rarely see mentioned before a resale deposit: confirming the title deed itself is valid.   Dubai Land Department lists a &quot;Verify Title Deed&quot; e-service that lets you verify the validity of a Certificate of Title / title deed issued by DLD. You log in on the DLD website or the Dubai REST app, and the service is listed as immediate. Source:  https://dubailand.gov.ae/en/eservices/title-deed-verification-overview/    What I can&#39;t tell you from that page: what exactly it shows you (owner name, mortgage status, unit details), or whether it replaces anything your con",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj6eab/buying_a_resale_unit_in_dubai_do_you_check_the/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj4xfk",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Remraam question for non impacted owners",
-   "text": "   Hi,   Sorry for the long post.    I am planning to send this to DHCM to inquire and seek relief from service charges.    Background:   Owners whose tenants have been asked to vacate have received compensation and also promise of annual hike and new wardrobe, flooring etc. So, others who are not being asked to vacate are at a disadvantage, isnt it as after the current lease, no tenant will renew. So, those owners lose compensation as well as tenant   Any other owners facing the same issue?    My proposed letter:   FORMAL INQUIRY: COMMUNITY REMEDIATION IMPACT AND MITIGATION REQUEST   **Date:*",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj4xfk/remraam_question_for_non_impacted_owners/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj4ee9",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai real estate brokerages that don't require 5 days a week in the office?",
-   "text": "   Are there any real estate brokerages in Dubai that are flexible on office attendance?   Many seem to expect agents in the office 5 days a week, often with daily morning meetings. Are there any that allow 2–3 days in the office, with the rest spent on viewings, client meetings, or working remotely?   It would be useful to hear:   What the attendance policy is really like day to day, compared with what&#39;s said in interviews   Whether flexibility is available from the start or only for top performers   Any trade-offs, such as lower commission splits or fewer leads   Both big names and bouti",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj4ee9/dubai_real_estate_brokerages_that_dont_require_5/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj3lrq",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Stuck with one off plan help?",
-   "text": "   I have one offplan property in damac lagoon views 13. I have paid 32% of payment can&#39;t able to pay any more.   I want to sell any advice?      &#32; submitted by &#32;   /u/Shahjee_1       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj3lrq/stuck_with_one_off_plan_help/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
-  },
-  {
-   "id": "rd:t3_1xj31sn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "🏢 Dubai vs. Abu Dhabi",
-   "text": "   🏢 Dubai vs. Abu Dhabi: The Ultimate UAE Real Estate ShowdownFor international buyers deploying wealth into the UAE, the choice comes down to these two neighboring emirates. Both offer 0% income tax, 0% capital gains tax, and the 10-year Golden Visa, but they serve completely different strategies.  Here is the data-driven breakdown to help you choose the right fit for your portfolio:   🏙️ Dubai: The Yield &amp; Growth EngineDubai is a fast-paced global metropolis ideal for investors who want their capital to work quickly.Passive Rental Income: A booming tourism and expat sector drives high g",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj31sn/dubai_vs_abu_dhabi/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-30T05:54:02Z"
   }
  ]
 }
