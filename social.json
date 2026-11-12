@@ -1,37 +1,37 @@
 {
- "generatedAt": "2026-11-11T19:39:14Z",
- "newThisRun": 21,
- "sourcesOk": 9,
+ "generatedAt": "2026-11-12T07:16:40Z",
+ "newThisRun": 5,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 7,
-  "reddit": 159,
-  "rss": 84
+  "reddit": 158,
+  "rss": 85
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
@@ -47,9 +47,9 @@
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 1,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -58,25 +58,55 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 9,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 18,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFpZYUlVcGRmN0Rmam1YZGFKOThIcHRDTkVERnFnbGxPME9JZXlqREphNjJQd2VtZHA0Q2x0bzdRYkxXZGNFVE1HMUZuRkRuamxyS1ZUZnR5bkI3MHNsRzV1Rm9fbGUxTFBfcHg0YlJjUkhXbmZFeHE2VDNyUmFfWE9xcWJIeE96SU1IdEVTTTBqZDVIZjRVeXVR0gG0AUFVX3lxTE5MTjBZcjJHMWdSTjBIcEx2dFdlNC1SdFRXRXFqazlJNjB0ZXlnd3F0MDNIRmw0dzFQUDMzenFuQjlsXy1mSmNqcF85amg2djg1VzBLUnJpdmoxcWRvN0c0ZENTcElBel9lcENETWN5eWVUNTNLN0FqRjNOWm1SYlNnRnhmTHNWUFk5M0FZNmQ2b0J3QzlhQzU1eUJPSTJHbXpNZkc3Rjh5U1hNc3Bfd2h0S1FZLQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Two ordered to repay AED22.9m in Dubai property fraud case - Emirates 24|7",
+   "text": " Two ordered to repay AED22.9m in Dubai property fraud case &nbsp;&nbsp; Emirates 24|7 ",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFpZYUlVcGRmN0Rmam1YZGFKOThIcHRDTkVERnFnbGxPME9JZXlqREphNjJQd2VtZHA0Q2x0bzdRYkxXZGNFVE1HMUZuRkRuamxyS1ZUZnR5bkI3MHNsRzV1Rm9fbGUxTFBfcHg0YlJjUkhXbmZFeHE2VDNyUmFfWE9xcWJIeE96SU1IdEVTTTBqZDVIZjRVeXVR0gG0AUFVX3lxTE5MTjBZcjJHMWdSTjBIcEx2dFdlNC1SdFRXRXFqazlJNjB0ZXlnd3F0MDNIRmw0dzFQUDMzenFuQjlsXy1mSmNqcF85amg2djg1VzBLUnJpdmoxcWRvN0c0ZENTcElBel9lcENETWN5eWVUNTNLN0FqRjNOWm1SYlNnRnhmTHNWUFk5M0FZNmQ2b0J3QzlhQzU1eUJPSTJHbXpNZkc3Rjh5U1hNc3Bfd2h0S1FZLQ?oc=5",
+   "date": "2026-11-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-12T07:16:39Z"
+  },
+  {
+   "id": "rd:t3_1xu43e4",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Dubai Shared Accommodation: Are Undisclosed Minimum Stay Requirements and CCTV Installation Legal?",
+   "text": "   Hi everyone! I’m seeking legal advice regarding an all-ladies shared flat with partitions in Dubai.  I have two concerns:    1. Minimum Stay Requirement   The person managing the flat never disclosed any minimum stay requirement before I moved in. I also initially informed beforehand it would be temporary for 1-2months while looking for an apartment to settle. It was only after I paid the rent, partition security deposit, and access card deposit that I was informed I needed to commit to staying for a specific number of months.    My questions:   Is a minimum stay requirement legally enforce",
+   "url": "https://www.reddit.com/r/dubai/comments/1xu43e4/dubai_shared_accommodation_are_undisclosed/",
+   "date": "2026-11-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-12T07:16:04Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdm9NZGYwcW1TdlRPZGVtZEtSTkFLeXRvcUtyMC1TNG5xYm0wQktQSUhhdFVFZHRmT3JrU2w0c3UxZHRiZ1pkWHZheFNBR2ZEUEJmUko0LTl3LWlfNlhKVUtnREJWSUxROXJGVEFUVmh2YjdXTXYtUTNaWUtKZTlaam9JdlFQc0NSVl9DVFY4clFBM2kySTFrc2lCSHNQbHV0OVRNNHNuU2c4b1VoWkl2aktwX1FBbG4xZ2Z6NTFURVZfWjJZdjhJNQ?oc=5",
    "platform": "RSS",
@@ -3791,36 +3821,6 @@
    "title": "Berkeley Tower by Ellington - A Q&A With The Developer Itself.",
    "text": "    🏙️ 109 offices. 60 floors. One big question: Why so few?     Ellington built its reputation on design-led homes.    Now, it’s entering a bigger commercial space with Berkeley Tower — its 60-floor office tower in Business Bay.    But one number caught my attention: Just 109 offices. 👀    Comparable projects in the area often launch with 370–400+ units. So, when a developer chooses a significantly lower unit count, I wanted to understand the strategy behind it.     🎥 We went directly to Ellington’s office to ask the questions every commercial property investor should be asking:     🔹 Why Bus",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xjd53u/berkeley_tower_by_ellington_a_qa_with_the/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjc6op",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Would you buy a fully furnished 2BR in JVC for AED 1.5-1.55M offered by the developer?",
-   "text": "   A developer is offering a fully furnished 2BR in JVC at AED 1.5-1.55M. Handover is in December this year, with a 25/75 payment plan.  Would you buy this, either for rental income or as an end user? Why or why not?  I&#39;m curious how people see JVC right now, especially on rental demand, and the developer&#39;s track record.     &#32; submitted by &#32;   /u/PaintingOk1816       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjc6op/would_you_buy_a_fully_furnished_2br_in_jvc_for/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xj9tyb",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2BR Apartment | Dubai Silicon Oasis | Budget AED 1,000,000",
-   "text": "   Posting as: Agent   Property type: Apartment (ready)   Preferred area: Dubai Silicon Oasis   Budget: AED 1,000,000   Bedrooms: 2   Preferred size: 1,000 sq ft and above (flexible for the right layout)   Additional requirements: Posting on behalf of an end-user family, ready to proceed quickly with a serious seller. A well-maintained building, good natural light and a practical layout matter more than amenities. Vacant or vacating soon preferred. Owners can DM me even if not listed yet. Happy to collaborate with agents who have direct listings.     &#32; submitted by &#32;   /u/InvestGuide_D",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xj9tyb/2br_apartment_dubai_silicon_oasis_budget_aed/",
    "date": "2026-10-30",
    "dateApprox": false,
    "language": "en",
