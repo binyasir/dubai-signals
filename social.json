@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-13T06:50:54Z",
- "newThisRun": 8,
- "sourcesOk": 4,
+ "generatedAt": "2026-11-13T19:46:45Z",
+ "newThisRun": 10,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 8,
-  "reddit": 144,
-  "rss": 98
+  "youtube": 11,
+  "reddit": 142,
+  "rss": 97
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
@@ -58,10 +58,10 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 6,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
@@ -77,6 +77,126 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGVtRFZiU3VsdDZmSVpXN3hxR2NRcmQyZGJFclVoOUx6UjQyQUtnS1RvUFJZVk4xUmJoZFhMOVI0ZmR0c3ZBYTBpd3ktaXVGcVluczdvaTIxMDJoa2ZXNy1mbDBGWEFZUDdIM3QxcDdSLTE2REl5RTNGcTZkVXpEQWJzWE91eVBqb0JQMFFOVURCWDRBbnkxQlJFZmdZeWprc3c?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Loft & Keys takes Dubai property investment opportunities to Kano - Business News Nigeria",
+   "text": " Loft & Keys takes Dubai property investment opportunities to Kano &nbsp;&nbsp; Business News Nigeria ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGVtRFZiU3VsdDZmSVpXN3hxR2NRcmQyZGJFclVoOUx6UjQyQUtnS1RvUFJZVk4xUmJoZFhMOVI0ZmR0c3ZBYTBpd3ktaXVGcVluczdvaTIxMDJoa2ZXNy1mbDBGWEFZUDdIM3QxcDdSLTE2REl5RTNGcTZkVXpEQWJzWE91eVBqb0JQMFFOVURCWDRBbnkxQlJFZmdZeWprc3c?oc=5",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T19:46:45Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0x1SHFSWGxsUEVjX1JEMEttejVQR0VkTkw0a3NqZjFndzJucXpndktfTnRvM1U0Y1lnMWMwemZOcFdiUmpHS0kxaldjZ0QzbGlPWmNYSHNONjdyRzcwOENUOXFRRXpxWGE2ejUyM2ljNEVFZTZmUFY0M21NTUVqV1FWMkd6RGY1NWlVRWlTalF0YXZ2cm9JOGVXVHUxTzBmVXB1TmNXTHRETXdMTXFjcQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Binghatti, Loft & Keys target Northern Nigerian investors with Dubai property exhibition - The Guardian Nigeria News",
+   "text": " Binghatti, Loft & Keys target Northern Nigerian investors with Dubai property exhibition &nbsp;&nbsp; The Guardian Nigeria News ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0x1SHFSWGxsUEVjX1JEMEttejVQR0VkTkw0a3NqZjFndzJucXpndktfTnRvM1U0Y1lnMWMwemZOcFdiUmpHS0kxaldjZ0QzbGlPWmNYSHNONjdyRzcwOENUOXFRRXpxWGE2ejUyM2ljNEVFZTZmUFY0M21NTUVqV1FWMkd6RGY1NWlVRWlTalF0YXZ2cm9JOGVXVHUxTzBmVXB1TmNXTHRETXdMTXFjcQ?oc=5",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T19:46:45Z"
+  },
+  {
+   "id": "rd:t3_1xv7f0g",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Relocating to Dubai",
+   "text": "   Hi everyone! I&#39;ll be relocating for work. My work is in internet city area. Agents I have found are recommending apartment in barsha heights.   I dont drive and most likely also need easy taxi access   Is barsha heights a good area to live in if your office is in internet city?     &#32; submitted by &#32;   /u/snowsnegu       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xv7f0g/relocating_to_dubai/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T19:46:11Z"
+  },
+  {
+   "id": "rd:t3_1xv4sld",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "The First Group Investment",
+   "text": "   Anyone else invested in The First Group? How has your experience been?   We invested in Avalon Tower, now Holiday Inn JVC, and it’s turned out to be a bad investment. What we can’t understand is why they’re asking us to pay development costs out of nowhere, when the building was completed in 2020 and we bought the property in 2025. We also bought it on the secondary market.   We’re not only at a loss and struggling to sell the property for even half the price, as there seems to be no interest, but they’re also asking us to pay 40K.   Is this normal for a hotel investment or just with The Fi",
+   "url": "https://www.reddit.com/r/dubai/comments/1xv4sld/the_first_group_investment/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T19:46:11Z"
+  },
+  {
+   "id": "rd:t3_1xv4qnl",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Can anyone recommend me a good furniture company?",
+   "text": "   I am refurbishing my apartment, now I&#39;m missing the TV wall, cabinets etc and I want to do it in a good quality laminate, with premium frontage. So I&#39;m looking for a good joinery/carpentry/furniture company that&#39;s experienced in this.    But every company I contact there&#39;s an usual BS how good get are but the quality I see is not great (glue imperfections, overall cheap feel etc...) or fake Ai advertising, no details of their actual work.    Has anyone had a great experience with a good company that they can recommend, even in my DMs is fine, but would be good to give a posi",
+   "url": "https://www.reddit.com/r/dubai/comments/1xv4qnl/can_anyone_recommend_me_a_good_furniture_company/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T19:46:11Z"
+  },
+  {
+   "id": "yt:vhZNJNvlnAM",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Dubai Real Estate October 2026 Report | How Buying Has Changed",
+   "text": "How has buying in Dubai changed? Lewis and Carl Allsopp break down Allsopp & Allsopp’s October 2026 market report, from sales prices and transaction volumes to what the shift towards cash buyers and  ready homes means for the market.\n\nThey cover DLD’s AED 32.31 billion of sales in October, the 20% rise in Allsopp & Allsopp sales above AED 10,000,000, the 3.90% base rate, and why villas still lead on value. They also share what this means for buyers, sellers, landlords and tenants as we head into the final weeks of 2026.\n\nSubscribe for regular Dubai property market updates.\n\n#DubaiRealEstate #D",
+   "url": "https://www.youtube.com/watch?v=vhZNJNvlnAM",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "313 views",
+   "firstSeenAt": "2026-11-13T19:46:10Z"
+  },
+  {
+   "id": "yt:w7oHjAqJ4YQ",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes",
+   "title": "What’s next for Dubai, as residents see it | Future Living Report",
+   "text": "Most people who call Dubai home plan to stay, and many plan to stay longer than before.\n\n- 70% of residents say their confidence in Dubai held or grew this year\n- 69% plan to stay at least another ten years, up from 59% last year\n- 32% now own their home\n\nMore than half of tenants expect to buy within three years\nThese figures come from our third Future Living Report. Nearly 2,000 residents from 63 nationalities told us how they live, rent, buy and invest, and where they see themselves next.\n\n\nRichard Waind is joined by Harry Martin, Head of Off-Plan & Capital Markets, and Larry Scrivens, Seni",
+   "url": "https://www.youtube.com/watch?v=w7oHjAqJ4YQ",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "105 views",
+   "firstSeenAt": "2026-11-13T19:46:10Z"
+  },
+  {
+   "id": "yt:GRCZMnsPxk0",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes Abu Dhabi | Real Estate Agency",
+   "title": "Living in Abu Dhabi with family: Why location matters | Abu Dhabi Real Estate",
+   "text": "Moving to Abu Dhabi with your family? For most people, the school comes first, and the home follows.\n\nWanting to live 10 minutes from school makes sense, but it isn't always possible. If your children are at school near Reem Island, there aren't really villas close by until Reem Hills is complete. And traffic changes: a viewing on a Tuesday afternoon can feel very different from the same drive on a Friday.\n\nThe full conversation on renting or buying when you move to Abu Dhabi is in Brokers After Hours Ep 2: https://www.youtube.com/watch?v=57-YgZi1TyA&list=PLfXekGlpOooc&t=195s\n\n#MovingToAbuDhab",
+   "url": "https://www.youtube.com/shorts/GRCZMnsPxk0",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "12 views",
+   "firstSeenAt": "2026-11-13T19:46:10Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d9%84%d9%84-%d9%82%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6%d8%a9-%d9%84%d9%84%d8%a8%d9%8a/",
    "platform": "RSS",
@@ -3706,126 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-01T06:13:00Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi4wNBVV95cUxNN0RKb0x6R2p5RnRFZEtLbFVJTHZ6X0UxTGZua2RPMWtfRFlhaGNCME9FQi1JTE8xVk9ucWdZZDNmTnUxak9MeUdfQS1VUXNDa24tQWlYejhVR3F2YUtybDZYY2tFM0otRTI1TXRKeUtqbEJva0VtVFpvWXctTmgyR05VSDJSVDljaVV4dnQtQVhtSnVqWGRmUGxpZmpQOWdabDFBYk9VTFpUZ25CSE1Bdno5T0NJc3pacG1ZQXpJMDNhTS1zei11WkpDb1hGMUFoaHVUWnlfdWJJeVpZaXdTS1A3eGVCSDFVWF80aEFYRGwtS2VZdHJxZWhHX185eWtzMmpGdnpXOWlWYmFfUFpucXc4NXg1WTJTeTc3MWhhczVCT0Fhbm9HS2FlWGlqQ1ZTQ1RYRGRiQ2d6WGpUdWpfbVRDSlFTUW9uYmlUVmUwTXFETWxTVzE5Mm5UN25JODJwM3JhbVRjTUNLVTJsZnJONTQzU1pKc19KMHljZ0F5dWlGU29kMkNkRjg1LWQ2cjVNV3NFVUdNY2xjZFpzX2phRThhaTM1R19kcXh5NU9Md0NqR2F2SE9ObExZY0ZYaElzOFpyRDROMmtYZlNqemZHMkpIcHM4QTljN2JTVjlsdmw2TFk?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "بيع 42320 شقة في دبي لفئة أقل من مليون درهم - صحيفة الخليج",
-   "text": " بيع 42320 شقة في دبي لفئة أقل من مليون درهم &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNN0RKb0x6R2p5RnRFZEtLbFVJTHZ6X0UxTGZua2RPMWtfRFlhaGNCME9FQi1JTE8xVk9ucWdZZDNmTnUxak9MeUdfQS1VUXNDa24tQWlYejhVR3F2YUtybDZYY2tFM0otRTI1TXRKeUtqbEJva0VtVFpvWXctTmgyR05VSDJSVDljaVV4dnQtQVhtSnVqWGRmUGxpZmpQOWdabDFBYk9VTFpUZ25CSE1Bdno5T0NJc3pacG1ZQXpJMDNhTS1zei11WkpDb1hGMUFoaHVUWnlfdWJJeVpZaXdTS1A3eGVCSDFVWF80aEFYRGwtS2VZdHJxZWhHX185eWtzMmpGdnpXOWlWYmFfUFpucXc4NXg1WTJTeTc3MWhhczVCT0Fhbm9HS2FlWGlqQ1ZTQ1RYRGRiQ2d6WGpUdWpfbVRDSlFTUW9uYmlUVmUwTXFETWxTVzE5Mm5UN25JODJwM3JhbVRjTUNLVTJsZnJONTQzU1pKc19KMHljZ0F5dWlGU29kMkNkRjg1LWQ2cjVNV3NFVUdNY2xjZFpzX2phRThhaTM1R19kcXh5NU9Md0NqR2F2SE9ObExZY0ZYaElzOFpyRDROMmtYZlNqemZHMkpIcHM4QTljN2JTVjlsdmw2TFk?oc=5",
-   "date": "2026-10-31",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T21:39:45Z"
-  },
-  {
-   "id": "rd:t3_1xkeiyi",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Got my UAE license on Wednesday and picked up a rental car today. Now I'm terrified. 😢",
-   "text": "   So I finally got my license after months of classes and failures, I have an actual car sitting in my parking. I should be excited, and I am, but mostly I&#39;m very unsure if I&#39;m actually ready for real Dubai roads.   Passing the test and driving in real traffic feel like two completely different things. I know the rules, but I don&#39;t know the unwritten ones.   Things I&#39;d love advice on:  How did you ease into driving here in your first week or month?    Are there any rules or habits the test doesn&#39;t teach but you really need to know?   Parking: are parkings free?! How do I k",
-   "url": "https://www.reddit.com/r/dubai/comments/1xkeiyi/got_my_uae_license_on_wednesday_and_picked_up_a/",
-   "date": "2026-10-31",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T21:39:10Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%aa%d9%82%d9%81/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "مبيعات العقارات في دبي خلال أكتوبر تقفز 18% إلى 9.3 مليار دولار",
-   "text": "سجلت مبيعات العقارات في دبي خلال أكتوبر 2026 أكثر من 9.3 مليار دولار (34 مليار درهم)، عبر 11,948 صفقة، مقارنة&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d8%a3%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%aa%d9%82%d9%81/",
-   "date": "2026-10-31",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T12:39:04Z"
-  },
-  {
-   "id": "rd:t3_1xk38la",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "DEWA Bill",
-   "text": "   Anyone here live at Ice Hockey Tower in Dubai sports City, if you dont mind me asking, how much is your electricty, only the electricty part of the bill. I am staying at a 55.9sqm studio there and our elec. Consumption is 1375kwh. We have the standard appliances any apartment would have, frigde, washing machine, tv, microwave. Our AC is set to auto at 24C. Anyone have the same bill monthly or yours is lower, I am just wondering if this is the common bill for this building or we have some electrical problems.     &#32; submitted by &#32;   /u/SnooOpinions2133       [link]   &#32;   [comments",
-   "url": "https://www.reddit.com/r/dubai/comments/1xk38la/dewa_bill/",
-   "date": "2026-10-31",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T12:38:36Z"
-  },
-  {
-   "id": "rd:t3_1xk1r3u",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Hi everyone! 💗 Moving to Dubai by the end of December for my studies and looking for a furnished private room in a girls’ sharing apartment. Hoping to find a safe, welcoming space with girls who might become friends and make this new chapter feel like home! 💛 DM me with any leads! 🌷",
-   "text": "&#32; submitted by &#32;   /u/Perfect-Trifle4932       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xk1r3u/hi_everyone_moving_to_dubai_by_the_end_of/",
-   "date": "2026-10-31",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xk1e5z",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1 BR Apartment | Sobha Aquamont Downtown UAQ | AED 1,220,000 ?",
-   "text": "   Hey guys,   I’m selling my own Highest floor 1bed Sea-Facing Apt in Sobha Aquamont in UAQ downtown.   Posting as: Owner  Property type: 1BR Apartment  Area/community: Sobha UAQ Downtown  Building/project: Sobha Aquamont  Price: 1,220,000 AED  Bedrooms: 1  Size (sq ft): 565 sqft  Status: Off-plan    **Key features of property:*\\ *   \\\\- Off-plan (60/40 payment plan)  \\\\- Sobha Developer  \\\\- Government Backed  \\\\- Handover Q2 2028  \\\\- OP Price: 1.22M  \\\\- 34th Floor  \\\\- Sea-Facing  \\\\- 565 sqft with balcony  \\\\- Downtown Umm Al Quwain   I am looking to sell it for the OP of 1.22M AED (40% ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xk1e5z/1_br_apartment_sobha_aquamont_downtown_uaq_aed/",
-   "date": "2026-10-31",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjcvkm",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/expats",
-   "title": "Back in Chicago after 8 months in Porto",
-   "text": "   Moved home to Chicago last month after 8 months in Porto (remote job, so I could), and I already miss a 90 cent cimbalino at any café on the corner. $6 lattes are a hard adjustment.   Also miss the late dinners and the river at night. Don&#39;t miss the hills, or the apartment being colder than the street in February. My laptop brick also died the week before I flew back, so I replaced it here with Anker&#39;s laptop smart display charger, way smaller than the old one. Still adjusting... slowly:)     &#32; submitted by &#32;   /u/EmotionalGeen       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/expats/comments/1xjcvkm/back_in_chicago_after_8_months_in_porto/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T12:39:02Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanppODIyYW1JT09hUTNveVpHYVZwalJjVklJTXhMN3Z2QllRRWZBWXliQTk2N3dUbzFERzJZNHVaMktNUVlwbzNaclB2cGc2cENPbEphY0VTU1prV0NhMWhGNjdUVUJMNG1fclZjNGhtVjJtZ1UxS3VxcE55T1JUaXVkM09MdFdPNzJlN1ZyeG16Qi0zaUZ3ZXVja3Y5ZDJBMV9vUTlRMGpLOXZQZml5NDRSYzZRVFpfZW5NZnB2RGFOSThXZFFzVWNKQlBJOEo2aFBDSHpQYV_SAfMBQVVfeXFMUDk0OTE5am8xcWJiNlU3TG9SOGNldHZvOGFLVzZ5ZWJJSThWTThPMFltLVFfeHN3VVFkZmZmZVJ4X1VxNzRWZjhVSEN5c21QLWZqWjVSSEhjVVNEa1B6YzAyRUpvU1BwbC1KYkNaTmFfZGdBMnRUeE5fb1pfRWFsVXA3QWptQ2JvYTVJNUVWcENuNGhiN0t6LUJiVEh3dlF4bGF0MTJteFo1LVBVWEktamtiaVVpU1VWdm9MeExWQ0Y5Rzg3UXNsZ2FkclZJVW9aaGlGNUJlSDBFa0RURE9wUUdsNHA4ZDhoenpMTGF3WnJ0QkhZ?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai real estate reaches Dh625 billion in 10 months: 181,866 transactions and Dh412 billion in sales - Emirates 24|7",
-   "text": " Dubai real estate reaches Dh625 billion in 10 months: 181,866 transactions and Dh412 billion in sales &nbsp;&nbsp; Emirates 24|7 ",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanppODIyYW1JT09hUTNveVpHYVZwalJjVklJTXhMN3Z2QllRRWZBWXliQTk2N3dUbzFERzJZNHVaMktNUVlwbzNaclB2cGc2cENPbEphY0VTU1prV0NhMWhGNjdUVUJMNG1fclZjNGhtVjJtZ1UxS3VxcE55T1JUaXVkM09MdFdPNzJlN1ZyeG16Qi0zaUZ3ZXVja3Y5ZDJBMV9vUTlRMGpLOXZQZml5NDRSYzZRVFpfZW5NZnB2RGFOSThXZFFzVWNKQlBJOEo2aFBDSHpQYV_SAfMBQVVfeXFMUDk0OTE5am8xcWJiNlU3TG9SOGNldHZvOGFLVzZ5ZWJJSThWTThPMFltLVFfeHN3VVFkZmZmZVJ4X1VxNzRWZjhVSEN5c21QLWZqWjVSSEhjVVNEa1B6YzAyRUpvU1BwbC1KYkNaTmFfZGdBMnRUeE5fb1pfRWFsVXA3QWptQ2JvYTVJNUVWcENuNGhiN0t6LUJiVEh3dlF4bGF0MTJteFo1LVBVWEktamtiaVVpU1VWdm9MeExWQ0Y5Rzg3UXNsZ2FkclZJVW9aaGlGNUJlSDBFa0RURE9wUUdsNHA4ZDhoenpMTGF3WnJ0QkhZ?oc=5",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:26Z"
   }
  ]
 }
