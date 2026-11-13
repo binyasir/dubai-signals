@@ -1,42 +1,42 @@
 {
- "generatedAt": "2026-11-12T19:58:50Z",
- "newThisRun": 18,
- "sourcesOk": 8,
+ "generatedAt": "2026-11-13T06:50:54Z",
+ "newThisRun": 8,
+ "sourcesOk": 4,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 8,
-  "reddit": 149,
-  "rss": 93
+  "reddit": 144,
+  "rss": 98
  },
  "sources": [
   {
-   "source": "YouTube Allsopp & Allsopp",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube Driven Properties",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes",
-   "ok": true,
-   "items": 4,
-   "error": null
+   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
-   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
-   "ok": true,
-   "items": 3,
-   "error": null
+   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -60,13 +60,13 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 8,
+   "items": 6,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 22,
+   "items": 21,
    "error": null
   },
   {
@@ -77,6 +77,81 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d9%84%d9%84-%d9%82%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6%d8%a9-%d9%84%d9%84%d8%a8%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "أسعار الفلل قيد الإنشاء المعروضة للبيع في \"عقارات جميرا للجولف\" بدبي ترتفع 11.2%",
+   "text": "ارتفع متوسط سعر القدم المربعة للفلل الجديدة قيد الإنشاء والمعروضة للبيع في منطقة عقارات جميرا للجولف Jumeirah Golf Estates بدبي&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%81%d9%84%d9%84-%d9%82%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6%d8%a9-%d9%84%d9%84%d8%a8%d9%8a/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T06:50:53Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/52-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%a8%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "52 % من البحث عن عقارات في جزيرة المرجان برأس الخيمة يأتي من خارج الإمارات",
+   "text": "استحوذت عمليات البحث القادمة من خارج دولة الإمارات على 46.8% من إجمالي عمليات البحث عن العقارات في جزيرة المرجان برأس&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/52-%d9%85%d9%86-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%b9%d9%86-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d8%ac%d8%a7%d9%86-%d8%a8%d8%b1/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T06:50:53Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d9%88%d8%b9%d9%84%d9%8a%d8%a7-%d8%aa%d8%af%d8%b1%d8%b3%d8%a7%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d9%8a%d9%86/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أرادَ» و«عليا» تدرسان تطوير مشروعين سكنيين بـ 1.63 مليار دولار في دبي وأبوظبي",
+   "text": "وقّعت شركة أرادَ كابيتال Arada Capital، الذراع المتخصصة في إدارة الاستثمارات والصناديق التابعة لمجموعة أرادَ العقارية، مذكرة تفاهم مع شركة&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d8%b1%d8%a7%d8%af%d9%8e-%d9%88%d8%b9%d9%84%d9%8a%d8%a7-%d8%aa%d8%af%d8%b1%d8%b3%d8%a7%d9%86-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d9%8a%d9%86/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T06:50:53Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b1-%d9%85%d8%b4%d8%aa%d8%b1%d9%88-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d9%8a%d9%88%d8%a7%d8%b5%d9%84%d9%88%d9%86-%d8%b3%d8%af/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "العبار: مشترو عقارات \"إعمار\" يواصلون سداد الأقساط دون تأخير رغم الظروف الإقليمية",
+   "text": "أكد محمد العبار، المؤسس والعضو المنتدب لشركة إعمار العقارية، أن مشتري الوحدات العقارية التابعة للشركة يواصلون سداد أقساطهم وفق المواعيد&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b1-%d9%85%d8%b4%d8%aa%d8%b1%d9%88-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d9%8a%d9%88%d8%a7%d8%b5%d9%84%d9%88%d9%86-%d8%b3%d8%af/",
+   "date": "2026-11-13",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T06:50:53Z"
+  },
+  {
+   "id": "rd:t3_1xulmm1",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "golden visa for family abroad",
+   "text": "   hello!   i recently got my golden visa as distinguished student and want to sponsor my parents who visit me sometimes here. and i have a couple of questions if anyone can help       my parents can only come for around 2 consecutive weeks, so which steps should be completed beforehand so they can finalize everything while they are here in less than 2 weeks ?     father already has his visa on someone, should he cancel it from now? or is there a way to change it while he is here     has anyone faced rejections regarding sponsoring their parents before? if so why and what did you change ?     ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xulmm1/golden_visa_for_family_abroad/",
+   "date": "2026-11-12",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T06:50:19Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzFYdXBMSjQ3LVp4bHFWRUZvQkMwamNNUTFZSzgyOHNnTld4aVA2TVpfUEdra1F1X0ZuaDZlM2FxbWVXS1FPUUZZamhaMzZNRl9sVlMzWVozaU9pYnZ6ZE1HZFpESzRIMmFUcThGUlptdVd0VWhFQjBFdU1ZQi1oSU9WQVZaUWlKSzdDd2JnbW1XRFppTzNzX2c1RTJnMW9jdjA5dGNvaDVyakQ3eGc?oc=5",
    "platform": "RSS",
@@ -1216,6 +1291,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-08T06:08:27Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGFEblVQVVM5Q1JiallnUDQtYi16TDJEd3h4Ym5HWmtqZTloNXdIa1V6dWVxNUM4c2pmaXZVcmY1U2pqeW8wN2k0b2c2cUpCeVotOWtGOWdJNnJRaDg3clY4Z1Y0OGlGSkRPRHJrb18tR2ZKb3EzQnVYQmhsaklOaTVEaUc1RnBzWDN5SWktZlRvUzZObGN0UExDSmV2RTZDaXR6ZWpCX0VNRzVGSW51SnFiTUlienlFakNtcDY3dTlRQVlQVzg1dQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai’s Property Market Sustains Momentum as Rentals and Sales Rise in October - Realty Plus Magazine",
+   "text": " Dubai’s Property Market Sustains Momentum as Rentals and Sales Rise in October &nbsp;&nbsp; Realty Plus Magazine ",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGFEblVQVVM5Q1JiallnUDQtYi16TDJEd3h4Ym5HWmtqZTloNXdIa1V6dWVxNUM4c2pmaXZVcmY1U2pqeW8wN2k0b2c2cUpCeVotOWtGOWdJNnJRaDg3clY4Z1Y0OGlGSkRPRHJrb18tR2ZKb3EzQnVYQmhsaklOaTVEaUc1RnBzWDN5SWktZlRvUzZObGN0UExDSmV2RTZDaXR6ZWpCX0VNRzVGSW51SnFiTUlienlFakNtcDY3dTlRQVlQVzg1dQ?oc=5",
+   "date": "2026-11-07",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-13T06:50:54Z"
   },
   {
    "id": "rd:t3_1xqka7n",
@@ -3736,96 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-10-31T05:50:26Z"
-  },
-  {
-   "id": "rd:t3_1xjv6ga",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "It’s 3:37am !! But I gotta share",
-   "text": "   Guys this what the hard earned money should be invested in, I wish had some saving to invest in this project …..even if this project won’t make me money still I will be over the moon to live here, currently residing in Jumeirah Park…. the concept is so freaking amazing, man it took my breath away when I went to ghaf woods office !!   *Sizes*    1 bed &gt; 620 sqft approx  2 beds &gt; 970 sqft approx    *Handover*    Mid 2030    **EOI AED 50,000 from next week,Wednesday **   Will keep you posted with the steps    The Show apartment for Lyra will be opened next week as well       &#32; submit",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjv6ga/its_337am_but_i_gotta_share/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjuacx",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Double Trouble!! New launches collapse 99%… of these 90% of units remain unsold..",
-   "text": "   Saturday 31, October, 2026.   Good morning folks, i write this post with caution. For the evidence here is quite shocking. Note there are 3 graphs attached (please scroll). Sources: DLD via DXB Interact  Project Launch data:  https://dxbinteract.com/dubai-property-supply-launched   Unit sale data:  https://dxbinteract.com/dubai-absorption-rate-analysis     Let’s start with the weakness that kicked into Dubai’s offplan real estate market even before the war:     New project launches in January 2026 were 73% lower  than 2025 &amp; 2025 and 60% lower than previous month of December.  Something",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjuacx/double_trouble_new_launches_collapse_99_of_these/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjql39",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dissecting a AED 200M Dubai Deal: Why smart money buys schools, not apartment blocks",
-   "text": "   Everyone looking at big-ticket real estate in Dubai automatically defaults to residential buildings in Marina or office spaces in Business Bay. But I’m currently reviewing the numbers on a private school acquisition in Dubai, and it really highlights the massive yield gap between standard real estate and operational assets.   Here is the breakdown: It’s a 100% freehold acquisition of a fully operational school (135k sqft land, two buildings, unencumbered bus fleet) priced at AED 200 Million. It has been running for 43 years and currently has about 4,800 students enrolled.   The math is wild",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjql39/dissecting_a_aed_200m_dubai_deal_why_smart_money/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjq6ck",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Residential Building | Jumeirah Gardens, Dubai | AED 150,000,000",
-   "text": "   Posting as: Agent   Property type: Residential Building (Full Building Sale)   Area/community: Jumeirah Gardens, Dubai   Building/project: Not disclosed   Price: AED 150,000,000   Bedrooms: 36 × 1BR, 24 × 2BR, 12 × 3BR   Size (sq ft): 169,355 BUA   Status: Ready   Images/video: Available on request   Additional details:   Exclusive full-building investment opportunity in a prime Dubai location.   Property highlights:   - G+6 residential building   - 72 residential units   - 4 retail units   - 111 parking spaces   - Freehold property   - Completed and ready building   - 24-hour security   - ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjq6ck/residential_building_jumeirah_gardens_dubai_aed/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjomlk",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Any actual real data based Dubai south expert here?",
-   "text": "   In Hayat Dubai south. I have a 3bhk 3217 sq ft single row townhouse that I bought for 3.5mn +dld backing to outside park. Dubai south doesn&#39;t provide NOC until 50% to sell it. I don&#39;t know if this is a good investment anymore. The real , real, genuine, inside info known experts - Please tell me what to do with it     &#32; submitted by &#32;   /u/Icy_Horror_7751       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjomlk/any_actual_real_data_based_dubai_south_expert_here/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
-  },
-  {
-   "id": "rd:t3_1xjolb8",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1BR Apartment | Dubai Silicon Oasis | AED 1,050,000",
-   "text": "   Posting as: Agent   Property type: Apartment   Area/community: Dubai Silicon Oasis (DSO)   Building/project: N/A   Price: AED 1,050,000   Bedrooms: 1   Size (sq ft): 787   Status: Ready   Additional details: Fully upgraded brand-new unit, ready to move in. Features 2 bathrooms, 2 balconies and brand-new kitchen appliances. Freehold property with title deed available. Service charges: AED 13 per sq. ft. First year service charges FREE. Mortgage assistance available for eligible buyers. I can help arrange mortgage financing through the bank. DM for further details and viewing arrangements.   ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xjolb8/1br_apartment_dubai_silicon_oasis_aed_1050000/",
-   "date": "2026-10-30",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-10-31T05:50:02Z"
   }
  ]
 }
