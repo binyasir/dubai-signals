@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-14T06:30:26Z",
- "newThisRun": 39,
- "sourcesOk": 5,
+ "generatedAt": "2026-11-14T18:10:03Z",
+ "newThisRun": 7,
+ "sourcesOk": 9,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 11,
@@ -10,28 +10,28 @@
  },
  "sources": [
   {
-   "source": "YouTube UC7zb6wyNrnf0k5LQ8TTd8Wg",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Allsopp & Allsopp",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube UC9SHhB8dKTIzeX2-vX-2ykQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube Driven Properties",
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "YouTube UCVijFVJmnxkXc5BTMNbN7BQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes",
+   "ok": true,
+   "items": 5,
+   "error": null
   },
   {
-   "source": "YouTube UCnhGapWdzUfGYZS5iO0y7xQ",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 404"
+   "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
+   "ok": true,
+   "items": 4,
+   "error": null
   },
   {
    "source": "r/dubai",
@@ -41,9 +41,9 @@
   },
   {
    "source": "r/DubaiRealEstate",
-   "ok": true,
-   "items": 34,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -53,30 +53,90 @@
   },
   {
    "source": "r/expats",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 429"
+   "ok": true,
+   "items": 2,
+   "error": null
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 13,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a8%d9%86-%d8%ba%d8%a7%d8%b7%d9%8a-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«بن غاطي» تخطط لإطلاق مشروع عقاري جديد بـ 3.2 مليار دولار وتسليم 15 ألف وحدة في 2027",
+   "text": "تخطط شركة بن غاطي لإطلاق مشروع عقاري جديد بقيمة نحو 3.27 مليار دولار (12 مليار درهم)، ضمن مشاريع تعتزم طرحها&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a8%d9%86-%d8%ba%d8%a7%d8%b7%d9%8a-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af/",
+   "date": "2026-11-14",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-14T18:10:02Z"
+  },
+  {
+   "id": "rd:t3_1xvnxek",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "Considering a move from England to Australia as a skilled worker (insurance property loss adjuster) and looking for advice/info from people in similar industry who made the move or live in Australia.",
+   "text": "   As the title says really, I’m a domestic and commercial property loss adjuster with about 3 years experience (10 total years experience in insurance). Reasonably qualified but aware I’d need to get Australian qualifications while awaiting my visa. Curious if anyone in the same or similar job has moved over and how you found the difference in the working life? Curious as well if anyone works as a loss adjuster in Australia and can provide insight about the industry in general. For the record I am considering a move to Adelaide.      &#32; submitted by &#32;   /u/fjbrahh       [link]   &#32; ",
+   "url": "https://www.reddit.com/r/expats/comments/1xvnxek/considering_a_move_from_england_to_australia_as_a/",
+   "date": "2026-11-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-14T18:10:00Z"
+  },
+  {
+   "id": "rd:t3_1xw2u0p",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Any Yatch rental suggestions?",
+   "text": "   Hey guys,  I’m looking for a 2hrs Yatch rental with decoration for celebrating my parents silver anniversary.   If you’ve ever tried or know some good option , please share thank you 🙏🏻      &#32; submitted by &#32;   /u/Jazzlike_Onion1959       [link]   &#32;   [comments]  ",
+   "url": "https://www.reddit.com/r/dubai/comments/1xw2u0p/any_yatch_rental_suggestions/",
+   "date": "2026-11-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-14T18:09:28Z"
+  },
+  {
+   "id": "rd:t3_1xw0znq",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/dubai",
+   "title": "Misdelivered parcel forwarded outside the UAE. What are my legal options?",
+   "text": "   I’m looking for advice regarding a delivery issue in Dubai.   My wife recently placed an online order that was mistakenly delivered to the wrong apartment in our building.   The delivery label contained my wife’s name, our apartment number, but also an additional number after a hyphen.    The occupants of the apartment told us they hadn’t noticed the label identifying the intended recipient and subsequently informed us that they had forwarded the parcel to a friend or relative outside the UAE.   I contacted Dubai Police because my concern goes beyond the retailer’s delivery mistake. However",
+   "url": "https://www.reddit.com/r/dubai/comments/1xw0znq/misdelivered_parcel_forwarded_outside_the_uae/",
+   "date": "2026-11-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-14T18:09:28Z"
+  },
   {
    "id": "rd:t3_1xvuul7",
    "platform": "Reddit",
@@ -1396,6 +1456,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-11T06:30:48Z"
+  },
+  {
+   "id": "rd:t3_1xslxhi",
+   "platform": "Reddit",
+   "channel": "Reddit",
+   "stream": "social",
+   "account": "r/expats",
+   "title": "German bureaucracy may defeat me. Is Albania a good plan B?",
+   "text": "   I’m seeking advice and opinions about shuffling to Albania from my present location in Germany. I have just over 4 weeks left on my tourist visa here and despite my best efforts to secure a student visa for language learning, the bureaucracy involved in obtaining one may defeat me and force me to leave for a while. One of my biggest obstacles is finding landlords willing to rent to foreigners. Many Germans know how difficult the gov’t makes it and just flat out refuse to rent to people in my situation.    So, plan B - Albania!    Given recent turmoil in a few regions (no skirmishes in my ar",
+   "url": "https://www.reddit.com/r/expats/comments/1xslxhi/german_bureaucracy_may_defeat_me_is_albania_a/",
+   "date": "2026-11-10",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-14T18:10:00Z"
   },
   {
    "id": "rd:t3_1xswx5q",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-04T19:49:00Z"
-  },
-  {
-   "id": "rd:t3_1xni4z7",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Recommendations",
-   "text": "   Transportation Best options   Hello . I don’t have a car in Dubai and I’m staying for a 2 weeks .the hotel I live that in sport city so there an option than rent a car or take bus to go to daira and naïf area      &#32; submitted by &#32;   /u/Wing_Glad       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xni4z7/recommendations/",
-   "date": "2026-11-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-04T19:49:00Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUhQNGR6V2tsQW0zLTJHRGtfWW82c2JhZnhvNGdIdTNsTzlidmx2alJVdVh6M3pyTnd1NzN6a0RJRjhFdHZpS3RZWGlQb0c4SzhReXBMWk15cjYwSWdiSF9TdG4yeEhDRC11b3lHWUpMam84azRmSnN1dUpSS3NscXNWNzZrYTZQWWtvNWxocU1VOEZzeFdVVGctaklqdjBZTnNhdnBsRWlRTC1WWXFzMzlKUDhpa205dDZQRU05SXZYbWptaUszTXdBTGpScVNPa1E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "In 10 months.. Emaar tops Dubai real estate developers sales list - صوت الإمارات",
-   "text": " In 10 months.. Emaar tops Dubai real estate developers sales list &nbsp;&nbsp; صوت الإمارات ",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUhQNGR6V2tsQW0zLTJHRGtfWW82c2JhZnhvNGdIdTNsTzlidmx2alJVdVh6M3pyTnd1NzN6a0RJRjhFdHZpS3RZWGlQb0c4SzhReXBMWk15cjYwSWdiSF9TdG4yeEhDRC11b3lHWUpMam84azRmSnN1dUpSS3NscXNWNzZrYTZQWWtvNWxocU1VOEZzeFdVVGctaklqdjBZTnNhdnBsRWlRTC1WWXFzMzlKUDhpa205dDZQRU05SXZYbWptaUszTXdBTGpScVNPa1E?oc=5",
-   "date": "2026-11-04",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-04T06:30:48Z"
-  },
-  {
-   "id": "rd:t3_1xngn0q",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Sponsoring dependents on an Abu Dhabi visa while living in Dubai – Need Advice!",
-   "text": "   Hi everyone, I&#39;m an expat changing jobs and in a bit of a tricky spot with my family&#39;s visa sponsorship. Would really appreciate any advice or recent personal experiences.   **My current status:**   **Current visa:** Dubai-issued, sponsored by my current company. My wife and child are on dependent visas under me.   **New job:** Starting in Abu Dhabi soon, so my new visa/Emirates ID will be issued from Abu Dhabi (ICP).   **Accommodation:** We live in Dubai with a valid, registered Ejari. Our child is in school here and we&#39;d like them to finish the school year before we consider m",
-   "url": "https://www.reddit.com/r/dubai/comments/1xngn0q/sponsoring_dependents_on_an_abu_dhabi_visa_while/",
-   "date": "2026-11-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-04T06:30:13Z"
-  },
-  {
-   "id": "rd:t3_1xne65u",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Keeping a property as a non-resident",
-   "text": "   Currently on Golden Visa with two properties.    I&#39;m relocating to another county, and I need to sell one of them to buy in the destination country.    So, I need to cancel the golden visa. But I&#39;ll keep the other property that&#39;s still off-plan.    Questions:   • What are the impacts of keeping the other property without a visa?    • What should I pay attention to? (Keeping the bank account as a non-resident, etc...)    • What alternative do I have to keep an active visa/emirates ID.    Obviously, having a POA is not an option because I lost trust in everyone here.    Anyone has",
-   "url": "https://www.reddit.com/r/dubai/comments/1xne65u/keeping_a_property_as_a_nonresident/",
-   "date": "2026-11-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-04T06:30:13Z"
-  },
-  {
-   "id": "rd:t3_1xn8uv6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Advice & recommendations needed: Finding a quiet, private room/studio near the Metro (Budget: ~AED 4,000)",
-   "text": "   Hello everyone,  I am new to Dubai, currently pursuing a part-time master&#39;s degree, and about to start working. I am still getting familiar with how the rental system works here and the best areas to target, so I would deeply appreciate any advice, recommendations, or personal experiences you can share!  To give you an idea of what I&#39;m looking for, I am a very calm, quiet, clean, and respectful person, and I’m hoping to find similar flatmates who value a peaceful home environment.  Here are my preferences and criteria:  Budget: Around or up to AED 4,000 per month (bills included if ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xn8uv6/advice_recommendations_needed_finding_a_quiet/",
-   "date": "2026-11-03",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-04T06:30:13Z"
   }
  ]
 }
