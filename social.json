@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-14T18:10:03Z",
- "newThisRun": 7,
- "sourcesOk": 9,
+ "generatedAt": "2026-11-14T22:29:40Z",
+ "newThisRun": 3,
+ "sourcesOk": 8,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 11,
-  "reddit": 160,
-  "rss": 79
+  "reddit": 159,
+  "rss": 80
  },
  "sources": [
   {
@@ -36,7 +36,7 @@
   {
    "source": "r/dubai",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "error": null
   },
   {
@@ -53,20 +53,20 @@
   },
   {
    "source": "r/expats",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 7,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -77,6 +77,21 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2RPUng1S0ZVRVVGWnZKVGxhWmhqbHJsektlNENmTXdNazdaUEY2ZlhQeERnblIzczhjY2ppa19UNEFNeDNBUnFkdWozTUlHMVVSNFdObnhpdW1aeFZBWnZ0N0RVb0xIX1hkblRER1FmYWx4VHZnSW9BUGJtVDBtcHVKeDMyendHR194aVJUNGJmVjhQSThvaTlMM2M5azFXWXZ2N3ZZbFN1SnFhcmFhdTBpNTRMV0VZd2xzT0lBTm1VUjNPZU9kTEtmUGVmemVtX2xVaDlNRTlONXBCUWVJRw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate sector recorded $3.4bn of transactions last week, including $23m Palm Jumeirah apartment - Arabian Business",
+   "text": " Dubai real estate sector recorded $3.4bn of transactions last week, including $23m Palm Jumeirah apartment &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2RPUng1S0ZVRVVGWnZKVGxhWmhqbHJsektlNENmTXdNazdaUEY2ZlhQeERnblIzczhjY2ppa19UNEFNeDNBUnFkdWozTUlHMVVSNFdObnhpdW1aeFZBWnZ0N0RVb0xIX1hkblRER1FmYWx4VHZnSW9BUGJtVDBtcHVKeDMyendHR194aVJUNGJmVjhQSThvaTlMM2M5azFXWXZ2N3ZZbFN1SnFhcmFhdTBpNTRMV0VZd2xzT0lBTm1VUjNPZU9kTEtmUGVmemVtX2xVaDlNRTlONXBCUWVJRw?oc=5",
+   "date": "2026-11-14",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-14T22:29:40Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d8%a8%d9%86-%d8%ba%d8%a7%d8%b7%d9%8a-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%ac%d8%af%d9%8a%d8%af/",
    "platform": "RSS",
@@ -3806,21 +3821,6 @@
    "title": "Junior Football Clubs DXB",
    "text": "   Hello fellow redditors   Looking for recommendations for my sons aged 12 &amp; 14 for decent football clubs that dont require you to take out a 3rd mortgage on your house. Anyone willing to give this uneducated muppet some advice/recommendations?   Mucho gravitas!     &#32; submitted by &#32;   /u/PNess77       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubai/comments/1xnojtw/junior_football_clubs_dxb/",
-   "date": "2026-11-04",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-04T19:49:00Z"
-  },
-  {
-   "id": "rd:t3_1xnmg2f",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Keeping a property as a non-resident",
-   "text": "   Currently on Golden Visa with two properties.   I&#39;m relocating to another county, and I need to sell one of them to buy in the destination country.   So, I need to cancel the golden visa. But I&#39;ll keep the other property that&#39;s still off-plan.   Questions:   \\- What are the impacts of keeping the other property without a visa?   \\- What should I pay attention to? (Keeping the bank account as a non-resident, etc...)   \\- What alternative do I have to keep an active visa/emirates ID.   Obviously, having a POA is not an option because I lost trust in everyone here.   Anyone has suc",
-   "url": "https://www.reddit.com/r/dubai/comments/1xnmg2f/keeping_a_property_as_a_nonresident/",
    "date": "2026-11-04",
    "dateApprox": false,
    "language": "en",
