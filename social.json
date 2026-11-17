@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-17T07:59:15Z",
- "newThisRun": 12,
- "sourcesOk": 9,
+ "generatedAt": "2026-11-17T20:59:24Z",
+ "newThisRun": 8,
+ "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 11,
-  "reddit": 162,
-  "rss": 77
+  "youtube": 9,
+  "reddit": 160,
+  "rss": 81
  },
  "sources": [
   {
@@ -35,21 +35,21 @@
   },
   {
    "source": "r/dubai",
-   "ok": true,
-   "items": 10,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 404"
   },
   {
    "source": "r/DubaiRealEstate",
    "ok": false,
    "items": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "source": "r/UAE",
-   "ok": true,
-   "items": 2,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -60,7 +60,7 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "error": null
   },
   {
@@ -72,11 +72,86 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 17,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHZ0NFZVaTU0aVhpcGZ6Q0VMYjFrR1Z3c09yN0YzWWZKTmpmaHlhWFRack1xbzdsNFZPS3htc2xNQWtQQVJqN3FpLU9JeUdFLVdmeVVYdU8wVVAzb2Y4b2RabFluYmJDVE9RbWNGYXU5UlBRMHA4TlktT2hoblpaQXFGbzlPVFdpY2hHcVlxZVJsLUs4S3NSWGxrcjB3d2lPUGpLbXNFOUZEYzgyT21HSzRhY08wQ0hYWVg4VGRMaUFqcXY5LUZBV0tVQUFFSVJDQWFnS01yVjY?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property: Off-plan apartments now cheaper than ready homes as buyers find lower entry prices - Arabian Business",
+   "text": " Dubai property: Off-plan apartments now cheaper than ready homes as buyers find lower entry prices &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHZ0NFZVaTU0aVhpcGZ6Q0VMYjFrR1Z3c09yN0YzWWZKTmpmaHlhWFRack1xbzdsNFZPS3htc2xNQWtQQVJqN3FpLU9JeUdFLVdmeVVYdU8wVVAzb2Y4b2RabFluYmJDVE9RbWNGYXU5UlBRMHA4TlktT2hoblpaQXFGbzlPVFdpY2hHcVlxZVJsLUs4S3NSWGxrcjB3d2lPUGpLbXNFOUZEYzgyT21HSzRhY08wQ0hYWVg4VGRMaUFqcXY5LUZBV0tVQUFFSVJDQWFnS01yVjY?oc=5",
+   "date": "2026-11-17",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-17T20:59:24Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%85%d9%88%d8%af%d9%8a%d8%b2-%d9%87%d8%a7%d9%85%d8%b4-%d8%b1%d8%a8%d8%ad-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«موديز»: هامش ربح شركات التطوير العقاري في الإمارات 47% مقابل 22% بأمريكا",
+   "text": "كشفت وكالة «موديز» للتصنيف الائتماني أن متوسط هامش الربح الإجمالي لشركات التطوير العقاري السكني في الإمارات بلغ 47% خلال عام&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%85%d9%88%d8%af%d9%8a%d8%b2-%d9%87%d8%a7%d9%85%d8%b4-%d8%b1%d8%a8%d8%ad-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1/",
+   "date": "2026-11-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-17T20:59:23Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%85%d9%90%d8%b1%d8%a7%d8%b3-%d8%aa%d8%b7%d8%b1%d8%ad-97-%d9%81%d9%8a%d9%84%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d9%86%d8%af-%d8%a7%d9%84%d8%b4%d8%a8%d8%a7-%d8%ac/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«مِراس» تطرح 97 فيلا جديدة في «ند الشبا جاردنز» بدبي وتخطط لإنشاء مدرسة بالمشروع",
+   "text": "أعلنت شركة  مِراس ، التابعة لـ«دبي القابضة للعقارات»، إطلاق 97 فيلا جديدة تضم أربع وخمس غرف نوم في مشروع ند&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%85%d9%90%d8%b1%d8%a7%d8%b3-%d8%aa%d8%b7%d8%b1%d8%ad-97-%d9%81%d9%8a%d9%84%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d9%86%d8%af-%d8%a7%d9%84%d8%b4%d8%a8%d8%a7-%d8%ac/",
+   "date": "2026-11-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-17T20:59:23Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%b4%d9%82%d8%a9-%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d9%85%d8%b1%d8%b3%d9%89-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a8%d8%af%d8%a8%d9%8a-%d9%85%d9%82%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "تأجير شقة فاخرة في \"مرسى العرب\" بدبي مقابل 1.23 مليون دولار سنوياً",
+   "text": "أعلنت شركة الاستشارات العقارية «نايت فرانك» Knight Frank إتمام صفقة تأجير شقة فاخرة تضم ثلاث غرف نوم في مرسى العرب&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%b4%d9%82%d8%a9-%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%81%d9%8a-%d9%85%d8%b1%d8%b3%d9%89-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a8%d8%af%d8%a8%d9%8a-%d9%85%d9%82%d8%a7/",
+   "date": "2026-11-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-17T20:59:23Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%b6%d9%85%d9%86-%d8%a3%d9%83%d8%a8%d8%b1-11-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-%d9%81%d9%8a-%d9%82%d8%b7%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إعمار» ضمن أكبر 11 مجموعة عالمية في قطاع المساكن ذات العلامات التجارية",
+   "text": "جاءت شركة إعمار العقارية ضمن قائمة أكبر 11 مجموعة عالمية من حيث عدد مشاريع المساكن ذات العلامات التجارية المنجزة وقيد&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%b6%d9%85%d9%86-%d8%a3%d9%83%d8%a8%d8%b1-11-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9-%d9%81%d9%8a-%d9%82%d8%b7%d8%a7/",
+   "date": "2026-11-17",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-17T20:59:23Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiakFVX3lxTE9XUWJjaC1IYWl2QTR6aThYRkJvUDM2RHhqYnNianllb2ZCd1ZFd3prcWRSejVTcXBWWkhhb2ZjbGs0R09pQ0VQMEZnRVl2RFB6aTZsdjNpQ1BqV2IzY2xIbGtpUWIza05tTnc?oc=5",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-07T06:03:34Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d9%85%d8%af-%d8%b9%d8%b1%d8%b6%d8%a7%d9%8b-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-3-24-%d9%85/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«إعمار العقارية» تعتمد عرضاً بقيمة 3.24 مليار دولار للاستحواذ الكامل على «إعمار للتطوير»",
-   "text": "وافق مجلس إدارة شركة «إعمار العقارية» نهائياً على تقديم عرض شراء نقدي اختياري بقيمة تصل إلى نحو 3.24 مليار دولار&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b9%d8%aa%d9%85%d8%af-%d8%b9%d8%b1%d8%b6%d8%a7%d9%8b-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-3-24-%d9%85/",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-06T19:27:41Z"
-  },
-  {
-   "id": "rd:t3_1xpctt3",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "RDC Arrest Warrant in Dubai Over a Bounced Company Cheque - Anyone Experienced This?",
-   "text": "   Hi everyone, asking for a friend.   He owns a restaurant in Dubai registered as an LLC. Unfortunately, the business ran into financial difficulties, and one of the landlords filed an RDC case against both the company and him personally over bounced rental cheques he signed on behalf of the company.   The RDC has now issued an arrest warrant (ضبط وإحضار) against him, along with a travel ban. He&#39;s understandably quite anxious.   He&#39;s currently staying in his apartment in Downtown Dubai and is worried about what might happen next.   I&#39;m hoping to hear from people who have actually ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xpctt3/rdc_arrest_warrant_in_dubai_over_a_bounced/",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-06T19:27:07Z"
-  },
-  {
-   "id": "rd:t3_1xp8wbn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Should I resign and move to Qatar to join my husband, stay in an LDR, or keep trying for a UAE visa?",
-   "text": "   Hi everyone! I&#39;m hoping to get some advice from people who have experienced a similar situation, especially those familiar with expat life, long-distance marriage, and career transitions in the Gulf.   My husband is Pakistani, and I&#39;m Indonesian. We&#39;re currently facing a difficult decision about where to establish our future together.   I live and work in the UAE in the Emergency Medical Services (EMS) sector, and I have also been granted a UAE Golden Visa. Meanwhile, my husband lives and works in Qatar for an IT company. We both have relatively stable jobs and a comfortable inc",
-   "url": "https://www.reddit.com/r/dubai/comments/1xp8wbn/should_i_resign_and_move_to_qatar_to_join_my/",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-06T19:27:07Z"
-  },
-  {
-   "id": "yt:YWdvh1wDtZE",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "Allsopp & Allsopp",
-   "title": "Allsopp & Allsopp Launches Sports and Talent Advisory with Cal Crutchlow",
-   "text": "Launching Allsopp & Allsopp’s Sports & Talent Advisory with Cal Crutchlow\n\nIn this special episode, the host announces the launch of Allsopp & Allsopp’s Sports & Talent Advisory division with MotoGP rider Cal Crutchlow, aimed at helping sports and talent figures relocate to Dubai and invest wisely.\n\nThey discuss the market gap created by serving high-net-worth clients, the need for trusted guidance from someone who has “been through it,” and the practical services the division will cover, including schools, private banking, insurance, property investment, and Golden Visas.\n\nCal shares his own ",
-   "url": "https://www.youtube.com/watch?v=YWdvh1wDtZE",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "180 views",
-   "firstSeenAt": "2026-11-06T19:27:06Z"
-  },
-  {
-   "id": "yt:Nqi5c7UCIr8",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "Allsopp & Allsopp",
-   "title": "Five Bedroom Villa for Sale in Redwood Avenue, Jumeirah Golf Estates",
-   "text": "Set in the prestigious Redwood Avenue community, this stunning contemporary villa offers refined luxury with beautiful golf course views. Designed with sophisticated interiors, premium finishes, and floor-to-ceiling windows, the home creates a seamless connection between indoor and outdoor living.\n\nWith 10,237 sq. ft. of built-up area on a generous 14,172.73 sq. ft. plot, the villa features five luxurious bedrooms, spacious open-plan living and dining areas, a designer kitchen with a large island, and beautifully finished bathrooms. Outside, a private swimming pool, landscaped garden, and cove",
-   "url": "https://www.youtube.com/watch?v=Nqi5c7UCIr8",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "157 views",
-   "firstSeenAt": "2026-11-06T19:27:06Z"
   }
  ]
 }
