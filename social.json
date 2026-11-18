@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-17T20:59:24Z",
- "newThisRun": 8,
+ "generatedAt": "2026-11-18T07:35:03Z",
+ "newThisRun": 4,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 9,
-  "reddit": 160,
-  "rss": 81
+  "reddit": 158,
+  "rss": 83
  },
  "sources": [
   {
@@ -43,7 +43,7 @@
    "source": "r/DubaiRealEstate",
    "ok": false,
    "items": 0,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
@@ -66,17 +66,32 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 18,
+   "items": 19,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 17,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVV9fOU5JY0dJZlhKYUlKLUxVX3hHR25NMjlZZ0dqRDJ1TmZPVXJUbjJoQmJLU0o1S1AyVnM1WWdGOFUxZTNIMTB3ZDRSNE93TmhGVV9OUmM2eFA4ckUtOEdCVDdwWTMta1dVZjI2SENyRzlLaUN2cjh4WEF1VW9kT2RscDhDc3dKcFZ3?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai real estate’s talent war: Inside the AED300,000-a-month broker boom - Arabian Business",
+   "text": " Dubai real estate’s talent war: Inside the AED300,000-a-month broker boom &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVV9fOU5JY0dJZlhKYUlKLUxVX3hHR25NMjlZZ0dqRDJ1TmZPVXJUbjJoQmJLU0o1S1AyVnM1WWdGOFUxZTNIMTB3ZDRSNE93TmhGVV9OUmM2eFA4ckUtOEdCVDdwWTMta1dVZjI2SENyRzlLaUN2cjh4WEF1VW9kT2RscDhDc3dKcFZ3?oc=5",
+   "date": "2026-11-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-18T07:35:03Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHZ0NFZVaTU0aVhpcGZ6Q0VMYjFrR1Z3c09yN0YzWWZKTmpmaHlhWFRack1xbzdsNFZPS3htc2xNQWtQQVJqN3FpLU9JeUdFLVdmeVVYdU8wVVAzb2Y4b2RabFluYmJDVE9RbWNGYXU5UlBRMHA4TlktT2hoblpaQXFGbzlPVFdpY2hHcVlxZVJsLUs4S3NSWGxrcjB3d2lPUGpLbXNFOUZEYzgyT21HSzRhY08wQ0hYWVg4VGRMaUFqcXY5LUZBV0tVQUFFSVJDQWFnS01yVjY?oc=5",
    "platform": "RSS",
@@ -256,6 +271,21 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-17T07:58:40Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiggRBVV95cUxNd3VoU1djUWNScVBiWGREWmlNN2xEVEVsMFdGQlVrYWxLMlhDQkRYQXlhOGYzaEtabHNxeHFPbUl2SUQ4ZC1WcXdpdWxfSGtubWpuU05pWWlKRzd5bTZULWpCYWdfMnZ2dUhCOFBfaFVFemlNTkhRbGVUNEdlWDRtRld2bklSWjFLWWRzejBibzZoSE5QQTh6WWhlUzg4NjgzQkpHSzY5SHQ3S19LUkJYU3hGZWpsRUxuamlEbzZ5ZkxyLU1nV1VURHY4UnNYMkIwQV81ZzlLVEJTTEwzZHpBcUYxTm1YblJVT2kwT2V6OWJ1dTVZdnJ3bVhQNm1EYmI3S2F0RWZoYmxxZ3N1M25ibWp0ZHNnY25qRWRQUUtBZmUxM3hfNC1YSlJkdmN6UG5FY2I4TTMxdm82R3lsSFdhWk9rbEhkYzdzd2IzVXdIMkVtUEZXUTZyRk5LV2hrdnd3MTVqQWpxZUY0aTVkcG0tbm1uX1dpRGFIMnEycG9vTjRrNUUzN2VPemhlTXRkZHhKM1ZoSEpUdlpueVk0anVMUXU3Z0FXZTR0Uk1vQWZYVEdDTW95NEFGdmk0TXJWN1FwQmdFUVBfSmtFN05lUURrN1BxV0V0N21tWllYTTlCTXlxTVUwN1lvWXMyaFgwVXdNTDg2NDR2WUR5Q3JxeVNsYkZn?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "بدعم من أسهم العقارات والمرافق.. مؤشر سوق دبي يتجاوز مستوى 6212 نقطة - CNBC عربية",
+   "text": " بدعم من أسهم العقارات والمرافق.. مؤشر سوق دبي يتجاوز مستوى 6212 نقطة &nbsp;&nbsp; CNBC عربية ",
+   "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxNd3VoU1djUWNScVBiWGREWmlNN2xEVEVsMFdGQlVrYWxLMlhDQkRYQXlhOGYzaEtabHNxeHFPbUl2SUQ4ZC1WcXdpdWxfSGtubWpuU05pWWlKRzd5bTZULWpCYWdfMnZ2dUhCOFBfaFVFemlNTkhRbGVUNEdlWDRtRld2bklSWjFLWWRzejBibzZoSE5QQTh6WWhlUzg4NjgzQkpHSzY5SHQ3S19LUkJYU3hGZWpsRUxuamlEbzZ5ZkxyLU1nV1VURHY4UnNYMkIwQV81ZzlLVEJTTEwzZHpBcUYxTm1YblJVT2kwT2V6OWJ1dTVZdnJ3bVhQNm1EYmI3S2F0RWZoYmxxZ3N1M25ibWp0ZHNnY25qRWRQUUtBZmUxM3hfNC1YSlJkdmN6UG5FY2I4TTMxdm82R3lsSFdhWk9rbEhkYzdzd2IzVXdIMkVtUEZXUTZyRk5LV2hrdnd3MTVqQWpxZUY0aTVkcG0tbm1uX1dpRGFIMnEycG9vTjRrNUUzN2VPemhlTXRkZHhKM1ZoSEpUdlpueVk0anVMUXU3Z0FXZTR0Uk1vQWZYVEdDTW95NEFGdmk0TXJWN1FwQmdFUVBfSmtFN05lUURrN1BxV0V0N21tWllYTTlCTXlxTVUwN1lvWXMyaFgwVXdNTDg2NDR2WUR5Q3JxeVNsYkZn?oc=5",
+   "date": "2026-11-16",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-18T07:35:03Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3hpUHhRUW5LUEwxdlVUSlVKNGp5YXZfSVpYT1VrTmNuU3FNUWlEazJkNjljd1BvU2RILWZ4Sl9PMDNTSms5QU9UVUxJaXZqS1luZm5qd0VZMUYwUHBuVDRaWUt5Tm9xNThqTXNRbGZ6WTBLdXN0OHZzbTRzSmtuOWNfS3FxRG5GYVBDcnZOaUNMWWdDNUFITDctZjJJX2Z6VmNYM1BjcDdjVlMxVnE3cG93U0lCME56Z2dKZ3hZZnM4Ui1k?oc=5",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xpamj2",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4BR Villa | DAMAC Hills 2 | AED 2,300,000",
-   "text": "   Posting as: Agent   Property type: Villa   Area/community: DAMAC Hills 2   Building/project: Confidential   Price: AED 2,300,000   Bedrooms: 4 + Study   Size (sq ft): 2,425 BUA | 1,845 Plot   Status: Ready   Images/video: Available on request   Additional details: Brand-new, vacant and ready-to-move-in corner townhouse with a spacious plot. Prime location near the swimming pool and community amenities.   Premium corner unit, spacious layout, family-friendly community and excellent lifestyle amenities.   Ideal for families, end users and property investors.   DM for photos, viewing arrangeme",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xpamj2/4br_villa_damac_hills_2_aed_2300000/",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xpplez",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Loud party in residential apartment, called 901, was unhelpful",
-   "text": "   Hi all, seeking any advice the community can give on the best way to resolve a noise complaint? Building security is unable to help, only telling us residents to call the police. When we call 901, they said to call Dubai Municipality. Is there any tips the community can give wherein the police can get involved? Nobody seems to want to help and we keep getting referred to different departments and are given the run around without an actual solution.    I live by myself and the tenant himself is a man who seems very aggressive as when a neighbor knocked on his door, he shouted and slammed the",
-   "url": "https://www.reddit.com/r/dubai/comments/1xpplez/loud_party_in_residential_apartment_called_901/",
-   "date": "2026-11-06",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-07T06:03:34Z"
   }
  ]
 }
