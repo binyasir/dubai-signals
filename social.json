@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-18T20:37:03Z",
- "newThisRun": 14,
+ "generatedAt": "2026-11-19T07:31:02Z",
+ "newThisRun": 4,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 10,
-  "reddit": 147,
-  "rss": 93
+  "reddit": 146,
+  "rss": 94
  },
  "sources": [
   {
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 21,
+   "items": 14,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%87%d8%b0%d9%87-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d9%8b-%d9%84%d8%b4%d9%82%d9%82-%d8%ba%d8%b1%d9%81%d8%a9-%d9%88/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "هذه مناطق دبي الأكثر مبيعاً لشقق غرفة وصالة بسعر 273 ألف دولار أو أقل",
+   "text": "كشف تحليل أجرته منصة «المصدر العقاري»، استناداً إلى بيانات المبيعات المسجلة رسمياً لدى دائرة الأراضي والأملاك في دبي، عن أكثر&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d9%87%d8%b0%d9%87-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%af%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d9%8b-%d9%84%d8%b4%d9%82%d9%82-%d8%ba%d8%b1%d9%81%d8%a9-%d9%88/",
+   "date": "2026-11-19",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-19T07:31:02Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2tlUklsOWRaU0Q5N01KMzVNdHFGRzYyNkxkMGhlbjlWTVQyMzUzY3hWQ3VvbXNkX09tNlRYVHZWNklqaU5aX09MRHZta2JINmpCeTFidGI4OGZ0SjgtV1owd2lyRGdRUmxjUlFNb0NTWVVvMVJFR1RINUJoeGVweHJtdVZhZW45TjAxb2s2RUt2YXh4TEdBck5RSzcxcnVHWEs3YVZNU1BzOUh1Z2dhaER2cVFLZVNkQ2RqcjFjYw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Property Market Enters New Phase of Maturity in 2026 - Zawya",
+   "text": " Dubai Property Market Enters New Phase of Maturity in 2026 &nbsp;&nbsp; Zawya ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2tlUklsOWRaU0Q5N01KMzVNdHFGRzYyNkxkMGhlbjlWTVQyMzUzY3hWQ3VvbXNkX09tNlRYVHZWNklqaU5aX09MRHZta2JINmpCeTFidGI4OGZ0SjgtV1owd2lyRGdRUmxjUlFNb0NTWVVvMVJFR1RINUJoeGVweHJtdVZhZW45TjAxb2s2RUt2YXh4TEdBck5RSzcxcnVHWEs3YVZNU1BzOUh1Z2dhaER2cVFLZVNkQ2RqcjFjYw?oc=5",
+   "date": "2026-11-18",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-19T07:31:02Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMilARBVV95cUxPTnNVeVNKU0ctOGVhUEJRc29ZSS1rY1NvSGJDQ1BwR0ZESFQ0MFBsMldBVVB3NDBfTG5mNGc4Tk02cmN1MnBWSUNDYXN0Q3d3bGNNZ0NaNjBCSFdXUTM5RTJJb3pEUXBrYnBRVkRkc1ZrQ0xMVG5YWGNGQUJORzdkOWpZQTNLelNPb1puZzNzTU0zSG9odk01VTR4UndqekJTX3ROOTBFQXNQVDVDd2gxWGRQeGdOVHhEVnBmZ0o0OE5nNV9EUVlGYVpOYmlXejB1MFMteFpreHYyelNxMkx3YmdQZk5vcnlFSm9tRUoxY2x3T0t4QURpNmVtSHRlTUJySEtEZGdnNEk0N09SeDRFQThNb2ZYVWxZVG5TaTczcjduckdRT3Q0WFNDSkVjOXhrN2c3N0hDREk1UlFSSE1fYXVLY1h4M0ZMbzFUaGw2MVNjSnRWbmVJZm91S3FFUGlZVGd3cTN3Q0VrOEZFTUhaZkdZbWdqYmJsUGRnM3hKLUxvYU5qX1pweFlPQnNHdmtpMTYzMkkydkY1dDNwLVhrSll0OHY5a2FRckpDN3lFOUVxNEtWa2VVZGxVNVVLTmwtUnZ1Z2NjbDg1UkpweUJ5REc2RElrUENwQlRPRGo1cl82XzRIa1Bscm44ZDFJN0RocXlEUFhnTHRuSDJ2cXhTbkRsN3Z3WWxOQTJFY0twck0teHhu?oc=5",
    "platform": "RSS",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-07T21:54:31Z"
-  },
-  {
-   "id": "rd:t3_1xq1uay",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Noise complain",
-   "text": "   I live in apartment, and the apartment next to mine has been undergoing renovations for around three weeks now. I&#39;ve been dealing with constant drilling, wood cutting, hammering, and knocking on the walls.  I understand that renovations are sometimes necessary, and I know they have a valid work permit, but three weeks of living next to what feels like a construction site is becoming unbearable.  And i talked to building management and they told me that they talked to them to follow community regulation  Is there any authority I can complain to, or does having a valid work permit mean I ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xq1uay/noise_complain/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-07T13:08:17Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF5YVU5SXllaE9vVTVaQk91amtFSkM0MFEtcmtJaWRRS0d0YnVKdVR0bnlxRU5EdEg0OVFSN0JWa1BkR0V6N0ptUjdtN1U5ZVJTaFIwcmdKcjZBOTBvS3FkcEpYUGtSdmVwU0luejVjUWc3MjBrQlROU0cyWmc5WjRmc0tQdmVBdXl6dnNJUjl6QmMySzJRQk0zWnBRdlRoclpoetIBtwFBVV95cUxNM2cyRmdHV1VhUXhpTTJOT3JXWWlNdXFuM1QxYm40eDk0VExkSE0zSmJma1VIR3BLeGJ0bGtfNEV5bzliN2VBUmg1OFZOeW12Z0p2ZEFVVTVlTWNjYlR6Y2l4Qmx6M2VKYVZNeTIzTHJJVjEwYkFraWo4M2NONndvNXBFYVhZYjBKWkQ5Sjlfb0lBN21vVFhhc2NvMGo2TmM1cVBZbGFvLUMtWDU5QjFFSWxNSWdxZzA?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property buyers find more choice, better deals - Gulf News",
-   "text": " Dubai property buyers find more choice, better deals &nbsp;&nbsp; Gulf News ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlF5YVU5SXllaE9vVTVaQk91amtFSkM0MFEtcmtJaWRRS0d0YnVKdVR0bnlxRU5EdEg0OVFSN0JWa1BkR0V6N0ptUjdtN1U5ZVJTaFIwcmdKcjZBOTBvS3FkcEpYUGtSdmVwU0luejVjUWc3MjBrQlROU0cyWmc5WjRmc0tQdmVBdXl6dnNJUjl6QmMySzJRQk0zWnBRdlRoclpoetIBtwFBVV95cUxNM2cyRmdHV1VhUXhpTTJOT3JXWWlNdXFuM1QxYm40eDk0VExkSE0zSmJma1VIR3BLeGJ0bGtfNEV5bzliN2VBUmg1OFZOeW12Z0p2ZEFVVTVlTWNjYlR6Y2l4Qmx6M2VKYVZNeTIzTHJJVjEwYkFraWo4M2NONndvNXBFYVhZYjBKWkQ5Sjlfb0lBN21vVFhhc2NvMGo2TmM1cVBZbGFvLUMtWDU5QjFFSWxNSWdxZzA?oc=5",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-07T06:04:03Z"
   }
  ]
 }
