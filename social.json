@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-19T20:41:55Z",
- "newThisRun": 11,
+ "generatedAt": "2026-11-20T07:22:15Z",
+ "newThisRun": 5,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 10,
-  "reddit": 139,
-  "rss": 101
+  "reddit": 135,
+  "rss": 105
  },
  "sources": [
   {
@@ -49,7 +49,7 @@
    "source": "r/UAE",
    "ok": false,
    "items": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "source": "r/expats",
@@ -60,23 +60,83 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-8-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a8%d8%af%d8%a8%d9%8a-%d8%a8%d8%a7%d8%aa%d8%aa-%d8%a3%d9%82%d9%84-%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "إيجارات الشقق في 8 مناطق بدبي باتت أقل تكلفة بحلول شهر أكتوبر 2026",
+   "text": "أظهرت بيانات عقارية حديثة أن متوسط إيجارات الشقق في 8 مناطق بدبي سجل مستويات أقل خلال أكتوبر 2026 مقارنة بالشهر&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-8-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a8%d8%af%d8%a8%d9%8a-%d8%a8%d8%a7%d8%aa%d8%aa-%d8%a3%d9%82%d9%84-%d8%aa/",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-20T07:22:15Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a3%d9%81%d9%8a%d9%86%d9%8a%d9%88-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d8%a7%d9%86%d8%aa-%d8%b1%d9%8a%d8%ac%d9%8a%d8%b3-%d9%81%d9%8a-%d8%ac%d8%b2/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أفينيو» تطلق مشروع «سانت ريجيس» في جزر دبي بـ248 وحدة سكنية",
+   "text": "أطلقت  شركة أفينيو للتطوير العقاري AVENEW Development  مشروع «مساكن سانت ريجيس في جزر دبي» The St. Regis Residences at Dubai&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a3%d9%81%d9%8a%d9%86%d9%8a%d9%88-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d8%a7%d9%86%d8%aa-%d8%b1%d9%8a%d8%ac%d9%8a%d8%b3-%d9%81%d9%8a-%d8%ac%d8%b2/",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-20T07:22:15Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkM5YzhJLUdnNHB4dnhNV2lYNmJxLVpGZzVNOUxUcENqUVFmdzVSTXBSd3RJNGZWdXRPajl6dGRqRFczamZGVXM2bGtWVmdqTDFEZVdFUjd6eVBVSndCUThFUWNVMDd2Uk1Mb1JOTWJ3N3A3b3d0X0piRDV1NzY0QzI4R1FwR25SZE5uNVo0M0p2Q3RpWU0tMjZaU0VEQ0ZfNTFCZjZDTE5EVlVMVFNGLUJfOHpBUl9sU2M3NGZB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market shifts as ready-home sales jump 18% and prices stabilise - Arabian Business",
+   "text": " Dubai property market shifts as ready-home sales jump 18% and prices stabilise &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkM5YzhJLUdnNHB4dnhNV2lYNmJxLVpGZzVNOUxUcENqUVFmdzVSTXBSd3RJNGZWdXRPajl6dGRqRFczamZGVXM2bGtWVmdqTDFEZVdFUjd6eVBVSndCUThFUWNVMDd2Uk1Mb1JOTWJ3N3A3b3d0X0piRDV1NzY0QzI4R1FwR25SZE5uNVo0M0p2Q3RpWU0tMjZaU0VEQ0ZfNTFCZjZDTE5EVlVMVFNGLUJfOHpBUl9sU2M3NGZB?oc=5",
+   "date": "2026-11-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-20T07:22:15Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMijgFBVV95cUxQenM3WWFwSE1td2tTa1ZBY0RULUtuaFktX2tiVFRaN19zTjM1d0txWXFKZ2p4V3Z2SVdJdm82ZjU0TkdYcS1ibzBZTGV2N2dSWW9lMG5HdVAyQVBuMUg3V2MtVGtaa0FnREtZdkc5YnNJOUswQ2UteFlCT252Q3Jjay1nRUIwN2dvQzFkNUFn?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai homebuyers offered mortgage comparisons from 20 UAE banks in Emaar deal - Arabian Business",
+   "text": " Dubai homebuyers offered mortgage comparisons from 20 UAE banks in Emaar deal &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQenM3WWFwSE1td2tTa1ZBY0RULUtuaFktX2tiVFRaN19zTjM1d0txWXFKZ2p4V3Z2SVdJdm82ZjU0TkdYcS1ibzBZTGV2N2dSWW9lMG5HdVAyQVBuMUg3V2MtVGtaa0FnREtZdkc5YnNJOUswQ2UteFlCT252Q3Jjay1nRUIwN2dvQzFkNUFn?oc=5",
+   "date": "2026-11-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-20T07:22:15Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYnNud3dpNmhUWHA5UDk0djNoS1pnenhnZ29teVpPV2swSWo5NGF0R05tRVYxNmc3dVhSUWNEOGxTc2FHbTRheXgyRUFpVVRpUy1YYzVOZ0RHeC1JV2N1cXVMTHhBZFkwOFR4c2h6RFJlUG9jUzBSWTYxZ05NcUFzVEdnOFgxbkxkWkpPdzRROHIwSDhKdmlIdWhUYmlKdm14QUpuZTl0amgyU01JQkNrb2ZKZlpTRE5KbWtLTkVMNDJqNHpoc0hReGxjSVNkZ2pyV3BPVE02RXA5QUXSAfYBQVVfeXFMT2xMT0l2djZyelVZaUtScEVrQW5qVUplc1Vub3hrTHN3b0R3SXE3SnQ5MzMydnZFWm1MSmpWeGFRRVJsYTdrTjVteExpRWNOb2JxLXo2VElHV2VneTRURDhidWNfT1BLZm53V2E1N1R6dHVRY3EtUzRJZW1IZjc0dElmQXMwTVJEQ1B1b2tZZjNJSi1RN3hnUnZ5OUdsNlJ2cEJwVUFhdTZhZWVtSWstM3REMVRxejUyR3ZYYl9MNzlGWm40cFBBSHoxZ25VMGRQREN2aFJLNk5fdmpYZmsxM3VYanRNQmIwUnBPVEttUk1HdXBNV0JB?oc=5",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "2BHK Apartment | Discovery Gardens, Jabel Ali | AED 85,000 yearly",
    "text": "    Posting as: Owner Property type: Apartment Area/community: Jabel Ali Building/project: Discovery Gardens Price: AED 85000 Bedrooms: 2 Size (sq ft): 1400 Furnishing: Unfurnished Available from: Now Cheques: 4 Images/video: attached Additional details: 2.5 bath | Amenities include Basketball court, Swimming Pool, Childrens Play area and 24/7 Security      https://preview.redd.it/kb1lw629y50i1.jpeg?width=960&amp;format=pjpg&amp;auto=webp&amp;s=ef5ab2fccc82e82a97edc6b0623a67512007e30d     https://preview.redd.it/5vwo0u09y50i1.jpeg?width=960&amp;format=pjpg&amp;auto=webp&amp;s=c4f6f3211be97f2fa",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xq2tfn/2bhk_apartment_discovery_gardens_jabel_ali_aed/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq2iw6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Madinat Dubai Almelaheyah (8/10)",
-   "text": "    Upcoming supply risk: Medium-High 🟡 🔴   As communicated in my previous  post , I will be reviewing Dubai&#39;s 10 most actively traded areas, assessing their exposure to upcoming apartment supply relative to established rental demand.    Now – Madinat Dubai Almelaheyah (MDA)    Between 2022 and 2025, MDA recorded approximately 10K purchase transactions across studios, 1-bedroom and 2-bedroom apartments in the ready and off-plan segments.    1. Historical purchase and rental price dynamics    MDA is an emerging residential market, with limited historical transaction and rental data availabl",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq2iw6/madinat_dubai_almelaheyah_810/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq1zjr",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Personal SPV entity set up - max 4 investors - max 3m-3.5m AED",
-   "text": "   Hey,   I’m looking to bring together  3 solid investors  to pool funds and invest in an off-plan property in Dubai, specifically with  Emaar or DAMAC .   The proposed investment structure would be:    Investors:  4 people in total, including myself.    Property:  Off-plan Emaar or DAMAC development only.    Investment period:  Maximum 5 years.    Holding period:  No sale or exit before the agreed 5-year investment period.    Rental income:  Once the property is completed, handed over and fully tenanted, net rental income will be distributed equally between investors, subject to their owners",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq1zjr/personal_spv_entity_set_up_max_4_investors_max/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq0v56",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "An entire floor of a branded tower in Dubai Silicon: 17 units, fully furnished, AED 21.79M",
-   "text": "   A branded residence in Dubai Silicon Oasis, is available as one deal. All 17 units come fully furnished, so they&#39;re ready to rent from day one.   THE FLOOR  - 17 units, 11,250 sq ft in total  - 2 Studios  - 6 One Bedrooms  - 7 One Bedroom Suites (bedroom + extra room)  - 2 Royal Suites    THE NUMBERS  - Floor list price: AED 23.19M  - Full-floor deal (6% off every unit): AED 21.79M  - Around AED 1,937 per sq ft for branded, furnished stock   THE PAYMENT PLAN  - 20% down payment  - 80% at just 1% a month  - Handover Q4 2029   Or 50% during construction and 50% on handover   THE LIFESTYLE",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq0v56/an_entire_floor_of_a_branded_tower_in_dubai/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq0rnn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Does your UAE bank have to warn you before it changes the fees on your mortgage?",
-   "text": "   Asking because I see people sign a mortgage and assume every fee in the schedule is fixed for 25 years.   Here is what the Central Bank rulebook says in Article 4 (Disclosure and Transparency) of the mortgage regulations:     Banks cannot change the terms and conditions of your loan during its tenor unless you agree in writing.   If commissions or fees change, the bank must notify you at least two months before the change takes effect.   Fees and charges must sit in a separate schedule attached to the loan contract.   You must get the total cost of the loan over its lifetime, and sign each ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq0rnn/does_your_uae_bank_have_to_warn_you_before_it/",
    "date": "2026-11-07",
    "dateApprox": false,
    "language": "en",
