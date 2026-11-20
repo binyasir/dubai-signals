@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-20T07:22:15Z",
+ "generatedAt": "2026-11-20T20:26:16Z",
  "newThisRun": 5,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 10,
-  "reddit": 135,
-  "rss": 105
+  "youtube": 12,
+  "reddit": 131,
+  "rss": 107
  },
  "sources": [
   {
@@ -30,7 +30,7 @@
   {
    "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "error": null
   },
   {
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
@@ -77,6 +77,66 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXdoaGVzR1JSS2pCYUpLLUFBYnhWVko4bU42ZGJWejctYWVGdlFhcE53RFhHZlJRSHE0azV1dHZ3M0thQlY0WG5aTGFhNEdKNmhtekctZTE4bkdWWHpaeXppOVVINlhRcXNNUm1fNEgtMFhrQUU0OElkeC1teDAyWXlQVzZUY25VeWItOFBya2NQOGpoWkwyYzNDdlY3UVBnMlBzOEh4amlZUWdXZWlkRlkyQdIBuAFBVV95cUxNZUlJWHctb0NWcnkxdS16a1pBSUFFQkgtWHVMRE1ILUlVMnZPOFNNeFVPd3N4cTAtRTVIUzNJSlh5T2pac1J1VEF2cUEzZloyaFJvbHNBeTNuaGFWTllyTngyWkNMVGNnU1RXRmx4bXdMSFl4M2FOaVpJUV9WeUV0eFB0SnJKNHBZWnZXdlYtZl9sWWVpOGFzMkUzbnEta2QyWS1NUDkxN1RfSXVNeEotS2toRW53R1d0?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Real Estate Cheaper Than Mumbai, Delhi: Danube Properties - Rediff MoneyWiz",
+   "text": " Dubai Real Estate Cheaper Than Mumbai, Delhi: Danube Properties &nbsp;&nbsp; Rediff MoneyWiz ",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXdoaGVzR1JSS2pCYUpLLUFBYnhWVko4bU42ZGJWejctYWVGdlFhcE53RFhHZlJRSHE0azV1dHZ3M0thQlY0WG5aTGFhNEdKNmhtekctZTE4bkdWWHpaeXppOVVINlhRcXNNUm1fNEgtMFhrQUU0OElkeC1teDAyWXlQVzZUY25VeWItOFBya2NQOGpoWkwyYzNDdlY3UVBnMlBzOEh4amlZUWdXZWlkRlkyQdIBuAFBVV95cUxNZUlJWHctb0NWcnkxdS16a1pBSUFFQkgtWHVMRE1ILUlVMnZPOFNNeFVPd3N4cTAtRTVIUzNJSlh5T2pac1J1VEF2cUEzZloyaFJvbHNBeTNuaGFWTllyTngyWkNMVGNnU1RXRmx4bXdMSFl4M2FOaVpJUV9WeUV0eFB0SnJKNHBZWnZXdlYtZl9sWWVpOGFzMkUzbnEta2QyWS1NUDkxN1RfSXVNeEotS2toRW53R1d0?oc=5",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-20T20:26:16Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%86%d9%88%d9%85%d8%a7-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a-%d9%88%d8%a7%d9%84%d8%ab/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«الدار» تطلق مشروع «نوما» السكني والثقافي على مساحة 88 ألف متر مربع في جزيرة السعديات",
+   "text": "كشفت مجموعة الدار العقارية عن المخطط الرئيسي لمشروع «نوما» NOMA، وهو حي سكني وثقافي متعدد الاستخدامات يمتد على مساحة 88&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%86%d9%88%d9%85%d8%a7-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a-%d9%88%d8%a7%d9%84%d8%ab/",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-20T20:26:15Z"
+  },
+  {
+   "id": "yt:nH4cWHRI84g",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes Abu Dhabi | Real Estate Agency",
+   "title": "Abu Dhabi Real Estate: best areas to live | Brokers After Hours episode 3",
+   "text": "Abu Dhabi real estate, explained by the brokers who work in it every day. In episode 3 of Brokers After Hours, our team walks through the best areas to live in Abu Dhabi in 2026: Saadiyat Island, Jubail Island, Yas Island, Al Raha Beach and Reem Island.\n\nWhether you're moving to Abu Dhabi for work, relocating with your family, or looking for your next home in the city, we cover what each area is really like to live in: the communities worth knowing, villas, townhouses and apartments, typical rent prices, beach access, schools and commute times, and who each area suits best.\n\nInside this episod",
+   "url": "https://www.youtube.com/watch?v=nH4cWHRI84g",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "8 views",
+   "firstSeenAt": "2026-11-20T20:25:47Z"
+  },
+  {
+   "id": "yt:GSglhwnsFvk",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "The Truth About Selling a Dubai Villa Right Now | Tilal Al Ghaf",
+   "text": "Thinking of selling your Dubai villa? The market's shifting, and the sellers who move smartly are the ones getting deals done.\n\nCarl Allsopp sits down with Ryan Vaitkus, Associate Director and our Tilal Al Ghaf specialist, to talk through what's really happening on the ground, and what owners need to know before 2027.\n\nIn this episode:\n\n- Why pricing well now matters more than it has in years\n- The end of 60/40 post-handover payment plans, and what it means for owners with 50% due at handover\n- What interest rates could mean for buyers and sellers\n- Big handovers coming in 2027\n- How a staged ",
+   "url": "https://www.youtube.com/watch?v=GSglhwnsFvk",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "1,125 views",
+   "firstSeenAt": "2026-11-20T20:25:46Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b4%d9%82%d9%82-%d9%81%d9%8a-8-%d9%85%d9%86%d8%a7%d8%b7%d9%82-%d8%a8%d8%af%d8%a8%d9%8a-%d8%a8%d8%a7%d8%aa%d8%aa-%d8%a3%d9%82%d9%84-%d8%aa/",
    "platform": "RSS",
@@ -3761,66 +3821,6 @@
    "title": "4BR Villa | Open to Any Area | Budget AED 5,100,000",
    "text": "   Posting as: Agent  Property type: Villa  Preferred area: Any suitable area  Budget: AED 5,100,000  Bedrooms: 4  Preferred size: G+2  Additional requirements: Serious buyer ready to purchase within 4 days. Only looking for Villa, no townhouses. Looking for a near-handover or ready-to-handover property. Immediate transaction preferred.     &#32; submitted by &#32;   /u/Wild-Tour-9255       [link]   &#32;   [comments]  ",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xq79xw/4br_villa_open_to_any_area_budget_aed_5100000/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq61nu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Home purchase with looming threat of AI and Conflict?",
-   "text": "   AI will likely significantly decrease SWE salaries in few months now.    Locking into a 25 year mortgage seems very risky with this in mind. You either need to aggressively pay off the principal or save a downpayment significant enough so you can still afford payments after replacement.    Sure, salary collapse might not be immediate. Or the year after.    But 15 years from now, you still have half your mortgage left, and you haven&#39;t even begun to build significant equity.    Should these funds be used to save for when you&#39;re irrelevant?  I am quite concerned as I have made a new in",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq61nu/home_purchase_with_looming_threat_of_ai_and/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq47it",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "1BR Apartment | Dubai Sports City | AED 1,280,000",
-   "text": "   Posting as: Agent    Property type: Apartment    Area/community: Dubai Sports City    Building/project: MAG 777    Price: AED 1,280,000    Bedrooms: 1    Size (sq ft): 736    Status: Off-plan    Images/video: Available on request    Additional details: Handover Q2 2027. Semi furnished, with two full floors of amenities. Payment plan is 30% during construction and 70% on handover, and a 20/80 plan may be possible subject to developer approval. DM me for the floor plan and full payment schedule.     &#32; submitted by &#32;   /u/InvestGuide_Dubai       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq47it/1br_apartment_dubai_sports_city_aed_1280000/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq2u19",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Considering buying or selling a property?",
-   "text": "   I work with buyers and sellers every day, so this is my honest read on the market rn. Happy to be argued with, just keep it factual.    How it’s looking rn (Q2 vs Q3 2026)    Dubai deals: about 35,900 in Q2, about 34,500 in Q3. That’s down 38% on last year.  New launches have fallen off a cliff. About 5,000 units in Q3.  Ready (secondary) sales are lowkey waking up, from 8,512 deals in Q2 to 10,055 in Q3.  Prices dipped about 2.5% in each quarter, but they’re flat to slightly up on last year. Not cooked.  Rental deals rose from about 156,200 to about 181,900, though apartment rents in Marin",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq2u19/considering_buying_or_selling_a_property/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq2tfn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "2BHK Apartment | Discovery Gardens, Jabel Ali | AED 85,000 yearly",
-   "text": "    Posting as: Owner Property type: Apartment Area/community: Jabel Ali Building/project: Discovery Gardens Price: AED 85000 Bedrooms: 2 Size (sq ft): 1400 Furnishing: Unfurnished Available from: Now Cheques: 4 Images/video: attached Additional details: 2.5 bath | Amenities include Basketball court, Swimming Pool, Childrens Play area and 24/7 Security      https://preview.redd.it/kb1lw629y50i1.jpeg?width=960&amp;format=pjpg&amp;auto=webp&amp;s=ef5ab2fccc82e82a97edc6b0623a67512007e30d     https://preview.redd.it/5vwo0u09y50i1.jpeg?width=960&amp;format=pjpg&amp;auto=webp&amp;s=c4f6f3211be97f2fa",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq2tfn/2bhk_apartment_discovery_gardens_jabel_ali_aed/",
    "date": "2026-11-07",
    "dateApprox": false,
    "language": "en",
