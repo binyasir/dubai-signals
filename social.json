@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-21T07:15:42Z",
- "newThisRun": 1,
+ "generatedAt": "2026-11-21T19:21:06Z",
+ "newThisRun": 6,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 12,
-  "reddit": 131,
-  "rss": 107
+  "youtube": 14,
+  "reddit": 126,
+  "rss": 110
  },
  "sources": [
   {
@@ -30,7 +30,7 @@
   {
    "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
    "ok": true,
-   "items": 10,
+   "items": 12,
    "error": null
   },
   {
@@ -55,28 +55,103 @@
    "source": "r/expats",
    "ok": false,
    "items": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 9,
+   "error": null
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 13,
+   "items": 14,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 10,
+   "items": 11,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3E3cFR5Qmw1WTlWX1RnLTNobjlLUmxVc0Z5OE9jTDV5YTMzNWR5SzRmVEZLLU1SUjlRTHBkVlJ3cG42S2FVVkN1blk3UmdBVTB5Z0tFSlJ6R215TGFyZUFCc0E1WS1hZTIxTXhjT0dQZGhVdlJlUk1DbDMyMjFXcmpObDhyZGVJZGVMb1ZNWjZNd2pvMDZRdzREZUx3Mm9fc1BrUjln0gGoAUFVX3lxTE1xMDVLcUR1ZHppc0lMVmo0VFVoRW85c0RXTmZsa2RQV2R2WHJaV1EydjBLSHFSbmtHNElGTk9HT2tvWnNBY2c3SHFSOHllX1RZbVF1TlRNTzNEdUYySzl1OHhPbEVGZThKZ0tUT0lJQW5hNlloWXRoRFFhbjdnUnNKZ2Q0TzBxUU9UcDNZY1E2TVByWEZjSGpUNVFsYkVBWlZkNHN6TVBBaA?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "'Dubai's real estate is cheaper than Mumbai And Delhi' - Rediff",
+   "text": " 'Dubai's real estate is cheaper than Mumbai And Delhi' &nbsp;&nbsp; Rediff ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3E3cFR5Qmw1WTlWX1RnLTNobjlLUmxVc0Z5OE9jTDV5YTMzNWR5SzRmVEZLLU1SUjlRTHBkVlJ3cG42S2FVVkN1blk3UmdBVTB5Z0tFSlJ6R215TGFyZUFCc0E1WS1hZTIxTXhjT0dQZGhVdlJlUk1DbDMyMjFXcmpObDhyZGVJZGVMb1ZNWjZNd2pvMDZRdzREZUx3Mm9fc1BrUjln0gGoAUFVX3lxTE1xMDVLcUR1ZHppc0lMVmo0VFVoRW85c0RXTmZsa2RQV2R2WHJaV1EydjBLSHFSbmtHNElGTk9HT2tvWnNBY2c3SHFSOHllX1RZbVF1TlRNTzNEdUYySzl1OHhPbEVGZThKZ0tUT0lJQW5hNlloWXRoRFFhbjdnUnNKZ2Q0TzBxUU9UcDNZY1E2TVByWEZjSGpUNVFsYkVBWlZkNHN6TVBBaA?oc=5",
+   "date": "2026-11-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-21T19:21:06Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%b9%d9%85%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d9%8a%d8%b7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%82%d8%af-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%b1/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "عمولة الوسيط العقاري في دبي قد تتجاوز راتب رئيس تنفيذي",
+   "text": "تقرير متخصص يكشف أن عمولات الوسطاء العقاريين في دبي قد تصل إلى 81.7 ألف دولار شهرياً، مقابل رواتب تبلغ نحو&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%b9%d9%85%d9%88%d9%84%d8%a9-%d8%a7%d9%84%d9%88%d8%b3%d9%8a%d8%b7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%82%d8%af-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%b1/",
+   "date": "2026-11-21",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-21T19:21:05Z"
+  },
+  {
+   "id": "yt:CAz9aeHrC_U",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes Abu Dhabi | Real Estate Agency",
+   "title": "Reem Island Abu Dhabi: The AED 200M penthouse next door | Abu Dhabi Real Estate",
+   "text": "Reem Island, Abu Dhabi, and an AED 200 million penthouse next door.\n\nRight now, Reem is one of the more accessible places to live in central Abu Dhabi. That's about to change. Across the water on Al Maryah Island, the Four Seasons and Waldorf Astoria are coming, opposite the Galleria Mall.\n\nWhen a penthouse is listed for that kind of number next door, it says a lot about where this part of the city is heading.\n\nFrom episode 3 of Brokers After Hours: the best areas to live in Abu Dhabi. Watch the Reem and Al Maryah part here:\nhttps://www.youtube.com/watch?v=nH4cWHRI84g&t=2167s\n\n#ReemIsland #AlM",
+   "url": "https://www.youtube.com/shorts/CAz9aeHrC_U",
+   "date": "2026-11-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "41 views",
+   "firstSeenAt": "2026-11-21T19:20:31Z"
+  },
+  {
+   "id": "yt:uTCyMXt_AJ4",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes Abu Dhabi | Real Estate Agency",
+   "title": "Living in Abu Dhabi: Khalifa City vs Raha Beach vs Fay Alreeman | Abu Dhabi Real Estate",
+   "text": "Living in Abu Dhabi: three years, three homes. From a studio to a four-bedroom villa in Fay Alreeman, one of our brokers shares what it's really like to live in Khalifa City, Raha Beach and Fay Alreeman, and why the right area changes as life does.\n\nFrom episode 3 of Brokers After Hours: the best areas to live in Abu Dhabi. Watch the full episode here:\nhttps://www.youtube.com/watch?v=nH4cWHRI84g\n\n#LivingInAbuDhabi #MovingToAbuDhabi #AbuDhabiRealEstate #BrokersAfterHours",
+   "url": "https://www.youtube.com/shorts/uTCyMXt_AJ4",
+   "date": "2026-11-21",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "17 views",
+   "firstSeenAt": "2026-11-21T19:20:31Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM05sQV9hVENTUTNMdmEzVXAtcVo2SEdmUzNKOE54N2MtMDZ2b2hwdzk4UEczdzRyd2tFOHFQd2xyRVlKWDMySkhVM1NzUkx1RmhNcEFzQWpFV09nem5RZHh4aURRcV9VNEtvdnRPSUdteTQ2MVZBN2d1SzZRNm1IeFlNVXZ5NUIwb3R3bHAyUEVIa2RNSFY1TTZfalI5MzU5S18wWEtXbkV0eFJIczFuT0xuQW12QWFXYTFhWUtXVnlGaWlQMHhVcG5RVWlIYnZySTlMSXhxb2o4ZFJ6YTlZQU16WU4wMV85SWRya0FfQlhPeG1xOEhMejZR0gH_AUFVX3lxTFBpUG1SU21BTG5JTW9YMThxY0pwQ2l6Y1BLSngyXzFqX3c2dm11VTlzRVJDRlhSd1BCSVRRR2ZCYXF4NWtBeWxPRlRSbVdKbkI0Wk5TZzlOLTRWdFlVb3lRY1RpRHNfUF9feHE5dnFqWUIzOVo2UURCdFBRRGxna3pFdVZVR0l6UDk0azRuXzNBVkhMc0V3cE40NTB1UE5Xd3FNTjBjTGU3NG9rRWp0Q1NreDk3ZHpQSDJzWUtHZWpDemxYUldlcHZUM1hvWHRkcEVpVDRHYTRibUZxYmMzZlpMckFJSndkdGY4d19LYUhUSzNIbDN2N0FYRmE3UHUxTQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property prices less than half of Mumbai's, set to double in 4-5 years: Danube Group chairman - Moneycontrol.com",
+   "text": " Dubai property prices less than half of Mumbai's, set to double in 4-5 years: Danube Group chairman &nbsp;&nbsp; Moneycontrol.com ",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM05sQV9hVENTUTNMdmEzVXAtcVo2SEdmUzNKOE54N2MtMDZ2b2hwdzk4UEczdzRyd2tFOHFQd2xyRVlKWDMySkhVM1NzUkx1RmhNcEFzQWpFV09nem5RZHh4aURRcV9VNEtvdnRPSUdteTQ2MVZBN2d1SzZRNm1IeFlNVXZ5NUIwb3R3bHAyUEVIa2RNSFY1TTZfalI5MzU5S18wWEtXbkV0eFJIczFuT0xuQW12QWFXYTFhWUtXVnlGaWlQMHhVcG5RVWlIYnZySTlMSXhxb2o4ZFJ6YTlZQU16WU4wMV85SWRya0FfQlhPeG1xOEhMejZR0gH_AUFVX3lxTFBpUG1SU21BTG5JTW9YMThxY0pwQ2l6Y1BLSngyXzFqX3c2dm11VTlzRVJDRlhSd1BCSVRRR2ZCYXF4NWtBeWxPRlRSbVdKbkI0Wk5TZzlOLTRWdFlVb3lRY1RpRHNfUF9feHE5dnFqWUIzOVo2UURCdFBRRGxna3pFdVZVR0l6UDk0azRuXzNBVkhMc0V3cE40NTB1UE5Xd3FNTjBjTGU3NG9rRWp0Q1NreDk3ZHpQSDJzWUtHZWpDemxYUldlcHZUM1hvWHRkcEVpVDRHYTRibUZxYmMzZlpMckFJSndkdGY4d19LYUhUSzNIbDN2N0FYRmE3UHUxTQ?oc=5",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-21T19:21:06Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXdoaGVzR1JSS2pCYUpLLUFBYnhWVko4bU42ZGJWejctYWVGdlFhcE53RFhHZlJRSHE0azV1dHZ3M0thQlY0WG5aTGFhNEdKNmhtekctZTE4bkdWWHpaeXppOVVINlhRcXNNUm1fNEgtMFhrQUU0OElkeC1teDAyWXlQVzZUY25VeWItOFBya2NQOGpoWkwyYzNDdlY3UVBnMlBzOEh4amlZUWdXZWlkRlkyQdIBuAFBVV95cUxNZUlJWHctb0NWcnkxdS16a1pBSUFFQkgtWHVMRE1ILUlVMnZPOFNNeFVPd3N4cTAtRTVIUzNJSlh5T2pac1J1VEF2cUEzZloyaFJvbHNBeTNuaGFWTllyTngyWkNMVGNnU1RXRmx4bXdMSFl4M2FOaVpJUV9WeUV0eFB0SnJKNHBZWnZXdlYtZl9sWWVpOGFzMkUzbnEta2QyWS1NUDkxN1RfSXVNeEotS2toRW53R1d0?oc=5",
    "platform": "RSS",
@@ -3746,81 +3821,6 @@
    "title": "Office | Sheikh Zayed Road | AED 465,640/year",
    "text": "   &#x200B;   Posting as: Agent   Property type: Commercial Office   Area/community: Sheikh Zayed Road   Building/project: Confidential   Price: AED 465,640/year   Bedrooms: N/A   Size (sq ft): 3,326   Furnishing: Unfurnished   Available from: Not specified   Cheques: 4   Images/video: Available on request   Additional details: Partitioned office on the 9th floor with sea view. 24-hour security and maintenance. One free reserved parking space per 1,000 sq. ft. rented. Utilities included; electricity payable directly to DEWA. Security deposit: 10%. Agency fee: 10%. 5% VAT applicable. Company cr",
    "url": "https://www.reddit.com/r/dubairealestate/comments/1xqka7n/office_sheikh_zayed_road_aed_465640year/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xqgcbn",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Any Group buy or Shared Property Monitor Access Availabale?",
-   "text": "   Hi all,   I’m a broker in Dubai running a small brokerage. I’m looking for access to  Property Monitor  for transaction data, price trends and comparables. A full individual subscription is hard to justify at our size right now.   Is anyone here:     Running a  group buy , or open to splitting a  multi-seat or team plan ?   At a small agency or freelance setup that has  unused seats  on its subscription?       &#32; submitted by &#32;   /u/Maigamer       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xqgcbn/any_group_buy_or_shared_property_monitor_access/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xqbpan",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Advice for training agent?",
-   "text": "   Hi, I&#39;m a 19 year old and I&#39;m training with a real estate company to become an agent, it&#39;s not a brokerage I would become an in-house agent since the company owns all the buildings, I&#39;m still in my first week of training helping manage a building, I&#39;m excited and scared at the same time, this will be my first job ever!, I have alot of ambitions but I&#39;m also realistic I wanna help my family financially and help pay my own college tuition, the company won&#39;t give me a salary and the commission rate is about 1 percent and it&#39;s only rentals, I just want any advice",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xqbpan/advice_for_training_agent/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq9l9r",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Dubai Hills Estate, Jumeirah Golf Estates, Al Barari , Tilal Al Ghaf",
-   "text": "   A closer look at selected luxury villa opportunities across some of Dubai’s most sought-after residential communities.   Whether you’re searching for your next family home, upgrading your lifestyle or evaluating your next property investment, here’s a selection of available options across different price points, configurations and communities.   ⸻     DUBAI HILLS ESTATE     Starting from AED 8.8M      Sidra II — 4BR | BUA: 3,523 sqft | Plot: 4,392 sqft — AED 8.8M     Sidra I — 4BR | BUA: 3,500 sqft | Plot: 5,700 sqft — AED 9.75M     Sidra III — 4BR | BUA: 3,500 sqft | Plot: 5,800 sqft — AED",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq9l9r/dubai_hills_estate_jumeirah_golf_estates_al/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq7wg6",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Studio Apt | Azizi Riviera 30 | AED 650,000",
-   "text": "   Posting as: Agent  Property type: Studio  Area/community: Meydan One  Building/project: Azizi Riviera 30  Price: AED 650,000  Bedrooms: 1  Size (sq ft): 367 sq ft  Status: Ready  Images/video: Attached  Additional details:     &#32; submitted by &#32;   /u/Ray-7StatesDubai       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq7wg6/studio_apt_azizi_riviera_30_aed_650000/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
-  },
-  {
-   "id": "rd:t3_1xq79xw",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "4BR Villa | Open to Any Area | Budget AED 5,100,000",
-   "text": "   Posting as: Agent  Property type: Villa  Preferred area: Any suitable area  Budget: AED 5,100,000  Bedrooms: 4  Preferred size: G+2  Additional requirements: Serious buyer ready to purchase within 4 days. Only looking for Villa, no townhouses. Looking for a near-handover or ready-to-handover property. Immediate transaction preferred.     &#32; submitted by &#32;   /u/Wild-Tour-9255       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xq79xw/4br_villa_open_to_any_area_budget_aed_5100000/",
    "date": "2026-11-07",
    "dateApprox": false,
    "language": "en",
