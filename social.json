@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-21T19:21:06Z",
- "newThisRun": 6,
+ "generatedAt": "2026-11-22T06:56:06Z",
+ "newThisRun": 2,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 14,
-  "reddit": 126,
-  "rss": 110
+  "reddit": 125,
+  "rss": 111
  },
  "sources": [
   {
@@ -30,7 +30,7 @@
   {
    "source": "YouTube betterhomes Abu Dhabi | Real Estate Agency",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -66,17 +66,32 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 11,
+   "items": 9,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%b0%d8%a7-%d8%a2%d8%b1%d8%aa%d8%b3-%d8%af%d9%8a%d8%b3%d8%aa%d8%b1%d9%8a%d9%83%d8%aa-%d9%85%d8%ac%d9%85%d8%b9-%d8%b4%d9%82%d9%82-%d8%ac%d8%af%d9%8a%d8%af-%d8%b6%d9%85%d9%86-%d8%aa/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«ذا آرتس ديستريكت» مجمع شقق جديد ضمن «تلال بن غاطي» بدبي بأسعار تبدأ من 143 ألف دولار",
+   "text": "كشفت شركة بن غاطي للتطوير العقاري عن مشروع مجمع سكني جديد يحمل اسم «ذا آرتس ديستريكت» The Arts District by&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%b0%d8%a7-%d8%a2%d8%b1%d8%aa%d8%b3-%d8%af%d9%8a%d8%b3%d8%aa%d8%b1%d9%8a%d9%83%d8%aa-%d9%85%d8%ac%d9%85%d8%b9-%d8%b4%d9%82%d9%82-%d8%ac%d8%af%d9%8a%d8%af-%d8%b6%d9%85%d9%86-%d8%aa/",
+   "date": "2026-11-22",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-22T06:56:05Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3E3cFR5Qmw1WTlWX1RnLTNobjlLUmxVc0Z5OE9jTDV5YTMzNWR5SzRmVEZLLU1SUjlRTHBkVlJ3cG42S2FVVkN1blk3UmdBVTB5Z0tFSlJ6R215TGFyZUFCc0E1WS1hZTIxTXhjT0dQZGhVdlJlUk1DbDMyMjFXcmpObDhyZGVJZGVMb1ZNWjZNd2pvMDZRdzREZUx3Mm9fc1BrUjln0gGoAUFVX3lxTE1xMDVLcUR1ZHppc0lMVmo0VFVoRW85c0RXTmZsa2RQV2R2WHJaV1EydjBLSHFSbmtHNElGTk9HT2tvWnNBY2c3SHFSOHllX1RZbVF1TlRNTzNEdUYySzl1OHhPbEVGZThKZ0tUT0lJQW5hNlloWXRoRFFhbjdnUnNKZ2Q0TzBxUU9UcDNZY1E2TVByWEZjSGpUNVFsYkVBWlZkNHN6TVBBaA?oc=5",
    "platform": "RSS",
@@ -3811,21 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-13T06:50:54Z"
-  },
-  {
-   "id": "rd:t3_1xqka7n",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Office | Sheikh Zayed Road | AED 465,640/year",
-   "text": "   &#x200B;   Posting as: Agent   Property type: Commercial Office   Area/community: Sheikh Zayed Road   Building/project: Confidential   Price: AED 465,640/year   Bedrooms: N/A   Size (sq ft): 3,326   Furnishing: Unfurnished   Available from: Not specified   Cheques: 4   Images/video: Available on request   Additional details: Partitioned office on the 9th floor with sea view. 24-hour security and maintenance. One free reserved parking space per 1,000 sq. ft. rented. Utilities included; electricity payable directly to DEWA. Security deposit: 10%. Agency fee: 10%. 5% VAT applicable. Company cr",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xqka7n/office_sheikh_zayed_road_aed_465640year/",
-   "date": "2026-11-07",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T06:08:03Z"
   }
  ]
 }
