@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-22T19:45:08Z",
- "newThisRun": 6,
+ "generatedAt": "2026-11-23T07:45:02Z",
+ "newThisRun": 3,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 14,
-  "reddit": 123,
-  "rss": 113
+  "reddit": 122,
+  "rss": 114
  },
  "sources": [
   {
@@ -60,7 +60,7 @@
   {
    "source": "المصدر العقاري",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "error": null
   },
   {
@@ -72,11 +72,41 @@
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 10,
+   "items": 12,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%8a%d8%a7%d8%b1%d8%af%d9%84%d8%a7%d9%86%d8%af%d8%b2-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«بيوند» تطلق مشروع «ياردلاندز» في دبي بـ21.8 مليار دولار و25 ألف وحدة سكنية",
+   "text": "أطلقت شركة بيوند للتطوير العقاري BEYOND Developments مشروع ياردلاندز YARDLANDS في دبي، بقيمة إجمالية تبلغ نحو 21.8 مليار دولار (80&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%8a%d8%a7%d8%b1%d8%af%d9%84%d8%a7%d9%86%d8%af%d8%b2-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a/",
+   "date": "2026-11-23",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-23T07:45:01Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/home-finance/%d8%a8%d9%86%d9%88%d9%83-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ae/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "بنوك في دبي تتيح تمويل العقارات على الخارطة قبل اكتمال البناء.. ما الشروط؟",
+   "text": "تتيح بنوك عاملة في دولة الإمارات الحصول على تمويل عقاري لشراء شقق وفلل على الخارطة في دبي قبل اكتمال أعمال&#8230;",
+   "url": "https://masdarak.com/home-finance/%d8%a8%d9%86%d9%88%d9%83-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%aa%d8%aa%d9%8a%d8%ad-%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ae/",
+   "date": "2026-11-23",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-23T07:45:01Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2dMQWxDRXpVZ3BMaFYxaWFOcjJoMXVralQ2a3cwRk9RWDJMcGhvYUJ2QTQ4eHZTMWhZZklUeWZLeHlWbUNhbTU2WTNVS0QwUUlPWi1Hd3NrdjhjVXdDUnBVX3lrMEF6TUk3UVREd3lhMl9LSlY3WmF2RTVRd19iSG9pYjBjZFM4LVNhV1h6dmktSHpxWkRLYU0yMndIYlFXOEE?oc=5",
    "platform": "RSS",
@@ -3796,36 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-08T22:10:15Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%b1%d9%8a%d8%a8%d9%88%d8%b1%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-293-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«ريبورتاج السعودية» تستثمر 293 مليون دولار في مشاريع عقارية بالرياض",
-   "text": "أعلنت شركة ريبورتاج السعودية للتطوير العقاري Reportage Saudi Arabia أن استثماراتها في العاصمة السعودية الرياض تبلغ نحو 293 مليون دولار&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%b1%d9%8a%d8%a8%d9%88%d8%b1%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%aa%d8%b3%d8%aa%d8%ab%d9%85%d8%b1-293-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84/",
-   "date": "2026-11-08",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T13:30:23Z"
-  },
-  {
-   "id": "rd:t3_1xqw5fk",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/DubaiRealEstate",
-   "title": "Selling a 2BR + study in The Greens - hold or sell in this market?",
-   "text": "   Looking for honest views from people who know Dubai’s established communities.   An owner I’m working with has a 2BR + study in The Greens (Emaar, ready community near Internet City). The unit will be vacant in a few months, and he’s considering selling if the price is right rather than re renting.   From the DLD data, The Greens 2BRs are up around 7% year on year, transactions are active, and vacant units in these older Emaar communities seem to sell at a clear premium over tenanted ones.   For those who invest in or specialize in The Greens / Views / similar established communities - is n",
-   "url": "https://www.reddit.com/r/dubairealestate/comments/1xqw5fk/selling_a_2br_study_in_the_greens_hold_or_sell_in/",
-   "date": "2026-11-08",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-08T13:30:00Z"
   }
  ]
 }
