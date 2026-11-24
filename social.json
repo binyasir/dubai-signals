@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-23T23:57:41Z",
- "newThisRun": 9,
+ "generatedAt": "2026-11-24T09:58:52Z",
+ "newThisRun": 6,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 16,
+   "items": 35,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 9,
+   "items": 7,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%b2%d8%a7%d9%8a%d8%af-%d9%81%d8%b1%d8%b5-%d8%a7%d8%b3%d8%aa%d8%a6%d8%ac%d8%a7%d8%b1-%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a3%d9%82%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "تزايد فرص استئجار شقق في دبي بأسعار أقل في 12 منطقة",
+   "text": "أظهرت دراسة حديثة حول سوق الإيجارات في دبي فرصاً أفضل للمستأجرين الباحثين عن شقق سكنية بأسعار أقل، حيث انخفض متوسط&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d8%b2%d8%a7%d9%8a%d8%af-%d9%81%d8%b1%d8%b5-%d8%a7%d8%b3%d8%aa%d8%a6%d8%ac%d8%a7%d8%b1-%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a3%d9%82%d9%84/",
+   "date": "2026-11-24",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-24T09:58:51Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%b7%d8%b1%d8%ad-216-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a8%d8%a7%d9%84%d9%85-%d8%b3%d9%86%d8%aa%d8%b1%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«نخيل» تطرح 216 وحدة سكنية في «بالم سنترال» بنخلة جبل علي بأسعار تبدأ من 681 ألف دولار",
+   "text": "أعلنت شركة «نخيل»، التابعة لدبي القابضة للعقارات، إطلاق 216 وحدة سكنية جديدة على الواجهة البحرية ضمن مشروع «بالم سنترال برايفت&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d9%86%d8%ae%d9%8a%d9%84-%d8%aa%d8%b7%d8%b1%d8%ad-216-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a8%d8%a7%d9%84%d9%85-%d8%b3%d9%86%d8%aa%d8%b1%d8%a7/",
+   "date": "2026-11-24",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-24T09:58:51Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVFqNmdLSE9STVR6cG4tZFNTQzdUTTNBcU04Q2dpOVBqTTJnTEtlV1d5NXIwcFMyQXpxbThrZjRZTHFqWTZnNTBmWU5fRVBUTGd4a3I5S3JmMTgyUGRWdkxPVGxNckFaRTNvQTNjVVc5ZElvUnVQc2hZaGJMak9ybllwcGhpakQ0VUw1SkMxdEgydXFJVFZhcnp6Zkh2Vl84OHpVVGM4QXFHVUU3YVE?oc=5",
    "platform": "RSS",
@@ -378,6 +408,21 @@
    "firstSeenAt": "2026-11-21T19:20:31Z"
   },
   {
+   "id": "rs:https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm5VRDRhakMwSGNOMUJDQl9CSnNLMzJGdTJjYVdTVmZfa0lSZlZ3dkZGa2RrU3hZbUdERDV1UzdkWWlKVDRGVk5BR1lSVkp0dGVXZGg2ZXJBcmxOLVJkSG1ZYkhMNkhMc29MRGpzUjBDSndWRm1MNzc3U2VmOE5tUE90UUFfOHRGNVhGM0FVb2RfQTg4Y3Rod0Y4WC1Vc0tQLUhPX0xuWlVZVWRkbTB4b2MzUdIBuAFBVV95cUxPNkdTTXBrQjY5Wm1jZnh1YV92eU1Pa21MeU54TEFFMnpBM2xVc21WRmRjN2k4Yk0zRW8yNThuQkFCR3VXamRObm9wRG5WNXFpaDF4M3JpRmtSbjFKVkJHaVlmTmVlOFpoclc5YVduc3l0QjVOTkxCRVpwZXF2cjFKdURiUk42enJ6LThSX0ZmaXVMUVZDX1hma3VKX2JvUFF0bmlkMUFnVlVUT0Jjb2VmVWI3ZjhONnMx?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market sees rise in ready-home sales as prices stabilise - Consultancy-me.com",
+   "text": " Dubai property market sees rise in ready-home sales as prices stabilise &nbsp;&nbsp; Consultancy-me.com ",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUm5VRDRhakMwSGNOMUJDQl9CSnNLMzJGdTJjYVdTVmZfa0lSZlZ3dkZGa2RrU3hZbUdERDV1UzdkWWlKVDRGVk5BR1lSVkp0dGVXZGg2ZXJBcmxOLVJkSG1ZYkhMNkhMc29MRGpzUjBDSndWRm1MNzc3U2VmOE5tUE90UUFfOHRGNVhGM0FVb2RfQTg4Y3Rod0Y4WC1Vc0tQLUhPX0xuWlVZVWRkbTB4b2MzUdIBuAFBVV95cUxPNkdTTXBrQjY5Wm1jZnh1YV92eU1Pa21MeU54TEFFMnpBM2xVc21WRmRjN2k4Yk0zRW8yNThuQkFCR3VXamRObm9wRG5WNXFpaDF4M3JpRmtSbjFKVkJHaVlmTmVlOFpoclc5YVduc3l0QjVOTkxCRVpwZXF2cjFKdURiUk42enJ6LThSX0ZmaXVMUVZDX1hma3VKX2JvUFF0bmlkMUFnVlVUT0Jjb2VmVWI3ZjhONnMx?oc=5",
+   "date": "2026-11-20",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-24T09:58:51Z"
+  },
+  {
    "id": "rs:https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM05sQV9hVENTUTNMdmEzVXAtcVo2SEdmUzNKOE54N2MtMDZ2b2hwdzk4UEczdzRyd2tFOHFQd2xyRVlKWDMySkhVM1NzUkx1RmhNcEFzQWpFV09nem5RZHh4aURRcV9VNEtvdnRPSUdteTQ2MVZBN2d1SzZRNm1IeFlNVXZ5NUIwb3R3bHAyUEVIa2RNSFY1TTZfalI5MzU5S18wWEtXbkV0eFJIczFuT0xuQW12QWFXYTFhWUtXVnlGaWlQMHhVcG5RVWlIYnZySTlMSXhxb2o4ZFJ6YTlZQU16WU4wMV85SWRya0FfQlhPeG1xOEhMejZR0gH_AUFVX3lxTFBpUG1SU21BTG5JTW9YMThxY0pwQ2l6Y1BLSngyXzFqX3c2dm11VTlzRVJDRlhSd1BCSVRRR2ZCYXF4NWtBeWxPRlRSbVdKbkI0Wk5TZzlOLTRWdFlVb3lRY1RpRHNfUF9feHE5dnFqWUIzOVo2UURCdFBRRGxna3pFdVZVR0l6UDk0azRuXzNBVkhMc0V3cE40NTB1UE5Xd3FNTjBjTGU3NG9rRWp0Q1NreDk3ZHpQSDJzWUtHZWpDemxYUldlcHZUM1hvWHRkcEVpVDRHYTRibUZxYmMzZlpMckFJSndkdGY4d19LYUhUSzNIbDN2N0FYRmE3UHUxTQ?oc=5",
    "platform": "RSS",
    "channel": "News",
@@ -481,6 +526,21 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-20T07:22:15Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbExPSXZ2NnJ6VVlpS1JwRWtBbmpVSmVzVW5veGtMc3dvRHdJcTdKdDkzMzJ2dkVabUxKalZ4YVFFUmxhN2tONW14TGlFY05vYnEtejZUSUdXZWd5NFREOGJ1Y19PUEtmbndXYTU3VHp0dVFjcS1TNEllbUhmNzR0SWZBczBNUkRDUHVva1lmM0lKLVE3eGdSdnk5R2w2UnZwQnBVQWF1NmFlZW1Jay0zdEQxVHF6NTJHdlhiX0w3OUZabjRwUEFIejFnblUwZFBEQ3ZoUks2Tl92alhmazEzdVhqdE1CYjBScE9US21STUd1cE1XQkHSAfYBQVVfeXFMT2xMT0l2djZyelVZaUtScEVrQW5qVUplc1Vub3hrTHN3b0R3SXE3SnQ5MzMydnZFWm1MSmpWeGFRRVJsYTdrTjVteExpRWNOb2JxLXo2VElHV2VneTRURDhidWNfT1BLZm53V2E1N1R6dHVRY3EtUzRJZW1IZjc0dElmQXMwTVJEQ1B1b2tZZjNJSi1RN3hnUnZ5OUdsNlJ2cEJwVUFhdTZhZWVtSWstM3REMVRxejUyR3ZYYl9MNzlGWm40cFBBSHoxZ25VMGRQREN2aFJLNk5fdmpYZmsxM3VYanRNQmIwUnBPVEttUk1HdXBNV0JB?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property transactions reach Dh2 billion in a day, with 713 deals recorded by the Land Department - Emirates 24|7",
+   "text": " Dubai property transactions reach Dh2 billion in a day, with 713 deals recorded by the Land Department &nbsp;&nbsp; Emirates 24|7 ",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbExPSXZ2NnJ6VVlpS1JwRWtBbmpVSmVzVW5veGtMc3dvRHdJcTdKdDkzMzJ2dkVabUxKalZ4YVFFUmxhN2tONW14TGlFY05vYnEtejZUSUdXZWd5NFREOGJ1Y19PUEtmbndXYTU3VHp0dVFjcS1TNEllbUhmNzR0SWZBczBNUkRDUHVva1lmM0lKLVE3eGdSdnk5R2w2UnZwQnBVQWF1NmFlZW1Jay0zdEQxVHF6NTJHdlhiX0w3OUZabjRwUEFIejFnblUwZFBEQ3ZoUks2Tl92alhmazEzdVhqdE1CYjBScE9US21STUd1cE1XQkHSAfYBQVVfeXFMT2xMT0l2djZyelVZaUtScEVrQW5qVUplc1Vub3hrTHN3b0R3SXE3SnQ5MzMydnZFWm1MSmpWeGFRRVJsYTdrTjVteExpRWNOb2JxLXo2VElHV2VneTRURDhidWNfT1BLZm53V2E1N1R6dHVRY3EtUzRJZW1IZjc0dElmQXMwTVJEQ1B1b2tZZjNJSi1RN3hnUnZ5OUdsNlJ2cEJwVUFhdTZhZWVtSWstM3REMVRxejUyR3ZYYl9MNzlGWm40cFBBSHoxZ25VMGRQREN2aFJLNk5fdmpYZmsxM3VYanRNQmIwUnBPVEttUk1HdXBNV0JB?oc=5",
+   "date": "2026-11-19",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-24T09:58:51Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkM5YzhJLUdnNHB4dnhNV2lYNmJxLVpGZzVNOUxUcENqUVFmdzVSTXBSd3RJNGZWdXRPajl6dGRqRFczamZGVXM2bGtWVmdqTDFEZVdFUjd6eVBVSndCUThFUWNVMDd2Uk1Mb1JOTWJ3N3A3b3d0X0piRDV1NzY0QzI4R1FwR25SZE5uNVo0M0p2Q3RpWU0tMjZaU0VEQ0ZfNTFCZjZDTE5EVlVMVFNGLUJfOHpBUl9sU2M3NGZB?oc=5",
@@ -3766,66 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-09T22:25:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZzFHX0t6TllvVy1BUlV4TTE1ZTRhemxCTU9qWTQ3Z0pkcHMxTGN2WFRxOXhwOHp4MlJPZThDR1lDMWplQUpUYVEwOTZETUE?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "18 % نمو مبيعات عقارات دبي إلى 34.8 مليار درهم في أكتوبر - البيان",
-   "text": " 18 % نمو مبيعات عقارات دبي إلى 34.8 مليار درهم في أكتوبر &nbsp;&nbsp; البيان ",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZzFHX0t6TllvVy1BUlV4TTE1ZTRhemxCTU9qWTQ3Z0pkcHMxTGN2WFRxOXhwOHp4MlJPZThDR1lDMWplQUpUYVEwOTZETUE?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMikgRBVV95cUxNWXg1QnV0a1JELTJkRVJ5Wk40dHJQQjJEWUY0WlpEYTFRcXE2c2p1cDE2Ql9XUXBMRFo1aGx6bi03NE5ydU4xZlZ1LUNZNFhCMWVOUXdicF9HZEpFaUVSVC1OdXdIY1RtMi0zUGJhRDREQnlSYTl0dm9DeUlTdkpONmw4M3VnV3ptSVVzM1pXZGR4TzE5aWY1akFEOVAyaXRKTkg2SUZzV1VSekNBUWJCNmRTd0Q3S1BfZDd5M19JQkdQb0xHWXRUNkFGaGZxUVBMXzF1TGtRNXQxQ3VVWU9rRmdBX1c3QW55dmRQeXRKVkNDblhBcFkwUlhRNllTOW1lYVNyTU9YbGNlWDdtbGlRcWNwRGxaT2ZjT2VDczhjeTRNQXdBWTlFZGowME8yNWRLVFV1M09uSU1Zb3dHUFphWEpEZmJGZGk2WWd6cE91RVJnNXo1eE1CVWE1cFJMZjFaTEpzTC0tclJfVkZpcjdrSlBjZUh6alRxWTV6bUFBQzU0dmxhWTBSTkNldDFlUWs2cjFWcm02RWItYWR4T3F3eG5zOEttOW5vM1AzLV9ZbFZJVF9lcjg0OWVFRXBHUHhfREI5T0lMbVNUMHJkcHM1REFkX1NNMXRFU011RjVpeWpncUpKOVEwcVFGT1FIcXBHVzNtaWFMX1BUR3lzMG9JbkJ1Ylc2SDJueUxNcHo5VVVDZw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "20 إلى 60 ألف درهم متوسط رواتب مقترضي عقارات دبي - صحيفة الخليج",
-   "text": " 20 إلى 60 ألف درهم متوسط رواتب مقترضي عقارات دبي &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNWXg1QnV0a1JELTJkRVJ5Wk40dHJQQjJEWUY0WlpEYTFRcXE2c2p1cDE2Ql9XUXBMRFo1aGx6bi03NE5ydU4xZlZ1LUNZNFhCMWVOUXdicF9HZEpFaUVSVC1OdXdIY1RtMi0zUGJhRDREQnlSYTl0dm9DeUlTdkpONmw4M3VnV3ptSVVzM1pXZGR4TzE5aWY1akFEOVAyaXRKTkg2SUZzV1VSekNBUWJCNmRTd0Q3S1BfZDd5M19JQkdQb0xHWXRUNkFGaGZxUVBMXzF1TGtRNXQxQ3VVWU9rRmdBX1c3QW55dmRQeXRKVkNDblhBcFkwUlhRNllTOW1lYVNyTU9YbGNlWDdtbGlRcWNwRGxaT2ZjT2VDczhjeTRNQXdBWTlFZGowME8yNWRLVFV1M09uSU1Zb3dHUFphWEpEZmJGZGk2WWd6cE91RVJnNXo1eE1CVWE1cFJMZjFaTEpzTC0tclJfVkZpcjdrSlBjZUh6alRxWTV6bUFBQzU0dmxhWTBSTkNldDFlUWs2cjFWcm02RWItYWR4T3F3eG5zOEttOW5vM1AzLV9ZbFZJVF9lcjg0OWVFRXBHUHhfREI5T0lMbVNUMHJkcHM1REFkX1NNMXRFU011RjVpeWpncUpKOVEwcVFGT1FIcXBHVzNtaWFMX1BUR3lzMG9JbkJ1Ylc2SDJueUxNcHo5VVVDZw?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:55Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a7%d8%b3%d8%aa%d8%a8%d9%8a%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d8%a8%d9%83%d9%88-%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d9%85%d8%af%d8%ae%d8%b1%d8%a7%d8%aa-%d9%8a%d8%b9%d9%8a%d9%82-62-%d9%85/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "استبيان «بريبكو»: نقص المدخرات يعيق 62% من الراغبين بالاستثمار في دبي",
-   "text": "كشف استبيان أجرته شركة «إبسوس» Ipsos بتكليف من بريبكو PRYPCO، المنصة الرقمية المتخصصة في الخدمات العقارية والتمويل والاستثمار العقاري في&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a7%d8%b3%d8%aa%d8%a8%d9%8a%d8%a7%d9%86-%d8%a8%d8%b1%d9%8a%d8%a8%d9%83%d9%88-%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d9%85%d8%af%d8%ae%d8%b1%d8%a7%d8%aa-%d9%8a%d8%b9%d9%8a%d9%82-62-%d9%85/",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:54Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%af%d8%a8%d9%8a-%d8%b1%d9%8a%d8%b3%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d9%81%d9%8a-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«دبي ريست».. خدمات عقارية شاملة في تطبيق واحد يحصد تصنيف 7 نجوم دولياً",
-   "text": "يوفر تطبيق دبي ريست Dubai REST، التابع لدائرة الأراضي والأملاك في دبي، مجموعة متكاملة من الخدمات العقارية الرقمية لملاك العقارات&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%af%d8%a8%d9%8a-%d8%b1%d9%8a%d8%b3%d8%aa-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d9%81%d9%8a-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82/",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:54Z"
   }
  ]
 }
