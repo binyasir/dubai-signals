@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-24T09:58:52Z",
- "newThisRun": 6,
+ "generatedAt": "2026-11-24T22:30:18Z",
+ "newThisRun": 4,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
@@ -49,7 +49,7 @@
    "source": "r/UAE",
    "ok": false,
    "items": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "source": "r/expats",
@@ -66,17 +66,47 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 35,
+   "items": 27,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d8%b3%d8%aa%d8%b7%d9%84%d8%a7%d8%b9-%d9%85%d9%84%d8%a7%d9%83-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d8%b9%d8%af/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "استطلاع: ملاك عقارات في الإمارات مستعدون للتفاوض وخفض أسعار البيع",
+   "text": "كشف استطلاع حديث أجرته منصتا بيوت Bayut و دوبيزل dubizzle أن 69% من ملاك العقارات الراغبين في البيع والمشاركين في&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%a7%d8%b3%d8%aa%d8%b7%d9%84%d8%a7%d8%b9-%d9%85%d9%84%d8%a7%d9%83-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d8%b9%d8%af/",
+   "date": "2026-11-24",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-24T22:30:17Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a8%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-17-%d8%a3%d9%84%d9%81-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%887300/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "توقعات بإنجاز 17 ألف وحدة سكنية في دبي و7,300 في أبوظبي خلال الربع الأخير 2026",
+   "text": "توقعت شركة الاستشارات والاستثمارات العقارية العالمية «جيه إل إل» JLL إنجاز نحو 17 ألف وحدة سكنية جديدة في دبي و7,300&#8230;",
+   "url": "https://masdarak.com/real-estate-indicators/%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d8%aa-%d8%a8%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-17-%d8%a3%d9%84%d9%81-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d9%887300/",
+   "date": "2026-11-24",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-24T22:30:17Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%aa%d8%b2%d8%a7%d9%8a%d8%af-%d9%81%d8%b1%d8%b5-%d8%a7%d8%b3%d8%aa%d8%a6%d8%ac%d8%a7%d8%b1-%d8%b4%d9%82%d9%82-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a-%d8%a8%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a3%d9%82%d9%84/",
    "platform": "RSS",
@@ -3794,36 +3824,6 @@
    "date": "2026-11-09",
    "dateApprox": false,
    "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGplN19QMWNtdkdqcTVZOTFTbnlDZmh6ZW9Pck5FclJCSWlvVnczc1dDTFdGNHJRNTZCaUl6cHJKNmFIQVRzdG9fRXJPZEtBeXY2dlVmY3Nva091Qk5Rc2lfTGZjeTFCNUk2di1YQy0tcTZvdkxQWUtERlJqVU9KMmFyOGc4amFzYlVnTERvNUtCTlM3QWhGMU5NdW51anlUSXhHclRPdXdmWGFNSmww?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai Property Market October 2026: Latest Trends & Insights - Allsopp & Allsopp",
-   "text": " Dubai Property Market October 2026: Latest Trends & Insights &nbsp;&nbsp; Allsopp & Allsopp ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGplN19QMWNtdkdqcTVZOTFTbnlDZmh6ZW9Pck5FclJCSWlvVnczc1dDTFdGNHJRNTZCaUl6cHJKNmFIQVRzdG9fRXJPZEtBeXY2dlVmY3Nva091Qk5Rc2lfTGZjeTFCNUk2di1YQy0tcTZvdkxQWUtERlJqVU9KMmFyOGc4amFzYlVnTERvNUtCTlM3QWhGMU5NdW51anlUSXhHclRPdXdmWGFNSmww?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMikwVBVV95cUxNNTE2S2FRaFN0eVcxNDVtZE9IbU9KNGNyQzVaemNQY1h5eFpkOVBydmVjeDFQRlExbTBzRmpCakJmbFBZOTB4Sy0tY1pWLXFWQTZYM3NmRjFPNG11YjZyWmlZMndIdmZoSW1rUVpaWnBWN215MDVPNzlnaGtnRTBuLXVzQ0YtSTNYYjdOV0Q3MWx0SWI5MEs5ZUszM1RWeGhOdEc1d1Z5NWZTd0ZvUy1HOVdydjU0Q205MU9mWThhVmYzUVJtTFRUWkhVSkJGZks3NVZ2U2VHWWtST2gyQ0l3UTdDRXlFZEJpRllodThjQlJ3d0N3QW53VEljaVVOYm9HSUNuMmxCR0ZJeGhMWTJMblZEdzdBUlIteUtQNGJpX3hzQ2dfZkpoNGt2WWNwNHhiTlRSNF9zYU1HaVpCaXVWTWpYVkV5RUt4ZWR4SWkteTN5T1hWUkhkSl9EMnlBdVhaeU92LWVkQUFYOG1mTEM2ZG0zdExWcUpBeUdTZFZMai1hN1p6ajVmZnRIM3VRUmVNcEg2QVFxaENoeW1NVFRNd0JoUHJSLUZKSnh2WHU1M2JJTlREU3ZsRXNqMkt1WnV2OHU2OGdLRW02N1A3NDR1N1pXTUZqcEo1TzctM1lwRjRGMW9vWFZqRlp4WmlndzJOUkUyRnZlMG5ESlN6WVg1d05hVllCSFRVa3NVN0p1Rkw5UFhMZUFrS0V3UktGdDhraVpzcms5Y256QlAxWHdHSWdEVlNndHM4YVJ6emVCd25VWUFVMW4yeHhyLUJOc01SWUkzQnNGTHloVDdwMGxfd2pTSElqMzVWVWpBX0JQUGFxVlBFbVVSYTdSMkdOT3gzUnRZbVBDS3otUTR2VzI0OEhIZw?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "البريطانيون أكثر الجنسيات استثماراً في عقارات دبي خلال أكتوبر - صحيفة الخليج",
-   "text": " البريطانيون أكثر الجنسيات استثماراً في عقارات دبي خلال أكتوبر &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMikwVBVV95cUxNNTE2S2FRaFN0eVcxNDVtZE9IbU9KNGNyQzVaemNQY1h5eFpkOVBydmVjeDFQRlExbTBzRmpCakJmbFBZOTB4Sy0tY1pWLXFWQTZYM3NmRjFPNG11YjZyWmlZMndIdmZoSW1rUVpaWnBWN215MDVPNzlnaGtnRTBuLXVzQ0YtSTNYYjdOV0Q3MWx0SWI5MEs5ZUszM1RWeGhOdEc1d1Z5NWZTd0ZvUy1HOVdydjU0Q205MU9mWThhVmYzUVJtTFRUWkhVSkJGZks3NVZ2U2VHWWtST2gyQ0l3UTdDRXlFZEJpRllodThjQlJ3d0N3QW53VEljaVVOYm9HSUNuMmxCR0ZJeGhMWTJMblZEdzdBUlIteUtQNGJpX3hzQ2dfZkpoNGt2WWNwNHhiTlRSNF9zYU1HaVpCaXVWTWpYVkV5RUt4ZWR4SWkteTN5T1hWUkhkSl9EMnlBdVhaeU92LWVkQUFYOG1mTEM2ZG0zdExWcUpBeUdTZFZMai1hN1p6ajVmZnRIM3VRUmVNcEg2QVFxaENoeW1NVFRNd0JoUHJSLUZKSnh2WHU1M2JJTlREU3ZsRXNqMkt1WnV2OHU2OGdLRW02N1A3NDR1N1pXTUZqcEo1TzctM1lwRjRGMW9vWFZqRlp4WmlndzJOUkUyRnZlMG5ESlN6WVg1d05hVllCSFRVa3NVN0p1Rkw5UFhMZUFrS0V3UktGdDhraVpzcms5Y256QlAxWHdHSWdEVlNndHM4YVJ6emVCd25VWUFVMW4yeHhyLUJOc01SWUkzQnNGTHloVDdwMGxfd2pTSElqMzVWVWpBX0JQUGFxVlBFbVVSYTdSMkdOT3gzUnRZbVBDS3otUTR2VzI0OEhIZw?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-09T22:25:55Z"
   }
