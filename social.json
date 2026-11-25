@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-25T08:43:10Z",
- "newThisRun": 1,
- "sourcesOk": 5,
+ "generatedAt": "2026-11-25T21:45:04Z",
+ "newThisRun": 6,
+ "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 16,
-  "reddit": 115,
-  "rss": 119
+  "reddit": 114,
+  "rss": 120
  },
  "sources": [
   {
@@ -58,25 +58,100 @@
    "error": "HTTP 404"
   },
   {
-   "source": "https://masdarak.com/feed/",
+   "source": "المصدر العقاري",
    "ok": true,
-   "items": 0,
-   "error": "unchanged"
+   "items": 7,
+   "error": null
   },
   {
-   "source": "https://news.google.com/rss/search?q=%22Dubai+real+estate%22+OR+%22Dubai+property%22&hl=en-AE&gl=AE&ceid=AE:en",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 503"
+   "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "ok": true,
+   "items": 13,
+   "error": null
   },
   {
-   "source": "https://news.google.com/rss/search?q=%D8%B3%D9%88%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A8%D9%8A&hl=ar&gl=AE&ceid=AE:ar",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP 503"
+   "source": "\"سوق العقارات في دبي\" - أخبار Google",
+   "ok": true,
+   "items": 8,
+   "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUEoybDJZQzlZYW9JZ25YM2tMNlRzZkprUGdSZXhaZFF3eWJYQmJvcVVZNWdTMlFMQ3NyUEtNZ2tWZlQ0OG15N1ZNUVlQTGFra2V0elV5ZTl4NVFIZWhFLUxENTJIOWd6UnBMMnVJWGFvVGhHS3c?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property market could face price correction as buyer mix shifts, panel hears - Arabian Business",
+   "text": " Dubai property market could face price correction as buyer mix shifts, panel hears &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUEoybDJZQzlZYW9JZ25YM2tMNlRzZkprUGdSZXhaZFF3eWJYQmJvcVVZNWdTMlFMQ3NyUEtNZ2tWZlQ0OG15N1ZNUVlQTGFra2V0elV5ZTl4NVFIZWhFLUxENTJIOWd6UnBMMnVJWGFvVGhHS3c?oc=5",
+   "date": "2026-11-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-25T21:45:04Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a5%d9%8a%d9%88%d8%a7-%d8%aa%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%85%d8%b9-%d8%af%d8%a8%d9%8a-%d8%a3%d9%88%d8%af%d9%8a%d9%88-%d9%84%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إيوا» تتعاون مع «دبي أوديو» لدمج تقنيات الصوت في تصميم المشاريع السكنية بدبي",
+   "text": "أعلنت «إيوا» EYWA، العلامة التجارية العقارية التابعة لشركة التطوير العقاري الأوروبية آر إيفوليوشن R.Evolution، عن إبرام شراكة استراتيجية مع شركة&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a5%d9%8a%d9%88%d8%a7-%d8%aa%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d9%85%d8%b9-%d8%af%d8%a8%d9%8a-%d8%a3%d9%88%d8%af%d9%8a%d9%88-%d9%84%d8%af%d9%85%d8%ac-%d8%aa%d9%82%d9%86%d9%8a/",
+   "date": "2026-11-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-25T21:45:03Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%b3%d9%88%d9%8a%d8%af-%d8%a2%d9%86%d8%af-%d8%b3%d9%88%d9%8a%d8%af-%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d9%85%d9%86-%d8%a8%d9%86%d9%83-%d8%a7%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«سويد آند سويد» تحصل على تمويل من بنك الشارقة لتطوير مشروع «باي 360» في دبي",
+   "text": "حصلت شركة سويد آند سويد Sweid &#038; Sweid للتطوير والاستثمار العقاري على تسهيلات تمويلية إنشائية من بنك الشارقة، لتطوير مشروع&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%b3%d9%88%d9%8a%d8%af-%d8%a2%d9%86%d8%af-%d8%b3%d9%88%d9%8a%d8%af-%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d9%85%d9%88%d9%8a%d9%84-%d9%85%d9%86-%d8%a8%d9%86%d9%83-%d8%a7%d9%84/",
+   "date": "2026-11-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-25T21:45:03Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a-%d8%aa%d8%b4%d8%aa%d8%b1%d9%8a-10-%d8%ad%d9%81%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a8%d8%a7%d9%88%d8%b1-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«عزيزي» تشتري 10 حفارات من «باور» الألمانية لمشاريعها في دبي",
+   "text": "وقّعت شركة عزيزي للتطوير العقاري اتفاقية بقيمة عدة ملايين من الدولارت مع شركة «باور إكويبمنت جلف» Bauer Equipment Gulf، التابعة&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a-%d8%aa%d8%b4%d8%aa%d8%b1%d9%8a-10-%d8%ad%d9%81%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a8%d8%a7%d9%88%d8%b1-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7/",
+   "date": "2026-11-25",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-25T21:45:03Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjlZN1o0cXFBczFqVXc5VldOZEZ4Qy0zOTdxZ2FLcDQ0RjY3M0NSbXRlRzZmbnBQZmJzb2VBRkNBTnRUY3lzMXFMM2tHdXhZNWtwa1l4dTRURGlldk81dy1JTGNBbHVQZjVkR3Y4Rzd6TVc5TE9NaHNGalVmSjVzRHRoYnRtcHhhY21GREQyX0l0ajZWeThtMUhZd05KNVU5N3Rz?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "سوق العقارات في دبي ينافس أبرز الأسواق العالمية: تقرير betterhomes للعيش المستقبلي 2026 - الأخبار والإحصاءات - IndexBox",
+   "text": " سوق العقارات في دبي ينافس أبرز الأسواق العالمية: تقرير betterhomes للعيش المستقبلي 2026 - الأخبار والإحصاءات &nbsp;&nbsp; IndexBox ",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjlZN1o0cXFBczFqVXc5VldOZEZ4Qy0zOTdxZ2FLcDQ0RjY3M0NSbXRlRzZmbnBQZmJzb2VBRkNBTnRUY3lzMXFMM2tHdXhZNWtwa1l4dTRURGlldk81dy1JTGNBbHVQZjVkR3Y4Rzd6TVc5TE9NaHNGalVmSjVzRHRoYnRtcHhhY21GREQyX0l0ajZWeThtMUhZd05KNVU5N3Rz?oc=5",
+   "date": "2026-11-24",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-25T21:45:04Z"
+  },
   {
    "id": "rs:https://masdarak.com/real-estate-indicators/%d8%a7%d8%b3%d8%aa%d8%b7%d9%84%d8%a7%d8%b9-%d9%85%d9%84%d8%a7%d9%83-%d8%b9%d9%82%d8%a7%d8%b1%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d8%b3%d8%aa%d8%b9%d8%af/",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-10T07:24:36Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-10-%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1-%d9%85%d9%88%d8%b9%d8%af%d8%a7%d9%8b-%d9%84/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«إعمار العقارية» تحدد 10 ديسمبر موعداً لإغلاق عرض الاستحواذ على «إعمار للتطوير»",
-   "text": "كشفت شركتا «إعمار العقارية» و«إعمار للتطوير» عن الجدول الزمني للعرض النقدي الاختياري المقدم للاستحواذ على الأسهم المتبقية في «إعمار للتطوير»،&#8230;",
-   "url": "https://masdarak.com/business-news/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%ad%d8%af%d8%af-10-%d8%af%d9%8a%d8%b3%d9%85%d8%a8%d8%b1-%d9%85%d9%88%d8%b9%d8%af%d8%a7%d9%8b-%d9%84/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T07:24:36Z"
-  },
-  {
-   "id": "rd:t3_1xsg49d",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Venting - Can’t afford to live in 2026",
-   "text": "   I just need somewhere to vent and maybe hear if others are in the same situation.    Lost job back in August as the company closed down. Now started my own marketing company and getting by but holy shit the costs are insane.    Now it’s hit November and I can’t pay my car loan. Can’t pay my credit card. Emaar decided to bill everyone 6 months back for chiller and that’s another 4,200 AED I don’t have. Apartment renewal came through and I’ve got a fee for Ejari and renewal. Car insurance due and renewal due.    I’m maybe 20K in the hole with about 6K coming in from work. Thats just November.",
-   "url": "https://www.reddit.com/r/dubai/comments/1xsg49d/venting_cant_afford_to_live_in_2026/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T07:24:01Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiogNBVV95cUxQLTYwanoyLWsyNFlfR2NXeTA4cEllVFBiSmpGNFlJU2MwR1NBMmhjSHFfZXBfSGhCcnRHdWpxSnJ0VGRZQlZwZkhqbDBYNXlOMi0wQXdiTGVlSTJ4WEo0bVV6WEd4S1V1ei1JOElFQzV3YVFzeXpocmw4WjhOOUQzS09SZGt5VEZvUlNBQ3M5QkZlUVRKZGNJMHZ4enVTRC1qS3ZMRmd3WGtSTkRHY2Yzd3BiZnJET0ZuMW9zVnhXdzlMQnZFNk15aUNtSFFVdktwTFlOZlJXZzB5dG4yODBVeWdsNlpvWElabVlkeEJUUVRoMU5sd0g4dXM1QjVBM1J1b1ZybzZiejdxel9VR2N2T19Xa21qclFMZzQzOTM2OGk3NVZNOGZ2WTdicmFOTzRFOXBiTVRNNGxTdmtIUF9sS01nUDdia1lKTVBxSkJNbGlhNFdLXzllSU0ycjVXMmFSQ2RqZ0lfX0xvdVJrX2wwbXJfeEZOb2NxOXpobWJfaTdQem5FZFJxSWp6MjNUNU5WTUxnMW9zV3R1N3VzWkQzbUpB?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "18 % نمو مبيعات عقارات دبي إلى 34.8 مليار درهم في أكتوبر - Menafn",
-   "text": " 18 % نمو مبيعات عقارات دبي إلى 34.8 مليار درهم في أكتوبر &nbsp;&nbsp; Menafn ",
-   "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQLTYwanoyLWsyNFlfR2NXeTA4cEllVFBiSmpGNFlJU2MwR1NBMmhjSHFfZXBfSGhCcnRHdWpxSnJ0VGRZQlZwZkhqbDBYNXlOMi0wQXdiTGVlSTJ4WEo0bVV6WEd4S1V1ei1JOElFQzV3YVFzeXpocmw4WjhOOUQzS09SZGt5VEZvUlNBQ3M5QkZlUVRKZGNJMHZ4enVTRC1qS3ZMRmd3WGtSTkRHY2Yzd3BiZnJET0ZuMW9zVnhXdzlMQnZFNk15aUNtSFFVdktwTFlOZlJXZzB5dG4yODBVeWdsNlpvWElabVlkeEJUUVRoMU5sd0g4dXM1QjVBM1J1b1ZybzZiejdxel9VR2N2T19Xa21qclFMZzQzOTM2OGk3NVZNOGZ2WTdicmFOTzRFOXBiTVRNNGxTdmtIUF9sS01nUDdia1lKTVBxSkJNbGlhNFdLXzllSU0ycjVXMmFSQ2RqZ0lfX0xvdVJrX2wwbXJfeEZOb2NxOXpobWJfaTdQem5FZFJxSWp6MjNUNU5WTUxnMW9zV3R1N3VzWkQzbUpB?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-16T22:10:03Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXc1ejFqSG1FSVUxcThfNFpGV0dDQmM1RlRoUmVOS05CYWVvd1Q4SlhOMmxvTmJFemNzZEtXWG4ydlo2SnZLa01BdnlPZXFWOWkwSHJtajFhQ0d6bXNsaFl4WEJ3LVh3N1ZVUkQ4R2lpRElfVEUzaWRDaTFWanQyeVg4YVFmdEQ4Z1lLb3kxc01zbVZ3dEhabDB5cUtXQnJKOHk5UlI4S08tbk5kYXVmWC14SjZVa1E?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Dubai property sales jump 18% to $9.5bn as transactions rebound in October - Arabian Business",
-   "text": " Dubai property sales jump 18% to $9.5bn as transactions rebound in October &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXc1ejFqSG1FSVUxcThfNFpGV0dDQmM1RlRoUmVOS05CYWVvd1Q4SlhOMmxvTmJFemNzZEtXWG4ydlo2SnZLa01BdnlPZXFWOWkwSHJtajFhQ0d6bXNsaFl4WEJ3LVh3N1ZVUkQ4R2lpRElfVEUzaWRDaTFWanQyeVg4YVFmdEQ4Z1lLb3kxc01zbVZ3dEhabDB5cUtXQnJKOHk5UlI4S08tbk5kYXVmWC14SjZVa1E?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:55Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1FpYTAtTTZIQ2h5ajJtemtCenF5eUlsLXFOdmtsdmViWEhiLUdrZXY1OXhXZFFzTWUzcFhObzFTb2xXS2UyM3pHWjhiY2lpbXJRRVU0SWdvYnlQT19qRi1wOVZwRnczNXp2d294cFpTQ0ZyRXl2WU1sU0R6bUpXRmplMEt3VHNSUlROaVFmeWxzVktxN3JOcklTWmtOb0NOaEltZzN2b2ZjUHNTajFvT2t5SF9CWWtVdkZxTE1KZU0yMFhLWmVkTFFn?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "BlackBrick Property takes Dubai real estate ambitions global with international launch - Arabian Business",
-   "text": " BlackBrick Property takes Dubai real estate ambitions global with international launch &nbsp;&nbsp; Arabian Business ",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1FpYTAtTTZIQ2h5ajJtemtCenF5eUlsLXFOdmtsdmViWEhiLUdrZXY1OXhXZFFzTWUzcFhObzFTb2xXS2UyM3pHWjhiY2lpbXJRRVU0SWdvYnlQT19qRi1wOVZwRnczNXp2d294cFpTQ0ZyRXl2WU1sU0R6bUpXRmplMEt3VHNSUlROaVFmeWxzVktxN3JOcklTWmtOb0NOaEltZzN2b2ZjUHNTajFvT2t5SF9CWWtVdkZxTE1KZU0yMFhLWmVkTFFn?oc=5",
-   "date": "2026-11-09",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-09T22:25:55Z"
   }
  ]
 }
