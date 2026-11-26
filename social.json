@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-25T21:45:04Z",
- "newThisRun": 6,
+ "generatedAt": "2026-11-26T08:26:43Z",
+ "newThisRun": 9,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 16,
-  "reddit": 114,
-  "rss": 120
+  "youtube": 15,
+  "reddit": 113,
+  "rss": 122
  },
  "sources": [
   {
@@ -55,7 +55,7 @@
    "source": "r/expats",
    "ok": false,
    "items": 0,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "source": "المصدر العقاري",
@@ -66,7 +66,7 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 13,
+   "items": 27,
    "error": null
   },
   {
@@ -77,6 +77,96 @@
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/business-news/%d8%a3%d9%85%d9%8a%d8%b3-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d9%82%d8%b7%d8%b9%d8%a9-%d8%a3%d8%b1%d8%b6-%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«أميس» تستحوذ على قطعة أرض سابعة في دبي لتطوير مشروع سكني بـ 272 مليون دولار",
+   "text": "أعلنت شركة أميس للتطوير العقاري AMIS Development استحواذها على قطعة أرض جديدة في منطقة «ديستريكت 11» District 11 بدبي، تمهيداً&#8230;",
+   "url": "https://masdarak.com/business-news/%d8%a3%d9%85%d9%8a%d8%b3-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d9%82%d8%b7%d8%b9%d8%a9-%d8%a3%d8%b1%d8%b6-%d8%b3%d8%a7%d8%a8%d8%b9%d8%a9-%d9%81%d9%8a-%d8%af%d8%a8%d9%8a/",
+   "date": "2026-11-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:42Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/new-projects/%d8%a5%d9%8a%d9%85%d8%a7%d9%86-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d9%8019-%d9%81%d9%8a-%d8%af%d8%a8/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إيمان» تطلق مشروعها العقاري الـ19 في دبي والأول في مجمع دبي للعلوم",
+   "text": "أطلقت شركة إيمان للتطوير العقاري Iman Developers مشروعها العقاري الـ19 في دبي، والأول لها في مجمع دبي للعلوم، تحت اسم&#8230;",
+   "url": "https://masdarak.com/new-projects/%d8%a5%d9%8a%d9%85%d8%a7%d9%86-%d8%aa%d8%b7%d9%84%d9%82-%d9%85%d8%b4%d8%b1%d9%88%d8%b9%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d8%a7%d9%84%d9%8019-%d9%81%d9%8a-%d8%af%d8%a8/",
+   "date": "2026-11-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:42Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%85%d9%88%d9%81%d9%8a-%d9%85%d9%86%d8%b5%d8%a9-%d8%b1%d9%82%d9%85%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%a8%d9%8a%d8%b9-%d9%88%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«موفي».. منصة رقمية جديدة لبيع وشراء العقارات في دبي تنطلق مطلع 2027",
+   "text": "تستعد منصة «موفي» العقارية movi لإطلاق خدماتها رسمياً في دبي خلال الربع الأول من عام 2027، بعد دخولها المرحلة التجريبية&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%85%d9%88%d9%81%d9%8a-%d9%85%d9%86%d8%b5%d8%a9-%d8%b1%d9%82%d9%85%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d8%a8%d9%8a%d8%b9-%d9%88%d8%b4%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d8%b9/",
+   "date": "2026-11-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:42Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-7577-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%84%d9%80-38-%d8%a3%d9%84/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«إعمار» تخطط لتطوير 7,577 وحدة سكنية لـ 38 ألف نسمة في «ذا هايتس كانتري كلوب» بدبي",
+   "text": "تخطط شركة إعمار العقارية لتطوير 7,577 وحدة سكنية ضمن مشروع «ذا هايتس كانتري كلوب آند ويلنس» The Heights Country Club&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a5%d8%b9%d9%85%d8%a7%d8%b1-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-7577-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86%d9%8a%d8%a9-%d9%84%d9%80-38-%d8%a3%d9%84/",
+   "date": "2026-11-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:42Z"
+  },
+  {
+   "id": "rs:https://masdarak.com/business-news/%d9%88%d9%8a%d9%81%d8%b2-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b7%d9%84%d9%82-%d9%87%d9%88%d9%8a%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«ويفز» العقارية تطلق هويتها الجديدة في دبي وتتوسع في خدمات الاستشارات",
+   "text": "أطلقت شركة «ويفز» WAVES، المتخصصة في الخدمات والاستشارات العقارية في دبي، هويتها المؤسسية الجديدة وتطوير نموذج أعمالها، مع التركيز على&#8230;",
+   "url": "https://masdarak.com/business-news/%d9%88%d9%8a%d9%81%d8%b2-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b7%d9%84%d9%82-%d9%87%d9%88%d9%8a%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81/",
+   "date": "2026-11-26",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:42Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRV95bFNRUk80cmtpZTJOdktsVzVXTGdtQ1F2X3o5R241OTJTdjRESG1zQ1BlekRQcGFmeUJ6eDByYTBfY0V1bjVnMmdydXRZelNBdXBqeFZmOGVmNUdOZkhuOUw4X1Y5eS1wT0w0V3oteGwwRmRBYU1tWl9QN0NxTnFUVzg5eFcyX3lCUUs5alc5cWRQWkFzbDVocDdIN010U2lzbl9uMk1jQzQ5NlFONXhLRTNlTEZWOEgyRTVDSDN2VHhJVkE4T3E0MmhVeUd4QThwSkZWWHZiYWpHbnlOdWNuRFJYRWhTLXl2WWJqaV9JUQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property boom: Prices hit 4-year high, but 38,116 new homes could test demand - The Economic Times",
+   "text": " Dubai property boom: Prices hit 4-year high, but 38,116 new homes could test demand &nbsp;&nbsp; The Economic Times ",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRV95bFNRUk80cmtpZTJOdktsVzVXTGdtQ1F2X3o5R241OTJTdjRESG1zQ1BlekRQcGFmeUJ6eDByYTBfY0V1bjVnMmdydXRZelNBdXBqeFZmOGVmNUdOZkhuOUw4X1Y5eS1wT0w0V3oteGwwRmRBYU1tWl9QN0NxTnFUVzg5eFcyX3lCUUs5alc5cWRQWkFzbDVocDdIN010U2lzbl9uMk1jQzQ5NlFONXhLRTNlTEZWOEgyRTVDSDN2VHhJVkE4T3E0MmhVeUd4QThwSkZWWHZiYWpHbnlOdWNuRFJYRWhTLXl2WWJqaV9JUQ?oc=5",
+   "date": "2026-11-25",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:43Z"
+  },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUEoybDJZQzlZYW9JZ25YM2tMNlRzZkprUGdSZXhaZFF3eWJYQmJvcVVZNWdTMlFMQ3NyUEtNZ2tWZlQ0OG15N1ZNUVlQTGFra2V0elV5ZTl4NVFIZWhFLUxENTJIOWd6UnBMMnVJWGFvVGhHS3c?oc=5",
    "platform": "RSS",
@@ -136,6 +226,21 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-25T21:45:03Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMinwFBVV95cUxObnJMS2x6TVFuVDdzeXFFTGdrSFVqcWN1SGNrcm9OYVh5Ml9oc2hiSE1uX3NLMXVrYmlsNEV1akNxZG9XWHB0Ylpjd19ZcWE1XzJkVTgyTnVxOExoMV9PTzNVQnVnZXIyRFo3ZGJ5T2RtVFhYMVhIa1hnemcyVHJuTHFKYnRrX2lkNjBlNl9wYWlzOXlyOG85eXkxNVRGc3c?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai Property Market Seen Rivaling Global Leaders: betterhomes Future Living Report 2026 - News and Statistics - IndexBox",
+   "text": " Dubai Property Market Seen Rivaling Global Leaders: betterhomes Future Living Report 2026 - News and Statistics &nbsp;&nbsp; IndexBox ",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnJMS2x6TVFuVDdzeXFFTGdrSFVqcWN1SGNrcm9OYVh5Ml9oc2hiSE1uX3NLMXVrYmlsNEV1akNxZG9XWHB0Ylpjd19ZcWE1XzJkVTgyTnVxOExoMV9PTzNVQnVnZXIyRFo3ZGJ5T2RtVFhYMVhIa1hnemcyVHJuTHFKYnRrX2lkNjBlNl9wYWlzOXlyOG85eXkxNVRGc3c?oc=5",
+   "date": "2026-11-24",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-26T08:26:43Z"
   },
   {
    "id": "rs:https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjlZN1o0cXFBczFqVXc5VldOZEZ4Qy0zOTdxZ2FLcDQ0RjY3M0NSbXRlRzZmbnBQZmJzb2VBRkNBTnRUY3lzMXFMM2tHdXhZNWtwa1l4dTRURGlldk81dy1JTGNBbHVQZjVkR3Y4Rzd6TVc5TE9NaHNGalVmSjVzRHRoYnRtcHhhY21GREQyX0l0ajZWeThtMUhZd05KNVU5N3Rz?oc=5",
@@ -3721,111 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-10T19:46:59Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d8%af%d8%a1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b1%d9%88%d8%b2%d9%88%d9%88%d8%af-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3%d8%b2-%d8%a8%d9%80-2723-%d8%af%d9%88%d9%84%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "بدء مبيعات «روزوود ريزيدنسز» بـ 2,723 دولاراً  للقدم المربعة في جزيرة «دبي بننسولا«",
-   "text": "أعلنت شركة إتش آند إتش للتطوير العقاري H&#38;H Development عن بدء مبيعات الوحدات السكنية في مشروع «روزوود ريزيدنسز دبي» Rosewood&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a8%d8%af%d8%a1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d8%b1%d9%88%d8%b2%d9%88%d9%88%d8%af-%d8%b1%d9%8a%d8%b2%d9%8a%d8%af%d9%86%d8%b3%d8%b2-%d8%a8%d9%80-2723-%d8%af%d9%88%d9%84%d8%a7/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T19:46:59Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-365-%d8%a3%d9%84%d9%81-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "دراسة حكومية تتوقع إضافة 365 ألف وحدة سكنية جديدة في دبي بحلول 2030",
-   "text": "توقعت دراسة حكومية إضافة 365 ألف وحدة سكنية جديدة إلى السوق العقاري في دبي حتى عام 2030، إلى جانب نحو&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ad%d9%83%d9%88%d9%85%d9%8a%d8%a9-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-365-%d8%a3%d9%84%d9%81-%d9%88%d8%ad%d8%af%d8%a9-%d8%b3%d9%83%d9%86/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T19:46:59Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%81%d9%84%d9%84-%d9%88%d8%aa%d8%a7%d9%88%d9%86-%d9%87%d8%a7%d9%88%d8%b3-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%a7/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "الكشف عن أسعار فلل وتاون هاوس مشروع «بالم سبرينغز» من «نخيل» في دبي",
-   "text": "أطلقت شركة نخيل، التابعة لدبي القابضة للعقارات، اليوم رسمياً مشروعها السكني الجديد بالم سبرينغز Palm Springs في دبي بجوار نخلة&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%81%d9%84%d9%84-%d9%88%d8%aa%d8%a7%d9%88%d9%86-%d9%87%d8%a7%d9%88%d8%b3-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a8%d8%a7/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T19:46:59Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac%d9%8a-%d8%b4%d9%8a%d9%88%d9%86%d8%a9-%d8%a8%d9%80603-%d8%b4%d9%82%d9%82-%d8%b3%d9%83%d9%86%d9%8a/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "«بيوند» تطلق برجي «شيونة» بـ603 شقق سكنية ضمن مشروع «سيورا» في جزر دبي",
-   "text": "أطلقت شركة بيوند للتطوير العقاري Beyond Developments مشروع مجمع شيونة SHIONE السكني بقيمة تبلغ نحو 817 مليون دولار (3 مليارات&#8230;",
-   "url": "https://masdarak.com/new-projects/%d8%a8%d9%8a%d9%88%d9%86%d8%af-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac%d9%8a-%d8%b4%d9%8a%d9%88%d9%86%d8%a9-%d8%a8%d9%80603-%d8%b4%d9%82%d9%82-%d8%b3%d9%83%d9%86%d9%8a/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T19:46:59Z"
-  },
-  {
-   "id": "rd:t3_1xsh8pq",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Retroactive Tasleem chiller charges on a \"chiller-free\" lease. Should I pay?",
-   "text": "   Looking for advice from anyone who&#39;s dealt with this.   I rented an apartment in a Dubai Hills building in January 2026. Before signing, I specifically asked the agency if AC was included. Their consultant confirmed in writing (WhatsApp) that the unit was chiller-free, that AC was factored into DEWA, and that there was &quot;no additional chiller deposit or bill to set up&quot;. They even removed the chiller deposit clause from the contract for that reason.   The signed contract has an additional term saying the property is &quot;currently rented as chiller-free&quot;, and that if a chi",
-   "url": "https://www.reddit.com/r/dubai/comments/1xsh8pq/retroactive_tasleem_chiller_charges_on_a/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T19:46:25Z"
-  },
-  {
-   "id": "yt:bdz_kfQqac0",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "betterhomes Abu Dhabi | Real Estate Agency",
-   "title": "Buying in Abu Dhabi: How much do you need upfront?",
-   "text": "Buying a home in Abu Dhabi? Here's what you'll need upfront.\n\nFor UAE residents buying up to AED 5M, you'll need a 20% down payment, with 80% mortgageable. Above AED 5M, that becomes 30% down and a 70% mortgage. On top of that, there's a 2% agency fee plus VAT and a 2% Abu Dhabi Municipality fee. Buying off-plan directly from a developer usually means no agency fee.\n\nOn a secondary market property, we suggest budgeting around 5% on top of the sale price to cover it all.\n\nThe full conversation on renting or buying when you move to Abu Dhabi is in Brokers After Hours Ep 2: \n\nhttps://youtu.be/57-",
-   "url": "https://www.youtube.com/shorts/bdz_kfQqac0",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "9 views",
-   "firstSeenAt": "2026-11-10T19:46:24Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/projects-updates/%d9%82%d9%8a%d9%85%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%af%d8%a8%d9%8a-%d8%a8%d9%86%d9%86%d8%b3%d9%88%d9%84%d8%a7-%d9%81%d9%8a/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "قيمة تطوير مشروع جزيرة \"دبي بننسولا\" في دبي تتجاوز 8 مليارات دولار",
-   "text": "تتجاوز القيمة التطويرية لمشروع جزيرة دبي بينينسولا Peninsula Dubai الذي تطوره شركة إتش آند إتش للتطوير العقاري H&#38;H Development في&#8230;",
-   "url": "https://masdarak.com/projects-updates/%d9%82%d9%8a%d9%85%d8%a9-%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%af%d8%a8%d9%8a-%d8%a8%d9%86%d9%86%d8%b3%d9%88%d9%84%d8%a7-%d9%81%d9%8a/",
-   "date": "2026-11-10",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-10T07:24:36Z"
   }
  ]
 }
