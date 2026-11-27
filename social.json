@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-26T21:38:19Z",
- "newThisRun": 12,
+ "generatedAt": "2026-11-27T08:41:25Z",
+ "newThisRun": 7,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
   "youtube": 14,
-  "reddit": 106,
-  "rss": 130
+  "reddit": 103,
+  "rss": 133
  },
  "sources": [
   {
@@ -43,13 +43,13 @@
    "source": "r/DubaiRealEstate",
    "ok": false,
    "items": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "source": "r/UAE",
    "ok": false,
    "items": 0,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "source": "r/expats",
@@ -66,17 +66,92 @@
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 15,
+   "items": 27,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%ad%d9%82%d9%82-245-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b4/",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "المصدر العقاري",
+   "title": "«الدار» تحقق 245 مليون دولار مبيعات في مشروع «ذا كانوبيز سانكتشواري» بجزيرة ياس في أبوظبي",
+   "text": "أعلنت مجموعة الدار العقارية تحقيق مبيعات تجاوزت 245 مليون دولار (900 مليون درهم) خلال إطلاق مشروع «ذا كانوبيز سانكتشواري» The&#8230;",
+   "url": "https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%ad%d9%82%d9%82-245-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b4/",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-27T08:41:24Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0czNjh0RjdUbFo5LTk1TWwza1RjNGFPblFqOGl3QURzUTRZY2hqQUhJa0tKaTFHVnRDRy1HMjVHb2RBcTJNbWgwbXpvOTBhLW5vX2ZBYU8ybDFoZG1YSmNMZlI0T09GZmJlUTlENFNMZWJva1hraU04XzlMM2NQc2xWbFcxSGZOaDhxc1NQYzVFa1Rrck9USGVlUUhMWVNLSE1hS1U4UVN0eHpTdkdfTW5sZW9iNTBtRkhDTmp3dDFucEVJWXk5N29mdXpyWS1Pa3VmazlmU2lTZERySmFCWF9pS2hJcWIxS0JIS2hUaw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Dubai property correction fears, the UAE’s next energy play and the Gulf’s growth ambitions for 2027 – This Week in Business - Arabian Business",
+   "text": " Dubai property correction fears, the UAE’s next energy play and the Gulf’s growth ambitions for 2027 – This Week in Business &nbsp;&nbsp; Arabian Business ",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0czNjh0RjdUbFo5LTk1TWwza1RjNGFPblFqOGl3QURzUTRZY2hqQUhJa0tKaTFHVnRDRy1HMjVHb2RBcTJNbWgwbXpvOTBhLW5vX2ZBYU8ybDFoZG1YSmNMZlI0T09GZmJlUTlENFNMZWJva1hraU04XzlMM2NQc2xWbFcxSGZOaDhxc1NQYzVFa1Rrck9USGVlUUhMWVNLSE1hS1U4UVN0eHpTdkdfTW5sZW9iNTBtRkhDTmp3dDFucEVJWXk5N29mdXpyWS1Pa3VmazlmU2lTZERySmFCWF9pS2hJcWIxS0JIS2hUaw?oc=5",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-27T08:41:24Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcUJmZjhMcUt4RG9NNVVQTC1ORmZPTkVDWkdVTElFeEtXTXNZQnRTLWhtbkJsWmlIZENjbEVCX3VWWkhWWGV0SzU5ek5HR25zeEFWbHRRcWsxZnlQVWFFaW5nR3IxYzNvZXUtUWdGLTItb1R0LU1Cd0w5ZkY5REVnX0k3QXBhU05sV3FaSkQyQ2hjZWY3S1oycmJUS21WYTdqSWVEbTVhYzNudjlvakFxSXV2QVpybHZOMVE5ZEN4cjlLaXpSNVR5dkZUVnhCYU1XSm8xRmJ2b1hTa09yT0wxNlBvNHRCcmVnSUdtcHRvSkxCWU9DQ19IMnJmVdIBjgJBVV95cUxNc0U5TS1TQ25SenFSTFNIOGpxZ0lqQ1ZSU2NxNk1WWGtteEtQUXRoQ3ZBVjFDbGxfYzZhRGwzMk9jNUI0YmsxNzYxWkVvd1ZreG5IVDg2Z1JFYXdEcUJBQ3RIazlxRWlZNkVrLTM3RGpZYV83Z0ZDRFJSRGtmRmNDMnRjRzZtNzBrdEF0NU9lUHpWWFhFUXUyWFUzVjdEMkRsWlV4RGZsSWg5SmlyV3dRQWV1WmxfcllubDBBLVA4cTJQaXZSQnlxbWJ6WHhKQ2ZkNnJWY0czeDhScW5kR2xfOU1reVNfaTUweVMtakhtSXZrREFZMk1kbFc5YzBNYTF5MkJNallNRlMyZ2pSMUE?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Beyond real estate: Bayut brings Dubai’s property industry together through sport in support of the 30x30 Movement - Gulf News",
+   "text": " Beyond real estate: Bayut brings Dubai’s property industry together through sport in support of the 30x30 Movement &nbsp;&nbsp; Gulf News ",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcUJmZjhMcUt4RG9NNVVQTC1ORmZPTkVDWkdVTElFeEtXTXNZQnRTLWhtbkJsWmlIZENjbEVCX3VWWkhWWGV0SzU5ek5HR25zeEFWbHRRcWsxZnlQVWFFaW5nR3IxYzNvZXUtUWdGLTItb1R0LU1Cd0w5ZkY5REVnX0k3QXBhU05sV3FaSkQyQ2hjZWY3S1oycmJUS21WYTdqSWVEbTVhYzNudjlvakFxSXV2QVpybHZOMVE5ZEN4cjlLaXpSNVR5dkZUVnhCYU1XSm8xRmJ2b1hTa09yT0wxNlBvNHRCcmVnSUdtcHRvSkxCWU9DQ19IMnJmVdIBjgJBVV95cUxNc0U5TS1TQ25SenFSTFNIOGpxZ0lqQ1ZSU2NxNk1WWGtteEtQUXRoQ3ZBVjFDbGxfYzZhRGwzMk9jNUI0YmsxNzYxWkVvd1ZreG5IVDg2Z1JFYXdEcUJBQ3RIazlxRWlZNkVrLTM3RGpZYV83Z0ZDRFJSRGtmRmNDMnRjRzZtNzBrdEF0NU9lUHpWWFhFUXUyWFUzVjdEMkRsWlV4RGZsSWg5SmlyV3dRQWV1WmxfcllubDBBLVA4cTJQaXZSQnlxbWJ6WHhKQ2ZkNnJWY0czeDhScW5kR2xfOU1reVNfaTUweVMtakhtSXZrREFZMk1kbFc5YzBNYTF5MkJNallNRlMyZ2pSMUE?oc=5",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-27T08:41:24Z"
+  },
+  {
+   "id": "yt:58GqGmUF4y0",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Is JBR Overpriced?",
+   "text": "Is JBR overpriced, or is this the best time to buy in JBR Dubai? Is Dubai property crashing in 2026?\nAllsopp & Allsopp Chairman Lewis Allsopp sits down with JBR specialist Matty Kaye to get the honest answer on the Dubai property market right now.\n\nLewis rates Matty as one of the top five agents ever in Jumeirah Beach Residence. Matty breaks down a deal he has just closed: a fully upgraded 2-bed that sold for AED 2M after the seller paid AED 2.3M a year earlier. He also explains why sellers still asking for last year's prices aren't selling. Lewis and Matty discuss where the bottom of the mark",
+   "url": "https://www.youtube.com/watch?v=58GqGmUF4y0",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "28 views",
+   "firstSeenAt": "2026-11-27T08:40:50Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVV9EWmdtU0tCV2FvdElsZ2RiWTNuQXQwZ1hsa3dxdng0VmNlOFk1b3hSXzBKUDRUUmoxdFpiUkJlVXFEVEF5ZllfRWRWUWtGVlJ0Zm5MSkNZZzYyeHRFdFk3LUFNWjV6TnpmYS0xeVJkdG4tdlRUMXRZSlBuYlJadWxtWFVCbEV3SjVQZTc3dTFOZW5mMnl3YTRvSTJjemdhZVktMHAtU2tNMk9pM29idEhXWUE3MHQ5S0w4ai1UU1dyLUtWSW9GNldKaEFWbjU5b3A2ZFJ4UTd6UDND?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "UAE stock market and Dubai real estate index: Strong buy signals confirm the 2026 correction is ending - FXStreet",
+   "text": " UAE stock market and Dubai real estate index: Strong buy signals confirm the 2026 correction is ending &nbsp;&nbsp; FXStreet ",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVV9EWmdtU0tCV2FvdElsZ2RiWTNuQXQwZ1hsa3dxdng0VmNlOFk1b3hSXzBKUDRUUmoxdFpiUkJlVXFEVEF5ZllfRWRWUWtGVlJ0Zm5MSkNZZzYyeHRFdFk3LUFNWjV6TnpmYS0xeVJkdG4tdlRUMXRZSlBuYlJadWxtWFVCbEV3SjVQZTc3dTFOZW5mMnl3YTRvSTJjemdhZVktMHAtU2tNMk9pM29idEhXWUE3MHQ5S0w4ai1UU1dyLUtWSW9GNldKaEFWbjU5b3A2ZFJ4UTd6UDND?oc=5",
+   "date": "2026-11-26",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-27T08:41:24Z"
+  },
   {
    "id": "rs:https://masdarak.com/business-news/%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%b1%d9%8a%d8%aa-%d9%8a%d8%b1%d9%81%d8%b9-%d8%a5%d8%ac%d9%85%d8%a7%d9%84%d9%8a-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9%d8%a7%d8%aa-%d8%a3%d8%b1/",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "en",
    "engagement": "",
    "firstSeenAt": "2026-11-11T19:38:48Z"
-  },
-  {
-   "id": "rd:t3_1xtjkxx",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "It finally cooled down so we watched the game on the roof",
-   "text": "   Two weeks ago I walked out to the car and my glasses did not fog up. I stood there for a second like an idiot, I think it was the first night since May it felt okay to be outside.   There are four of us renting a villa in JVC. We have watched every CL night this season the same way, squeezed on one sofa with the AC on 21 and somebody on the floor.   For the Atletico Bayern game last week we decided roof. We took the plastic chairs off the balcony and ran an extension cord out of the kitchen window and argued for half an hour about which wall was flattest. The stair room won, it is painted w",
-   "url": "https://www.reddit.com/r/dubai/comments/1xtjkxx/it_finally_cooled_down_so_we_watched_the_game_on/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:38:48Z"
-  },
-  {
-   "id": "rd:t3_1xtexp1",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Yacht rental options",
-   "text": "   Thinking of renting a yacht for a few hours with friends, maybe around the Marina / JBR area.    How do people here usually book? Instagram pages, a specific website/ app, or just walking up at the marina?  Also curious if anyone’s had a bad experience with hidden charges, last-minute cancellations, or other surprises. Any tips on what to watch out for appreciated!     &#32; submitted by &#32;   /u/Extra_Volume_5083       [link]   &#32;   [comments]  ",
-   "url": "https://www.reddit.com/r/dubai/comments/1xtexp1/yacht_rental_options/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:38:48Z"
-  },
-  {
-   "id": "rd:t3_1xtbzzu",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Need clarification",
-   "text": "   Hi there,  We have a house here in dubai in one of the communities.   We did some modifications that increase the GFA of the house. For that we also got the NOC and purchased the additional GFA from developer.   We now want to update the floor plan / building drawings whatever it is so it’s updated in official records as well.   For this, i don’t think we can do that ourselves (thats what these AI tools told me) and we need some registered contractors / architect or something.   Wanted to know whats the process and if anyone went through a similar thing. What are the costs associated etc an",
-   "url": "https://www.reddit.com/r/dubai/comments/1xtbzzu/need_clarification/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:38:48Z"
-  },
-  {
-   "id": "yt:CMQlA-F1qHw",
-   "platform": "YouTube",
-   "channel": "YouTube",
-   "stream": "social",
-   "account": "betterhomes",
-   "title": "Experience matters. But character is what builds a lasting career in Dubai real estate.",
-   "text": "Experience matters. But character is what builds a lasting career in Dubai real estate.\n\nWe set our standards high for a reason. This market doesn’t reward shortcuts. It rewards consistency, self-drive, and brokers who build real relationships and keep them.\n\nJoin betterhomes and you’re backed by:\nLeadership that mentors you, not just manages you\nA bespoke in-house AI CRM that takes the busywork off your plate\nA clear path into senior broker and team leader roles\n\nWhether this is your tenth year or your first month in the business, come and talk to us or connect with our recruitment team.",
-   "url": "https://www.youtube.com/shorts/CMQlA-F1qHw",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "27 views",
-   "firstSeenAt": "2026-11-11T19:38:47Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHhGaXU4ekplOEZka05iQk1iVXFyYl9aWm90cTVHYTVCSHl6c3MwWHpWNGNEZ25rZ1FhR1dHV1Mybnl4RjNlM0E2YTd6Y2psQ1RuaGtKVkF2MXpZbU9aR01maHM3b2xPd0RjZUN4TWdRZW9iQnJBNnRPWVBtNXR5cU55QU9EOWczNExQaVRPaG1hWHdHYld3cUNtQzg?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
-   "title": "Palm Jebel Ali defies Dubai property slowdown - Arabian Gulf Business Insight | AGBI",
-   "text": " Palm Jebel Ali defies Dubai property slowdown &nbsp;&nbsp; Arabian Gulf Business Insight | AGBI ",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHhGaXU4ekplOEZka05iQk1iVXFyYl9aWm90cTVHYTVCSHl6c3MwWHpWNGNEZ25rZ1FhR1dHV1Mybnl4RjNlM0E2YTd6Y2psQ1RuaGtKVkF2MXpZbU9aR01maHM3b2xPd0RjZUN4TWdRZW9iQnJBNnRPWVBtNXR5cU55QU9EOWczNExQaVRPaG1hWHdHYld3cUNtQzg?oc=5",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T06:31:13Z"
   }
  ]
 }
