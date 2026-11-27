@@ -1,18 +1,18 @@
 {
- "generatedAt": "2026-11-27T08:41:25Z",
- "newThisRun": 7,
+ "generatedAt": "2026-11-27T21:22:16Z",
+ "newThisRun": 6,
  "sourcesOk": 7,
  "sourcesTotal": 11,
  "counts": {
-  "youtube": 14,
-  "reddit": 103,
-  "rss": 133
+  "youtube": 17,
+  "reddit": 101,
+  "rss": 132
  },
  "sources": [
   {
    "source": "YouTube Allsopp & Allsopp",
    "ok": true,
-   "items": 15,
+   "items": 11,
    "error": null
   },
   {
@@ -24,7 +24,7 @@
   {
    "source": "YouTube betterhomes",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "error": null
   },
   {
@@ -43,13 +43,13 @@
    "source": "r/DubaiRealEstate",
    "ok": false,
    "items": 0,
-   "error": "HTTP 404"
+   "error": "HTTP 429"
   },
   {
    "source": "r/UAE",
    "ok": false,
    "items": 0,
-   "error": "HTTP 429"
+   "error": "HTTP 404"
   },
   {
    "source": "r/expats",
@@ -58,25 +58,100 @@
    "error": "HTTP 429"
   },
   {
-   "source": "المصدر العقاري",
+   "source": "https://masdarak.com/feed/",
    "ok": true,
-   "items": 10,
-   "error": null
+   "items": 0,
+   "error": "unchanged"
   },
   {
    "source": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
    "ok": true,
-   "items": 27,
+   "items": 16,
    "error": null
   },
   {
    "source": "\"سوق العقارات في دبي\" - أخبار Google",
    "ok": true,
-   "items": 16,
+   "items": 10,
    "error": null
   }
  ],
  "items": [
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMitgFBVV95cUxPejJkT0N1WmpVQXlsQlprejVIaklQdlBiN0FVb3Fwa3I1VlRwVEJjVTY3SEI2RHVXMUhuVG10QVZ2YTYtRDdmbm85U3luekU5ZVZEWG9jVzVvbHlCUVZDbnVjbkxVMlBtQlNqQXlMQ21udWJPaEFBQ0JMYUtFTDRnWHJPN1NfMm9NMzcwU1N3SERUaWI5dm5nVTd1aVlkX21BV2lmX2k3ZWFpNmUxcGozTkdtXzkwZw?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"\"Dubai real estate\" OR \"Dubai property\"\" - Google News",
+   "title": "Oswal Agro Mills to acquire 57% stake in Dubai real estate entity - scanx.trade",
+   "text": " Oswal Agro Mills to acquire 57% stake in Dubai real estate entity &nbsp;&nbsp; scanx.trade ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejJkT0N1WmpVQXlsQlprejVIaklQdlBiN0FVb3Fwa3I1VlRwVEJjVTY3SEI2RHVXMUhuVG10QVZ2YTYtRDdmbm85U3luekU5ZVZEWG9jVzVvbHlCUVZDbnVjbkxVMlBtQlNqQXlMQ21udWJPaEFBQ0JMYUtFTDRnWHJPN1NfMm9NMzcwU1N3SERUaWI5dm5nVTd1aVlkX21BV2lmX2k3ZWFpNmUxcGozTkdtXzkwZw?oc=5",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "",
+   "firstSeenAt": "2026-11-27T21:22:16Z"
+  },
+  {
+   "id": "rs:https://news.google.com/rss/articles/CBMiwgRBVV95cUxQeURQZHRid3o4S2pHMGQwZlFJaWkxVW9yaUZkVGItSnA0VElJTFJGWjJTeXNTdFQxU0NwWnJHTjF0MEV4a2dvejJ4c1dkR2FxNlVnb01GNW9QMU81M1hkbHVDNXZCb1RMemNTMGVBOHRWSDhkWm9QemhOT0t6U3diVDJSNFRpV1Rrem1WX3Z0VmJTS0lIeXhybDlfajV2RGotblg0Mnp2RVJxWEZTMGVVUFVTek9sVDVWTHUtQXZ6Yi1IeHNTSWhiM2pCQWJsOUNpSUNjWnA5MUVqemVqdkx5Vk5WMGxXa3QyRG5Cd3FfLS0ydXIxQkNOVHVTUFFZTkhIZUlpTGx6dW1UR25aSHFxZ3V1ZUtJa2pma24zN2hYVGh5b2tTSTZOQW16YVVnNG1ZMi1aZXRjWG9pbG5UT242b0tlem5sWnNzMzdkQ2hLM1FVenBTZVJyLW90TjVJeDlLTm5kQ2xmel9oMEUwTXFWUl9MNmstWmpDREczTjF6VGw5LTVaVGJRczFKX0R6TFBEQ0UtXzBLWWg3UnZsQzFPVFU2cXhqREt6NG9JcnlMeXRwN2VqS1hYY2psZ0t2c2ZDeURzZmp4ZFlVa0gtTU1Ba3AxYmZOM0hFS0ptUkRTM3hoWS1qMjYwcVpGdXlRQ2VwMUlYNVdxMGRPNzdNb3ZkYlU2U2JoN0QtTnY1Z3hqYWt1OUY2Z1VWbnVZcDBzY0ZZM0VEYWR1MnRfZjIweXRIVmdxUk1FVTRsZ29GMmthT3FkUQ?oc=5",
+   "platform": "RSS",
+   "channel": "News",
+   "stream": "news",
+   "account": "\"سوق العقارات في دبي\" - أخبار Google",
+   "title": "مطورو عقارات دبي يوسّعون رهاناتهم على مدن المستقبل - صحيفة الخليج",
+   "text": " مطورو عقارات دبي يوسّعون رهاناتهم على مدن المستقبل &nbsp;&nbsp; صحيفة الخليج ",
+   "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxQeURQZHRid3o4S2pHMGQwZlFJaWkxVW9yaUZkVGItSnA0VElJTFJGWjJTeXNTdFQxU0NwWnJHTjF0MEV4a2dvejJ4c1dkR2FxNlVnb01GNW9QMU81M1hkbHVDNXZCb1RMemNTMGVBOHRWSDhkWm9QemhOT0t6U3diVDJSNFRpV1Rrem1WX3Z0VmJTS0lIeXhybDlfajV2RGotblg0Mnp2RVJxWEZTMGVVUFVTek9sVDVWTHUtQXZ6Yi1IeHNTSWhiM2pCQWJsOUNpSUNjWnA5MUVqemVqdkx5Vk5WMGxXa3QyRG5Cd3FfLS0ydXIxQkNOVHVTUFFZTkhIZUlpTGx6dW1UR25aSHFxZ3V1ZUtJa2pma24zN2hYVGh5b2tTSTZOQW16YVVnNG1ZMi1aZXRjWG9pbG5UT242b0tlem5sWnNzMzdkQ2hLM1FVenBTZVJyLW90TjVJeDlLTm5kQ2xmel9oMEUwTXFWUl9MNmstWmpDREczTjF6VGw5LTVaVGJRczFKX0R6TFBEQ0UtXzBLWWg3UnZsQzFPVFU2cXhqREt6NG9JcnlMeXRwN2VqS1hYY2psZ0t2c2ZDeURzZmp4ZFlVa0gtTU1Ba3AxYmZOM0hFS0ptUkRTM3hoWS1qMjYwcVpGdXlRQ2VwMUlYNVdxMGRPNzdNb3ZkYlU2U2JoN0QtTnY1Z3hqYWt1OUY2Z1VWbnVZcDBzY0ZZM0VEYWR1MnRfZjIweXRIVmdxUk1FVTRsZ29GMmthT3FkUQ?oc=5",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "ar",
+   "engagement": "",
+   "firstSeenAt": "2026-11-27T21:22:16Z"
+  },
+  {
+   "id": "yt:22XD7nP4UH4",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Too Many Agents in Dubai?",
+   "text": "More agents than taxi drivers? Lewis Allsopp on why off-plan agents will leave the market as sales slow.\nTaking Care of Business, the Allsopp & Allsopp podcast.\nWatch the full episode: https://www.youtube.com/watch?v=vhZNJNvlnAM\n#Shorts #DubaiRealEstate #OffPlan #RealEstateAgent",
+   "url": "https://www.youtube.com/shorts/22XD7nP4UH4",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "89 views",
+   "firstSeenAt": "2026-11-27T21:21:40Z"
+  },
+  {
+   "id": "yt:VvsDtI5SgEw",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "Allsopp & Allsopp",
+   "title": "Should You Sell Tilal Al Ghaf?",
+   "text": "\"You might not want to hear this\": Carl Allsopp's honest advice for Tilal Al Ghaf sellers right now. Don't sell and rent it, or be flexible on price.\nTaking Care of Business, the Allsopp & Allsopp podcast.\nWatch the full episode: https://www.youtube.com/watch?v=GSglhwnsFvk\n#Shorts #TilalAlGhaf #DubaiRealEstate #SellingProperty",
+   "url": "https://www.youtube.com/shorts/VvsDtI5SgEw",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "83 views",
+   "firstSeenAt": "2026-11-27T21:21:40Z"
+  },
+  {
+   "id": "yt:gXjzIZkuq6g",
+   "platform": "YouTube",
+   "channel": "YouTube",
+   "stream": "social",
+   "account": "betterhomes",
+   "title": "Springs 6 for sale",
+   "text": "Imagine coming home to a house where everything has already been done for you, on a quiet corner of Springs 6.\n\nThis extended Type 2E villa has four bedrooms, a study and a maid's room, with 2,704 sq. ft. of living space on a 3,736 sq. ft. corner plot. The renovation goes right down to the systems. It has new MEP, Daikin air conditioning, acoustic doors and triple-glazed windows, so the home stays calm, cool and efficient all year.\n\nYour day centres on an Italian onyx kitchen island. An Italian marble staircase leads you upstairs, and Spanish porcelain runs underfoot throughout.\n\nOutside, your",
+   "url": "https://www.youtube.com/shorts/gXjzIZkuq6g",
+   "date": "2026-11-27",
+   "dateApprox": false,
+   "language": "en",
+   "engagement": "22 views",
+   "firstSeenAt": "2026-11-27T21:21:40Z"
+  },
   {
    "id": "rs:https://masdarak.com/projects-updates/%d8%a7%d9%84%d8%af%d8%a7%d8%b1-%d8%aa%d8%ad%d9%82%d9%82-245-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b4/",
    "platform": "RSS",
@@ -3751,81 +3826,6 @@
    "language": "ar",
    "engagement": "",
    "firstSeenAt": "2026-11-11T19:39:14Z"
-  },
-  {
-   "id": "rs:https://news.google.com/rss/articles/CBMiowVBVV95cUxPWHVLMThISVBFMHlfb2NGN2tEQVhtbmdhSmdROFRhSnh2YVZvMXhJVWh5eFo1Y2JNTHpqV0ZaWkNCb3VyX0Y2UWJndkYzbDBIbERMSUp5enZiS2NmcnBtMUtEMTVFdFZ2T3ViOU9US0dHV1NyMEh6V296dGV5bmpDZV9JLXh1TnRHeUJPRXhPODdQcFVYM05BVkQ5VnlzVGN2YzdyUFhNbFZrS3hLVXpkeVVOLVNsekhMX3o2Tkt4eDJTVk1GV0xoNjhoWnF3SUl3LXMxZ2p3S3lEM2U1V3d2SW94NGNOSC0tZkE0RjJZcHVwQlF4XzdVRUNVLV9YeE1zT01RcGVmRm1XME9FMm85VFBSbmt5ckpISWd3eGtnSUlob0xGaUoxMU5TUVcwUUZlelMxS2VTMTRSQUcxaXBLSC1YSHdNVENLVnJnb2dRZThDVmdDQ0dVTWN2TTcyRUJ5dzhiUl9OLWNLUXBDNHR6TkdxNEpwTU5MeV9jUGJGT1ZIQXJZVmJ3OXhyQl9qaXlIR29ON1dUUE9mYlF4X2JxRFBuN2ItSGZyWGNZd3IzTVllREFuQTVZaVdRdVh4a2VOYTlwVVJobm50bU9WTF80bzVRbE4yVVh5X0tkYjRDcWFVdHVQOWg2a1c5YXNGR2dyQ25yV1dwYlNubk8xbVROTHpSbjZWNGg2Y2tudml0SlRCRHVIZGZIYW5MbXF3NFBiUVQ2X2NtZmx6ZDh3RTBwc05obmpBMlYxV3hEN0ZUUGpxSjY0c1ZERWxMd1VnOXpUV0V3SFVXMTZKem1Ob1Z5TWxxU3VVdFg4Z3IxX0tuZmNUYUVOVzc3bnU0QUttUjRpeTRkOHJWYnhfUXZrRjAwZGZJYXZTc19XU0NCaWRRakQ5UHc?oc=5",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "\"سوق العقارات في دبي\" - أخبار Google",
-   "title": "«آيرس» يبحث مستقبل الاستثمار العقاري بالإمارات انطلاقاً من أبوظبي - صحيفة الخليج",
-   "text": " «آيرس» يبحث مستقبل الاستثمار العقاري بالإمارات انطلاقاً من أبوظبي &nbsp;&nbsp; صحيفة الخليج ",
-   "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxPWHVLMThISVBFMHlfb2NGN2tEQVhtbmdhSmdROFRhSnh2YVZvMXhJVWh5eFo1Y2JNTHpqV0ZaWkNCb3VyX0Y2UWJndkYzbDBIbERMSUp5enZiS2NmcnBtMUtEMTVFdFZ2T3ViOU9US0dHV1NyMEh6V296dGV5bmpDZV9JLXh1TnRHeUJPRXhPODdQcFVYM05BVkQ5VnlzVGN2YzdyUFhNbFZrS3hLVXpkeVVOLVNsekhMX3o2Tkt4eDJTVk1GV0xoNjhoWnF3SUl3LXMxZ2p3S3lEM2U1V3d2SW94NGNOSC0tZkE0RjJZcHVwQlF4XzdVRUNVLV9YeE1zT01RcGVmRm1XME9FMm85VFBSbmt5ckpISWd3eGtnSUlob0xGaUoxMU5TUVcwUUZlelMxS2VTMTRSQUcxaXBLSC1YSHdNVENLVnJnb2dRZThDVmdDQ0dVTWN2TTcyRUJ5dzhiUl9OLWNLUXBDNHR6TkdxNEpwTU5MeV9jUGJGT1ZIQXJZVmJ3OXhyQl9qaXlIR29ON1dUUE9mYlF4X2JxRFBuN2ItSGZyWGNZd3IzTVllREFuQTVZaVdRdVh4a2VOYTlwVVJobm50bU9WTF80bzVRbE4yVVh5X0tkYjRDcWFVdHVQOWg2a1c5YXNGR2dyQ25yV1dwYlNubk8xbVROTHpSbjZWNGg2Y2tudml0SlRCRHVIZGZIYW5MbXF3NFBiUVQ2X2NtZmx6ZDh3RTBwc05obmpBMlYxV3hEN0ZUUGpxSjY0c1ZERWxMd1VnOXpUV0V3SFVXMTZKem1Ob1Z5TWxxU3VVdFg4Z3IxX0tuZmNUYUVOVzc3bnU0QUttUjRpeTRkOHJWYnhfUXZrRjAwZGZJYXZTc19XU0NCaWRRakQ5UHc?oc=5",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:39:14Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/projects-updates/%d8%a8%d8%a7%d9%84%d9%85%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac%d9%8a%d9%86-%d8%b3%d9%83%d9%86%d9%8a%d9%8a%d9%86-%d8%b6%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d9%8a%d8%b1/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "\"بالما\" تطلق برجين سكنيين ضمن مشروع \"سيرينيا ديستريكت\" في منطقة جزر جميرا بدبي",
-   "text": "أعلنت شركة بالما للتطوير العقاري Palma Development إطلاق المرحلة الثانية من مشروع سيرينيا ديستريكت Serenia District في منطقة جزر جميرا&#8230;",
-   "url": "https://masdarak.com/projects-updates/%d8%a8%d8%a7%d9%84%d9%85%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d8%a8%d8%b1%d8%ac%d9%8a%d9%86-%d8%b3%d9%83%d9%86%d9%8a%d9%8a%d9%86-%d8%b6%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%b3%d9%8a%d8%b1/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:39:13Z"
-  },
-  {
-   "id": "rs:https://masdarak.com/real-estate-indicators/%d9%87%d9%84-%d8%aa%d8%b3%d8%aa%d8%b7%d9%8a%d8%b9-%d9%83%d8%a8%d8%b1%d9%89-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81/",
-   "platform": "RSS",
-   "channel": "News",
-   "stream": "news",
-   "account": "المصدر العقاري",
-   "title": "هل تستطيع كبرى شركات التطوير العقاري في دبي مواجهة تقلبات السوق في 2027 ؟",
-   "text": "أكدت وكالة «ستاندرد آند بورز غلوبال للتصنيفات الائتمانية» أن أربعاً من كبرى شركات التطوير العقاري في دبي تتمتع بمراكز مالية&#8230;",
-   "url": "https://masdarak.com/real-estate-indicators/%d9%87%d9%84-%d8%aa%d8%b3%d8%aa%d8%b7%d9%8a%d8%b9-%d9%83%d8%a8%d8%b1%d9%89-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a-%d9%81/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "ar",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:39:13Z"
-  },
-  {
-   "id": "rd:t3_1xtourk",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/UAE",
-   "title": "GV Timelines Investor",
-   "text": "   Hi everyone!  I’m currently applying for a Dubai Golden Visa through the property investor route via DLD Cube and wanted to hear from anyone who’s recently gone through the process.  I received my initial DLD Cube approval on 10 November and paid the full application fees the same day. My medical is scheduled for 12 November, and my online application status currently shows both DLD approval and GDRFA residency as “Under Process.”  I was initially told the process would take around 8–9 working days, but the email timelines suggest it could take longer.  My main concern is that I have intern",
-   "url": "https://www.reddit.com/r/UAE/comments/1xtourk/gv_timelines_investor/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:39:01Z"
-  },
-  {
-   "id": "rd:t3_1xtoq4g",
-   "platform": "Reddit",
-   "channel": "Reddit",
-   "stream": "social",
-   "account": "r/dubai",
-   "title": "Dubai Golden Visa through property – Processing time and travel after GDRFA initial approval?",
-   "text": "   Hi everyone!  I’m currently applying for a Dubai Golden Visa through the property investor route via DLD Cube and wanted to hear from anyone who’s recently gone through the process.  I received my initial DLD Cube approval on 10 November and paid the full application fees the same day. My medical is scheduled for 12 November, and my online application status currently shows both DLD approval and GDRFA residency as “Under Process.”  I was initially told the process would take around 8–9 working days, but the email timelines suggest it could take longer.  My main concern is that I have intern",
-   "url": "https://www.reddit.com/r/dubai/comments/1xtoq4g/dubai_golden_visa_through_property_processing/",
-   "date": "2026-11-11",
-   "dateApprox": false,
-   "language": "en",
-   "engagement": "",
-   "firstSeenAt": "2026-11-11T19:38:48Z"
   }
  ]
 }
